@@ -1,6 +1,8 @@
 # Awesome Medical CCFA
 
-An English-language, responsive, source-backed catalogue of medical and biomedical research in the fixed CCF 2022 A-conference cohort, for publication years 2021–2025.
+[Open the public website](https://awesome-medical-ccfa.grandowlet6.chatgpt.site)
+
+An English-language, responsive, source-backed catalogue of medical and biomedical research in the fixed CCF 2022 A-conference cohort, for publication years 2020–2025.
 
 ## Run locally
 
@@ -44,3 +46,5 @@ This is a partial, auditable catalogue, not an exhaustive census. Missing venue-
 ## Reuse and attribution
 
 Paper titles, author information, and extracted figures remain attributable to their original publishers/authors. Source links are included per record. The repository makes no blanket license claim over third-party paper content. Review original licenses before redistributing figures or full texts.
+
+Year means the official conference edition label (e.g. CVPR 2020), regardless of the actual meeting or online publication date. 2020 screening is in progress. Resource links are taken from source-paper abstracts.

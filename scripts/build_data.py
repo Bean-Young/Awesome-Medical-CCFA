@@ -6,12 +6,14 @@ def read(name,default):
  try:return json.loads(p.read_text()) if p.exists() else default
  except json.JSONDecodeError:return default
 def key(p):return re.sub(r'[^a-z0-9]','',p['title'].lower())+'_'+str(p['year'])
-assets=read('paper_assets.json',{});enrich=read('paper_enrichment.json',{});scope=read('ccfa_scope.json',{});allowed={x['acronym'].lower() for x in scope.get('conferences',[])};papers=[];pending=[];seen=set()
-for name in ['vision_papers.json','language_papers.json','ml_enriched_papers.json','ml_papers.json']:
+firstpages=read('first_page_assets.json',{});assets=read('paper_assets.json',{});enrich=read('paper_enrichment.json',{});scope=read('ccfa_scope.json',{});allowed={x['acronym'].lower() for x in scope.get('conferences',[])};papers=[];pending=[];seen=set()
+for name in ['edition2020_papers.json','vision_papers.json','language_papers.json','ml_enriched_papers.json','ml_papers.json']:
  records=read(name,[])
  if isinstance(records,dict):records=records.get('papers',[])
  for p in records:
-  if not p.get('title') or not 2021<=int(p.get('year',0))<=2025:continue
+  if not p.get('title') or not 2020<=int(p.get('year',0))<=2025:continue
+  if re.search(r'retinex|polyphonic|action anatomy',p['title'],re.I):continue
+  if p.get('id') in firstpages:p['first_page']=firstpages[p['id']]
   if allowed and p.get('venue','').lower() not in allowed:continue
   status=p.get('screening_status','').lower()
   if name=='ml_enriched_papers.json' and (p.get('relevance_tier')!='primary_medical_biomedical' or not p.get('abstract')):
@@ -46,7 +48,7 @@ pending=list({key(p):p for p in pending if key(p) not in seen}.values())
 for p in pending:
  p.pop('abstract',None);p.pop('summary',None);p.pop('summary_en',None)
 coverage=[]
-for name in ['vision_coverage.json','language_coverage.json','ml_coverage.json']:
+for name in ['edition2020_coverage.json','vision_coverage.json','language_coverage.json','ml_coverage.json']:
  rows=read(name,[])
  if isinstance(rows,dict):rows=rows.get('events',rows.get('coverage',[]))
  for c in rows:

@@ -2,6 +2,7 @@
   "title": "CCF-A Medical Research Atlas: scope and coverage ledger",
   "prepared_at": "2026-10-15",
   "years": [
+    2020,
     2021,
     2022,
     2023,
@@ -5294,6 +5295,470 @@
       "source_validation": "route_only",
       "notes": [],
       "source_family": "publisher_springer"
+    },
+    {
+      "venue": "PPoPP",
+      "year": 2020,
+      "conference_edition": "PPoPP 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "FAST",
+      "year": 2020,
+      "conference_edition": "FAST 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "DAC",
+      "year": 2020,
+      "conference_edition": "DAC 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "HPCA",
+      "year": 2020,
+      "conference_edition": "HPCA 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "MICRO",
+      "year": 2020,
+      "conference_edition": "MICRO 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "SC",
+      "year": 2020,
+      "conference_edition": "SC 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "ASPLOS",
+      "year": 2020,
+      "conference_edition": "ASPLOS 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "ISCA",
+      "year": 2020,
+      "conference_edition": "ISCA 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "USENIX ATC",
+      "year": 2020,
+      "conference_edition": "USENIX ATC 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "EuroSys",
+      "year": 2020,
+      "conference_edition": "EuroSys 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "SIGCOMM",
+      "year": 2020,
+      "conference_edition": "SIGCOMM 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "MobiCom",
+      "year": 2020,
+      "conference_edition": "MobiCom 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "INFOCOM",
+      "year": 2020,
+      "conference_edition": "INFOCOM 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "NSDI",
+      "year": 2020,
+      "conference_edition": "NSDI 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "CCS",
+      "year": 2020,
+      "conference_edition": "CCS 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "EUROCRYPT",
+      "year": 2020,
+      "conference_edition": "EUROCRYPT 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "S&P",
+      "year": 2020,
+      "conference_edition": "S&P 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "CRYPTO",
+      "year": 2020,
+      "conference_edition": "CRYPTO 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "USENIX Security",
+      "year": 2020,
+      "conference_edition": "USENIX Security 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "NDSS",
+      "year": 2020,
+      "conference_edition": "NDSS 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "PLDI",
+      "year": 2020,
+      "conference_edition": "PLDI 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "POPL",
+      "year": 2020,
+      "conference_edition": "POPL 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "FSE",
+      "year": 2020,
+      "conference_edition": "FSE 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "SOSP",
+      "year": 2020,
+      "conference_edition": "SOSP 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "OOPSLA",
+      "year": 2020,
+      "conference_edition": "OOPSLA 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "ASE",
+      "year": 2020,
+      "conference_edition": "ASE 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "ICSE",
+      "year": 2020,
+      "conference_edition": "ICSE 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "ISSTA",
+      "year": 2020,
+      "conference_edition": "ISSTA 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "OSDI",
+      "year": 2020,
+      "conference_edition": "OSDI 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "FM",
+      "year": 2020,
+      "conference_edition": "FM 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "SIGMOD",
+      "year": 2020,
+      "conference_edition": "SIGMOD 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "KDD",
+      "year": 2020,
+      "conference_edition": "KDD 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "ICDE",
+      "year": 2020,
+      "conference_edition": "ICDE 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "SIGIR",
+      "year": 2020,
+      "conference_edition": "SIGIR 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "VLDB",
+      "year": 2020,
+      "conference_edition": "VLDB 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "STOC",
+      "year": 2020,
+      "conference_edition": "STOC 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "SODA",
+      "year": 2020,
+      "conference_edition": "SODA 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "CAV",
+      "year": 2020,
+      "conference_edition": "CAV 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "FOCS",
+      "year": 2020,
+      "conference_edition": "FOCS 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "LICS",
+      "year": 2020,
+      "conference_edition": "LICS 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "ACM MM",
+      "year": 2020,
+      "conference_edition": "ACM MM 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "SIGGRAPH",
+      "year": 2020,
+      "conference_edition": "SIGGRAPH 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "IEEE VR",
+      "year": 2020,
+      "conference_edition": "IEEE VR 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "IEEE VIS",
+      "year": 2020,
+      "conference_edition": "IEEE VIS 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "AAAI",
+      "year": 2020,
+      "conference_edition": "AAAI 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "NeurIPS",
+      "year": 2020,
+      "conference_edition": "NeurIPS 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "ACL",
+      "year": 2020,
+      "conference_edition": "ACL 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "CVPR",
+      "year": 2020,
+      "conference_edition": "CVPR 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "ICCV",
+      "year": 2020,
+      "conference_edition": "ICCV 2020",
+      "status": "not_held",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "ICML",
+      "year": 2020,
+      "conference_edition": "ICML 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "IJCAI",
+      "year": 2020,
+      "conference_edition": "IJCAI 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "CSCW",
+      "year": 2020,
+      "conference_edition": "CSCW 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "CHI",
+      "year": 2020,
+      "conference_edition": "CHI 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "UbiComp",
+      "year": 2020,
+      "conference_edition": "UbiComp 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "UIST",
+      "year": 2020,
+      "conference_edition": "UIST 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "WWW",
+      "year": 2020,
+      "conference_edition": "WWW 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "RTSS",
+      "year": 2020,
+      "conference_edition": "RTSS 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
+    },
+    {
+      "venue": "WINE",
+      "year": 2020,
+      "conference_edition": "WINE 2020",
+      "status": "not_audited",
+      "medical_paper_count": null,
+      "eligible_paper_count": null
     }
   ],
   "denominator_source_routes": {
@@ -5388,5 +5853,6 @@
       "url": "https://www.ccf.org.cn/Media_list/gzwyh/xsgzwyh/2024-05-07/821216.shtml",
       "finding": "Official CCF notice confirms sixth-edition release in March 2023 and a naming-update process in 2024."
     }
-  ]
+  ],
+  "year_basis": "Official conference edition label, not actual meeting date, online publication date, or metadata publication year."
 }

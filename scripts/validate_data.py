@@ -5,7 +5,7 @@ keys=set();ids=set()
 for p in papers:
  assert p['id'] not in ids;ids.add(p['id'])
  k=(re.sub(r'[^a-z0-9]','',p['title'].lower()),p['year']);assert k not in keys;keys.add(k)
- assert 2021<=p['year']<=2025
+ assert 2020<=p['year']<=2025
  assert p['venue'] in {v['acronym'] for v in d['scope']['conferences']}
  assert 'abstract' not in p,'Full abstract leaked into public snapshot'
  assert p.get('summary') and p.get('summary_method')

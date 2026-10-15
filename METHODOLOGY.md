@@ -2,7 +2,7 @@
 
 ## Population and scope
 
-The intended population is main-conference full research papers published in 2021–2025 at the 58 A-ranked conferences in the CCF 2022 sixth edition. This fixed cohort is applied retrospectively. It is not the CCF 2026 list and does not claim every venue had the same historical rank in every year. Journal papers, workshops, posters without full papers, demonstrations, tutorials, short papers, and Findings volumes are excluded unless separately and explicitly justified. ACL currently includes main-track long papers only.
+The intended population is main-conference full research papers published in 2020–2025 at the 58 A-ranked conferences in the CCF 2022 sixth edition. This fixed cohort is applied retrospectively. It is not the CCF 2026 list and does not claim every venue had the same historical rank in every year. Journal papers, workshops, posters without full papers, demonstrations, tutorials, short papers, and Findings volumes are excluded unless separately and explicitly justified. ACL currently includes main-track long papers only.
 
 The complete conference list and catalogue provenance are in `data/scope.json`. ECCV, EMNLP, MICCAI, and ICLR are not silently added. ICCV is not held in even years.
 
@@ -41,3 +41,5 @@ Affiliations can come from original papers or publication-linked OpenAlex metada
 ## Responsible use
 
 This research-discovery tool is not medical advice or a clinical decision system. Verify original claims, datasets, validation settings, and licenses before reuse.
+
+Year means the official conference edition label (e.g. CVPR 2020), regardless of the actual meeting or online publication date. 2020 screening is in progress. Resource links are taken from source-paper abstracts.
