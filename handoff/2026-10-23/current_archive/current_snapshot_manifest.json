@@ -1,0 +1,226 @@
+{
+  "format": "Concatenate part files in numeric order; base64 decode (ignoring whitespace), gzip decompress, then read tar. All paths are relative.",
+  "history_complete": false,
+  "tar_sha256": "693c273268d090b739a479e8ba87046f5cb89b6eb0b199fce43ab8e3bfbee1a6",
+  "gzip_sha256": "514ade97e8c6c53dbe15982ffefb7ce7a77061c10d0d2c4220f5e961900873b5",
+  "base64_sha256": "23bc272fc09a7ab1b3ba24395df934e79f31912252abe48036ac306804f77fad",
+  "files": [
+    {
+      "path": "current/included.json",
+      "bytes": 28176888,
+      "sha256": "3b7ce95bc94ffabc792720f89462d927443bc140e11dc6917fc6bb377987da19"
+    },
+    {
+      "path": "rights_inventory.json",
+      "bytes": 5982558,
+      "sha256": "9a40a7cbfa639c2f0e02c7f9290103f0c07fa019e963c0f642851229b13200b0"
+    },
+    {
+      "path": "media_inventory.json",
+      "bytes": 6483592,
+      "sha256": "6b0326e308a82194e2c2afd24f221784fd2ed0489284df1fa0bcebb82053aea9"
+    },
+    {
+      "path": "missing_fields_queue.json",
+      "bytes": 764615,
+      "sha256": "fef993984d3c8385271506ab50e613ea85da4ba9658a42d771007e3feff2bcec"
+    }
+  ],
+  "parts": [
+    {
+      "path": "current_snapshot.part-0001.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "1313cdb58bfab797bf5bd03fc51bc74a842e092e431988c9e7a9cde1f31d76aa"
+    },
+    {
+      "path": "current_snapshot.part-0002.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "563df14f16384869d0eb873ef4a9ebe10ea2d9ba3d9585559d000c5c3f28a38a"
+    },
+    {
+      "path": "current_snapshot.part-0003.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "2de7d0ba5fb7967e923d366f313512d0f02f0cf7af6e4ac552ae8354a8e0a217"
+    },
+    {
+      "path": "current_snapshot.part-0004.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "abad12babd64d4630beafc3dda3221ca3a95cb5943cf4642b51d5b47b52bf8b1"
+    },
+    {
+      "path": "current_snapshot.part-0005.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "34095bef04c691fd3f8fdb2d90f2939ebc32acd6086146ecd03553f64acb48d7"
+    },
+    {
+      "path": "current_snapshot.part-0006.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "bb2dde946f422f99f20620052df23eb031c12e4f6ca8cdfa4564624e162ddace"
+    },
+    {
+      "path": "current_snapshot.part-0007.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "d8f5af68e59cdd1343af91c060161220dc8acf79a1f477797f7ca36a369d50e0"
+    },
+    {
+      "path": "current_snapshot.part-0008.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "8f33d91204b8fe2f768d0d42ecfa72e4b25b25b21258041d2d64cf9ec7585da0"
+    },
+    {
+      "path": "current_snapshot.part-0009.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "0c519cc4c21eedc3a9057a3fb6d7c1322eb71b6991209cd89c79748aa09f9b8a"
+    },
+    {
+      "path": "current_snapshot.part-0010.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "232f95e729cd3a5c99fb6208a37dc4d176e2909ea896a39c83ca92f98b9b92ec"
+    },
+    {
+      "path": "current_snapshot.part-0011.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "ffc7805f9f908924f9d8715667ce46b7df283e5f56f1d522dc8470b7cf8a5dab"
+    },
+    {
+      "path": "current_snapshot.part-0012.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "ad7ff9e9ebb80dbd518fbdac98cda825fc41dfb916e404704cee1b9b132f8ca7"
+    },
+    {
+      "path": "current_snapshot.part-0013.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "39f8f3d04302e3a872baeebc0eecd2cf3a8de52df30a600150a9b8bb04e2ab44"
+    },
+    {
+      "path": "current_snapshot.part-0014.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "b8c0e1dc7c01fe09b8a2bf452928774e716d40164d476b3393791bb6f4569a5f"
+    },
+    {
+      "path": "current_snapshot.part-0015.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "14ed02efd6670ff0650a9ab3e5ccaee4ff6de671de20795af985a15986281f8b"
+    },
+    {
+      "path": "current_snapshot.part-0016.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "36b5bc0a2374244cf39e1a2177b75d0bdf6b5cb6217187cddde9d132379585d0"
+    },
+    {
+      "path": "current_snapshot.part-0017.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "ee4d9e6024d9f6be42538c8f9ad916ed80383b5187bcb176888759ad59814f15"
+    },
+    {
+      "path": "current_snapshot.part-0018.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "39669401ecbb050d42a104753761292cd82c07f0ddd23ee38c96bd9fb3716691"
+    },
+    {
+      "path": "current_snapshot.part-0019.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "cac01d9356b1f243e97d4a2593e56f30c425828ab425edea462058abaa84731e"
+    },
+    {
+      "path": "current_snapshot.part-0020.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "2cde7ced25679d4b17a7da283779a291f43d23c0844c02ec0fd63b45897322d0"
+    },
+    {
+      "path": "current_snapshot.part-0021.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "724a5cb9af44228c624f83e62e71770339f964f0fcff830d327844f3de3468f2"
+    },
+    {
+      "path": "current_snapshot.part-0022.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "22a7b38daa1399c3a7722b940f440c1f47164ce7dd49d596abd1118b5509680a"
+    },
+    {
+      "path": "current_snapshot.part-0023.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "1d360bc4426f85b79072809375819baa6186479be5a5e3f20f0483aa42644a11"
+    },
+    {
+      "path": "current_snapshot.part-0024.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "84f0ace6daff5a64552c125b2bb4a0730e102b421b16350cf0577598d37745a0"
+    },
+    {
+      "path": "current_snapshot.part-0025.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "a3311bc0b7ee2da21b8553ce52618eddccd66eba43bf4267c3288a6bb18fcfdc"
+    },
+    {
+      "path": "current_snapshot.part-0026.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "6ed9deb0a1e40670c89eaede0b8ca5896c71bca7dd935347091a017e2c87dcf6"
+    },
+    {
+      "path": "current_snapshot.part-0027.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "b4f1bc8e6158fe56c0181b483d6671bdf71476328d2486786356146d78c1f625"
+    },
+    {
+      "path": "current_snapshot.part-0028.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "ed1313f3d26ef0f64f1e2df0160301514e28aeb99848b8f692c25c4182041e68"
+    },
+    {
+      "path": "current_snapshot.part-0029.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "45e2c924c0f6a48941163d93767c2a6680c37dfe2d7a252af83dc4d3b26e3228"
+    },
+    {
+      "path": "current_snapshot.part-0030.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "87be6ef4381ed308f9a2bdf35e5178bd65307b2276eb8377ba1341156d2fdd3b"
+    },
+    {
+      "path": "current_snapshot.part-0031.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "9d2074cf5e278816ce200067e06e3660ac8504852a61e1950cb48e374c791977"
+    },
+    {
+      "path": "current_snapshot.part-0032.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "2480256374725f894034bb474a205178ddd524deffb4ad87829ad30ba5cd63dd"
+    },
+    {
+      "path": "current_snapshot.part-0033.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "8a5462ef91c3636050dc56cd43b10a00dfbc602735982d9f7fda15d60a79ac93"
+    },
+    {
+      "path": "current_snapshot.part-0034.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "901c1f1d4b6988d284daff68c781c73c11382e9018e1cc8db7bf897dc2f9a991"
+    },
+    {
+      "path": "current_snapshot.part-0035.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "b56ecf63fa299bb698051546e95da5ea0859561149fc1667b201e3b0b93eee0d"
+    },
+    {
+      "path": "current_snapshot.part-0036.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "6e5707f6cf4588fdd70f31882312ab109f322ee4e9a8ec7789eca1d7a36fc72d"
+    },
+    {
+      "path": "current_snapshot.part-0037.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "167e848633377639e318b320f5f67625cb240b80b0a99a4295b00c90a37d8b2e"
+    },
+    {
+      "path": "current_snapshot.part-0038.tar.gz.b64",
+      "bytes": 200001,
+      "sha256": "a1d85dcf72796b81ab6cd5856579e94ab20461f89095f7906d7c99a3da4dc9d4"
+    },
+    {
+      "path": "current_snapshot.part-0039.tar.gz.b64",
+      "bytes": 131973,
+      "sha256": "9fa2b912afa4810b76ae8bf9cf6308fd9200fbff5ea013cace69de6c09e4c3ac"
+    }
+  ]
+}
