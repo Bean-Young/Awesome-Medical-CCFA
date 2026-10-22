@@ -1,0 +1,249 @@
+{
+  "paper_check_status": {
+    "total_data_rows": 27454,
+    "header_repeated_in_each_part": true,
+    "parts": [
+      {
+        "file": "paper_check_status.part001.csv",
+        "rows": 1653,
+        "sha256": "d0547a9b6395a255f0090e4ff5538326843e3575299f7728ef602a5f5a2f5d8f"
+      },
+      {
+        "file": "paper_check_status.part002.csv",
+        "rows": 1373,
+        "sha256": "19faece8c3c23188dce9477c2e266c42426ba8832a2780978b2b5658ce5ca5c1"
+      },
+      {
+        "file": "paper_check_status.part003.csv",
+        "rows": 1611,
+        "sha256": "e371083f1ef89633a7cd3f4e63298e831daf05c090ef33c1c2bf8e74ba6c3794"
+      },
+      {
+        "file": "paper_check_status.part004.csv",
+        "rows": 1536,
+        "sha256": "64d7aec1f3c14035abe0fa24b9c6745d5a73e641e32cecb561ab6b39c80892d0"
+      },
+      {
+        "file": "paper_check_status.part005.csv",
+        "rows": 1227,
+        "sha256": "d7631e3fcff9b49472f37d28dd59131d4778edb10eb0915898af8cc5d8860c89"
+      },
+      {
+        "file": "paper_check_status.part006.csv",
+        "rows": 1447,
+        "sha256": "18037ee4815ea4c5b9372ad4046abf87c39d11621717cfac5af7da2a171b09ac"
+      },
+      {
+        "file": "paper_check_status.part007.csv",
+        "rows": 1377,
+        "sha256": "dab97471bf7d71cbc2403e68caabaaba3f9cb8d08ce108914f766d4e05ec249f"
+      },
+      {
+        "file": "paper_check_status.part008.csv",
+        "rows": 1412,
+        "sha256": "e1e954e41d9a9f0f5463a109ccaea4b624d8c332c5f9147a1450ec2853a0865e"
+      },
+      {
+        "file": "paper_check_status.part009.csv",
+        "rows": 1596,
+        "sha256": "b5e2b6a87468d8dd5a91fcd43b5dfc2499c9c8ce7d2257f3a689277f8c83e4f4"
+      },
+      {
+        "file": "paper_check_status.part010.csv",
+        "rows": 1439,
+        "sha256": "2e1aed8d94cfedf92e95bbf89b35a520467786336c7578940cc96798e9eaf597"
+      },
+      {
+        "file": "paper_check_status.part011.csv",
+        "rows": 1823,
+        "sha256": "f80592934bd0fe92356ed6a2b2ea7d713d1d59326bd0dad9c93740483b5c99a7"
+      },
+      {
+        "file": "paper_check_status.part012.csv",
+        "rows": 1481,
+        "sha256": "948cc9c01376006c76adb8e1690878e08691f724c47c8a4652f98ea7c6e59608"
+      },
+      {
+        "file": "paper_check_status.part013.csv",
+        "rows": 1407,
+        "sha256": "fcf8daf87d9c9f77b83018ab1bbfde1c14e4b87bc9358a6a4b822b4829a26234"
+      },
+      {
+        "file": "paper_check_status.part014.csv",
+        "rows": 1278,
+        "sha256": "3faee3c1fa63e0889d17148f8f26841e7eec06e44d1a67f989ba6cec33954cd1"
+      },
+      {
+        "file": "paper_check_status.part015.csv",
+        "rows": 1293,
+        "sha256": "eb987d49b938666fca56a175018d014998f6d8738238b06cae4a0e4f4c0ee9ff"
+      },
+      {
+        "file": "paper_check_status.part016.csv",
+        "rows": 1249,
+        "sha256": "bbf3c6516e122e528ee7ee8900d699657612f50f2fb09eb2ab6fe46ee55627f9"
+      },
+      {
+        "file": "paper_check_status.part017.csv",
+        "rows": 1216,
+        "sha256": "a2183f904ef8fd61819f27a6b5c1ee00076a247c8fdae516d8a98bd1495ef7e6"
+      },
+      {
+        "file": "paper_check_status.part018.csv",
+        "rows": 1210,
+        "sha256": "2491de3a6246ac4014a660df83f2f314f6b939a95c58290be09702503062ac63"
+      },
+      {
+        "file": "paper_check_status.part019.csv",
+        "rows": 1214,
+        "sha256": "fda11bc070c57051c7bada11436f4222623eaf4f15f27008ba1d514098054d08"
+      },
+      {
+        "file": "paper_check_status.part020.csv",
+        "rows": 612,
+        "sha256": "5d8b5c50b42daa6abecb1aabf751057afb899eb3035b03e394f0e9a66779fe49"
+      }
+    ]
+  },
+  "paper_index": {
+    "total_data_rows": 27454,
+    "header_repeated_in_each_part": true,
+    "parts": [
+      {
+        "file": "paper_index.part001.csv",
+        "rows": 782,
+        "sha256": "7fb66b4704ae333c2a893416c3c3796301b368f2047ce00e14b3242069c5bee5"
+      },
+      {
+        "file": "paper_index.part002.csv",
+        "rows": 1083,
+        "sha256": "0e3d2dde8f009e43a7750fb3e4f2f336c3d6ef57a5c7328d29bcb151c4418ed0"
+      },
+      {
+        "file": "paper_index.part003.csv",
+        "rows": 834,
+        "sha256": "28f77b653704ae91fe6f3f9ebeb70345845be007169a35a2269365ac018672cc"
+      },
+      {
+        "file": "paper_index.part004.csv",
+        "rows": 1041,
+        "sha256": "5070657e32dbe589895e56ef48fef7a2339661bfb762ca8d1d2461bc437114c5"
+      },
+      {
+        "file": "paper_index.part005.csv",
+        "rows": 833,
+        "sha256": "cb60119d335b06cc0b603ef429cc29216ae3297843842a7a44fdefda49574c8a"
+      },
+      {
+        "file": "paper_index.part006.csv",
+        "rows": 847,
+        "sha256": "ae74c60f354db5e7a89e09d02cab27ebca94ef5fa6997a0bcc6fd14e1a0fc5b4"
+      },
+      {
+        "file": "paper_index.part007.csv",
+        "rows": 1315,
+        "sha256": "4c89c6d0ed461375367bc5cea4566b2ce80781af809a7b9e1595bab695241fca"
+      },
+      {
+        "file": "paper_index.part008.csv",
+        "rows": 1277,
+        "sha256": "b8a7b6221f8336a8b63250608f124e4eb950cbb3a4cdd44f0c9bcdd3bda61ba2"
+      },
+      {
+        "file": "paper_index.part009.csv",
+        "rows": 829,
+        "sha256": "70ba9a51a306a9ee41a676b0cf63b19a27d9e1ef5f2f4b0ea1d4749000df9211"
+      },
+      {
+        "file": "paper_index.part010.csv",
+        "rows": 1139,
+        "sha256": "b57430394f7ee242b993cb3771c08e93408a2d3a8fa0979154d421e703a81497"
+      },
+      {
+        "file": "paper_index.part011.csv",
+        "rows": 1524,
+        "sha256": "52eb1a4bdff4d7febd51a2b9d63fe701bef71ca75d190f60266ba6c4ed1f918a"
+      },
+      {
+        "file": "paper_index.part012.csv",
+        "rows": 1114,
+        "sha256": "5672d6343d6d86022b0605d648b61e7b20bf853f0ba5ddc721a7f4ab24148d29"
+      },
+      {
+        "file": "paper_index.part013.csv",
+        "rows": 412,
+        "sha256": "1929fa79ea6c7da7d83e0404570998c9c51202b0ef03b20be07dfa0e22ba03e3"
+      },
+      {
+        "file": "paper_index.part014.csv",
+        "rows": 940,
+        "sha256": "c5f1ac46e57cc282cd912cb5500b706589e5dee5921884858fcb763bd11f23f0"
+      },
+      {
+        "file": "paper_index.part015.csv",
+        "rows": 1027,
+        "sha256": "966dfb6531b0ba3afd1f4282d2ebe7b140ad53d02005b3999938b39998259ecd"
+      },
+      {
+        "file": "paper_index.part016.csv",
+        "rows": 568,
+        "sha256": "ab730a31b459ceabcb05f07a75c8a2acbfcbee6406f0ca36f846d5fd13f01692"
+      },
+      {
+        "file": "paper_index.part017.csv",
+        "rows": 552,
+        "sha256": "712da5d3d46dc0a9f24ed6895a1c9a42da8066a994d1863ef63ef50fb0dc40e1"
+      },
+      {
+        "file": "paper_index.part018.csv",
+        "rows": 562,
+        "sha256": "420cba225769aa562734a81157a3039ffb3952b7c7242c743de3f5ae4bc3083a"
+      },
+      {
+        "file": "paper_index.part019.csv",
+        "rows": 1285,
+        "sha256": "4467547ce33502985067a01e47e8682b57c8325d22c3b02d560ab55887167338"
+      },
+      {
+        "file": "paper_index.part020.csv",
+        "rows": 1177,
+        "sha256": "3bb2e37f587bb01b03b30a7e3e5cf0d784d10b466328e9d98b5a8ad5e0b62c26"
+      },
+      {
+        "file": "paper_index.part021.csv",
+        "rows": 1175,
+        "sha256": "42a04fa09d03488505c692925964f0c8c0f6e0583eadb0144a3d550becad1167"
+      },
+      {
+        "file": "paper_index.part022.csv",
+        "rows": 1428,
+        "sha256": "b2d8fb9547451abc95fdc652a356caeb587124ee9795736b94dc119f3bf81156"
+      },
+      {
+        "file": "paper_index.part023.csv",
+        "rows": 965,
+        "sha256": "661b8f2adea1ad346452d676adf6381941fb3e90b0f2004294469543ac83a281"
+      },
+      {
+        "file": "paper_index.part024.csv",
+        "rows": 1390,
+        "sha256": "d0ef8875e1fbd43cc24db15fad7d266602e1ec6ca916545bf1709975f24a6348"
+      },
+      {
+        "file": "paper_index.part025.csv",
+        "rows": 1389,
+        "sha256": "1c03c2747919a4db7f4340e8d3ba2d50b2a0a4f453d965080de0b591e5717d23"
+      },
+      {
+        "file": "paper_index.part026.csv",
+        "rows": 1394,
+        "sha256": "4d230e12ad9e11e5e937562fe512783143d5a5dce72681fd9b467e5e91ecc722"
+      },
+      {
+        "file": "paper_index.part027.csv",
+        "rows": 572,
+        "sha256": "c767eeaa17892f8dfe525ab222d2a3d5ed0459b1fe739cc1064be2f48efc6405"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1140 @@
+canonical_id,recorded_ids,venues,years,tracks,explicit_abstract_check_recorded,explicit_body_check_recorded,scientific_decision_recorded,event_count,decisions,event_ids
+aaai2023-25737,aaai2023-25737,AAAI,2023,Main,True,False,True,12,include | unknown,r20c9a40d2e39013865840344 | r3caf9558c2ef3443a948149a | r40c48708c74dfc9011d6f308 | r64f199f0b3deab4c78eb6e25 | r65f99ca1d747f57c1b206f5f | r73d8d206e78592d802bb2cca | r7654a8f613fe315176672e35 | r9e1744c80e75d7687a777b06 | rb3fe1bd54bda3a18a0d46d82 | rb82c81cb93d45e00b4f885a7 | rbef5239560eecbf9929c1614 | rc2d9cf9d5d8394e45e3507c0
+aaai2023-25738,aaai2023-25738,AAAI,2023,Main,True,False,True,12,include | unknown,r00c753d7a7593d0ed4e79f8c | r048680d5bd575d5da45058a1 | r06d74fe6bb07f08b5205c180 | r1fc5f6ff6c2d2a8831178acc | r6d21e01baae267ba55792d1b | r777a0e99e8ba34af6585f07f | r8c835b86eacd30907d29b7e9 | ra4cf9ceb552a4b9e782f4d12 | rab694adb958b0b9ce272c4f8 | rc614f93e7631e39f3b1afb5e | rd6070eb8beb77d5b1fbee991 | rf27777e486639eec4884c6ad
+aaai2023-25739,aaai2023-25739,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0e75681bc32b0b00e90b8905 | r52cf71f792002b48e64de477
+aaai2023-25740,aaai2023-25740,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2c05cf59a409e9110f9f97ea | red1060ca663d5b132053480a
+aaai2023-25741,aaai2023-25741,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0892171627a8e66e9a210de3 | rbda29d5c303fb3f4b5f5d6ab
+aaai2023-25742,aaai2023-25742,AAAI,2023,Main,True,False,True,20,include | unknown,r246c646664516498705050bc | r2fedd9cf98466b49e836c27e | r3365cdaf083c84111a0fe1b1 | r39071c7ae16464c70a1a4c9b | r4c56d91c993415b9191412da | r4f2932003e9b28358d7880e0 | r5cee2dd1b9e00ad9231790ae | r767c62a62c12d9b9a69e3fc5 | r7c59961b32b2caa8b93a5be7 | r7c76d0ccb8b8072026eab50e | r7da84594da1a83010e7998be | r7ff04c55deb094692a3b2798 | r9e6e8137e99469efef12523a | ra90334d4b7fb90f832fc4ad6 | ra939b9c904f1c8c9710641c5 | rb625058e266a2a26f5d6c631 | rb7018d9ad46ec27e89d336e2 | rcbea354d8f17f234dbeee40e | rd139387090031baa1e449262 | rf8fef6eca42849f29db48425
+aaai2023-25743,aaai2023-25743,AAAI,2023,Main,True,False,True,2,exclude | unknown,r230bfbc5af0df24ebb3d1483 | r92588b5afdcb3756b1c358aa
+aaai2023-25744,aaai2023-25744,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1fab2f388817ac805c0d8356 | rbab6c6ee751aca2ab28aa8f8
+aaai2023-25745,aaai2023-25745,AAAI,2023,Main,True,False,True,14,include | unknown,r07350f582c393034a15af32a | r158265ce283167f5865aeadf | r1c53d95f19af38af960af0b0 | r2a4d87ad586dcb80e654b184 | r3fe7202e9f70b22a3750187b | r41478797e89cb3aff7d2c51a | r6382f04f9d67d52d68c7e475 | r6524647d74f806c4b2e75df8 | r6d549ba26a7c93b1116571be | r924b5bc04b431b935028901f | ra440d9c9a77a2eb560bb1862 | rb1b133b06f2462aa12519f77 | rbee38bbd84d3289514d78cdf | rfaa54418010f5acab3ac0b8c
+aaai2023-25746,aaai2023-25746,AAAI,2023,Main,True,False,True,2,exclude | unknown,r27456f986cc00d835699600c | r80b6d4d7a5fb86eef93e2ddf
+aaai2023-25747,aaai2023-25747,AAAI,2023,Main,True,False,True,2,exclude | unknown,r00479cca053c515639d1c2cc | r0b2fcad34d9f797ad21154d1
+aaai2023-25748,aaai2023-25748,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2bb2b736c2a2822e37400e8b | rcb2f3ec154ccc532bb5d14f5
+aaai2023-25749,aaai2023-25749,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8b7ca4f5d5303d502b93d552 | rcca5c531a9c8ae3e0c198066
+aaai2023-25750,aaai2023-25750,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0ede9ceef3dc980bd173006a | r25c168a55b2b6941b6e258bf
+aaai2023-25751,aaai2023-25751,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1e929cd8d9106d051a478b60 | rfe7a414a25450793226e8957
+aaai2023-25752,aaai2023-25752,AAAI,2023,Main,True,False,True,2,exclude | unknown,r33f1c22a8d2feb030d94d653 | r875af222631fc2114341b270
+aaai2023-25753,aaai2023-25753,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1351fd34e6b4679f07b794ca | r3402082f9d58c5a9d9e35484
+aaai2023-25754,aaai2023-25754,AAAI,2023,Main,True,False,True,2,exclude | unknown,r397dd141a159444da3c97039 | r6e42e20873182c3bcbffcb4d
+aaai2023-25755,aaai2023-25755,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1afe0a53eb7de3b02d40cdeb | r1b309ff246a77f94546bf44b
+aaai2023-25756,aaai2023-25756,AAAI,2023,Main,True,False,True,2,exclude | unknown,r44984b210d56c77779f69d9a | rb322edd33a9c1d7fa326cf1b
+aaai2023-25757,aaai2023-25757,AAAI,2023,Main,True,False,True,2,exclude | unknown,r47934e56ac182413430d273b | rb71c0e3e0b7daaba908d33d7
+aaai2023-25758,aaai2023-25758,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1ca8bb19bd56950d9083adc9 | reae5978c1c896da8bb5a65de
+aaai2023-25759,aaai2023-25759,AAAI,2023,Main,True,False,True,2,exclude | unknown,rdc0cd6553d9895107cbc3226 | rf691f1717750db89722432d8
+aaai2023-25760,aaai2023-25760,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5fbc08437845a4f1c2902983 | rf3736a392ee346563c7d9a45
+aaai2023-25761,aaai2023-25761,AAAI,2023,Main,True,False,True,2,exclude | unknown,r864d2e7672335457b965e714 | rc2a4e03ac22bc080d5e0477b
+aaai2023-25762,aaai2023-25762,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0a12d3b160ac1064e6cdf04b | ra24ca372b3f1e36602d3d143
+aaai2023-25763,aaai2023-25763,AAAI,2023,Main,True,False,True,2,exclude | unknown,r30ea1561a37ad494318328aa | r54c6caa71e3574eeab351a12
+aaai2023-25764,aaai2023-25764,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3e8560466ef3f937f5ac1f27 | r7f0f4addb36afedcddd3e8e7
+aaai2023-25765,aaai2023-25765,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1aef21d3d5a8ff198d09233e | rb1611ed10e267b5a5b80905e
+aaai2023-25766,aaai2023-25766,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5c71bd944300094220636a53 | r9c907a8177359fc2ff6fda56
+aaai2023-25767,aaai2023-25767,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0fb77a0765bb9b4303bfb278 | r29c22e9245ee329830e7ed46
+aaai2023-25768,aaai2023-25768,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2c15cb08b7334bd29f53ed8f | r92ae609a353f780c4341d1c5
+aaai2023-25769,aaai2023-25769,AAAI,2023,Main,True,False,True,2,exclude | unknown,r162f1f2220d65499e9f8ebfb | r5b79e79e419eb46581b3399e
+aaai2023-25770,aaai2023-25770,AAAI,2023,Main,True,False,True,2,exclude | unknown,rab74aaa1bc09c725c4810730 | rf6cdb9d06f0f44765a7baa6c
+aaai2023-25771,aaai2023-25771,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0222769fc2c26e83a8bd5d4a | r6d381ddbb274983194232178
+aaai2023-25772,aaai2023-25772,AAAI,2023,Main,True,False,True,2,exclude | unknown,r6dc1d5e0007ab01d0ff3990c | re8779e2a7246aad0aaf03a0b
+aaai2023-25773,aaai2023-25773,AAAI,2023,Main,True,False,True,2,exclude | unknown,r91f4130452567712d2b88f49 | r95101b132fd0f074e19ef9bf
+aaai2023-25774,aaai2023-25774,AAAI,2023,Main,True,False,True,2,exclude | unknown,r030f43b72322e857ac359630 | r8d4d70cb32fb27efae5b1150
+aaai2023-25775,aaai2023-25775,AAAI,2023,Main,True,False,True,2,exclude | unknown,r24aeb4ffa5500f6dc72adf33 | rcd89276a442d0becd8fe6f8a
+aaai2023-25776,aaai2023-25776,AAAI,2023,Main,True,False,True,2,exclude | unknown,ra2357090caf93c89529280e5 | rd64f4619e10fe7e20b1af04e
+aaai2023-25777,aaai2023-25777,AAAI,2023,Main,True,False,True,2,exclude | unknown,r821b9ef12dfa687fe594b881 | rb271181cf381a0cd2df1dc01
+aaai2023-25778,aaai2023-25778,AAAI,2023,Main,True,False,True,2,exclude | unknown,r7a2cebe2568c604ded1280fd | rfe5583d6f21691c23e578d6a
+aaai2023-25779,aaai2023-25779,AAAI,2023,Main,True,False,True,5,exclude | pending | unknown,r6fc9eeb41c152e9de9b74f12 | r713723054420b680708b43a4 | r75df934de9299489d8cb62a4 | r7ac9f8434e5632c500a5c262 | r88c5961b1466826df1140609
+aaai2023-25780,aaai2023-25780,AAAI,2023,Main,True,False,True,2,exclude | unknown,r13e08317b5d975e62ebd282d | r37285467e6ab8b37e6b188d9
+aaai2023-25781,aaai2023-25781,AAAI,2023,Main,True,False,True,2,exclude | unknown,rb9cc3bcb192b5f8d1d61cf59 | rca1591768135bd583be372e8
+aaai2023-25782,aaai2023-25782,AAAI,2023,Main,True,False,True,2,exclude | unknown,r26a42b5e8bef57da2ac8ca40 | rfd43120457b50e114075be15
+aaai2023-25783,aaai2023-25783,AAAI,2023,Main,True,False,True,2,exclude | unknown,r7bb5d4b2cb263ccada158a04 | r8e5b830a726358a4f8e7b2ab
+aaai2023-25784,aaai2023-25784,AAAI,2023,Main,True,False,True,2,exclude | unknown,rba2e01009b32177b870f9413 | rceead74c0d08abf5c896b88d
+aaai2023-25785,aaai2023-25785,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4ab3468c30ff827f59f25d3e | r88eaaaff6ea05c6cf942e520
+aaai2023-25786,aaai2023-25786,AAAI,2023,Main,True,False,True,2,exclude | unknown,rea9718f846b1a2bfaac88ffe | reeb5019fff341f50f1b83f68
+aaai2023-25787,aaai2023-25787,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0ffcd962b1f0e3bb7e34f4b6 | r81e78838710cc2d0b47d6301
+aaai2023-25788,aaai2023-25788,AAAI,2023,Main,True,False,True,2,exclude | unknown,r7034da395bcc7c375a8ba946 | r900e3807b183901769802718
+aaai2023-25789,aaai2023-25789,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8a9194388a2c59d3280128f1 | rcd804a57e6f1dbb9b029924f
+aaai2023-25790,aaai2023-25790,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1e38c8454d94b9d01b06c085 | r44e688b38790fd1d281c5d06
+aaai2023-25791,aaai2023-25791,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3d9ce9021ca313de28843e41 | r87264b7083f456a9f21777b9
+aaai2023-25792,aaai2023-25792,AAAI,2023,Main,True,False,True,2,exclude | unknown,r11bdf1dcd6f310e577db5462 | rf7b7b89da19d8c8b28ebd74d
+aaai2023-25793,aaai2023-25793,AAAI,2023,Main,True,False,True,2,exclude | unknown,r729650cbfb8a19dd4281c204 | rcc2cb25dd2f59b05fc189225
+aaai2023-25794,aaai2023-25794,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0af7b555d234828ce12d0b36 | r63dc057ea4d3ec60fbb548a0
+aaai2023-25795,aaai2023-25795,AAAI,2023,Main,True,False,True,4,exclude | include | unknown,r31d774183fe7e90a712ca3bb | r499f7b94403c366c53811cd0 | r821c2fccd814ba8c5228a973 | r8822542b42c82f22e74f1e90
+aaai2023-25796,aaai2023-25796,AAAI,2023,Main,True,False,True,2,exclude | unknown,r7ab5a9347ba80be9cb2cf040 | rd668691dfa42a23ca5d99b6b
+aaai2023-25797,aaai2023-25797,AAAI,2023,Main,True,False,True,2,exclude | unknown,r15290161767032b745cf1168 | r93e40262bc55d1fd508e994d
+aaai2023-25798,aaai2023-25798,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0f4a49c8ea38b79a4fc9d660 | r939ed8f691df5c0d450b2d83
+aaai2023-25799,aaai2023-25799,AAAI,2023,Main,True,False,True,2,exclude | unknown,r6d78e0557def50c5cf601541 | r9b39a363e0bd89f32d895fcf
+aaai2023-25800,aaai2023-25800,AAAI,2023,Main,True,False,True,2,exclude | unknown,r7dba1879b8bb8ce7f8ec62cc | ra2b0c77a919db9d7461eed97
+aaai2023-25801,aaai2023-25801,AAAI,2023,Main,True,False,True,2,exclude | unknown,r128b234fca482344e5282d88 | r2e9858e041850554c50ad172
+aaai2023-25802,aaai2023-25802,AAAI,2023,Main,True,False,True,2,exclude | unknown,r11de023f256971d38fae30df | rbbe416afc839094e686879a4
+aaai2023-25803,aaai2023-25803,AAAI,2023,Main,True,False,True,5,exclude | pending | unknown,r03f63601d5a9b63ad97582f9 | r300c850b5384e4aef27869c0 | rd04815097afec00d49eac150 | ref6fff3d32eb6b8e9ffc7aef | rf0fa69a8bd2511663996fca5
+aaai2023-25804,aaai2023-25804,AAAI,2023,Main,True,False,True,2,exclude | unknown,r383e6a5d364fca2687900946 | rc62328d60a513f421005d7f1
+aaai2023-25805,aaai2023-25805,AAAI,2023,Main,True,False,True,2,exclude | unknown,r616a80b013b78d9cd790f116 | rd2a1115469056e5571c9fae0
+aaai2023-25806,aaai2023-25806,AAAI,2023,Main,True,False,True,2,exclude | unknown,r6f255b1d581475ce64fe55bd | r9db85b1eb312f729d9a9c138
+aaai2023-25807,aaai2023-25807,AAAI,2023,Main,True,False,True,2,exclude | unknown,r44797fe1b8df7af7b6143b15 | r89f7027722988f30da191f13
+aaai2023-25808,aaai2023-25808,AAAI,2023,Main,True,False,True,12,include | unknown,r1ab36f96ec6651c0bb10fa6c | r30ca37a09fd31305e8b9dcfd | r38a849f2fca1dfa97da2b39c | r64d879c33397e7a0d149431a | r65dd25236c190e169507da35 | r744bca4e133cd39aa1544f5a | rb2e193ced44fc53cb531fb85 | rc2e89ad6065bf6b8f5c546ec | rcd61f4257dae07eb856d481f | rcdb25fbce1121f0b41b156f8 | rcf46e2ec02a0597350183e27 | re28c0ff99b5f864a4c18a371
+aaai2023-25809,aaai2023-25809,AAAI,2023,Main,True,False,True,2,exclude | unknown,r01526949dc8c861df4b4712b | r3158f3618eaca9b28c617404
+aaai2023-25810,aaai2023-25810,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0260ec0ed6f57b13fa1b0388 | r3c4cc2deb19eddda870cb69b
+aaai2023-25811,aaai2023-25811,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1752402515db512ebb66b35f | r2fdafc7f9af039d5359272c5
+aaai2023-25812,aaai2023-25812,AAAI,2023,Main,True,False,True,4,exclude | include | unknown,r2bceb03766aa5413887441ea | r4e631dc010c2082a611efec4 | r6a2d90fcbc31475c8d96e8c6 | rfa710c7327ca8e0e4810b3ad
+aaai2023-25813,aaai2023-25813,AAAI,2023,Main,False,False,True,3,exclude | unknown,r2f2e98deadc7891a31329ea7 | r321904966ad30d6914b9c603 | r68f838c9d7f4da13b278450a
+aaai2023-25814,aaai2023-25814,AAAI,2023,Main,True,False,True,2,exclude | unknown,r573412cd8b6b195ed9807fa2 | ra1b9e0d472abc9f159c588af
+aaai2023-25815,aaai2023-25815,AAAI,2023,Main,True,False,True,2,exclude | unknown,r798aaf41c2cb278dfb60b0ad | rbf61837976901309e47b8e8c
+aaai2023-25816,aaai2023-25816,AAAI,2023,Main,True,False,True,2,exclude | unknown,r42f188ac8589d21618dc2fc4 | rdedef7dc49416f8068e1fef5
+aaai2023-25817,aaai2023-25817,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1112cef3eccd96218286d28a | rc4d885d89ec8f75696d31f4a
+aaai2023-25818,aaai2023-25818,AAAI,2023,Main,True,False,True,2,exclude | unknown,r7d2f0dcc51420626d88d8a66 | r8e1b780ed1fa92b0e94e4d35
+aaai2023-25819,aaai2023-25819,AAAI,2023,Main,True,False,True,2,exclude | unknown,r66daab5590a195e3e132f0c9 | re52a3c6cd60638b19930a5e3
+aaai2023-25820,aaai2023-25820,AAAI,2023,Main,True,False,True,2,exclude | unknown,r66c87378861fdc7e7de0bfb7 | r78cf2424b4fe61ae69c57e37
+aaai2023-25821,aaai2023-25821,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8fa6cf34e3c2b259ace35680 | red16e34fad0fadb2264e14be
+aaai2023-25822,aaai2023-25822,AAAI,2023,Main,True,False,True,2,exclude | unknown,r668b5f5161579532b9f915ab | rdf20bd7cd39aa0bf2f9ca546
+aaai2023-25823,aaai2023-25823,AAAI,2023,Main,True,False,True,2,exclude | unknown,r320e03db782d363639e864b8 | r68c20e01a70c7610f8040b8d
+aaai2023-25824,aaai2023-25824,AAAI,2023,Main,True,False,True,2,exclude | unknown,raf07873ea33faac9bc393f15 | rf6e800e718db9612be438c06
+aaai2023-25825,aaai2023-25825,AAAI,2023,Main,True,False,True,2,exclude | unknown,r26140811ff7cac908b5aa4b0 | rcaf2c837af1c8a199b3dd773
+aaai2023-25826,aaai2023-25826,AAAI,2023,Main,True,False,True,2,exclude | unknown,r74dcab3359f90f96fda622da | raf362f8e7a5734848ad10a7e
+aaai2023-25827,aaai2023-25827,AAAI,2023,Main,True,False,True,2,exclude | unknown,r688fdc3e553f4bdaa80a0af3 | rd114fef71feb0860fd1cb143
+aaai2023-25828,aaai2023-25828,AAAI,2023,Main,True,False,True,2,exclude | unknown,r079efaa00335a15f2379edf1 | r363ba51837fb165f3c3ea129
+aaai2023-25829,aaai2023-25829,AAAI,2023,Main,True,False,True,2,exclude | unknown,r46d13323e53db2684c85c5e3 | r6416938d37b5f3976fbe2897
+aaai2023-25830,aaai2023-25830,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4141c79fb366abd4d138e330 | r91a5d6b28997e854790568d4
+aaai2023-25831,aaai2023-25831,AAAI,2023,Main,True,False,True,2,exclude | unknown,r09823e1643aba0710c8495f6 | r44235d4efb990225c6b757cd
+aaai2023-25832,aaai2023-25832,AAAI,2023,Main,True,False,True,2,exclude | unknown,r58ca6e650860d8e1c0ada0d5 | rb03ddb2465dfe03780477543
+aaai2023-25833,aaai2023-25833,AAAI,2023,Main,True,False,True,2,exclude | unknown,r014c10ebc76dba6584c8ef80 | r87a93939d4939a3e5bde4fac
+aaai2023-25834,aaai2023-25834,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc49576d0f49386e9138f9b47 | rc5a8f9c1683f404c73ff3748
+aaai2023-25835,aaai2023-25835,AAAI,2023,Main,True,False,True,2,exclude | unknown,r50207f8ebe285d4922532ea1 | r9e16fc455b52b5b92df94d1c
+aaai2023-25836,aaai2023-25836,AAAI,2023,Main,True,False,True,2,exclude | unknown,r17b7c424f3e5ab1c6ae92e50 | r439b434f90b711469cb7981b
+aaai2023-25837,aaai2023-25837,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1b03d70934684dfa082a739d | rc5f7253beff6e9409eaa5641
+aaai2023-25838,aaai2023-25838,AAAI,2023,Main,True,False,True,2,exclude | unknown,rb5f621b179bec0f6ca8c3db9 | rf7da5fae707bc46a70ce1f0b
+aaai2023-25839,aaai2023-25839,AAAI,2023,Main,True,False,True,2,exclude | unknown,ra142bc44c298c3e8c10ba3f6 | ra3bedab471dbe6c860424fdd
+aaai2023-25840,aaai2023-25840,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0be2e154cb4a0744e41de3fe | r638c35ebdeb1d476b972cc4d
+aaai2023-25841,aaai2023-25841,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1889127047f570436a198221 | r1b68449f5b71257ff31b7070
+aaai2023-25842,aaai2023-25842,AAAI,2023,Main,True,False,True,2,exclude | unknown,r15c528f4b3411d391b770634 | r855abe146cdd1724607e6011
+aaai2023-25843,aaai2023-25843,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1509d8708c439a777dbd7444 | rb7921246d3a345a77ec123e5
+aaai2023-25844,aaai2023-25844,AAAI,2023,Main,True,False,True,15,include | unknown,r05b423677f268a452d7179a4 | r0baae46e470f0ecacb93f89c | r0db4670cbe36788dae07fcda | r1b602ec9cc07ad37dc948473 | r2c76775fbdf9cd69ba555572 | r4697edeae1b385b14d2d1765 | r4cfeb3b9a32ea6d8cda8f823 | r52df68f3706f4873ea2572ea | r620f3bb8f464a3444fd718ff | r7c4416718e83bdacd00aa1c7 | r9226be3d605038defbfecc27 | r9a52a09028442f52f09ead9c | rb52bfe07ae2fbe7260abd378 | rb96ba775536154f44784f02e | re0ec5d4323011d6aac9dee0e
+aaai2023-25845,aaai2023-25845,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4e501a22d1c1acc3ac801fa9 | r60a7e261f6a9b5b2e70f74a7
+aaai2023-25846,aaai2023-25846,AAAI,2023,Main,True,False,True,2,exclude | unknown,r260a163e05f7ef2bde4f662d | ra92643549dd37fe178f0671d
+aaai2023-25847,aaai2023-25847,AAAI,2023,Main,True,False,True,2,exclude | unknown,r99a37d64bfe8df5f6ccc0363 | rf3acd3168bb7a60d1f147abc
+aaai2023-25848,aaai2023-25848,AAAI,2023,Main,True,False,True,2,exclude | unknown,r56bb0ba8d6f4758029e91429 | ra09c23648b8095ade8132280
+aaai2023-25849,aaai2023-25849,AAAI,2023,Main,True,False,True,2,exclude | unknown,r32db1f6c9bb3e8a1ba8b78e5 | r9db267e46d3e286a8056a177
+aaai2023-25850,aaai2023-25850,AAAI,2023,Main,True,False,True,2,exclude | unknown,ra3ca4b1e4a40e6b2f944af6c | ra3d8193b0f385a4755607c8c
+aaai2023-25851,aaai2023-25851,AAAI,2023,Main,True,False,True,2,exclude | unknown,r287b353dabfa9f99f624758e | rfab35885b41160d37732c310
+aaai2023-25852,aaai2023-25852,AAAI,2023,Main,True,False,True,2,exclude | unknown,r67898807e2407e6f0757b9a9 | rd531020e08f36dbac467be43
+aaai2023-25853,aaai2023-25853,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4a1a51f5b14eef4719a6099c | r69efc45a4cdd08d68db6112e
+aaai2023-25854,aaai2023-25854,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8cadac3e1feb5c4a2b083a06 | rd2cd7f0d6e8000b90f482af0
+aaai2023-25855,aaai2023-25855,AAAI,2023,Main,True,False,True,2,exclude | unknown,r6c80dcc84747f6a70a193af4 | r9e3fd1a818b4dad584348529
+aaai2023-25856,aaai2023-25856,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc87cdaac6786941a02adb4bb | rf6b2101fb4caef6e4688363c
+aaai2023-25857,aaai2023-25857,AAAI,2023,Main,True,False,True,2,exclude | unknown,r610a6ac343aeb5f719991c05 | r7083d9b6922582cc69e8b631
+aaai2023-25858,aaai2023-25858,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0fad7ee3730ce4ed8efc097b | r19ddb4eac0dce1c8c27f698b
+aaai2023-25859,aaai2023-25859,AAAI,2023,Main,True,False,True,2,exclude | unknown,r456b7f09cc7a67065cff65dd | reba295a82ff259174f63c2f6
+aaai2023-25860,aaai2023-25860,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3af416406ca2c33180568f3a | rb958deb9b6d19d3d8e3dd9f4
+aaai2023-25861,aaai2023-25861,AAAI,2023,Main,True,False,True,12,include | unknown,r21db98d10882ff5b2221c755 | r22ce49ee29ed5e28b11fa711 | r3b416492d9c5ee7e48b95692 | r4fa6318490ee4758030437ae | r60274c745dc1c5fcc8a1e0bf | r708a2395209e68bb11eaecfd | r8682b71456970aaf087096eb | r935d259a2a95b9c5ea6c3edd | rae9c38d0e5fc8f38382776b3 | rd0050bfa5103937362e033dc | rf53b374605315cb4c5096823 | rff1c2ba0161ba23916cd2519
+aaai2023-25862,aaai2023-25862,AAAI,2023,Main,True,False,True,2,exclude | unknown,r863ec99a4af1732827562780 | raef63ca23ead95dc9bceae22
+aaai2023-25863,aaai2023-25863,AAAI,2023,Main,True,False,True,2,exclude | unknown,r043da9a7582e890d22ca9d24 | r694817923ed48eda9217ae15
+aaai2023-25864,aaai2023-25864,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc677aa0dc776dcbc05df541c | rec9be9746499676d07287d4b
+aaai2023-25865,aaai2023-25865,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3a66ba5e20b616ffb299b712 | r73c7e7a424c56f3d6aa751c4
+aaai2023-25866,aaai2023-25866,AAAI,2023,Main,True,False,True,2,exclude | unknown,rbc6829af81a187bb6b960993 | rf7b1b13149df43edb2074048
+aaai2023-25867,aaai2023-25867,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0c9d33bf6437a939ed5219ad | r85baf5be2bdae0170a9731a8
+aaai2023-25868,aaai2023-25868,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3108f46a66549ce4a3875c78 | r4fef9a5c0012d740c7d9c8db
+aaai2023-25869,aaai2023-25869,AAAI,2023,Main,True,False,True,2,exclude | unknown,r61d0478df3acf00f15b2298a | rf06c66d605cb17cd05d56ac2
+aaai2023-25870,aaai2023-25870,AAAI,2023,Main,True,False,True,2,exclude | unknown,r868ba23cd6815bde7a880060 | rba25f8ac6a7e081b6967aa49
+aaai2023-25871,aaai2023-25871,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc4ebd5657ff7fb0e0b6476b3 | rc5bcf5263ce2e12c54a52735
+aaai2023-25872,aaai2023-25872,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8df0ec43330b7fa4aa20ac4b | ra9c9dbe3289ee52314b6c591
+aaai2023-25873,aaai2023-25873,AAAI,2023,Main,True,False,True,2,exclude | unknown,rd9513f73e67063a3b9a9e521 | re6a3c01ed87a685da4c9beb6
+aaai2023-25874,aaai2023-25874,AAAI,2023,Main,True,False,True,2,exclude | unknown,r9456baf4d000e0c425da3524 | rb5fb8154d4dfa0c9ac8f88b0
+aaai2023-25875,aaai2023-25875,AAAI,2023,Main,True,False,True,2,exclude | unknown,r59e3aa6a63167c976aa8f541 | r8960ffb2b9949b4f4183c05c
+aaai2023-25876,aaai2023-25876,AAAI,2023,Main,True,False,True,2,exclude | unknown,r6ba80a48ffc97aa5cab66f2c | rc9b8a8704d2fd7003eb934f1
+aaai2023-25877,aaai2023-25877,AAAI,2023,Main,True,False,True,2,exclude | unknown,r90ed5c1e15358c9a59c98ca7 | re2e568f3a2e0add57a3fa4b5
+aaai2023-25878,aaai2023-25878,AAAI,2023,Main,True,False,True,2,exclude | unknown,r188c4ee63e0184e885518f36 | r842710bd7de7e79351bab878
+aaai2023-25879,aaai2023-25879,AAAI,2023,Main,True,False,True,2,exclude | unknown,r535245f4f9965ab1b6335738 | r5e50d8d5db69134a2e77f0dd
+aaai2023-25880,aaai2023-25880,AAAI,2023,Main,True,False,True,2,exclude | unknown,rd713ee9100e2ec57acafe2ee | reaa5f9da00f19524e94439fc
+aaai2023-25881,aaai2023-25881,AAAI,2023,Main,True,False,True,2,exclude | unknown,r89e4511eac6d0661e280d377 | rf61c6c82c44eefc9e920b525
+aaai2023-25882,aaai2023-25882,AAAI,2023,Main,True,False,True,2,exclude | unknown,rb26ee7a0fcb7fe601721d680 | rd5889e5126ee55516d0ed7f0
+aaai2023-25883,aaai2023-25883,AAAI,2023,Main,True,False,True,2,exclude | unknown,r06dff2de1aec26322f8d11b6 | r58b35ac6355c5bbc5e05db34
+aaai2023-25884,aaai2023-25884,AAAI,2023,Main,True,False,True,2,exclude | unknown,rb8f9764608e2ba66ea1e93da | rc48c676a55d572cdf287cbe6
+aaai2023-25885,aaai2023-25885,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc9ad7e4a02c125aba912b8dc | rf3603dc3c73f98559e67d948
+aaai2023-25886,aaai2023-25886,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1005aff02943e83f82ffb896 | r2790a593d7ddeed4282d959d
+aaai2023-25887,aaai2023-25887,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8b722ec0eb001ffd2318f2cb | r977683494c99805a3b8c62ea
+aaai2023-25888,aaai2023-25888,AAAI,2023,Main,True,False,True,2,exclude | unknown,r6b8a0f495c4ba374fa588be7 | r87a56110f0d0c62b6e42930d
+aaai2023-25889,aaai2023-25889,AAAI,2023,Main,True,False,True,2,exclude | unknown,r86fa99b55d96d13682c833ff | rc2de190003363aa53ebd93b6
+aaai2023-25890,aaai2023-25890,AAAI,2023,Main,True,False,True,4,exclude | pending | unknown,r61f1921d6da9e330dd7cdf48 | r827cde9a47a95be44efb357c | r9ef4a36d9bc1c639e4cd9150 | rb8cc58474e150febbc4f247b
+aaai2023-25891,aaai2023-25891,AAAI,2023,Main,True,False,True,2,exclude | unknown,r055d6aec1a0a4afba64b95e6 | ra32d0955820ff2971a1ea7c9
+aaai2023-25892,aaai2023-25892,AAAI,2023,Main,True,False,True,2,exclude | unknown,r62f175f20ccc198c32517e0e | r6586cd174e38657102762318
+aaai2023-25893,aaai2023-25893,AAAI,2023,Main,True,False,True,2,exclude | unknown,r130fd37cd05dff5c0ea97eab | r969d8b387a7badde0780115c
+aaai2023-25894,aaai2023-25894,AAAI,2023,Main,True,False,True,2,exclude | unknown,r650f33f51231c85cfd1b3b4a | r8df3079892e2f8d5ce1debd9
+aaai2023-25895,aaai2023-25895,AAAI,2023,Main,True,False,True,2,exclude | unknown,r9711416dc13cbfcb9eaae7e4 | r983d3b9c36749da6ee2d5cbd
+aaai2023-25896,aaai2023-25896,AAAI,2023,Main,True,False,True,2,exclude | unknown,r73a3267bd70074c10e39e1f4 | rbccf4241dfbe494b4b3f7c89
+aaai2023-25897,aaai2023-25897,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc7522428e08f222a86d69c9e | rde458ba5d747e89e10426b01
+aaai2023-25898,aaai2023-25898,AAAI,2023,Main,True,False,True,2,exclude | unknown,r15f4011584073cba43aced62 | r54702b06e82f9490ab3d8b94
+aaai2023-25899,aaai2023-25899,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3c6bad8c1870b23c9731e145 | rf242fb58d24aabedc8590bc6
+aaai2023-25900,aaai2023-25900,AAAI,2023,Main,True,False,True,2,exclude | unknown,r95b6cc7a7b14c2ef27d96282 | rc3da5142734f13e3cd9259f0
+aaai2023-25901,aaai2023-25901,AAAI,2023,Main,True,False,True,2,exclude | unknown,r283081bd7eedaa48d8c426ed | r47ba46fe6cf428bc059853e5
+aaai2023-25902,aaai2023-25902,AAAI,2023,Main,True,False,True,2,exclude | unknown,rd375ac2e8e94171b09ea5a2c | rdb36f235a0d280d83a9cb4a6
+aaai2023-25903,aaai2023-25903,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2697b66dddf6c565ccd2460f | rb063e22cfe127afcf078a1a6
+aaai2023-25904,aaai2023-25904,AAAI,2023,Main,True,False,True,2,exclude | unknown,r60e6510d865c1d1a03874497 | r8b5d359251013be183478122
+aaai2023-25905,aaai2023-25905,AAAI,2023,Main,True,False,True,2,exclude | unknown,r28da00de5aa5371d0fd88a92 | r5da275de30b1dfc1d942fa0f
+aaai2023-25906,aaai2023-25906,AAAI,2023,Main,True,False,True,2,exclude | unknown,r52b5254c3256e09f47b6518a | rd1ba603c166a0be9db63756a
+aaai2023-25907,aaai2023-25907,AAAI,2023,Main,True,False,True,2,exclude | unknown,re7f8be5c7161f3bf831f5d3e | rfbefed95d9b0a26ee913b87d
+aaai2023-25908,aaai2023-25908,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3b9992d06fbcfd16c42159bf | r52283d65ee4e245c682641ed
+aaai2023-25909,aaai2023-25909,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2e385b27ec063478a0b71a4b | re7eb09560aa1cf9f6d52279f
+aaai2023-25910,aaai2023-25910,AAAI,2023,Main,True,False,True,2,exclude | unknown,r16c439b99dcf029adb323815 | rb17a07fadb36b0d38cd225cf
+aaai2023-25911,aaai2023-25911,AAAI,2023,Main,True,False,True,2,exclude | unknown,r25683b3e2ef62050088a7821 | rf27a7b5951cfafa7c1d326d3
+aaai2023-25912,aaai2023-25912,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3468c46f2cca910cf1e11f77 | rd5ddc90e31f7f7721ecfb086
+aaai2023-25913,aaai2023-25913,AAAI,2023,Main,True,False,True,2,exclude | unknown,r084e27bada2b7fce07cf9d97 | r300ef417a187996476259430
+aaai2023-25914,aaai2023-25914,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4885d98b7a0c9e8131f7fa5c | rc8d55944b818927c561d1633
+aaai2023-25915,aaai2023-25915,AAAI,2023,Main,True,False,True,2,exclude | unknown,r450e23e5e5fcf1b13b4dd470 | rf4cf8c788214e2e19d0887bc
+aaai2023-25916,aaai2023-25916,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5f311c595d48d73a099d380c | rdbd1e7d0607c775fda9feeea
+aaai2023-25917,aaai2023-25917,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0fe6ab85a3e8f8dc20f2c6ae | rc68c968550cdbf8a440ee342
+aaai2023-25918,aaai2023-25918,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4dde9a1f192c67340b301c8f | rd20943c985aa25502aca1c12
+aaai2023-25919,aaai2023-25919,AAAI,2023,Main,True,False,True,2,exclude | unknown,rd747a66887c1a5bcbacd127e | rde9fe8999bc9c30aa356a25b
+aaai2023-25920,aaai2023-25920,AAAI,2023,Main,True,False,True,2,exclude | unknown,r305ab47adb32cc7139590fae | ree5b989c74dc3028e448eac8
+aaai2023-25921,aaai2023-25921,AAAI,2023,Main,True,False,True,15,include | unknown,r0c8cb6196f2c62f8fe6ec1ec | r1d349354a6ea2aaa5da18ab4 | r38eb24b20edf9014c187412d | r472bb01bdaee22f1cc4f0bbe | r5346a198e975be616b5ce8e7 | r5b2169e0986a258eb96897f6 | r6071fc305fefa44f8bf94878 | r742e58116c36476cb1a4618f | r75454da2f13c152c67234d0f | r7de373feea7b0d77add18f06 | r8102443b1dbe3bd8394c9705 | r8f5bfa40b9417d8a4a71de41 | r9918be169517747407a2857c | rea45d1996ce33517455ba564 | rebb37df51c99f9837d95187a
+aaai2023-25922,aaai2023-25922,AAAI,2023,Main,True,False,True,2,exclude | unknown,r088f4955ec9d4afc5b0ef5f5 | r56bcaaddfc41a9e836d9a42e
+aaai2023-25923,aaai2023-25923,AAAI,2023,Main,True,False,True,2,exclude | unknown,r510b49c10c0c5cf92f035b75 | rffe724daa13c97b54f826b6f
+aaai2023-25924,aaai2023-25924,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5e62d3a403ffe9f9b119b9a1 | r805fb3fc14a303b03d29482c
+aaai2023-25925,aaai2023-25925,AAAI,2023,Main,True,False,True,2,exclude | unknown,r48383d9c421dc05821b17290 | rb9ec8afc3fadf6ccfaf7b430
+aaai2023-25926,aaai2023-25926,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8c794789602f543db0161e08 | rb0326279a3c8b318ca0fafcd
+aaai2023-25927,aaai2023-25927,AAAI,2023,Main,True,False,True,2,exclude | unknown,r9ab54a2bdd810debc33de078 | racb17b71186b143ccab28872
+aaai2023-25928,aaai2023-25928,AAAI,2023,Main,True,False,True,2,exclude | unknown,r294177da238518aff32da2cd | r7fb1a36641e7b1ce9c7c87be
+aaai2023-25929,aaai2023-25929,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0771a8569ad5ceb59e0cb18c | raf1acb0078e3cab8ee55068d
+aaai2023-25930,aaai2023-25930,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3c34c0de0a460cf48e05f032 | r8c023cd116ca24a896175eab
+aaai2023-25931,aaai2023-25931,AAAI,2023,Main,True,False,True,2,exclude | unknown,r764370b4f4c28e21078d54a3 | ra5634110db6a11a387032ee2
+aaai2023-25932,aaai2023-25932,AAAI,2023,Main,True,False,True,2,exclude | unknown,rb78d8f4753378be98467b0d2 | rd4e2f6a919e12d8d6c6b4603
+aaai2023-25933,aaai2023-25933,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1930c81da17b2181f9e4a2b7 | r34144333b19da28770885aa8
+aaai2023-25934,aaai2023-25934,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5df3f1a40a0dfa46cf695ea7 | reb8e1d5c8e22f8d02fdab5cd
+aaai2023-25935,aaai2023-25935,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5cc2e2ef7ba40a8d042f6368 | re393d456e3ac4553fd30b28d
+aaai2023-25936,aaai2023-25936,AAAI,2023,Main,True,False,True,2,exclude | unknown,r56115365eadc78e1b1ba2ae5 | r953af4f0de695617405dca79
+aaai2023-25937,aaai2023-25937,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3595668369e2b1df2e4b0a25 | r93ecf0a6b28291538e0bca87
+aaai2023-25938,aaai2023-25938,AAAI,2023,Main,True,False,True,2,exclude | unknown,ra36808105d1cf8d86edfe156 | re8d45bc99d8ee73465bb57bc
+aaai2023-25939,aaai2023-25939,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1e0a72bfd66af7dd21807645 | r2ecf367b7daab38d8429e495
+aaai2023-25940,aaai2023-25940,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2bea4cf967984a499ea8576c | rf96a25563d2f835185239660
+aaai2023-25941,aaai2023-25941,AAAI,2023,Main,True,False,True,2,exclude | unknown,rad7c390dcd7e44ef845c6928 | rf83c7da37d045e38d1510880
+aaai2023-25942,aaai2023-25942,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4bd67f83bf3b5383c9f9e9d0 | ra4bed07320f6ddaa2fb08458
+aaai2023-25943,aaai2023-25943,AAAI,2023,Main,True,False,True,2,exclude | unknown,r46a095429ba0d88901957798 | r89399892f6b7b5e8768f3dbf
+aaai2023-25944,aaai2023-25944,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2c95268153b8af8910e602c5 | rab8faa7416e6e9f4ddd5f6c8
+aaai2023-25945,aaai2023-25945,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0bebbfd504ff9ae8381f352c | r9a2d74c674358c408e7cc7e5
+aaai2023-25946,aaai2023-25946,AAAI,2023,Main,True,False,True,2,exclude | unknown,r851ae6ec79eab84004bedc33 | r8e0286acb167ce938fea91dc
+aaai2023-25947,aaai2023-25947,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8b364d2d19af27b03e3832e6 | rc66edf4914f85bb08d80088d
+aaai2023-25948,aaai2023-25948,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8c3bb882cae56a60d81e2db2 | r9c70b5fc55915495aa645759
+aaai2023-25949,aaai2023-25949,AAAI,2023,Main,True,False,True,2,exclude | unknown,r83a3e3421937ffd91226d59c | r914d731344b54f51cb667af5
+aaai2023-25950,aaai2023-25950,AAAI,2023,Main,True,False,True,3,exclude | unknown,r1ebf5141f7b3a19eb084ad9a | r8c10529de13b2117029d27f2 | rc991ad0c0f845e4d483aba77
+aaai2023-25951,aaai2023-25951,AAAI,2023,Main,True,False,True,2,exclude | unknown,r11272cb09eff98b2a86b43b1 | ra44a0058902133a26f3dcb58
+aaai2023-25952,aaai2023-25952,AAAI,2023,Main,True,False,True,23,No affirmative public PDF-image redistribution license established. Non-exclusive arXiv distribution permission is not CC BY. Preserve existing image/permission blockers and core state. | include | unknown,r004026c8148ecdc22af342f8 | r0660a2ef8e4e951f088c4b00 | r160cd31253bf374bdf7020de | r3ad55d0a0ae3faf94c4a7d4c | r3b964e993b8ea97684a71017 | r4c4bc317eb4e2da31bb7eca6 | r50bb5bbc61433b3047141c1f | r58ff24b549679364170e8a17 | r70b09cc121ae08db6e7ecd8f | r75a29e859aee6608ab7cb7b0 | ra073e2cc6fef113333201a11 | ra5688b3f37a17ba99b33e5b7 | ra5a080d0bc3599d8e83f6337 | ra8a11251c82ef810ec458dfa | rb16f5b4e485ce70644728d1f | rc1c7d1fee76557a0f803c4a3 | rc6edd21bd2b3b06b1102f59f | rc6f4c6ab89673f459483e4c0 | rce0035130db4f82cdaa21d3a | rdfba0b5d82740b2bbe7c4eb4 | re1de00f1f4f55c7eb024716b | rfd0e5957823a8c59e4580f0e | rfeb32885e80f3fa3535aa54b
+aaai2023-25953,aaai2023-25953,AAAI,2023,Main,True,False,True,2,exclude | unknown,rb7ab4a9d7a258e5ceb5bcd60 | rd76d89108306f14839a17868
+aaai2023-25954,aaai2023-25954,AAAI,2023,Main,True,False,True,2,exclude | unknown,r9fd403fe0c1264c0c7906700 | re71b9c9cf6dc57bf33e5a2c7
+aaai2023-25955,aaai2023-25955,AAAI,2023,Main,True,False,True,2,exclude | unknown,r104acad349e28554ff966765 | r2dccafd83fcabc029be658cd
+aaai2023-25956,aaai2023-25956,AAAI,2023,Main,True,False,True,2,exclude | unknown,r89d95502b97274f1033c6581 | rda4214f6a85ff55b3f4d656d
+aaai2023-25957,aaai2023-25957,AAAI,2023,Main,True,False,True,2,exclude | unknown,ra285df4c7137dbd45f0dae0d | rfe77b9b8de8bef38c20455b4
+aaai2023-25958,aaai2023-25958,AAAI,2023,Main,True,False,True,2,exclude | unknown,rb64431dfbb22d8f5bf5ebcaf | rf400a7757f9a3caf613c12ba
+aaai2023-25959,aaai2023-25959,AAAI,2023,Main,True,False,True,2,exclude | unknown,rce102f806abf1828d7ba05d1 | rf058a1604cc9461cf6ff02ce
+aaai2023-25960,aaai2023-25960,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4b80ca69865cc66882952078 | rb63809cae40d49446f22e2f2
+aaai2023-25961,aaai2023-25961,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5b0b6dfff3be20857482416d | r64388ca855bff34d9c76f1a7
+aaai2023-25962,aaai2023-25962,AAAI,2023,Main,True,False,True,2,exclude | unknown,r119604590d528a3dadfbc14a | ra78bf81218343f5a666bcdad
+aaai2023-25963,aaai2023-25963,AAAI,2023,Main,True,False,True,2,exclude | unknown,r01e3d1e183742e0720b9bce9 | r49379199068f99bf38c868cc
+aaai2023-25964,aaai2023-25964,AAAI,2023,Main,True,False,True,2,exclude | unknown,r26d3818e9c6f67b82ea9092a | r37a2f596f6e08e83cb366055
+aaai2023-25965,aaai2023-25965,AAAI,2023,Main,True,False,True,2,exclude | unknown,r77bab71f894b4546c3f32ae5 | r83173517b36ad8b158a842b6
+aaai2023-25966,aaai2023-25966,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1551c551e462d950ab4a5a61 | r4590a2059ff473ed194a4719
+aaai2023-25967,aaai2023-25967,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8a9b8134edd833727feb1316 | re9d6d52fe1798d7025cef6e0
+aaai2023-25968,aaai2023-25968,AAAI,2023,Main,True,False,True,2,exclude | unknown,r01a8c040a4d5187b72db27e6 | rfe44f4048f5b477401d4b589
+aaai2023-25969,aaai2023-25969,AAAI,2023,Main,True,False,True,2,exclude | unknown,r7351dc3302c73c99a8e2d9df | rae05b4b197ee5b7baad9df77
+aaai2023-25970,aaai2023-25970,AAAI,2023,Main,True,False,True,15,include | not_selected | unknown,r080471bf8ce993d8c893580f | r1c65c6fb8c36770793422f14 | r21615c5f7f8ea70cdfb278d3 | r2ff13121ba13a020bdabe9a1 | r62ee7aebabc52df5bc70b77d | r7140d3a71e748d7229bd60a9 | r71cfbf9e528343c062380f98 | r847b639cd76a8e4b780ad2d5 | r881ce5e21c3465612bb09f95 | r8c3b467f194fe123a3c6d675 | r922c14c7ec50f25e747199c4 | raade11862c0d09b4e592745f | radc35794e528fad2ed7f2f73 | re14ba19d8b8f992d20f7746a | re66d369cf99f2c2ab3ea6eb1
+aaai2023-25971,aaai2023-25971,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0562fa6fa5f69d89108e3e50 | r295ffa2b495c7d09af64dfc3
+aaai2023-25972,aaai2023-25972,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0e98f81bedff8b95d489721a | r6dcbbdf782535231722022a9
+aaai2023-25973,aaai2023-25973,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1c36d6839959309ec60b24a5 | r511656c1f9b9849ab15e3dbe
+aaai2023-25974,aaai2023-25974,AAAI,2023,Main,True,False,True,2,exclude | unknown,r108920a25eb1bbb4260cc295 | rff02338e69871964035e0d7a
+aaai2023-25975,aaai2023-25975,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2d8e9c9bffd7e6bc58a21e47 | r66437941b84944c18b014541
+aaai2023-25976,aaai2023-25976,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1216183da6641c85e688166a | r4bfeeadff42ad63d5987167c
+aaai2023-25977,aaai2023-25977,AAAI,2023,Main,True,False,True,2,exclude | unknown,ra35e3a6c83c6d0ec19844a9a | rad9443ff178631497e26f2d3
+aaai2023-25978,aaai2023-25978,AAAI,2023,Main,True,False,True,2,exclude | unknown,r61800b86f7f742b3be9a2005 | r72326470c72a4c00e551e531
+aaai2023-25979,aaai2023-25979,AAAI,2023,Main,True,False,True,2,exclude | unknown,r97190345ca7c775027d65ab2 | rc9013e178dd4ab9de709de22
+aaai2023-25980,aaai2023-25980,AAAI,2023,Main,True,False,True,2,exclude | unknown,r06b62c2e5f3976f92cbb7e7a | r7aea9b2f6aa3b15065aeaad5
+aaai2023-25981,aaai2023-25981,AAAI,2023,Main,True,False,True,2,exclude | unknown,r66a445611b5bc0c95fc2d6c6 | r80be03054ce6a3e82ef82ab9
+aaai2023-25982,aaai2023-25982,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc53125e14aee48914d3d171d | re5abd54674b41d355fcc6ab1
+aaai2023-25983,aaai2023-25983,AAAI,2023,Main,True,False,True,2,exclude | unknown,raf319f9bc7f49d4e0c44a3c6 | rd39b96594856e0fb3075d733
+aaai2023-25984,aaai2023-25984,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc048b77c752c0541be1b7e87 | rcc1633c6d28467ea32257904
+aaai2023-25985,aaai2023-25985,AAAI,2023,Main,True,False,True,2,exclude | unknown,r087f35fc5a208e8f1f6b9d43 | rd74480f017114b7e92748a1a
+aaai2023-25986,aaai2023-25986,AAAI,2023,Main,True,False,True,2,exclude | unknown,r175712472f397a50a247eba1 | rd7cc74bf899e06863adb89b9
+aaai2023-25987,aaai2023-25987,AAAI,2023,Main,True,False,True,4,exclude | pending | unknown,r1f308f66f683f754ba52a437 | r20bfe422b9ed4571037e634d | r6a946600c7d2e6c2cc5734fd | ra31d32e4e6b65bba93acad93
+aaai2023-25988,aaai2023-25988,AAAI,2023,Main,True,False,True,2,exclude | unknown,r01f263bed9c85972bcbb26ec | rf1dfac91449ad58a8f9d3903
+aaai2023-25989,aaai2023-25989,AAAI,2023,Main,True,False,True,2,exclude | unknown,r7dc163f224e9ce20bb9f46b8 | r9699e6dcbf386dd3bbc2d564
+aaai2023-25990,aaai2023-25990,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2abb6227fe372068dcbce0b7 | r46ddfaf1e60629a9be169887
+aaai2023-25991,aaai2023-25991,AAAI,2023,Main,True,False,True,2,exclude | unknown,rbadb337f0715281e8fa9bd6b | rc25f1a48785ba5465f59493e
+aaai2023-25992,aaai2023-25992,AAAI,2023,Main,True,False,True,2,exclude | unknown,r19896cb51146eb935db05d35 | r8f1c161e01d17bcfef28aa76
+aaai2023-25993,aaai2023-25993,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2169d949e5499b711f1f9438 | rd69ce48608c9f0bf27f347bd
+aaai2023-25994,aaai2023-25994,AAAI,2023,Main,True,False,True,2,exclude | unknown,r43953cb7127a41365dd45276 | red225995fbb2ab4dfe0d89c5
+aaai2023-25995,aaai2023-25995,AAAI,2023,Main,True,False,True,2,exclude | unknown,r777091a83fea6584cc58e9ea | r88d8fa938b65c72842fbb51f
+aaai2023-25996,aaai2023-25996,AAAI,2023,Main,True,False,True,2,exclude | unknown,r41a0dc4ab73c697f3e9e371a | r51b15668879fc4d216640928
+aaai2023-25997,aaai2023-25997,AAAI,2023,Main,True,False,True,2,exclude | unknown,r65c960cbdedca407445cdb10 | r67d8b6ab74aa766e5be9072d
+aaai2023-25998,aaai2023-25998,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0ed004c38b1fa87737724026 | rdaad570e44d2b73c196723d9
+aaai2023-25999,aaai2023-25999,AAAI,2023,Main,True,False,True,2,exclude | unknown,r08e222446d70220caaa56327 | rd9bc5588aabf89ace48df84d
+aaai2023-26000,aaai2023-26000,AAAI,2023,Main,True,False,True,14,include | unknown,r12dac7ac843530af4f740d06 | r1ee7813657f371dc1c889667 | r3108b7c51d808b43dd006212 | r51969b0abaafd6d4cdd92c23 | r58072b4f669a33c5999b881f | r635f42752a5143c9742b269a | r6c663f278b460821602461c9 | r6fd3a5f075552a2675e1a227 | r7e8577e9805ef5f91d64b3d5 | r9eaa24cc6f0cf4a685129734 | rabeec378e57b4fbeea75899b | rf3d17b23e0e60fd87365c914 | rfaf5c4b1ef7337e8e609e9bf | rfd4e6f974140fadc7225998b
+aaai2023-26001,aaai2023-26001,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc0f2d785fbf38401603a832a | reb84880a34deeb8977524711
+aaai2023-26002,aaai2023-26002,AAAI,2023,Main,True,False,True,2,exclude | unknown,r9a0081f4939eb4e2a59f8750 | rfe00a10e17213f3c1e73959f
+aaai2023-26003,aaai2023-26003,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc30dcb500d64c17a309dcd97 | rf4a83334b2cb93f16d9b483f
+aaai2023-26004,aaai2023-26004,AAAI,2023,Main,True,False,True,2,exclude | unknown,r93249955b65fe49217b760b8 | r9e9e2da94b31b11624de5e34
+aaai2023-26005,aaai2023-26005,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4e3340c5116cf30cf45064fb | rc79f031ac7b2723fecd639fb
+aaai2023-26006,aaai2023-26006,AAAI,2023,Main,True,False,True,2,exclude | unknown,r014cadab1a3a1f3f6d184f85 | r60f620959ea9ec2aacd7e879
+aaai2023-26007,aaai2023-26007,AAAI,2023,Main,True,False,True,2,exclude | unknown,r51806af572d2a859848fc2fe | rfe6e188743a8453f02c29de8
+aaai2023-26008,aaai2023-26008,AAAI,2023,Main,True,False,True,2,exclude | unknown,r26cdaf7994dd02da966b8023 | r4f471534f137d7eec3ab2812
+aaai2023-26009,aaai2023-26009,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc78117969bd775c8d70b950d | reb6a9922d7725385f8cd734c
+aaai2023-26010,aaai2023-26010,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1896cbd0aef1bd2d8e6f185f | r1d9b0e0d337dec4586f0fc76
+aaai2023-26011,aaai2023-26011,AAAI,2023,Main,True,False,True,2,exclude | unknown,r23a02aee4648aebc1c170ec1 | r2b46c155288e8f68466d7fe9
+aaai2023-26012,aaai2023-26012,AAAI,2023,Main,True,False,True,2,exclude | unknown,rd7f808d529a1dc1f66fae429 | rf5640271eece6d860c946097
+aaai2023-26013,aaai2023-26013,AAAI,2023,Main,True,False,True,2,exclude | unknown,r72ed6e83123eb0c8ee7ef6ba | rf6aac4784c46a81dd0bbe1ed
+aaai2023-26014,aaai2023-26014,AAAI,2023,Main,True,False,True,2,exclude | unknown,ra52133af5ef8c0a67a60db41 | rb9c8a94410b23a377facac5c
+aaai2023-26015,aaai2023-26015,AAAI,2023,Main,True,False,True,2,exclude | unknown,r11bca70162ab626317df05dc | r5991e9050194388131aa9ab1
+aaai2023-26016,aaai2023-26016,AAAI,2023,Main,True,False,True,2,exclude | unknown,r6efa74fcd71248e139878a7c | ra753a7a2c31c9efd3b5702b3
+aaai2023-26017,aaai2023-26017,AAAI,2023,Main,True,False,True,2,exclude | unknown,r81f9251b17f740b27cf2c207 | rae6d5f30dc93940730079222
+aaai2023-26018,aaai2023-26018,AAAI,2023,Main,True,False,True,2,exclude | unknown,r97bd59e842759c6986ed2ce1 | ra1d16cf20f554261aa434a8e
+aaai2023-26019,aaai2023-26019,AAAI,2023,Main,True,False,True,2,exclude | unknown,r45e9dc8264cb270d88d79eec | r529729b5c0969747453e5c00
+aaai2023-26020,aaai2023-26020,AAAI,2023,Main,True,False,True,2,exclude | unknown,r954d48b8b6bb2e2531ce2c0e | rcd5aacaa01cb8069643685b2
+aaai2023-26021,aaai2023-26021,AAAI,2023,Main,True,False,True,2,exclude | unknown,r39ae2ca62223902407472f92 | rbf7e85dda9c1c1801a04bf8e
+aaai2023-26022,aaai2023-26022,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc769d4756c1efc272f28cd99 | rfa53af3c4d9a0fb6a0f6d974
+aaai2023-26023,aaai2023-26023,AAAI,2023,Main,True,False,True,2,exclude | unknown,r067630cc5191bf34eb6b4951 | r40c92461fbc4e1bff531d707
+aaai2023-26024,aaai2023-26024,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1028e3348aac52d0f57059ec | r89e73cbbe4c2a52895de205c
+aaai2023-26025,aaai2023-26025,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5181539d0edc322c82ffc6e9 | rd7bedbd6c9d0d516e3fbeafd
+aaai2023-26026,aaai2023-26026,AAAI,2023,Main,True,False,True,2,exclude | unknown,ra568cc8cfe4390124e1c76ba | rf6aefbc194c6a213dcc5b273
+aaai2023-26027,aaai2023-26027,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0de7d87db88db8db4344b2e2 | r1200219d38e806718f95a974
+aaai2023-26028,aaai2023-26028,AAAI,2023,Main,True,False,True,2,exclude | unknown,r025d5c661571e79bfc8a304c | rb0c817cba436291d1e7851ae
+aaai2023-26029,aaai2023-26029,AAAI,2023,Main,True,False,True,2,exclude | unknown,r992f8082fa6bd3afd30c064c | ra8057784fd905c98e40308b0
+aaai2023-26030,aaai2023-26030,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0553d3300fe00cd19d516649 | r887f04fb2637de954ede639a
+aaai2023-26031,aaai2023-26031,AAAI,2023,Main,True,False,True,16,include | not_selected | unknown,r033fd76d02a1ddeae27f49f3 | r071080434675f614d387fe6e | r3efa732018dc0f19219601a8 | r57c9ea8fa1724a34c8a19d70 | r6a0e266e6161fa7f532a1169 | r6b18bc45a7b1c02bf5f65735 | r85bdad2a8212d42a751740d5 | r8e18d55642ea37e71446967a | r903f3ffbc9f4ea39ede90261 | r9c08256f7a2fbfacb9a203f0 | ra964d65ebef33f7dab9513e3 | rb8753145ed0f0a6e7583e56c | rc2e6a05ee2b68b2ea1ce791d | rc775918a83cbf0a16213fa95 | re9bf87393cf47610205e9418 | rec33086558fb550c51b08229
+aaai2023-26032,aaai2023-26032,AAAI,2023,Main,True,False,True,2,exclude | unknown,r53ee8c99f107e486b7efa8a3 | r917e111dab99a4d3ef52c8ac
+aaai2023-26033,aaai2023-26033,AAAI,2023,Main,True,False,True,2,exclude | unknown,r9774dc8e0eab425cb2bc9eb0 | r98c8cdd9db573303b171d469
+aaai2023-26034,aaai2023-26034,AAAI,2023,Main,True,False,True,2,exclude | unknown,r25d8891a48c57f7f15007cc8 | rd05e8a86ce4bc827710a74f2
+aaai2023-26035,aaai2023-26035,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5a9c7b06914ae97436b8feec | rc4c7db5243c346b7e3f8cd8d
+aaai2023-26036,aaai2023-26036,AAAI,2023,Main,True,False,True,2,exclude | unknown,r63f17685034bb5d1bbe59efd | r7dbccce2d4842cf5f2e2a375
+aaai2023-26037,aaai2023-26037,AAAI,2023,Main,True,False,True,2,exclude | unknown,r37cbd28dc1622c750da2739c | r79e04f59fffaedffd7345ce4
+aaai2023-26038,aaai2023-26038,AAAI,2023,Main,True,False,True,2,exclude | unknown,r000ed417bc34d0eec76aee64 | racd348370fb93e4274c2bdba
+aaai2023-26039,aaai2023-26039,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc86091992af7e7e3978ab715 | rf730c580fbf35cdb37a8e6ca
+aaai2023-26040,aaai2023-26040,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8d2adec7779395edab37bcbe | ra01f7caf05fb8fbc2729ee56
+aaai2023-26041,aaai2023-26041,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8ef90389b2472a0853ab00c3 | rb40e51f31c8fe5bd0389c347
+aaai2023-26042,aaai2023-26042,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4068489ca2cf904f0a4816c7 | rbde0e338f365298770277f9f
+aaai2023-26043,aaai2023-26043,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3917fd368461d99e9801379b | r966857ccb92173a6beda45df
+aaai2023-26044,aaai2023-26044,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0de95480478efaeb39b12312 | r4cc4159e687e9a90afd976cc
+aaai2023-26045,aaai2023-26045,AAAI,2023,Main,True,False,True,2,exclude | unknown,r42321aeaaf93428141a9150e | rb9143c241038e36b40a72aac
+aaai2023-26046,aaai2023-26046,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0ab36c94afd66fd9dc6e18bd | r938cef95bc77122b62163ac8
+aaai2023-26047,aaai2023-26047,AAAI,2023,Main,True,False,True,2,exclude | unknown,r00a028e5bf46d2647383fbc8 | rca848ee3e809130cbef356c1
+aaai2023-26048,aaai2023-26048,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4bb9bd5e68aacd5f2abb6e3a | r8913a7cb4d35bd4f0f1773eb
+aaai2023-26049,aaai2023-26049,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2e0f2cd35cd050e1570c8ef2 | rfbdfc618aa310fad330fdea9
+aaai2023-26050,aaai2023-26050,AAAI,2023,Main,True,False,True,2,exclude | unknown,r7971c116e285144a0a752e38 | rb3ea3bc77cb20869434e3baf
+aaai2023-26051,aaai2023-26051,AAAI,2023,Main,True,False,True,2,exclude | unknown,r9a865dc81621e5e57dd26927 | ree500dfcffca1ca753151eb9
+aaai2023-26052,aaai2023-26052,AAAI,2023,Main,True,False,True,2,exclude | unknown,r73b4afb4d409d027960cf9e8 | r8675fcb4f8094e3e0b212085
+aaai2023-26053,aaai2023-26053,AAAI,2023,Main,True,False,True,2,exclude | unknown,r735870735cdb6994e28545b8 | rf79fae687dfa593635e21083
+aaai2023-26054,aaai2023-26054,AAAI,2023,Main,True,False,True,2,exclude | unknown,r087549c029d14fa858b33051 | rc6e89a67b32a187be29fcb1f
+aaai2023-26055,aaai2023-26055,AAAI,2023,Main,True,False,True,2,exclude | unknown,rdeb0235625ad5798fe07924a | reeceeafc8164173b8485ba66
+aaai2023-26056,aaai2023-26056,AAAI,2023,Main,True,False,True,2,exclude | unknown,re302da07ddc918e7c5e88969 | rf26ff5623237b682d3ea2e64
+aaai2023-26057,aaai2023-26057,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4ead1e210ddea3d153c8f681 | r9a86efedbb2ebb89aa58218b
+aaai2023-26058,aaai2023-26058,AAAI,2023,Main,True,False,True,2,exclude | unknown,r05f037d724ac06d2de5562ad | r815e8a77d71e7ed7ad57f872
+aaai2023-26059,aaai2023-26059,AAAI,2023,Main,True,False,True,2,exclude | unknown,ra6be5a8f139a7b93561baf8a | rce5610a8c6a2da632280bb02
+aaai2023-26060,aaai2023-26060,AAAI,2023,Main,True,False,True,2,exclude | unknown,r42149d8fce2f00f710081a04 | r45ef6b7645bf850fe5a44c3e
+aaai2023-26061,aaai2023-26061,AAAI,2023,Main,True,False,True,2,exclude | unknown,r308ee6b712de5cfbe732f713 | rc00d8b812936d29307a4b200
+aaai2023-26062,aaai2023-26062,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3e7abefb43917782d61ae084 | r7651026969915f5b2cc8443e
+aaai2023-26063,aaai2023-26063,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1e52c9747e198944cb374e2d | rf82fa569a539d5af3d8aa5b1
+aaai2023-26064,aaai2023-26064,AAAI,2023,Main,True,False,True,2,exclude | unknown,r79c9734c34864db7cffffda2 | r9f69111552c6f2181ca374ba
+aaai2023-26065,aaai2023-26065,AAAI,2023,Main,True,False,True,2,exclude | unknown,r113f054bf03594ef47d68997 | r91db33256ecdb0470f2f2782
+aaai2023-26066,aaai2023-26066,AAAI,2023,Main,True,False,True,2,exclude | unknown,r7556a0d62a3246411017bcb8 | r807b24b61b1a311edbee7a03
+aaai2023-26067,aaai2023-26067,AAAI,2023,Main,True,False,True,2,exclude | unknown,r42048b91aa507e926632b759 | re772614536a675144dc1d52d
+aaai2023-26068,aaai2023-26068,AAAI,2023,Main,True,False,True,14,include | unknown,r19a9f0b42d90b98f93108fbb | r2857c0d2b89a7d7dff781bb4 | r378d2f24f7c7de7a5d6e1c36 | r3b85a5e944a0bb428493c26a | r47083c668c8b040fd184d563 | r4fae5837e9f3b7c7772ea669 | r5c8ac20195819e306db162f8 | r6de0a4fffbc98d6cdd9d3fa0 | ra5c1001a1e57ff3185da2a3c | ra5fb039e14a19d25757e99f4 | rb67075ce089550d9cc70935b | rb6fbd4cfe5cf4020e783811d | re287e3e2479bece407de95e4 | reed7042fdc15c2bd9f6426c6
+aaai2023-26069,aaai2023-26069,AAAI,2023,Main,True,False,True,2,exclude | unknown,r89db1849172b68c566631871 | rad5af0b53473dc978ab0ca06
+aaai2023-26070,aaai2023-26070,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc4ba73291abfbe29731f7bae | rf4959e60e809a586f719c8e8
+aaai2023-26071,aaai2023-26071,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2d6bf10fb7cb220889bd241a | r6361bd5e9d9d025c3ae24d6a
+aaai2023-26072,aaai2023-26072,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3b784f0244dbd8a5f8d7e52c | r4d87814e8c4aca290723c286
+aaai2023-26073,aaai2023-26073,AAAI,2023,Main,True,False,True,2,exclude | unknown,r557378e62c26709ce5a2a2f3 | r863372f43c1a92a233f51377
+aaai2023-26074,aaai2023-26074,AAAI,2023,Main,True,False,True,2,exclude | unknown,r16197d2cf08c590fcb3809d4 | r49de76bb68396e097562669b
+aaai2023-26075,aaai2023-26075,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3007341d2f5fa583cd875b2e | r365bf4c316f267cf3540e8a4
+aaai2023-26076,aaai2023-26076,AAAI,2023,Main,True,False,True,2,exclude | unknown,r58337a0a1d221ed363047eb0 | re28181bef5c6415695f4eaaf
+aaai2023-26077,aaai2023-26077,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3ea4e9040afcd3d05b4fe6c3 | rd2d94e06567102b9450bdfb2
+aaai2023-26078,aaai2023-26078,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0de070ba681bad34214cb46f | r4b6279baac8fe05fa9a426f9
+aaai2023-26079,aaai2023-26079,AAAI,2023,Main,True,False,True,2,exclude | unknown,r427a17096774ee556a6c7bd7 | r640c29ff139c65895379826b
+aaai2023-26080,aaai2023-26080,AAAI,2023,Main,True,False,True,12,include | unknown,r3ffd202f53e4cc6dd7b83f67 | r55b79451d1c26bb25cf2f564 | r69a76f28f1e86c082989a1ce | r6bdb2874d13ec59fa24aa0ad | r6f2ce57cc16636a9c7525739 | r8dd024e3e0cf78f9426aa31d | r97af153d24dcb64e3086ddd3 | rc14bced2edf35a78b4af5ffa | rd02d522be55fe256217d43cc | re4d441ccec646461ce3f6710 | rf41640e0083b06ede1a8bef5 | rfe761f874e693311722df0de
+aaai2023-26081,aaai2023-26081,AAAI,2023,Main,True,False,True,2,exclude | unknown,r9739a28806c31e7ee6ef9409 | rc2f3d6d621c62dd241105d73
+aaai2023-26082,aaai2023-26082,AAAI,2023,Main,True,False,True,2,exclude | unknown,r11bfc87e7a50c2093147af0b | rd2d65bab9d9292b50d4ab9a2
+aaai2023-26083,aaai2023-26083,AAAI,2023,Main,True,False,True,2,exclude | unknown,r073a4ff99285c89f37144c41 | r6e2eaefb530458b11c2ef5fb
+aaai2023-26084,aaai2023-26084,AAAI,2023,Main,True,False,True,2,exclude | unknown,r391a4d1de5255aa4edca3111 | r8aa0fc8606c8cf73868ab099
+aaai2023-26085,aaai2023-26085,AAAI,2023,Main,True,False,True,2,exclude | unknown,r6369c0efb31ba6f8289cfbcd | r964602a96175d2e78be4d825
+aaai2023-26086,aaai2023-26086,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1418077d152843133f6702bd | rb6401bb61bdbdd2b64f3d4f5
+aaai2023-26087,aaai2023-26087,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2c53f14e5ee42678ca88cdc9 | r7aca95b14a37227644aa96ab
+aaai2023-26088,aaai2023-26088,AAAI,2023,Main,True,False,True,2,exclude | unknown,r617408fec6a17fa13877686b | r9e83efdcf7685b46922e37db
+aaai2023-26089,aaai2023-26089,AAAI,2023,Main,True,False,True,2,exclude | unknown,r18b2c2e4a5a756e144a9189f | r71fdf339dc5eaf6fcc237af5
+aaai2023-26090,aaai2023-26090,AAAI,2023,Main,True,False,True,21,include | unknown,r0280967d40ec10907500da2c | r102454618cb1edcd00fea2b9 | r1045456b41ddc7dc3401b29b | r21d99f291d0bc5be5894dcb7 | r25061d4d57b6ac243ae5d32b | r25135aabb5682bca6fc77973 | r4896aaafc5badd83cd196dac | r515f0a0063f73e15f914653d | r56669175ce56b515bab70545 | r73ccca5936d020dde12b3598 | r8e05d4f06619a7e0628a8757 | r99a00baa5d2e0b0888e89099 | ra05a1cfeb18ecc1d387fcdcd | rb0c002ef87e0957d9d3aefcf | rb41c35e62f28aa79fb1b6220 | rbb3b3f5ec0cbcb3c414a0b5c | rccedcd720715063785a0b61a | rd177431b1c0b507d1b515e34 | rebda3a0595e64251b44d0334 | reefe31bb6d87ffb081157441 | rf3aef34bee566643a421fd65
+aaai2023-26091,aaai2023-26091,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5fe68f741a22e1e53f3129e5 | rf479fcc611cd6bc2af07ab53
+aaai2023-26092,aaai2023-26092,AAAI,2023,Main,True,False,True,2,exclude | unknown,r47e3d2bd20f9d173d81aef3b | r937882fb078c8ddcc3fc0711
+aaai2023-26093,aaai2023-26093,AAAI,2023,Main,True,False,True,2,exclude | unknown,ra1c87f241a148d00cacb9d60 | rf0fae027e7366702ed331c80
+aaai2023-26094,aaai2023-26094,AAAI,2023,Main,True,False,True,2,exclude | unknown,r293ae885c5928a94c988b484 | r78227df79d96bb79d4f557e8
+aaai2023-26095,aaai2023-26095,AAAI,2023,Main,True,False,True,2,exclude | unknown,r380f42b9764a105a897bad8e | rcca14127bc50957995e799a3
+aaai2023-26096,aaai2023-26096,AAAI,2023,Main,True,False,True,2,exclude | unknown,r9d84d2d330fcb1cd22be2eb9 | rba7c09673f2c9a26e89a37ca
+aaai2023-26097,aaai2023-26097,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1249f518d287381961b422f7 | r3521ef94be0aafb975290956
+aaai2023-26098,aaai2023-26098,AAAI,2023,Main,True,False,True,2,exclude | unknown,r16d90249bc85b0a4b801212d | r86e0e42b513cc5669fb80c1d
+aaai2023-26099,aaai2023-26099,AAAI,2023,Main,True,False,True,2,exclude | unknown,rae1064f5d37e65ea2f389dde | rdc1fd1a01178d92e645390af
+aaai2023-26100,aaai2023-26100,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2fc8aae1f35b335123b0f424 | r9450d6bd578a22e5f7480d5a
+aaai2023-26101,aaai2023-26101,AAAI,2023,Main,True,False,True,2,exclude | unknown,r68950bb9fe4812010fcd92ae | r87b9413f4287528a5526a7b8
+aaai2023-26102,aaai2023-26102,AAAI,2023,Main,True,False,True,2,exclude | unknown,r68c3d32c51aadd90dee3b970 | r97f4550c83b1c160cf51bc52
+aaai2023-26103,aaai2023-26103,AAAI,2023,Main,True,False,True,2,exclude | unknown,r65d0799f08ccea55eec33732 | r6d756ecc0198628f9be98c97
+aaai2023-26104,aaai2023-26104,AAAI,2023,Main,True,False,True,2,exclude | unknown,r9b38f7f32cf6f318c9e81384 | rb967ff8bce7943c51d46abbd
+aaai2023-26105,aaai2023-26105,AAAI,2023,Main,True,False,True,2,exclude | unknown,r6f90847d9e69e6b680b3e8cf | r885e5c13cccea3475febaf43
+aaai2023-26106,aaai2023-26106,AAAI,2023,Main,True,False,True,2,exclude | unknown,r7e28ea2b33156833aaf067f1 | rcf4c6344a6c828feb41270bd
+aaai2023-26107,aaai2023-26107,AAAI,2023,Main,True,False,True,12,include | unknown,r0b2b0d87a657e9bc91defff3 | r68371bd6117b8b8457e6c5ca | r76428625d133f7ca12c595c2 | r8695e96bcdf9e1e4a358f807 | r95ace96600fee7defd4e2f49 | rb02707c4e97458dc8626fc90 | rcfdbc3ec9ec0ba3341cdfefc | rd3216cdd44fbd06ffab1f8e5 | rd45c67b34f9b532ecfedcd27 | rdcc6e7ca8b01ce27e718bc37 | re1dde8d32b35dd8d41ad0f10 | rfd523d0b2157d2ede54db41e
+aaai2023-26108,aaai2023-26108,AAAI,2023,Main,True,False,True,2,exclude | unknown,r47fa258d97ff3187f112a3ae | r698fa23f4639d8d9eb920308
+aaai2023-26109,aaai2023-26109,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2d5a7a1e1b237404000c1d1e | rdab25b7e83d2a5dc4944a424
+aaai2023-26110,aaai2023-26110,AAAI,2023,Main,True,False,True,2,exclude | unknown,r76b6fc5717ec40921e73fc1b | rcb29d4c2a14657ab98d55b67
+aaai2023-26111,aaai2023-26111,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5f430c4e8c3e1442c48cf355 | r63cbd6fa855b5dd31f46acd5
+aaai2023-26112,aaai2023-26112,AAAI,2023,Main,True,False,True,2,exclude | unknown,r468c7f777a660177f2a9b344 | rc773c6e3e4b91caebdb77c7e
+aaai2023-26113,aaai2023-26113,AAAI,2023,Main,True,False,True,2,exclude | unknown,r6dcf61f7e4056a8ff0f32e33 | rbdabbac9026bbbb3bfb3394b
+aaai2023-26114,aaai2023-26114,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5516f7bb11dd00751c3d1b2d | r791975c33cfcbacec8eea022
+aaai2023-26115,aaai2023-26115,AAAI,2023,Main,True,False,True,2,exclude | unknown,r177fa0d55e6f9e720161c575 | r81960b6ac6d5fa0466610c12
+aaai2023-26116,aaai2023-26116,AAAI,2023,Main,True,False,True,2,exclude | unknown,r9bf41a5171511f96a900f418 | rb8865dd9fd4b5a1b8120debf
+aaai2023-26117,aaai2023-26117,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5eabbd3855915ae59eb7b0de | ra30cee8349936da93f657532
+aaai2023-26118,aaai2023-26118,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0dd0a3d7115cab572e192e03 | rfef5293f06902e816797b2cc
+aaai2023-26119,aaai2023-26119,AAAI,2023,Main,True,False,True,2,exclude | unknown,r35abea1252147b3d12e7d990 | r6c749c8d17d27b7e7ef5cab0
+aaai2023-26120,aaai2023-26120,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2d7d62628a0e6bb215ca20aa | rac7ad5d6c46b0bbf8fb3140a
+aaai2023-26121,aaai2023-26121,AAAI,2023,Main,True,False,True,2,exclude | unknown,r7e3102f16b53661061fa2f64 | reff666942cc7eb264ed1289c
+aaai2023-26122,aaai2023-26122,AAAI,2023,Main,True,False,True,2,exclude | unknown,r122455dab96a815452ef1c66 | r2e0e251e947eef75438c8c8a
+aaai2023-26123,aaai2023-26123,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4ced20823c1961fafe2d172c | r81c92811d348cc1a487a87e5
+aaai2023-26124,aaai2023-26124,AAAI,2023,Main,True,False,True,2,exclude | unknown,ra7d68d9652c4e7216972e70a | rec0fedf16254c054378b1d3a
+aaai2023-26125,aaai2023-26125,AAAI,2023,Main,True,False,True,4,exclude | pending | unknown,r0535cdc0c98155a9e630a01e | r340027f2271effbed5f3a384 | r6bc9f322811d6b24a6bd5be5 | rdbbadc810822b37e49c3d817
+aaai2023-26126,aaai2023-26126,AAAI,2023,Main,True,False,True,2,exclude | unknown,r354156528fcddf7a28169e94 | ra4f8a4de0692a731e3efb268
+aaai2023-26127,aaai2023-26127,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5deda96f8a0c314d8cf5ffce | rf1e955bc2933dd251d9c2970
+aaai2023-26128,aaai2023-26128,AAAI,2023,Main,True,False,True,2,exclude | unknown,r70f4836ca53d16590a6f47f7 | rd9434dc352583033a54b37e9
+aaai2023-26129,aaai2023-26129,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5feff9948a8ea71b5566c797 | r910b4c3aadbc75337bd4a734
+aaai2023-26130,aaai2023-26130,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1c6310e4fec39bb985d28e87 | r30f4a67789dd1b7cef5cafdb
+aaai2023-26131,aaai2023-26131,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4566cdaf5cb30bfd46d989b9 | r843e14ea29e1d2a48b27f01a
+aaai2023-26132,aaai2023-26132,AAAI,2023,Main,True,False,True,2,exclude | unknown,r151cf8b516812fa746303abf | r3708c9524a13dccb91fc5eba
+aaai2023-26133,aaai2023-26133,AAAI,2023,Main,True,False,True,2,exclude | unknown,r197929719d346e87100d0de9 | r540078818b35b5315fa67b9f
+aaai2023-26134,aaai2023-26134,AAAI,2023,Main,True,False,True,2,exclude | unknown,r169a3485f1b790c1d8501259 | r4f8df8934930c2958fd9af48
+aaai2023-26135,aaai2023-26135,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8c929de907d26bebf0f181a9 | r99987be9aaa51df0d2d67371
+aaai2023-26136,aaai2023-26136,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4022ba81b6a8704020734521 | rdf3941801656789d089b9645
+aaai2023-26137,aaai2023-26137,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5ecbf6820fd04519a75515e5 | rd8395c9aa8048991d4900bbc
+aaai2023-26138,aaai2023-26138,AAAI,2023,Main,True,False,True,2,exclude | unknown,r462a97e0496a5d54cd131211 | rf091834a5b9337501fb09717
+aaai2023-26139,aaai2023-26139,AAAI,2023,Main,True,False,True,2,exclude | unknown,r6caaeff9eeb1dcb56c4d54ce | r6ea9ab244fe2ede9446c4348
+aaai2023-26140,aaai2023-26140,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5d093c27be160f185d70d0a5 | ra03d41a0437fa2c0294e1550
+aaai2023-26141,aaai2023-26141,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0ed9651b93f5829be2ff8848 | r16803077813b8aecd08909f0
+aaai2023-26142,aaai2023-26142,AAAI,2023,Main,True,False,True,2,exclude | unknown,r10b002dda6ef11f52754e146 | r5b0168c2ad5fe5b9802e5d16
+aaai2023-26143,aaai2023-26143,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0c41ce3db06895acb3a8acd4 | rf2b7c2a1713edc2af433b35b
+aaai2023-26144,aaai2023-26144,AAAI,2023,Main,True,False,True,2,exclude | unknown,r873ae74174a06fc3a3ab3386 | raa1d60ca9a8924781d41dc34
+aaai2023-26145,aaai2023-26145,AAAI,2023,Main,True,False,True,15,include | unknown,r2b6d03f6ff734c17c85bed08 | r2e6921234270e8a3796f3711 | r2e8c758e65cc84dc36f3123e | r31be3a34f492f31390fbe250 | r3b0946fffc55dec4e11ee29a | r4451d81881b82c1f471f7f2b | r506fa46708774d86bbd14adb | r5281f19bd6c1fdd86f69891f | r56b85be27f98deb81bfc5b17 | r649d9c7f75c35bd48988187e | r796ff3cd60ac7d1db1702ab0 | r8f94bc477f8cbb20b0b949e1 | ra8b466383fc12b188a01d322 | rd109336d18ad5425d4ece189 | re84740acf800a7aadf73f631
+aaai2023-26146,aaai2023-26146,AAAI,2023,Main,True,False,True,2,exclude | unknown,r22350318fd6bb4ee3c1de198 | red8f61399b630c128c689aef
+aaai2023-26147,aaai2023-26147,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5a3611345446867652e29cf4 | rfb582f47ad399f865a9d0c5f
+aaai2023-26148,aaai2023-26148,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5d641e7f7278bd7e67c2cab4 | rc90989b5f530bf82bbb699c0
+aaai2023-26149,aaai2023-26149,AAAI,2023,Main,True,False,True,2,exclude | unknown,r49f4ce40ee2fb7922e99e4ff | r57a181b8462d2c9038a05483
+aaai2023-26150,aaai2023-26150,AAAI,2023,Main,True,False,True,2,exclude | unknown,r20d82f8f99ea82c6413986b6 | r5f7d140f7bbb580698de0450
+aaai2023-26151,aaai2023-26151,AAAI,2023,Main,True,False,True,2,exclude | unknown,r6d9a975ef29d1ba976df2b03 | rc358cf65a97aedb3a528a01d
+aaai2023-26152,aaai2023-26152,AAAI,2023,Main,True,False,True,12,include | unknown,r0e6eeac62c1a206860c451ad | r1403f4f07edd6ba6f999191a | r56cb739065d52e1bd102d246 | r59f413fac649efc1ec68b31a | r681e05596efc671034e5edce | r7a0096a76a751feec03ff76a | r95136f4a55ddbb348dd3ab96 | r9616f7108eb37319ac7ce707 | rbe1dad208a388344cff47fe7 | rdf592d7ce4c4b1651ac491e7 | re5b30bef1325f9f72b79a0ac | rf4d4234217947ab8aeb9be80
+aaai2023-26153,aaai2023-26153,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1802c62b9cbb70bef85ba232 | r43ccef617d725348aa0ad3f9
+aaai2023-26154,aaai2023-26154,AAAI,2023,Main,True,False,True,12,include | unknown,r22c518d9f9aebf1226bb7488 | r29331fe942761f1fbc2517af | r463fec0955df63f962cb526b | r5fe55a9492581416dba84d15 | r644e46548b3b28ae7e0e0704 | r6795ff9bbc463191107620b0 | r8df5e974113de2c3615ca895 | r9169a22ccc88c934e83742fb | rc0557b0a60a4f3593c45926a | rca26026bf346318208660ba8 | ref5752031b042fc484bb3025 | rf6a902a7b01638e0bafcbffb
+aaai2023-26155,aaai2023-26155,AAAI,2023,Main,True,False,True,2,exclude | unknown,r88a02a9147496fc332bd9cce | rdc2f760270fe7f855a19bb36
+aaai2023-26156,aaai2023-26156,AAAI,2023,Main,True,False,True,2,exclude | unknown,r166f8828c7dfe5c27c897e0e | rea4e536857b38c35fa90efa4
+aaai2023-26157,aaai2023-26157,AAAI,2023,Main,True,False,True,2,exclude | unknown,r50df7b04a451f80f8dc4bf9f | raff6ffc5a511f1854aa07527
+aaai2023-26158,aaai2023-26158,AAAI,2023,Main,True,False,True,2,exclude | unknown,rad4b583c9138822a49e63a9c | rcdde969442495f0507eedb3b
+aaai2023-26159,aaai2023-26159,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2f3963fac0b58d5e419f9916 | rae1b757a328f6cff7e75f6cc
+aaai2023-26160,aaai2023-26160,AAAI,2023,Main,True,False,True,2,exclude | unknown,r374731147e5e3993bc54332a | rc75e4512273135e41408eeb6
+aaai2023-26161,aaai2023-26161,AAAI,2023,Main,True,False,True,2,exclude | unknown,r6499d0e51fe98e6d51533b30 | rb844efefdc1adb9150b1bfc9
+aaai2023-26162,aaai2023-26162,AAAI,2023,Main,True,False,True,2,exclude | unknown,r145976178154d8a89b5d9202 | r322b81621ae1e50bb98e2492
+aaai2023-26163,aaai2023-26163,AAAI,2023,Main,True,False,True,2,exclude | unknown,r48fcfcd5723a2eb75bd735ed | rdcd8771b2889d287cc87ff51
+aaai2023-26164,aaai2023-26164,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5ba5ce7e8dad9bf3b6792c34 | rd2762fd1d8a27a52876af19f
+aaai2023-26165,aaai2023-26165,AAAI,2023,Main,True,False,True,16,No affirmative public PDF-image redistribution license established. Non-exclusive arXiv distribution permission is not CC BY. Preserve existing image/permission blockers and core state. | include | unknown,r164dc27a256b9f926e83ad62 | r176c80b39cd33269a1d0df85 | r1945283c9250cedf7e4c5ccf | r1bc38a789baf1be40a5bf491 | r250f72651ac52340a2cf4f33 | r330d444aee229426894543c3 | r3e8514446879ce5d5fe59315 | r4907f0d7eaa3d58e32111650 | r5cbda7c0a8eb2aa262630be8 | r783a884e515efeb96bdc746c | r7ea98e70c202a8f88c9af11d | raa2649214f8dac2c17e0a315 | rb4dbffacfb13ad546ed27b1d | re6f2a62dcd3298cf43d3133e | rf41937c8dc71641772358c26 | rfa4401faa1152d105b32f292
+aaai2023-26166,aaai2023-26166,AAAI,2023,Main,True,False,True,2,exclude | unknown,r169a4c6e70367d6fe3fd2a24 | r4f1723d78d8db459ac3b4276
+aaai2023-26167,aaai2023-26167,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2aaa852dc2d1d4a83fe7aeb3 | r9ddae340727b2a284b4d9c9b
+aaai2023-26168,aaai2023-26168,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3a56b45371e57d6350334409 | rcd6f4aa0f9318f033a0077d5
+aaai2023-26169,aaai2023-26169,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5ec6d654dea2478f144b7ec8 | rf233bb9faf320358b517d3f3
+aaai2023-26170,aaai2023-26170,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1c0d9716f39356ff6ea86bb5 | r6dc5e7b96da779e4ae6e9f3e
+aaai2023-26171,aaai2023-26171,AAAI,2023,Main,True,False,True,2,exclude | unknown,r59cd4428e3281fb1fc9a6d68 | r976a67804b9d5f6300d9558b
+aaai2023-26172,aaai2023-26172,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1d583f2671cb7717ba9cff12 | rdec83b61ce1077e4fecc8d85
+aaai2023-26173,aaai2023-26173,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2f0b807d26826949104acd75 | r751ff75106c345cd010417ee
+aaai2023-26174,aaai2023-26174,AAAI,2023,Main,True,False,True,2,exclude | unknown,re0c86b1caf846c6149654cfb | re9f7648b75e4aa73186a2f9b
+aaai2023-26175,aaai2023-26175,AAAI,2023,Main,True,False,True,2,exclude | unknown,r187b42de6daf56e738af0ef2 | ra65fe779c762bf63656b2824
+aaai2023-26176,aaai2023-26176,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5223c1aae7adf5423af8f28f | rfbb2deaf81cace392a0e0588
+aaai2023-26177,aaai2023-26177,AAAI,2023,Main,True,False,True,2,exclude | unknown,rb70dba038d86d1271e144293 | rc100fff4884ed117637345eb
+aaai2023-26178,aaai2023-26178,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2939c957f63f42d9850bf97f | ra977d0fa51bbe2363c29754c
+aaai2023-26179,aaai2023-26179,AAAI,2023,Main,True,False,True,15,include | unknown,r00a0e1ea5028791965049992 | r1ff5994bf39458b7181a4b95 | r3f1c2d64c70de13c58957d0f | r6a12ab5237764e52a7d5fdc7 | r7874c1b1d2d908f992727f55 | r8976ed993c4305faa2612dbf | ra80d4172b2a2e3701dd2fa26 | ra963437dcc52a3d24e805914 | rac018b8b076d4f8eafb8adef | rac10f829f97075f043144486 | rbe7e6c842b4928676fff7600 | rc820e9f45d314ca928c8b951 | re34373be30e8341812194fc8 | re37e589e242bb9f17a26abf3 | reabdc4c08c12c1a828a41869
+aaai2023-26180,aaai2023-26180,AAAI,2023,Main,True,False,True,2,exclude | unknown,r457feb68a5d82faec813db47 | r92358d3396450a7315adf4c0
+aaai2023-26181,aaai2023-26181,AAAI,2023,Main,True,False,True,2,exclude | unknown,r30e53bdb4644ea6dc90c1139 | r951ebc9da4fff881193845a2
+aaai2023-26182,aaai2023-26182,AAAI,2023,Main,True,False,True,2,exclude | unknown,r340ea985a6c107639e4a6c2e | r9ab624d92123915a2f9b3342
+aaai2023-26183,aaai2023-26183,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3812fb11082ef5252ddab509 | r717092a6284848cd410cd36e
+aaai2023-26184,aaai2023-26184,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc37f147da7f0ec9c1dec95d6 | rddb61711a3c2dafbdf6fc9c1
+aaai2023-26185,aaai2023-26185,AAAI,2023,Main,True,False,True,2,exclude | unknown,rae53f934c0e1f7ca272e936f | rcfc09a1b395aa36a07c8a2b9
+aaai2023-26186,aaai2023-26186,AAAI,2023,Main,True,False,True,2,exclude | unknown,rcbbc3b3e457460aaab95d4c9 | rea8b9af86e75771c3299caa1
+aaai2023-26187,aaai2023-26187,AAAI,2023,Main,True,False,True,2,exclude | unknown,r16baf87e6e872dd36073d64b | rbb5605773887a33466241282
+aaai2023-26188,aaai2023-26188,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3c1f6a6427dc566cbb0aaae5 | rd3a6b5ea3f998bcfa19027cc
+aaai2023-26189,aaai2023-26189,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5878b29ab1775c8e289da46e | re648045774e8e724cb0f0578
+aaai2023-26190,aaai2023-26190,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0816544227532cf11edee006 | r58eba1d73d299bfa991de0d4
+aaai2023-26191,aaai2023-26191,AAAI,2023,Main,True,False,True,2,exclude | unknown,r74af89d1681c45f22706f38a | ra030a863a81b346a2cda8cb5
+aaai2023-26192,aaai2023-26192,AAAI,2023,Main,True,False,True,2,exclude | unknown,r11832fb9a36beec27e371bb3 | rc9323659e86720b84d2d66cc
+aaai2023-26193,aaai2023-26193,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5e2bebb9b4d96d0a76bbe387 | r91ca88921e06b6bf63c5d4d5
+aaai2023-26194,aaai2023-26194,AAAI,2023,Main,True,False,True,2,exclude | unknown,r048b014af612106f7f5bcbd7 | r51d4adc656a95f1b0047f0a2
+aaai2023-26195,aaai2023-26195,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8f372bded7034017c65eb14b | reac111c2dc8a1eba90eb1e8c
+aaai2023-26196,aaai2023-26196,AAAI,2023,Main,True,False,True,2,exclude | unknown,rb5b34a5b7284136aa12b628f | rfa420d6520c6178bb2d6ac12
+aaai2023-26197,aaai2023-26197,AAAI,2023,Main,True,False,True,2,exclude | unknown,r7555cb60fa9dd757920320f4 | refd9255cf2d498e28e01ed22
+aaai2023-26198,aaai2023-26198,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3b3d9f7c6ce8d2679a9fbf16 | r6b574f3903910c55b1ae2a33
+aaai2023-26199,aaai2023-26199,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3bcf5d0165761a47656f3d5d | ra2b16669f87a6fe614ce8116
+aaai2023-26200,aaai2023-26200,AAAI,2023,Main,True,False,True,2,exclude | unknown,r41b8a2588ec68b37a7d065d1 | rd46723ac0dff465ee9f72b8f
+aaai2023-26201,aaai2023-26201,AAAI,2023,Main,True,False,True,2,exclude | unknown,r83fefb1d1a436fbd6162c80d | rcf47878e8136f3a159ccef87
+aaai2023-26202,aaai2023-26202,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2acec66f09aa072ce6b90a54 | raca71956e70161f8d240357b
+aaai2023-26203,aaai2023-26203,AAAI,2023,Main,True,False,True,2,exclude | unknown,r40fc7b9f186573c1825e7436 | r97d9ffb40da1221f8e691391
+aaai2023-26204,aaai2023-26204,AAAI,2023,Main,True,False,True,12,include | unknown,r362bfcc974c4a23cce68bdd1 | r3a44c4fc39c2bc3f105204da | r3d86468b05e127b2a3325768 | r4a92e51a254cff11db33086c | r71d19e86a91731206ba81dc3 | r7c76fae767a7f70a5e3c85e8 | r846593350b8a91bee9e88c6e | r87a13a4c6a5aa448a1d75074 | ra7636a9cd3879d2e5ab41e1e | raad312106c4900e36df093ee | rf3d7ef260566a5fb886310bf | rfb7888deb1d0b703986b047e
+aaai2023-26205,aaai2023-26205,AAAI,2023,Main,True,False,True,2,exclude | unknown,ra5b0933b866dc4b2b823bcd7 | rc5ae5e9c5dd2df29f1e24a2c
+aaai2023-26206,aaai2023-26206,AAAI,2023,Main,True,False,True,2,exclude | unknown,rb1dc7cbb708ff25e472ec161 | rf8f81b950d7184810cd5ac20
+aaai2023-26207,aaai2023-26207,AAAI,2023,Main,True,False,True,20,include | unknown,r0de144de9abe6aab4f5de383 | r0fcc02a80a4bb24ff18523c9 | r12d9969a024ba3b7335d2b4b | r2ce1c44bab5f050108f8a2a6 | r327c90e44d1464a4ee7d2258 | r44acc73129f4f98a92280cc1 | r456530889daf459126e305ca | r52cbc926ba4b7bc78d54e735 | r58ff1faa088ac22f03977f1e | r6446f6b58bd3b77967fc24fb | r83685f1cde0a19d7560b3e04 | r8b9db7627e5036549de8b187 | r94aa3ffb86df4b630f077423 | ra77d70dd512f156c040172e5 | rbdb65106173a38157a78fab8 | rcf2f33642d0c4ea05f0ee219 | rd6391ddae9a378d2af5eff9c | re487e87cd255c9d76fe2b5da | re9cec11944d9f79ba67a99c8 | rf31ea428a5ef38482397f6b7
+aaai2023-26208,aaai2023-26208,AAAI,2023,Main,True,False,True,2,exclude | unknown,r63b9672b11a621510a4be3bf | ra84d6ecfd423f7d4ad064bf8
+aaai2023-26209,aaai2023-26209,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4b138953f62b191240ef3d7f | r96105b73ad7e54b47176cb34
+aaai2023-26210,aaai2023-26210,AAAI,2023,Main,True,False,True,2,exclude | unknown,r18e04db1996cc6083c3a770b | ra482a5b900b561dd5931bd60
+aaai2023-26211,aaai2023-26211,AAAI,2023,Main,True,False,True,2,exclude | unknown,radff13a7e6684361722eec8b | rf64f295d9ae3306bbdbbb670
+aaai2023-26212,aaai2023-26212,AAAI,2023,Main,True,False,True,2,exclude | unknown,r11d4222898b6afa91f2bfc21 | rf0f9559d459f05e64694961e
+aaai2023-26213,aaai2023-26213,AAAI,2023,Main,True,False,True,2,exclude | unknown,r27e8c431a5e82dbd0f9df119 | r881508616804fac639d7c4b8
+aaai2023-26214,aaai2023-26214,AAAI,2023,Main,True,False,True,2,exclude | unknown,r00cb11d0971c6fed115fe68a | r6dc683971015e9a75095cb70
+aaai2023-26215,aaai2023-26215,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1b46aa8eb55c2b2d30a5f127 | r4654f812a9ef103907086ef4
+aaai2023-26216,aaai2023-26216,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3b50fee821f7f954612b9da3 | r545077b814bd469b9d5dbe27
+aaai2023-26217,aaai2023-26217,AAAI,2023,Main,True,False,True,2,exclude | unknown,r48d26d67e0a2fcd27958093a | rea67c8e815154ddc3cf85669
+aaai2023-26218,aaai2023-26218,AAAI,2023,Main,True,False,True,2,exclude | unknown,rb6152c2947580a28d0b51e6d | rda064e3ba4e9129e16b91ecf
+aaai2023-26219,aaai2023-26219,AAAI,2023,Main,True,False,True,2,exclude | unknown,r240071ac891dad25bb137fd8 | rf863c7a1168be7e0cd1dd258
+aaai2023-26220,aaai2023-26220,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3c6f7600fcdbaeba79ac8e9d | rb05a02ab3f68a0e9f1a6d654
+aaai2023-26221,aaai2023-26221,AAAI,2023,Main,True,False,True,2,exclude | unknown,r938efb82e3a9f26bda6f1d70 | ref944b1f3308afb134003732
+aaai2023-26222,aaai2023-26222,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4d6143df2ec36e92b4344890 | r537a050ba28014214879739b
+aaai2023-26223,aaai2023-26223,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0eb48aef3499f7d3fdc705c0 | rd366b8646f7697883bed697d
+aaai2023-26224,aaai2023-26224,AAAI,2023,Main,True,False,True,2,exclude | unknown,r516f279b93550097fbb1d846 | rdd2bff1d63d5e7f02a28343f
+aaai2023-26225,aaai2023-26225,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc8f1ae21cd1558e517d897b1 | rdd897331dc58b70a320640a1
+aaai2023-26226,aaai2023-26226,AAAI,2023,Main,True,False,True,2,exclude | unknown,r6eba86b7f2527189c5349985 | r8253014d90de862f8fccdbca
+aaai2023-26227,aaai2023-26227,AAAI,2023,Main,True,False,True,2,exclude | unknown,rb3e8be865b3c52f3e9213597 | re85d939d5d903a432de1ee21
+aaai2023-26228,aaai2023-26228,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc6b2367c942ad15b213c2b89 | rfc4630e865eb8e28c0d6b360
+aaai2023-26229,aaai2023-26229,AAAI,2023,Main,True,False,True,2,exclude | unknown,r852844a36680fb61182f7cc6 | r934562f362ff434aa019be9f
+aaai2023-26230,aaai2023-26230,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8b3938f0a9d75554b02a5777 | re7961ad11096c2a798ce5853
+aaai2023-26231,aaai2023-26231,AAAI,2023,Main,True,False,True,2,exclude | unknown,re1422714818aa02a19afe9dd | rf53d6d03602de0828f829b23
+aaai2023-26232,aaai2023-26232,AAAI,2023,Main,True,False,True,2,exclude | unknown,rb42f7a9e4f74b88d5c485936 | rf2ec5c77c6c99537d0ddf98e
+aaai2023-26233,aaai2023-26233,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3daff6ec44388baa3bf4abe5 | r90d45503a1475d36e8c0dcd7
+aaai2023-26234,aaai2023-26234,AAAI,2023,Main,True,False,True,2,exclude | unknown,r38758511e047d2254c42896c | raff735f3655caea0b994f75d
+aaai2023-26235,aaai2023-26235,AAAI,2023,Main,True,False,True,2,exclude | unknown,r571e9d7ff1f9442745cad3ec | r9bdeffd650581d1a8522ec98
+aaai2023-26236,aaai2023-26236,AAAI,2023,Main,True,False,True,2,exclude | unknown,r44062336ee23410c92c17fe2 | r7e632dbb305430465576311b
+aaai2023-26237,aaai2023-26237,AAAI,2023,Main,True,False,True,2,exclude | unknown,r032173753b8a75e3f7040ae9 | r24a4174c632f562911378127
+aaai2023-26238,aaai2023-26238,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5ebca6c7b755a3ef7527d705 | ree2b27b2a3c5ce059d5e8d4f
+aaai2023-26239,aaai2023-26239,AAAI,2023,Main,True,False,True,2,exclude | unknown,rb4f4b9c69d3a04ab1740bfce | rfde8544bb5961c6aad0d5870
+aaai2023-26240,aaai2023-26240,AAAI,2023,Main,True,False,True,2,exclude | unknown,r820c86426a7439d69a704dd9 | r95d7ef996e10f6a864887042
+aaai2023-26241,aaai2023-26241,AAAI,2023,Main,True,False,True,2,exclude | unknown,r913d60814b1e5fd699409699 | r91db142119b36f0f230afe01
+aaai2023-26242,aaai2023-26242,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0c8730ad5381aaa7839cfc80 | r138c90aab0a7ff335fb33b16
+aaai2023-26243,aaai2023-26243,AAAI,2023,Main,True,False,True,2,exclude | unknown,r419c4ab92a7444512f3190ea | rdf9e159a8652896d0768b2fc
+aaai2023-26244,aaai2023-26244,AAAI,2023,Main,True,False,True,2,exclude | unknown,r6e7efff0ab03a83dde5cf922 | rceca427b7bd09988c19d756c
+aaai2023-26245,aaai2023-26245,AAAI,2023,Main,True,False,True,2,exclude | unknown,r7cb9aa680833cf4dd1857e13 | rcd598a1c52a99ab4904ab90c
+aaai2023-26246,aaai2023-26246,AAAI,2023,Main,True,False,True,2,exclude | unknown,r68eca1458f2317cdf91eb0ad | r7acbaefd769462bd87b0b6a4
+aaai2023-26247,aaai2023-26247,AAAI,2023,Main,True,False,True,2,exclude | unknown,raa60b317561f41a5da248323 | rbe39a2af61da5bf097adc7a1
+aaai2023-26248,aaai2023-26248,AAAI,2023,Main,True,False,True,2,exclude | unknown,r242cf8d86dc78cfe74d79848 | rde49402877087133bfd40d48
+aaai2023-26249,aaai2023-26249,AAAI,2023,Main,True,False,True,4,exclude | pending | unknown,r147193c7f64ca8ee7781384f | r7e42486b1085c4bf09eb2756 | rd4fddebf701da51ffc008241 | rf5e378ae4aa4803df16b2ed7
+aaai2023-26250,aaai2023-26250,AAAI,2023,Main,True,False,True,2,exclude | unknown,r372bd7742b6710c55921008d | r8adb813f97e99151a85a0ac8
+aaai2023-26251,aaai2023-26251,AAAI,2023,Main,True,False,True,2,exclude | unknown,r652bcacc7d58e82b093b35b3 | r7d3269ad34a93812f7bc4553
+aaai2023-26252,aaai2023-26252,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4ac32462d4b918ce1f767265 | reb3f0726c5012fc2d9570e8d
+aaai2023-26253,aaai2023-26253,AAAI,2023,Main,True,False,True,2,exclude | unknown,r242e0210ef04d939d2dcb0e5 | r46666cec4658309621d9c9c7
+aaai2023-26254,aaai2023-26254,AAAI,2023,Main,True,False,True,2,exclude | unknown,r15334456c946beba8d357a82 | re7313bcef99a85333417fb39
+aaai2023-26255,aaai2023-26255,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1c9fb231f2a9ddafe1c2c686 | r4e2c4a129cdb16ade1c65c68
+aaai2023-26256,aaai2023-26256,AAAI,2023,Main,True,False,True,14,include | unknown,r09821029d7aca08f927c616b | r0f1ac06bf2c4f7f377b4fb29 | r1475bb45a236d0ead195eec6 | r170a94806a46da693d6ee6c3 | r1808095d359f030145c598a1 | r180a1bc2002b0eca96108075 | r2426fc9a3051eee9744f5228 | r24f2a281ea5cb2f6d60faac1 | r2ab2366fc22508dc9a137c8e | r517810e4e0619a6aa2a592ac | r6696748cdb1eaf27b87cccf9 | r6f19a180f3b116e155fe8cf3 | rc03055160a77804df6c85a5a | rf68dc38bdb15039ed7d7ca39
+aaai2023-26257,aaai2023-26257,AAAI,2023,Main,True,False,True,2,exclude | unknown,r7f654277e44c5966b9d15420 | rf19d183a3d947cf127cc3d2e
+aaai2023-26258,aaai2023-26258,AAAI,2023,Main,True,False,True,2,exclude | unknown,r47179c5d82363911eaf5e393 | rba8f01968b2c2495a2b65563
+aaai2023-26259,aaai2023-26259,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5f1c82c24bc55ef0d2ac1537 | r7ca8fb2a90989cc746ea7c67
+aaai2023-26260,aaai2023-26260,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8eac887cb7b11b0b7fdf938b | rff497335c599eaf4919f3e9e
+aaai2023-26261,aaai2023-26261,AAAI,2023,Main,True,False,True,2,exclude | unknown,r15511871717eda12079c1883 | ra58cbf5fcc0c1289a3f750af
+aaai2023-26262,aaai2023-26262,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0e4343b6c4844e2ddcf76413 | r851c516ab4d4b38fa9cf51fb
+aaai2023-26263,aaai2023-26263,AAAI,2023,Main,True,False,True,2,exclude | unknown,r06f73a3d7257f506cdb8b172 | rc524c03472994823257ee278
+aaai2023-26264,aaai2023-26264,AAAI,2023,Main,True,False,True,2,exclude | unknown,rbd27f35a0d92d1f9758e078d | rdfb4e432981ecef7be709904
+aaai2023-26265,aaai2023-26265,AAAI,2023,Main,True,False,True,2,exclude | unknown,ra5bf70f12d744a7db106119f | rfcd6194bce53a99759a483a5
+aaai2023-26266,aaai2023-26266,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5866ca9e8bebea4568fa8ce7 | ref14ec6f27c50c070bd414b8
+aaai2023-26267,aaai2023-26267,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3eeb31d0d02ffc0c5c4e5921 | r442cdcb9f3b37cb1394f327f
+aaai2023-26268,aaai2023-26268,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2011bac339e722c3806a7b68 | re95b19a5ff71cc849e6022e6
+aaai2023-26269,aaai2023-26269,AAAI,2023,Main,True,False,True,2,exclude | unknown,rd7218b8311919a55552dbe6a | re9ffe4fa6bacee8233c83409
+aaai2023-26270,aaai2023-26270,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5b418a541e89f2a9c99a3e82 | r6e6bb1a519ce083168477637
+aaai2023-26271,aaai2023-26271,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1325ac9df0a2c40b6410c404 | r996c51b010ed5eca5d86099f
+aaai2023-26272,aaai2023-26272,AAAI,2023,Main,True,False,True,2,exclude | unknown,r050173b2dfbbb2e1596cf15d | r77f07133bed83439a33cbb4c
+aaai2023-26273,aaai2023-26273,AAAI,2023,Main,True,False,True,2,exclude | unknown,re97b99a1f13d078895e6eb17 | red1e1f404866702b9703ad4d
+aaai2023-26274,aaai2023-26274,AAAI,2023,Main,True,False,True,12,include | unknown,r1ae8dd2d24404b68a8553f3f | r39e1927ba3fd0da7132bd96f | r7b502e0aa1a7b9f25655b402 | r7c10590cf34e006462b9a601 | r83dd4959d33c36b038cb9f42 | raa308d8102389fa9579abedf | rb57e19686a3540ccc9e7548a | rb6975fc74832362c9404ee0a | rbe1c23da9e07db635ac2f583 | rd3cef34f8bee3da8be8e028d | rde1d4cf74f0ed5bfde0f5640 | re0954a057e2d38ff22814e85
+aaai2023-26275,aaai2023-26275,AAAI,2023,Main,True,False,True,2,exclude | unknown,r05838350a3964acfe962f0ca | r5ca2ec28c48b4ab726ab9df0
+aaai2023-26276,aaai2023-26276,AAAI,2023,Main,True,False,True,2,exclude | unknown,r6d9aea7cbbfab6dba8cad6c4 | ra75c6b20574bb9c798b11cec
+aaai2023-26277,aaai2023-26277,AAAI,2023,Main,True,False,True,2,exclude | unknown,r862696452fa5e4f78d267a08 | ref4a46b32c3ba92b7cff0d37
+aaai2023-26278,aaai2023-26278,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1608f7e752e5ce20b7f88651 | rd1b1c4a9bc41321bc12bd669
+aaai2023-26279,aaai2023-26279,AAAI,2023,Main,True,False,True,2,exclude | unknown,rcdc2d219c5d018cec0202bbc | re0b6eed059323b40a222b126
+aaai2023-26280,aaai2023-26280,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc3b72908067f1992c7740b1d | rf5ee61923294af1579578078
+aaai2023-26281,aaai2023-26281,AAAI,2023,Main,True,False,True,2,exclude | unknown,r19fed7203c688d5509099730 | r9a02d0a5e78db26f26648469
+aaai2023-26282,aaai2023-26282,AAAI,2023,Main,True,False,True,2,exclude | unknown,r481dd811bf94f36434810ea2 | re69d08bad4690c2e51f43ed5
+aaai2023-26283,aaai2023-26283,AAAI,2023,Main,True,False,True,2,exclude | unknown,r7797a4de0dd7bcacc1d021e4 | rb15cf7420629c9625c9807b2
+aaai2023-26284,aaai2023-26284,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0a2fb2fba64c6f82d0197c2a | r730d621609e2e27ac1e6c8a5
+aaai2023-26285,aaai2023-26285,AAAI,2023,Main,True,False,True,2,exclude | unknown,r25b5142856ed49079bc64782 | rede11e9dd1058b5521bb5223
+aaai2023-26286,aaai2023-26286,AAAI,2023,Main,True,False,True,2,exclude | unknown,r18e26df194a05cab88bf56bb | r8c5a1e3f271a825cefa6bc5e
+aaai2023-26287,aaai2023-26287,AAAI,2023,Main,True,False,True,2,exclude | unknown,r70c39e2ad19f08575963f166 | r9600a668a461fef34cfe6441
+aaai2023-26288,aaai2023-26288,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc9d0b55fc38bec09b7704e09 | re4de15138143147cd26a9e6f
+aaai2023-26289,aaai2023-26289,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0a8dee371664ef73d2794276 | r9ba348f27547bd8c139deb63
+aaai2023-26290,aaai2023-26290,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4d19d95a8f0c902143393c91 | r9faee0896da29feac0d6f805
+aaai2023-26291,aaai2023-26291,AAAI,2023,Main,True,False,True,2,exclude | unknown,r01a74190d0de0c5621810de1 | rb201bb703516d4cfaf26dba8
+aaai2023-26292,aaai2023-26292,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3d462af092d36dccd5524531 | r55ab6c7cdbd1e4abf799fe2e
+aaai2023-26293,aaai2023-26293,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0edfc755a7ab66420e179a17 | r79cdcf22f2eb9d0cd57c55c0
+aaai2023-26294,aaai2023-26294,AAAI,2023,Main,True,False,True,2,exclude | unknown,r12d5dd18fd4a39201c6305b9 | r9a0a1b2a45d8836312826b0e
+aaai2023-26295,aaai2023-26295,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8e4c915e446cef1998e8fe32 | r93e2910181c55d7738b2d3e6
+aaai2023-26296,aaai2023-26296,AAAI,2023,Main,True,False,True,4,exclude | pending | unknown,r6cfa70f7ba7b2da0edbeacf6 | r82a1b948879dc58295c0c637 | rc9cb5c7e3e769f2b235ffb83 | re3a99d991806b540720ed585
+aaai2023-26297,aaai2023-26297,AAAI,2023,Main,True,False,True,2,exclude | unknown,r7b3934e69ef94ddbaf6a4b3f | r9088dfb92938c912a42fa27f
+aaai2023-26298,aaai2023-26298,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2ff5204d51e72df5864cbc56 | rfd27203581ad88ce2f7299bf
+aaai2023-26299,aaai2023-26299,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4a69a754d232e57724b6dbb8 | r6a1f670a1bbb1fe8a8fc7413
+aaai2023-26300,aaai2023-26300,AAAI,2023,Main,True,False,True,2,exclude | unknown,r290ac23ea6cca5626c814094 | r719e40ab7eb387cb2c5f5a03
+aaai2023-26301,aaai2023-26301,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4724f24ca7e3c0f9f337d47c | rc6edcfcacc494ef34e3db46e
+aaai2023-26302,aaai2023-26302,AAAI,2023,Main,True,False,True,2,exclude | unknown,r9031f96f7be65a7479a79f3c | rfe008dbe6b82e63bb42f2edf
+aaai2023-26303,aaai2023-26303,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0bbf79411c056ce4013bd7cd | re8aff702643456e3ac06ae4e
+aaai2023-26304,aaai2023-26304,AAAI,2023,Main,True,False,True,2,exclude | unknown,r657ff8ea476b76cce133a1aa | r8f3ba5ee72118665a19eb9e0
+aaai2023-26305,aaai2023-26305,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2519c7e0198dc5c753a90a9f | r5e90991499e24a69a6b87983
+aaai2023-26306,aaai2023-26306,AAAI,2023,Main,True,False,True,2,exclude | unknown,raad70a73769ec30409772622 | rdbe4df7c14aeb479cf9fe571
+aaai2023-26307,aaai2023-26307,AAAI,2023,Main,True,False,True,2,exclude | unknown,r38aabc9e3f9ae7dc45965480 | r7a49733e8e58abee75097ded
+aaai2023-26308,aaai2023-26308,AAAI,2023,Main,True,False,True,2,exclude | unknown,r122aa2b9f6139fbbe68d53ff | r5458d933e8c7c0a9d1f019b3
+aaai2023-26309,aaai2023-26309,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8a43d0d8434c7649b75347d2 | rfac0f9501695946abc52db21
+aaai2023-26310,aaai2023-26310,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3ba66d42e3270a3da0bb353b | r3e8c3b488007e007dc7f2d32
+aaai2023-26311,aaai2023-26311,AAAI,2023,Main,True,False,True,2,exclude | unknown,r45d2fb0869fda55da4b7f4c1 | rcef698d2c4f9beac0dac6b56
+aaai2023-26312,aaai2023-26312,AAAI,2023,Main,True,False,True,2,exclude | unknown,r39fe79d9334b8709e2f04a5f | re9863dbee38a3286ec8250fa
+aaai2023-26313,aaai2023-26313,AAAI,2023,Main,True,False,True,2,exclude | unknown,ra018229bad28a666a9cb86d1 | ra5d4cff268183c1ff0f07215
+aaai2023-26314,aaai2023-26314,AAAI,2023,Main,True,False,True,2,exclude | unknown,r63cb2a6c8eb4a3368142a8ff | rc38363f2793c3385f9699b7a
+aaai2023-26315,aaai2023-26315,AAAI,2023,Main,True,False,True,12,include | unknown,r172b2cc3ee13b326cb26594f | r1a7d94247fee0fb66d5695cc | r25b1a1844f3588dcc79feecc | r508ebea2f23db82c40a85c05 | r818e233afc3bf50955192a83 | r8ee58686169299a311e2a85a | r9ca0b5b9be9cece7a05fb24e | rbdb5af3c3d8e386f50420b96 | rd385a20c3333f03611632e9a | rdd09f93a0478478c85d0c308 | re64a9bed828eac970a99552d | rfb9ce66188e5240ea1c1202f
+aaai2023-26316,aaai2023-26316,AAAI,2023,Main,True,False,True,2,exclude | unknown,r7744cad891a6db9ad0236feb | r980bf2ce1fdeb82b2b61ac69
+aaai2023-26317,aaai2023-26317,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3af4f5086dbd3a799efe021f | rbb8a02da61e677d4663220dc
+aaai2023-26318,aaai2023-26318,AAAI,2023,Main,True,False,True,12,include | unknown,r02dd832d99587d2bf52638b2 | r1da9a14d674b61584c0ab4b3 | r4c711e2558cca752cdd722df | r552ceab17ad10974941774db | r581cd4d5699a3be4293a424c | r5eebb45e9cf58e4ba972f020 | r74572b34583ab1e4153a48d9 | r97f38030b63a059b965649fb | raf67dd8b882709f77853acb1 | rb1bcf91acf0ddffe9eeac309 | rb5e0a4e41592309991632a2a | rce26196157e6a77077068084
+aaai2023-26319,aaai2023-26319,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2d107b57fff5e722ebfcb416 | r87a3cbb1ec408908de37e24c
+aaai2023-26320,aaai2023-26320,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8f6655e801a46d52152da628 | r8feae8a3e4f5e8abf7386bd6
+aaai2023-26321,aaai2023-26321,AAAI,2023,Main,True,False,True,2,exclude | unknown,r272766b37435fb6f33d9b407 | r8742c067e72fcc353fb006ee
+aaai2023-26322,aaai2023-26322,AAAI,2023,Main,True,False,True,2,exclude | unknown,r45b3a16041364214b35d71c7 | re51a88922e8655c62880beca
+aaai2023-26323,aaai2023-26323,AAAI,2023,Main,True,False,True,2,exclude | unknown,r9ba6e724a3b4c6134d441a3e | raadb4ed681ed388d2145cfab
+aaai2023-26324,aaai2023-26324,AAAI,2023,Main,True,False,True,2,exclude | unknown,ra5e74806a18c5b3c0c767652 | rccdb2417473c5a1632381522
+aaai2023-26325,aaai2023-26325,AAAI,2023,Main,True,False,True,2,exclude | unknown,r9891731078d5bd7824f56073 | rbb6bc48b72762e44c9d40b7e
+aaai2023-26326,aaai2023-26326,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8925c7f3d6a3ef6ccc776740 | re3d1f60a79081426714477f4
+aaai2023-26327,aaai2023-26327,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0e305100645b70880593cbab | r35aa98e467bc9aeaf590e719
+aaai2023-26328,aaai2023-26328,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1a55c8fcaf423979bfdc85cf | r22528c5312bc0da009c63925
+aaai2023-26329,aaai2023-26329,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1d35e82d27fe1dc32b912dcf | r3399c2aaa8274e7d33ceda1e
+aaai2023-26330,aaai2023-26330,AAAI,2023,Main,True,False,True,2,exclude | unknown,r25c2aa47888715ba8a377ca7 | r5d89e0badac135fdc76dfa5e
+aaai2023-26331,aaai2023-26331,AAAI,2023,Main,True,False,True,2,exclude | unknown,r67a37d8f3ae2cea392b50761 | r81043154b7a6452371c5e8a8
+aaai2023-26332,aaai2023-26332,AAAI,2023,Main,True,False,True,2,exclude | unknown,r29af893c8c6a4f5f24395635 | rc962f2a69f91d8f576cbed25
+aaai2023-26333,aaai2023-26333,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2d57a9983fa9b22c62101115 | rf0c7f3e30d21ead4f1a06615
+aaai2023-26334,aaai2023-26334,AAAI,2023,Main,True,False,True,2,exclude | unknown,r6240caa32c051bd1866ce69b | r9d53b4677c907896f957fa87
+aaai2023-26335,aaai2023-26335,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1885c06d45a5d58869be1651 | r8da9e81010674ba255554276
+aaai2023-26336,aaai2023-26336,AAAI,2023,Main,True,False,True,2,exclude | unknown,r068c1d91aca11a578691d997 | rfac643410438622c4063ee4c
+aaai2023-26337,aaai2023-26337,AAAI,2023,Main,True,False,True,2,exclude | unknown,r297d6c75f96091861f1db200 | r5c4251337e7125d2f7985c31
+aaai2023-26338,aaai2023-26338,AAAI,2023,Main,True,False,True,2,exclude | unknown,r158c07038d645a89f784735c | r1e38dde5f600e5629d1e3075
+aaai2023-26339,aaai2023-26339,AAAI,2023,Main,True,False,True,2,exclude | unknown,r25ad34cc13464fa14d54b98e | rd019341c25e109a556b8596f
+aaai2023-26340,aaai2023-26340,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1f1eeee12b20f0b312408e2d | r2fff83abe7da8fafae1f9954
+aaai2023-26341,aaai2023-26341,AAAI,2023,Main,True,False,True,2,exclude | unknown,r220c950ea9b56062b1188ad8 | rc4f41e56f7219dd4b4a615c0
+aaai2023-26342,aaai2023-26342,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1c11a56f41dfae5f5fc0eee0 | rd5dd909facf5fef959bd5502
+aaai2023-26343,aaai2023-26343,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2a15ff557d12cf3d52c5b645 | rf9c327739e0abcc4a6b3e149
+aaai2023-26344,aaai2023-26344,AAAI,2023,Main,True,False,True,2,exclude | unknown,r52b6b86a38714bbced44909d | rda92e558b1409d1b6704a180
+aaai2023-26345,aaai2023-26345,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0964176027e6ab9ebf06453a | ref952deadcbfa6394798632d
+aaai2023-26346,aaai2023-26346,AAAI,2023,Main,True,False,True,12,include | unknown,r06c6d5331ff2da46c0d3cb8d | r110663358e84b4e971626e5e | r12a57d0d8bed773b942b4165 | r19e3edfbcb5cbc896d52fb4a | r55c632b7df126427e037df7a | r88bbe4e7936855e1da89fd49 | r9a58b8dfbce9c07b61b1d397 | ra71e1dabc204fdca2dc13e54 | raf4407274c70034a3d8d722c | rb242929da6a413fd0abef8f5 | rbe222dc81aa4db6fd848a73b | re053e9e5bd0ebefcfb8ffa3e
+aaai2023-26347,aaai2023-26347,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4ec0bc4a7398fd929e39f513 | rf6484e5be493296adb5aa1a5
+aaai2023-26348,aaai2023-26348,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc1cb24770aacf13a844cb1bf | re2f0cc69c62e4538956a7260
+aaai2023-26349,aaai2023-26349,AAAI,2023,Main,True,False,True,2,exclude | unknown,r50bfdfdeff6bce3729debec4 | rca4967861b34e43e719fa03c
+aaai2023-26350,aaai2023-26350,AAAI,2023,Main,True,False,True,2,exclude | unknown,r12ec120e8b89472e7920277a | r5c04904d8e08b00e4c9086ac
+aaai2023-26351,aaai2023-26351,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4b23a76960b3f7a4ade612fd | r92bd63d819d197cc99eeb3d0
+aaai2023-26352,aaai2023-26352,AAAI,2023,Main,True,False,True,2,exclude | unknown,r460a846ab0fe1d76b6ca3cec | r8ebb9e41c0913dd73c0f84ae
+aaai2023-26353,aaai2023-26353,AAAI,2023,Main,True,False,True,2,exclude | unknown,r9642cb5fcc8f527effdc737d | re7e3a423420a77f5063aac74
+aaai2023-26354,aaai2023-26354,AAAI,2023,Main,True,False,True,2,exclude | unknown,r37467fe7e28f3ce1a16bc31d | r3aebb135212464f13081157b
+aaai2023-26355,aaai2023-26355,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5d3367f791276016f29bfcd5 | re6ed17e227365a6f4298ccc2
+aaai2023-26356,aaai2023-26356,AAAI,2023,Main,True,False,True,2,exclude | unknown,r70bae899b98eb3262e6e46e6 | r8044fbc556784f005f4fb79b
+aaai2023-26357,aaai2023-26357,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4533d25f387398d9455fb1f4 | ra123dde3c67f5ac2115d64bd
+aaai2023-26358,aaai2023-26358,AAAI,2023,Main,True,False,True,2,exclude | unknown,r80e9edcdff3504f577e72d65 | raa538250db25a2beea88c017
+aaai2023-26359,aaai2023-26359,AAAI,2023,Main,True,False,True,2,exclude | unknown,r225644c97bde11004ab3c5bb | r4319b82d83f9b5e555607015
+aaai2023-26360,aaai2023-26360,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8d5d239e9d362a623c832d6d | ra3f303d3dc7135dd42f66c12
+aaai2023-26361,aaai2023-26361,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5930463a0622c3efdf42bdb7 | rf5eb96e49a552a9109bfdcb7
+aaai2023-26362,aaai2023-26362,AAAI,2023,Main,True,False,True,2,exclude | unknown,r198e6012a8e80b4e4b5262e3 | r5af3c827104dd068699b9ad6
+aaai2023-26363,aaai2023-26363,AAAI,2023,Main,True,False,True,2,exclude | unknown,r03466a468ca7fde2d7ef7634 | r5a145dd40a657720c60d944a
+aaai2023-26364,aaai2023-26364,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc5c34d9d93dbd9bebedf333d | rd3d8dfbcf4d4c2371930fce0
+aaai2023-26365,aaai2023-26365,AAAI,2023,Main,True,False,True,2,exclude | unknown,r821fc388b7d8dc5710769f36 | r8b4e1bff8bdb67e6c58d7b57
+aaai2023-26366,aaai2023-26366,AAAI,2023,Main,True,False,True,2,exclude | unknown,ra8df6852640d6d4c387ec897 | raf79437b3c1072e04b9e6988
+aaai2023-26367,aaai2023-26367,AAAI,2023,Main,True,False,True,2,exclude | unknown,r580fd41932fba3ec7c276c7d | r8a5da9aa77a09268c5c28589
+aaai2023-26368,aaai2023-26368,AAAI,2023,Main,True,False,True,2,exclude | unknown,r973c3906688b311686a9933f | rd69ca53c369f970efeb25919
+aaai2023-26369,aaai2023-26369,AAAI,2023,Main,True,False,True,2,exclude | unknown,r7fd99c5f73a4259c9b65602b | rc573dcf2be83e874b81f9c74
+aaai2023-26370,aaai2023-26370,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2270c79e67ce85991c70c107 | rb919f52ef0fd2338227ecf73
+aaai2023-26371,aaai2023-26371,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4bf67c3a58e32a27fe685e8d | r59c67ab1ddb34fb02ab87914
+aaai2023-26372,aaai2023-26372,AAAI,2023,Main,True,False,True,12,include | unknown,r01de1994ce996c6b3dcb90f6 | r09468b201196c2cdb045f20d | r0bc192ff2565f4809a8fe6f6 | r100ee615d8d8f15f6157a084 | r55d03d022026673384ebccf4 | r6c971ef5780f4aabebbc4606 | r86c848c91e7ad5a08a7bbf9b | r871c0987043c20faa76d7278 | r875529fda8e98fc1ac078477 | rc2f009d947b717fc4bffad34 | rcce41f0cda62de816c796267 | rcd909d98310dc29cb22fcfd1
+aaai2023-26373,aaai2023-26373,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4ba07554e893faf2874aa019 | rb69ebb21654f68ef06ff0456
+aaai2023-26374,aaai2023-26374,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4c1e5e34973fd486a09cb274 | r547b71c9203117add2d1de9b
+aaai2023-26375,aaai2023-26375,AAAI,2023,Main,True,False,True,2,exclude | unknown,r7420d62b74a89ba713805df0 | rb9f5e0c6f685e9480dba4786
+aaai2023-26376,aaai2023-26376,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1d45afafd32fd2c71be64369 | r5f4ac20f7f6a88f2f171cd49
+aaai2023-26377,aaai2023-26377,AAAI,2023,Main,True,False,True,2,exclude | unknown,r58ee62e253bebd17121f8e67 | rb17c509cd638ed797d621c97
+aaai2023-26378,aaai2023-26378,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0e6267affe74f992c4e5ccdf | r738836c7bf10cee9854787b2
+aaai2023-26379,aaai2023-26379,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2e5f5e8aa172ae693125b200 | r675cf6bc122fe569c6d19592
+aaai2023-26380,aaai2023-26380,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4137c6ded40655f451955e11 | rf8a2f3f3d65937c084010edc
+aaai2023-26381,aaai2023-26381,AAAI,2023,Main,True,False,True,2,exclude | unknown,r23a9bee8446365de2d40c22e | r313997f5bbec1224d2e66739
+aaai2023-26382,aaai2023-26382,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0ac061b9f69dc5e05df06664 | r69d5ab1f0ff5ea72b3772c14
+aaai2023-26383,aaai2023-26383,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc8736a50abe77d0b5290f3f2 | re34c78b94acc6ee450f6e7c5
+aaai2023-26384,aaai2023-26384,AAAI,2023,Main,True,False,True,2,exclude | unknown,rebde6794a098d8d26381bb17 | rf6a2ad821ef32bba1dafb281
+aaai2023-26385,aaai2023-26385,AAAI,2023,Main,True,False,True,2,exclude | unknown,r22813e6480fb7bfc3d55e12a | rdc98700eb4c5fbf8bf308d85
+aaai2023-26386,aaai2023-26386,AAAI,2023,Main,True,False,True,2,exclude | unknown,r374e735ac7c6224b944d7eb2 | rc0a0752900a98a1070d64775
+aaai2023-26387,aaai2023-26387,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2703a0d82eb10f16e468d9f8 | r37784723b7f0c63fff8b689f
+aaai2023-26388,aaai2023-26388,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5da991d97f60d464d8dd07ae | rc2332a3c775d873a070d1f6b
+aaai2023-26389,aaai2023-26389,AAAI,2023,Main,True,False,True,2,exclude | unknown,r910d500fee8315c44564eae5 | rc25be555355aee8dbc53509f
+aaai2023-26390,aaai2023-26390,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0596892e5eb20f91a9df2a85 | r3a25d9510e01101cea80417c
+aaai2023-26391,aaai2023-26391,AAAI,2023,Main,True,False,True,2,exclude | unknown,r15e8a70dee4e4be8e81d4faf | rc3a3899f09e9f3205fae00aa
+aaai2023-26392,aaai2023-26392,AAAI,2023,Main,True,False,True,2,exclude | unknown,rad4226cc982d182b6c223bf3 | rdc9522dabaf2f8263f636fc0
+aaai2023-26393,aaai2023-26393,AAAI,2023,Main,True,False,True,2,exclude | unknown,r53e91bb2fb96a1d7cb324f17 | re9546a87a6ee8fbcd1e43b30
+aaai2023-26394,aaai2023-26394,AAAI,2023,Main,True,False,True,2,exclude | unknown,r553a880d423c897c4dc73f76 | rc36c46f39332b81b7c7707f0
+aaai2023-26395,aaai2023-26395,AAAI,2023,Main,True,False,True,2,exclude | unknown,r28ae5f0c188fca3834a380bc | rfb0b368ae4c2eb5120162543
+aaai2023-26396,aaai2023-26396,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4070c4430b18182fc10045fd | re3005636198ad7eca48462c1
+aaai2023-26397,aaai2023-26397,AAAI,2023,Main,True,False,True,2,exclude | unknown,r243ef211df66b4033752001e | rc6f6aaf2c9cfe795fff525be
+aaai2023-26398,aaai2023-26398,AAAI,2023,Main,True,False,True,2,exclude | unknown,r9bb6fb164992094cfef3f93d | reda7942e6301fb22eb8c44c2
+aaai2023-26399,aaai2023-26399,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1db7d917c9312d38ba8fb4d9 | r4e5f2e76dc37d5dedfb90193
+aaai2023-26400,aaai2023-26400,AAAI,2023,Main,True,False,True,2,exclude | unknown,rdd76fddfe94b64a24d93722d | re18e1f577fb5b85eb2fd69a6
+aaai2023-26401,aaai2023-26401,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0c2f4fb9cdd57504b4de9f14 | r1a4a913c0b60f974c16f386f
+aaai2023-26402,aaai2023-26402,AAAI,2023,Main,True,False,True,2,exclude | unknown,r708db84d70c892a1b26118fa | r8b881891ac9ab5913a596061
+aaai2023-26403,aaai2023-26403,AAAI,2023,Main,True,False,True,2,exclude | unknown,r6e5e2b477f71eeb8fbf89dc7 | re6ed33ee97fdb7e789ecc540
+aaai2023-26404,aaai2023-26404,AAAI,2023,Main,True,False,True,2,exclude | unknown,r08e2c872ce565f2d23abade2 | r1e34616b4796b499b8dfb193
+aaai2023-26405,aaai2023-26405,AAAI,2023,Main,True,False,True,2,exclude | unknown,r301adc13d8715e6e7070b310 | r8a20b5cb502312f55dc22877
+aaai2023-26406,aaai2023-26406,AAAI,2023,Main,True,False,True,2,exclude | unknown,r6768930ba9c29ad1f5643893 | r84c9f14f69a5f073f0451481
+aaai2023-26407,aaai2023-26407,AAAI,2023,Main,True,False,True,2,exclude | unknown,raad82947ed7b6b8d28ba1a22 | rd1faee85f72e4bfaa7a566bc
+aaai2023-26408,aaai2023-26408,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8a56c3177552a3c723cc5740 | r9bd4a4a9aa7518e3db7aa390
+aaai2023-26409,aaai2023-26409,AAAI,2023,Main,True,False,True,2,exclude | unknown,rb048dc7653b1750bf747ca0f | rfc575c4823aca75695114502
+aaai2023-26410,aaai2023-26410,AAAI,2023,Main,True,False,True,2,exclude | unknown,r02e5f05ac47e14f32fe1d0d1 | r7235eb2772c118ae0a7fb97c
+aaai2023-26411,aaai2023-26411,AAAI,2023,Main,True,False,True,2,exclude | unknown,rba713c6578c1da3520f7ae58 | rf92b3ee177b7378b3718f92e
+aaai2023-26412,aaai2023-26412,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3a718dac4bfc419a19b8c44a | ra1b1ffa7e638c6fdad2d7342
+aaai2023-26413,aaai2023-26413,AAAI,2023,Main,True,False,True,2,exclude | unknown,r761d195806d9199353ac96f1 | re2b1791a3d346082588862bb
+aaai2023-26414,aaai2023-26414,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1718ee69dfa9b73a9df0d31e | r446faf49ee65f57bfadeedb1
+aaai2023-26415,aaai2023-26415,AAAI,2023,Main,True,False,True,4,exclude | pending | unknown,r02094b0cd980623f894f9697 | r1f14e89d3b50a23960ba0bc3 | r4960a126ceee493b33b0cb8f | rfde08b451c2c222f33e00e95
+aaai2023-26416,aaai2023-26416,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1780fef61e1794bd22391692 | r8517d5e5ee20d68fd5d1826a
+aaai2023-26417,aaai2023-26417,AAAI,2023,Main,True,False,True,2,exclude | unknown,r50589a631060cfe5a84e5c42 | r89b51ff3b36688d834a73778
+aaai2023-26418,aaai2023-26418,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3a43f2afc0810dc617e19629 | ra3eb586807899aa5618c294d
+aaai2023-26419,aaai2023-26419,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc1753cf11687194a1590e1c5 | re44d4134403f5e62ecc4a122
+aaai2023-26420,aaai2023-26420,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8b67678651cd683ffa8657d5 | rd44b8f1d875f8f79f7ccb236
+aaai2023-26421,aaai2023-26421,AAAI,2023,Main,True,False,True,2,exclude | unknown,r9bdde207658a0ebc32790477 | rb477459b076fe3b64aac8c6f
+aaai2023-26422,aaai2023-26422,AAAI,2023,Main,True,False,True,2,exclude | unknown,r689663d2520f134e7f39b242 | rb62fa50cb0c7a476e211d3c5
+aaai2023-26423,aaai2023-26423,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1a35ed72d27b978b21d14d8b | r5713051957ac7607d66afbed
+aaai2023-26424,aaai2023-26424,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5e8675ee2d8720aa1e5beebd | r855efe41b6f3448fcb319449
+aaai2023-26425,aaai2023-26425,AAAI,2023,Main,True,False,True,2,exclude | unknown,rba858c13774eba8a9b8922c0 | rc359c7d4a419734f1676bf74
+aaai2023-26426,aaai2023-26426,AAAI,2023,Main,True,False,True,2,exclude | unknown,r65b62386634c231eb8ecddc7 | r69824309d72a859b372a6fce
+aaai2023-26427,aaai2023-26427,AAAI,2023,Main,True,False,True,2,exclude | unknown,rdb5e93cd1d6240e0592f8fbb | reff7f3a3970292f09e9cece6
+aaai2023-26428,aaai2023-26428,AAAI,2023,Main,True,False,True,2,exclude | unknown,rbab29d98701b81257d11e66e | rfc4feda8f9bb9155b22386ed
+aaai2023-26429,aaai2023-26429,AAAI,2023,Main,True,False,True,2,exclude | unknown,r451bb4bd1dfb7eee5d6ba9ba | r4fdf29bb611984962e6a27c1
+aaai2023-26430,aaai2023-26430,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8ddfd81dca538d3502f73e28 | re9bbbe439a3dc8a7001d44c8
+aaai2023-26431,aaai2023-26431,AAAI,2023,Main,True,False,True,12,include | unknown,r067b515bc641ee296c729c86 | r0f4cd6ad8bf393556a18b073 | r49e84aae37afc50490cc2480 | r5bdc059925f3ebdeaff93bba | r9fba0c3976cf52c57097ee64 | rab694e73936f1d1533b1a8a8 | rac37a5730c1a4fba8482d732 | racad4eced2a89d1402f4f1b3 | rd37061d08fdde21e1865bac1 | re22041c046cb425bb8a61fcb | re8eecb9b82c2871b68301f04 | rfa7bca2fbae4d9eb7c8f5528
+aaai2023-26432,aaai2023-26432,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2c6d2b91fcdba1c9aea367d7 | r456ce0f19c142a394fae5dd2
+aaai2023-26433,aaai2023-26433,AAAI,2023,Main,True,False,True,2,exclude | unknown,re47e86d201f376d3592f54b5 | reace8953314fd08a06cd7f1d
+aaai2023-26434,aaai2023-26434,AAAI,2023,Main,True,False,True,2,exclude | unknown,r03a254f03d48943caacdbca5 | r6549c131173bfa52ddbf8916
+aaai2023-26435,aaai2023-26435,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5a3d5475f486f6091c5d7337 | r720a4c3d9aecc5e7afac3488
+aaai2023-26436,aaai2023-26436,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0e7310421cba576706e9ca7a | r9f70f7e9a9c87ed434dd2992
+aaai2023-26437,aaai2023-26437,AAAI,2023,Main,True,False,True,2,exclude | unknown,r22300f82d227644ef6b78a25 | re3df289c91a6bd319f0b40fe
+aaai2023-26438,aaai2023-26438,AAAI,2023,Main,True,False,True,2,exclude | unknown,r64bb893be92346ba87326011 | rb0ca20adbb06d010f41354fa
+aaai2023-26439,aaai2023-26439,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2d57265402d46d2f75e8fd10 | r7708cf79dd7149c4b096cb31
+aaai2023-26440,aaai2023-26440,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3f7a203676c6d8f12eb703b2 | redcdf12927c7050656f9e2b9
+aaai2023-26441,aaai2023-26441,AAAI,2023,Main,True,False,True,20,include | unknown,r010ab586507833f072bea87f | r03479d24e1d4da15a8660632 | r0ac72a3e5f6428ac6c0e0ec4 | r0c480350fd4754c40af244e6 | r0ccf2542fb0227e1913dfec6 | r518d8411134f2489cd5d127f | r5503033311f4e7b8733f3ddc | r5aa558a2a68d1711c05658ae | r5af4be063201712d578cf8b4 | r5fdf75dcb3e832c6ac6ad83e | r94b7786c5498eb15c56dfcb5 | r955ae3c0ca14abe6177c599b | r96f3967a232b47cdb842b523 | raee68ae872d3c6e04427c2e0 | rb0398f8af262f5691f595735 | rbd365b6a145df61b9c20e6cf | rcea72602ff55748cd6faa45d | rcf047a7a1b7bf26719004bf8 | re33183ad7cd446e7d171cbf4 | rf62337722f55182df567eb0a
+aaai2023-26442,aaai2023-26442,AAAI,2023,Main,True,False,True,12,HOLD | pending | pending medical study-balance review | unknown,r020471be21926bbf5ae958d5 | r094bc1bd99ff5f00ae5733d4 | r19dd75fe53510f7bf89f7f82 | r3298c76f7fed0292412601d5 | r34686f810a75b42a5a11660b | r4568e8879fe0f3baed936bf7 | r5d545a35c1031bb8b986f00f | r6577d5176dc091ab5e76df09 | r8168ebc110cfd658734c88da | ra07aa5683d3d8e90771a16c1 | rae9ca8739822c32b1a33844e | rf0a797304445c49132a67313
+aaai2023-26443,aaai2023-26443,AAAI,2023,Main,True,False,True,2,exclude | unknown,r21fa2718a9b19c0d596cf1cf | re859e38c40e96aaa4a02d238
+aaai2023-26444,aaai2023-26444,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0ba73f416343295505de0bac | r3961caf0339d5dd11b5fcf25
+aaai2023-26445,aaai2023-26445,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8b946fbbedc92a52cc638dd7 | rd4b101193795724cd8104293
+aaai2023-26446,aaai2023-26446,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3b022d7f09893aac329205e8 | r74047b2e3b6d9d422486bd3f
+aaai2023-26447,aaai2023-26447,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5cd60c15592347f0f8be4d77 | r997a311cbd20d8ccbc455f1b
+aaai2023-26448,aaai2023-26448,AAAI,2023,Main,True,False,True,4,exclude | pending | unknown,r4d9a6fc9ceb506fe4b745bb4 | r7b91170c44599167306259fb | r90cd8291ae89650fa1571c5e | ra72288ddef0a777f191c6324
+aaai2023-26449,aaai2023-26449,AAAI,2023,Main,True,False,True,2,exclude | unknown,r771b90c61043f36431a71fb6 | rf916439005b9009c6bc0e2af
+aaai2023-26450,aaai2023-26450,AAAI,2023,Main,True,False,True,2,exclude | unknown,r760fe4dd195dc669e7cb16a6 | rea7dec7af8d2f30783dcfe71
+aaai2023-26451,aaai2023-26451,AAAI,2023,Main,True,False,True,2,exclude | unknown,r20d83699edef2e72a2d3f86c | r84e3af7c2d2b80b2d2c4c63f
+aaai2023-26452,aaai2023-26452,AAAI,2023,Main,True,False,True,12,include | unknown,r07699fe64cd534656edb3613 | r0a9874d5bd22a5e94f545ac6 | r18495bb224f90dd9787b8419 | r2ea132562c19d20622c0751a | r504ea866b13d8739c03a602c | r534c0abb8caa3eeeb53709a5 | r56aa4af95259a63599567eb7 | r855fb3efe95704d5e33e6255 | rca7e9edf161b3c2e56b112f8 | rd4331d3ede6813535a214130 | re7ecbec551e4158784edfd2b | rec755d20d7cb7f712650b8b0
+aaai2023-26453,aaai2023-26453,AAAI,2023,Main,True,False,True,2,exclude | unknown,r807db4d07e1d2dcb0f4117da | rb9dd1635543d7fdc403ad17c
+aaai2023-26454,aaai2023-26454,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0546aa6d07a87b0ed57f0449 | rc6895b9f4cbfca69b775d704
+aaai2023-26455,aaai2023-26455,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc14a2636ef4c0827884adf81 | re6758bf566930c8e6119ab14
+aaai2023-26456,aaai2023-26456,AAAI,2023,Main,True,False,True,2,exclude | unknown,r866003ed5e9df65b09cfecf0 | ra445ef64fad7b54dbd3bd133
+aaai2023-26457,aaai2023-26457,AAAI,2023,Main,True,False,True,12,include | unknown,r12d4b495c4db6204dc04be68 | r297fa2751b51ae993483a6d0 | r444b955ab3b657c3ee97d1eb | r8911b1eec5f2cc29e4afea3b | r8d6a379cab9e8d7cd71dbce1 | r8da0c431c6284932acc2a279 | r8f4786db4c52f2deb470af9d | r93c2c48cc2005ce57b5aca3a | raa63dabb6dec688d14e23dbf | rb529824be46c2359a5ecbb38 | rc8c598faa77e438104869b4e | rd5bcccfbe58af68f0beb560f
+aaai2023-26458,aaai2023-26458,AAAI,2023,Main,True,False,True,2,exclude | unknown,r73f8d9f8f7dd9521aa6d3d87 | rbeb7ce024e131151707f9c6e
+aaai2023-26459,aaai2023-26459,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0f21134752c6ea7f24495e90 | rebe1e38f721e27263decddbd
+aaai2023-26460,aaai2023-26460,AAAI,2023,Main,True,False,True,2,exclude | unknown,r04c4918f6925fa989f61557a | r75eba7287803838050d4dc5c
+aaai2023-26461,aaai2023-26461,AAAI,2023,Main,True,False,True,2,exclude | unknown,rb5dd0766449a75faffec2347 | rcd6195722066c9e9efc22f39
+aaai2023-26462,aaai2023-26462,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3e142661c7ed03ab0a0d7268 | ra11f143b305a3df0f581a973
+aaai2023-26463,aaai2023-26463,AAAI,2023,Main,True,False,True,2,exclude | unknown,r27fd5fa5d6257f7d569406fe | rfed2434bf9a179cff43c3638
+aaai2023-26464,aaai2023-26464,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc03c6f6d7f3c51a5e6716b30 | rd0d1abacaae939eea366560b
+aaai2023-26465,aaai2023-26465,AAAI,2023,Main,True,False,True,2,exclude | unknown,ra160be4b1840339a9f1e9c42 | rdf15dd73cdff46e5c4faa4fc
+aaai2023-26466,aaai2023-26466,AAAI,2023,Main,True,False,True,2,exclude | unknown,r83271ec033ee91c89d731701 | rc03784c54f62e3a1507b2324
+aaai2023-26467,aaai2023-26467,AAAI,2023,Main,True,False,True,12,include | unknown,r0dbf4fc8b95e66eccaf88602 | r150fc5cae7ffbfaee9ed7b14 | r2600796e2245cf63e5ca24fb | r4ceadf718d5b1efe8e08ddea | r6142ca5c35f1e2d9df6c4983 | r6b1ae64aab40a8db4810ce8d | r7337a2e9b8eb4f7f82157883 | r777f7a7bab945d9f6136d385 | r85f810fd036c3fda58f1d0be | r8d590e1364c0e68908ad7d4c | r8eefcce9ba5d1b70f7bbb448 | rc65ddb1b0af7e5fc7aaca7bc
+aaai2023-26468,aaai2023-26468,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8a55287953502380e00b2896 | rc4a4bc6947633278ca32007f
+aaai2023-26469,aaai2023-26469,AAAI,2023,Main,True,False,True,2,exclude | unknown,rae459802d5b84682209e7f48 | rba18c60f16be6c49eddc9348
+aaai2023-26470,aaai2023-26470,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0dbd898ca7edfa8bfd02ec6c | r29909505757ec70ab4bd94d8
+aaai2023-26471,aaai2023-26471,AAAI,2023,Main,True,False,True,12,include | unknown,r0ff854fa2d8555e03ed3417e | r14750ad0b137c9f52ae87294 | r2c591286c2574f9beb7361a4 | r326970b81407b74ec336c9a6 | r5f37e20a728ae361c1067d29 | r5f5c72d1adaecad9f0be892e | r8cbac70b474429520e10d0f6 | r90d8df530f47f0fe0c07ff1d | rb6d8d4288b25167c4815e887 | rc6b2dfedb70224abae31c3fd | re675149500fee5aeb8d54ab8 | ree81438a0784491616d7aa3a
+aaai2023-26472,aaai2023-26472,AAAI,2023,Main,True,False,True,2,exclude | unknown,r69a4f76fa6ecb6e0b04ef548 | r6f51f646707e27f834f3af08
+aaai2023-26473,aaai2023-26473,AAAI,2023,Main,True,False,True,2,exclude | unknown,r66dbe54ab663df3b922b5f4d | r9fc9daacec442f8ac7fb0a9a
+aaai2023-26474,aaai2023-26474,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0885f0f3790bbf26cb9416dd | rd1d19e5fefeb11a7f7c8fc7a
+aaai2023-26475,aaai2023-26475,AAAI,2023,Main,True,False,True,2,exclude | unknown,r16e8a9ca88e237df92b4af2b | reb66de1b70bc2097776ae55b
+aaai2023-26476,aaai2023-26476,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4f865003f9dec56c04b81802 | rd79244de4a6c7be8e5a42fde
+aaai2023-26477,aaai2023-26477,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4e76f4ec2ffb9310b3f16229 | r609831e6ca13524009c77653
+aaai2023-26478,aaai2023-26478,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1b04f4102bca517cb85ed181 | r40370931ab3f9f999013f607
+aaai2023-26479,aaai2023-26479,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1cb93bb72a569504020ca44c | r2057bfc4720053c4bedecde3
+aaai2023-26480,aaai2023-26480,AAAI,2023,Main,True,False,True,2,exclude | unknown,raddfb12f0821df310bcb4129 | rf7823cd187a1d321d04e72eb
+aaai2023-26481,aaai2023-26481,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0d276bbd5c2994b23e8939c0 | r12205742612583471be7c027
+aaai2023-26482,aaai2023-26482,AAAI,2023,Main,True,False,True,2,exclude | unknown,r823e38fe99421cadae5dafd4 | rdc597eeb3c287aa9de385809
+aaai2023-26483,aaai2023-26483,AAAI,2023,Main,True,False,True,2,exclude | unknown,r30ba70928b442c2fb488da8f | rbae4a4bb047696e3fb782e82
+aaai2023-26484,aaai2023-26484,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4e3765485f6d3d66e9bc5552 | re31b16aa6bf582b3065cec79
+aaai2023-26485,aaai2023-26485,AAAI,2023,Main,True,False,True,2,exclude | unknown,r7ab097b652918755cdd42532 | rf724207dd93de96fedaade68
+aaai2023-26486,aaai2023-26486,AAAI,2023,Main,True,False,True,2,exclude | unknown,r13e0a840b39bbbf20539cf88 | rce391007dd4580f2b769db6d
+aaai2023-26487,aaai2023-26487,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0c03e45c148051ee5e6a6551 | ra30746ba96edf31efb1c9a4e
+aaai2023-26488,aaai2023-26488,AAAI,2023,Main,True,False,True,2,exclude | unknown,r01faed048a2dc26a03a0528b | ra89409f0e8d509ab6c3ae931
+aaai2023-26489,aaai2023-26489,AAAI,2023,Main,True,False,True,2,exclude | unknown,ra2005cecbaf5ac342c63649c | rb903f93bc76392828759336c
+aaai2023-26490,aaai2023-26490,AAAI,2023,Main,True,False,True,2,exclude | unknown,r6ab6a4d39b775bf17fae0774 | ra6587c68888593c2949978cb
+aaai2023-26491,aaai2023-26491,AAAI,2023,Main,True,False,True,2,exclude | unknown,ra1dbac8c7a69ce3d8f1c9f25 | rcaa70233102554d8f65b37f5
+aaai2023-26492,aaai2023-26492,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3eaa69b6bbf5641a80f88f17 | r833ddfdeafd2e11b345395ef
+aaai2023-26493,aaai2023-26493,AAAI,2023,Main,True,False,True,2,exclude | unknown,r104f0839f2d6e82b986aa2fd | r34e6901e7d27744ac10d84e6
+aaai2023-26494,aaai2023-26494,AAAI,2023,Main,True,False,True,2,exclude | unknown,r01bfdca42216f8d50b6c6311 | r4a2391a878b8f13e5fcd2238
+aaai2023-26495,aaai2023-26495,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5425d3a82d106096253dc973 | r678611d07e7ae8fc9532e3c6
+aaai2023-26496,aaai2023-26496,AAAI,2023,Main,True,False,True,2,exclude | unknown,r03f67dab1f1512807b7e55ca | r83059a378403fb5b58198fcc
+aaai2023-26497,aaai2023-26497,AAAI,2023,Main,True,False,True,2,exclude | unknown,r76bd8bc273a27c04e1336e45 | rf31ce9ec365d885ceda0cb1a
+aaai2023-26498,aaai2023-26498,AAAI,2023,Main,True,False,True,2,exclude | unknown,r6e2b6c4bb05ac2d87ff0cfc7 | rda43e7e8e019ca2f1a318927
+aaai2023-26499,aaai2023-26499,AAAI,2023,Main,True,False,True,2,exclude | unknown,r60f7adaaddc9eec207017e16 | rf75b77f90b3b901f75160fd9
+aaai2023-26500,aaai2023-26500,AAAI,2023,Main,True,False,True,2,exclude | unknown,r75992d2cce38910e707721b8 | rbe662968738745dd06d6ec5a
+aaai2023-26501,aaai2023-26501,AAAI,2023,Main,True,False,True,2,exclude | unknown,r82f8332f4b735429e6b263ca | r84af571ebafff8757fe44fd6
+aaai2023-26502,aaai2023-26502,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4897389fe2fb1193261f525c | re5e4f579f4165f2f8832a3d1
+aaai2023-26503,aaai2023-26503,AAAI,2023,Main,True,False,True,13,include | unknown,r10b62a43d4324e047fb2e162 | r3f403d3ad7160675455eed5b | r48ed7bedc1d37ac1372b995a | r4adf95bfb032805edf09e29e | r5e6a8ca4e318feb82d85bd8b | r6c92c82165374ae6d1d08767 | r761c6169d2d4bb9e32efba0a | r9720d951a0b2c6ef74bc1e08 | rb2cdb1e4d4191a66fbc0a8a1 | rbe4cdf4ac6fd1337558b3ada | rcc7d5885b9544bcc9f8feba8 | re06b88eec148afb8259f97bb | rec47655947d465c2fb7e2da1
+aaai2023-26504,aaai2023-26504,AAAI,2023,Main,True,False,True,2,exclude | unknown,rd5b9256d9ffa4ea6e7d6a822 | rf995aa5af3a18dd9c3a7b0c4
+aaai2023-26505,aaai2023-26505,AAAI,2023,Main,True,False,True,2,exclude | unknown,raa4949ef27b279898b976ba9 | re6a41aa68c927ce54cece9d4
+aaai2023-26506,aaai2023-26506,AAAI,2023,Main,True,False,True,2,exclude | unknown,r34106a3a90c9f7e83b6df15a | r6d46556371277c843c864e33
+aaai2023-26507,aaai2023-26507,AAAI,2023,Main,True,False,True,2,exclude | unknown,rb9bf7d94d2dd4b5fc5f0067b | rf25f9f97a48a214e4ea1ff4f
+aaai2023-26508,aaai2023-26508,AAAI,2023,Main,True,False,True,2,exclude | unknown,r42218d29a0971ef8d915eb85 | r9864121c07f2c6f4355d7987
+aaai2023-26509,aaai2023-26509,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3537d22677e6b36bf07790fa | r43ae315209a1962c3e29b349
+aaai2023-26510,aaai2023-26510,AAAI,2023,Main,True,False,True,2,exclude | unknown,r37498c5661b3ca1afe7abfeb | ra20b1620900120fcb03c3457
+aaai2023-26511,aaai2023-26511,AAAI,2023,Main,True,False,True,2,exclude | unknown,r71c44ae9aba7760142cb0bc2 | reb46918bbdac771f63ca32e9
+aaai2023-26512,aaai2023-26512,AAAI,2023,Main,True,False,True,2,exclude | unknown,rcc686a207bae56f55e9bb422 | re5cf17cd666dac58d05f769b
+aaai2023-26513,aaai2023-26513,AAAI,2023,Main,True,False,True,2,exclude | unknown,r80938323df84c2412d8329f5 | rcc8aa9f7ab97d594251e4ad0
+aaai2023-26514,aaai2023-26514,AAAI,2023,Main,True,False,True,2,exclude | unknown,r745dafad2ff443fbddd0f5ce | rda17d572ecb7362ba79f5bf1
+aaai2023-26515,aaai2023-26515,AAAI,2023,Main,True,False,True,2,exclude | unknown,ra5cfae1372cb70e06c6ed7fd | rf6a0b1e7af4e785621b713c6
+aaai2023-26516,aaai2023-26516,AAAI,2023,Main,True,False,True,2,exclude | unknown,r77e4a88bc61189a2d2776990 | rb9c9de521ef43b66aac1c53e
+aaai2023-26517,aaai2023-26517,AAAI,2023,Main,True,False,True,2,exclude | unknown,rd05733f2b291647a08c03960 | re959732c54baac62b608ff5c
+aaai2023-26518,aaai2023-26518,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4fbbd5ff17bfcaadaa2a189d | ra3460691d0cac8e0b2cac1b4
+aaai2023-26519,aaai2023-26519,AAAI,2023,Main,True,False,True,2,exclude | unknown,r757d45e3e05378777e3a2e74 | ree8c999bde8f6eb715aee7c7
+aaai2023-26520,aaai2023-26520,AAAI,2023,Main,True,False,True,2,exclude | unknown,r30c9bc0b7d93f898a4ca587a | r6d6ee61e0f7f8d114749dc62
+aaai2023-26521,aaai2023-26521,AAAI,2023,Main,True,False,True,2,exclude | unknown,r08a2dc7a7db22d86d25fd7ae | r47c7d85aefe9783cd6c62ca3
+aaai2023-26522,aaai2023-26522,AAAI,2023,Main,True,False,True,2,exclude | unknown,r476cf1f28d5c361ee21bcc2d | r8c54e3b6559ca9c6cdc8a00f
+aaai2023-26523,aaai2023-26523,AAAI,2023,Main,True,False,True,2,exclude | unknown,r13ebad8253f73a1916259b41 | rf39040105e5dd42e276e8075
+aaai2023-26524,aaai2023-26524,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5d001d923dc9654e0e053023 | rbfdcd93538b914d2b3004905
+aaai2023-26525,aaai2023-26525,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2df719478cb18f4417035dfb | re9f1f20b2274fe5500b78aef
+aaai2023-26526,aaai2023-26526,AAAI,2023,Main,True,False,True,2,exclude | unknown,r29bf0c62334cc1e25d29b204 | rb112ddc37f2b31e8dc719fcb
+aaai2023-26527,aaai2023-26527,AAAI,2023,Main,True,False,True,2,exclude | unknown,r21b167acbff559f7cd75b3a1 | r28ab0f60f5d1131d556b0727
+aaai2023-26528,aaai2023-26528,AAAI,2023,Main,True,False,True,2,exclude | unknown,r914d02ae7342dbc5d7b682a3 | r974c51817ddc246e9317617b
+aaai2023-26529,aaai2023-26529,AAAI,2023,Main,True,False,True,2,exclude | unknown,r356578cdd8df8e49cc2dcf38 | rfe6b864f619efb1e21ddb31d
+aaai2023-26530,aaai2023-26530,AAAI,2023,Main,True,False,True,2,exclude | unknown,r03834f43b7df47a702da6af5 | r820c35d4788d8816223c75d7
+aaai2023-26531,aaai2023-26531,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0e8b07745aa49f50ef912144 | rce9fd4f2bb74d2e8330e748b
+aaai2023-26532,aaai2023-26532,AAAI,2023,Main,True,False,True,2,exclude | unknown,rd6cfc98d487f0ca32e8d1c1d | reafa5a08d0f4fa167bede9d3
+aaai2023-26533,aaai2023-26533,AAAI,2023,Main,True,False,True,2,exclude | unknown,r22cabeff7bef7d0a44776a31 | rad6b5d2401a4eabcd24c2193
+aaai2023-26534,aaai2023-26534,AAAI,2023,Main,True,False,True,2,exclude | unknown,r479d694648209cccce589605 | raf868a53284e983e6987f9d6
+aaai2023-26535,aaai2023-26535,AAAI,2023,Main,True,False,True,2,exclude | unknown,rbc1130a5158a215b0595ed7a | rd57dad87dffc667e13d987c3
+aaai2023-26536,aaai2023-26536,AAAI,2023,Main,True,False,True,2,exclude | unknown,r6e974e205c7d4f2a3c0a4512 | r8cc8de4ba31a97b387f43ece
+aaai2023-26537,aaai2023-26537,AAAI,2023,Main,True,False,True,2,exclude | unknown,r157cc957a7b909db9baa67b4 | rb48e52d19505944a33eea003
+aaai2023-26538,aaai2023-26538,AAAI,2023,Main,True,False,True,2,exclude | unknown,r00e2306b1ae4f30d5eef8714 | re01703208acf990bc9f91f23
+aaai2023-26539,aaai2023-26539,AAAI,2023,Main,True,False,True,2,exclude | unknown,rb6ed68693b4d0092bd422d56 | rbcb5dea2e813a65e376ebaf7
+aaai2023-26540,aaai2023-26540,AAAI,2023,Main,True,False,True,2,exclude | unknown,r731af64f539c4b49996063e1 | r8767eb42a12380bc4a84aa0e
+aaai2023-26541,aaai2023-26541,AAAI,2023,Main,True,False,True,2,exclude | unknown,ra8857c433e13f8619cee4e8f | rd3cebad52a5e18af50b1b7ed
+aaai2023-26542,aaai2023-26542,AAAI,2023,Main,True,False,True,2,exclude | unknown,rdd11696e1ad1fc5da065467d | re28a0ec9c38d2b73c59625eb
+aaai2023-26543,aaai2023-26543,AAAI,2023,Main,True,False,True,2,exclude | unknown,r03ecb8bfea9cd67fcb337771 | rc6c705989f4e4e2070d49789
+aaai2023-26544,aaai2023-26544,AAAI,2023,Main,True,False,True,2,exclude | unknown,r39cf81adcdf2859bcf24066f | r972b05e11536a5a1552c96da
+aaai2023-26545,aaai2023-26545,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3f4bfc1b258dee1f8a341107 | raa1a130466beb7331fc0c7b9
+aaai2023-26546,aaai2023-26546,AAAI,2023,Main,True,False,True,2,exclude | unknown,r820555faf8467a24d57a1181 | rb4b68a68cfc7dcc6421457ff
+aaai2023-26547,aaai2023-26547,AAAI,2023,Main,True,False,True,2,exclude | unknown,r04962741e5ced4fcdc9e7723 | r1d8d77eae1a5e0c25bf720d0
+aaai2023-26548,aaai2023-26548,AAAI,2023,Main,True,False,True,2,exclude | unknown,r54c7bf1b32ad2e716ea8ba14 | r82d049fe56f10ef9fe2aed9d
+aaai2023-26549,aaai2023-26549,AAAI,2023,Main,True,False,True,2,exclude | unknown,r07e59ed14d43158f2cc43e5a | r7d98fecc6ba2ccacede758ec
+aaai2023-26550,aaai2023-26550,AAAI,2023,Main,True,False,True,2,exclude | unknown,rbcdf2d820a9224dcbb989a79 | rcfd1175b2531532af8ca10bb
+aaai2023-26551,aaai2023-26551,AAAI,2023,Main,True,False,True,2,exclude | unknown,r00bea4f3afa1f47ff3054927 | radbaad1bb7670421c205abe4
+aaai2023-26552,aaai2023-26552,AAAI,2023,Main,True,False,True,2,exclude | unknown,r28dc2d59510365008ef68280 | r5a2ca5b728cb1eea93e599b1
+aaai2023-26553,aaai2023-26553,AAAI,2023,Main,True,False,True,2,exclude | unknown,r148e2861969c9c66c09311c7 | rf958402b0949d6065ddfc4ba
+aaai2023-26554,aaai2023-26554,AAAI,2023,Main,True,False,True,2,exclude | unknown,r02cf40cf758ab02c21b78617 | r8e59d12974dc935b2a3e5cb9
+aaai2023-26555,aaai2023-26555,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0f67f01c4281c5967f9a65a0 | r2505d42a28c3cbc9ed139e9e
+aaai2023-26556,aaai2023-26556,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2f4627a1e16d11ac9e1153e1 | r9137b33b029d22f9d4491361
+aaai2023-26557,aaai2023-26557,AAAI,2023,Main,True,False,True,2,exclude | unknown,r127af3d79afd0d3f82b8f0c7 | rbfacd12beb56ad19f619cb96
+aaai2023-26558,aaai2023-26558,AAAI,2023,Main,True,False,True,2,exclude | unknown,r39df14acc73c634e6f5a6236 | rb9af4fe010d7f7d550535feb
+aaai2023-26559,aaai2023-26559,AAAI,2023,Main,True,False,True,2,exclude | unknown,r263c0b7aa18ffb9242a57d29 | raa2c4600963361a961b73a3f
+aaai2023-26560,aaai2023-26560,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5d9e0c143267a48cf04f608d | re52b12ecd11e4c47c81c496f
+aaai2023-26561,aaai2023-26561,AAAI,2023,Main,True,False,True,2,exclude | unknown,rdab5ebbf87fae4e97defe254 | rdcb0fe26589cb0ff38631a3e
+aaai2023-26562,aaai2023-26562,AAAI,2023,Main,True,False,True,2,exclude | unknown,r56f1dc668e34feb530a7ff82 | r96ccc69dddad4c2a160acd0a
+aaai2023-26563,aaai2023-26563,AAAI,2023,Main,True,False,True,2,exclude | unknown,rbf5d050947d0e429540cc626 | rf435e91da81d7afafcefd199
+aaai2023-26564,aaai2023-26564,AAAI,2023,Main,True,False,True,2,exclude | unknown,r359e8688829396e3e0e1400c | r5e365f93a22a13fe8a727783
+aaai2023-26565,aaai2023-26565,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc20c1e5b887e913f6181261c | rd34542dbd78f00ca24b14ed0
+aaai2023-26566,aaai2023-26566,AAAI,2023,Main,True,False,True,2,exclude | unknown,rbcfb1b5021d2d3340dda7231 | rf771c5d4f0ef3f006571672a
+aaai2023-26567,aaai2023-26567,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3e9788e60c50ab6682d4dda8 | rab83de95af380e9b75cb6b84
+aaai2023-26568,aaai2023-26568,AAAI,2023,Main,True,False,True,2,exclude | unknown,r15a00538cf317d0d933bf262 | rc659af4a1a524e86e7b343a9
+aaai2023-26569,aaai2023-26569,AAAI,2023,Main,True,False,True,2,exclude | unknown,r6f2d1d71e8accb22e1654a13 | rc02db1fb69bb8aaa7f9122e5
+aaai2023-26570,aaai2023-26570,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5e6746549c2284332f90192a | rc1b340e5b5312344bf164cb0
+aaai2023-26571,aaai2023-26571,AAAI,2023,Main,True,False,True,2,exclude | unknown,r056d3aa68e21def7cee4ae9a | rb411b12c7948747bfde56428
+aaai2023-26572,aaai2023-26572,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8c07005045d1717907b071f2 | rd36cc8581467d95b533cc099
+aaai2023-26573,aaai2023-26573,AAAI,2023,Main,True,False,True,2,exclude | unknown,r726b9b74982ed4b35fe7be65 | rcc04a20421fbe32a4b8f4675
+aaai2023-26574,aaai2023-26574,AAAI,2023,Main,True,False,True,2,exclude | unknown,r30b8d282508f12f1a243cb87 | r482f48054e98950cb6acbe91
+aaai2023-26575,aaai2023-26575,AAAI,2023,Main,True,False,True,2,exclude | unknown,r72b361b4210e51fe1cc3f7b1 | r9db6c4648c8c61f7d4969aca
+aaai2023-26576,aaai2023-26576,AAAI,2023,Main,True,False,True,2,exclude | unknown,rd68529070240e9aef35b1c51 | rf88eb03ee21d0f6968c7644b
+aaai2023-26577,aaai2023-26577,AAAI,2023,Main,True,False,True,2,exclude | unknown,r15a9178bb4ceb515a40f56ca | re648c9be6c2945620dea8915
+aaai2023-26578,aaai2023-26578,AAAI,2023,Main,True,False,True,2,exclude | unknown,r32cbdfc65870aba33d16950f | r78405503af7e0551a8831a05
+aaai2023-26579,aaai2023-26579,AAAI,2023,Main,True,False,True,2,exclude | unknown,rb759e99a52fb16877ff533fb | rdfe440a3c44a77a25f9c0018
+aaai2023-26580,aaai2023-26580,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5b074d9764d4462256be5141 | r734972b513b78063b00a512a
+aaai2023-26581,aaai2023-26581,AAAI,2023,Main,True,False,True,2,exclude | unknown,rc68fefd3311852ad38c07d9c | rc8f23e5ae583518bd7790dfa
+aaai2023-26582,aaai2023-26582,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0ad18da452471e42ecf866b4 | r86d969ead9ef2be01a02aed9
+aaai2023-26583,aaai2023-26583,AAAI,2023,Main,True,False,True,2,exclude | unknown,r29c53e1ccc7e7a79cef952bf | rf293082198120faf9418dfae
+aaai2023-26584,aaai2023-26584,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3fb5e0c4179b95be5cfa44d0 | rb46079e3ff0757cf2c13cd38
+aaai2023-26585,aaai2023-26585,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0d5c06bc2fa3f8efd2018b05 | r4f92ecc7395f25a673744956
+aaai2023-26586,aaai2023-26586,AAAI,2023,Main,True,False,True,2,exclude | unknown,r474c16d3cc6e862dff8277a8 | r74a16eeb99c09543e10d2099
+aaai2023-26587,aaai2023-26587,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2d2b2c30696348fa7d117869 | rc952c396b5ea1b6d0f3d411e
+aaai2023-26588,aaai2023-26588,AAAI,2023,Main,True,False,True,2,exclude | unknown,r314f05a69d2fd535f1b3e9e4 | r63923fe7c30fabb329af4ebf
+aaai2023-26589,aaai2023-26589,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1be01b1a9408964f7f26ba43 | r30cf5846b814e4df26a99199
+aaai2023-26590,aaai2023-26590,AAAI,2023,Main,True,False,True,2,exclude | unknown,r93271d39e8c457ee2b8c8c29 | reca0b15de6a1371f293c06da
+aaai2023-26591,aaai2023-26591,AAAI,2023,Main,True,False,True,2,exclude | unknown,rb69638843ecf50cbc75d822e | rfca33212e1dee7d130b90768
+aaai2023-26592,aaai2023-26592,AAAI,2023,Main,True,False,True,2,exclude | unknown,r438f3690626ff5381c51b83b | r93dc1db62871db748120e208
+aaai2023-26593,aaai2023-26593,AAAI,2023,Main,True,False,True,2,exclude | unknown,r17c7892dd240506816117412 | rc0162e5a79980c2b69b5843e
+aaai2023-26594,aaai2023-26594,AAAI,2023,Main,True,False,True,2,exclude | unknown,r9b8269dcd4a76fbd8f4bb4b6 | rb7b2ced9de0d4a55c36b849a
+aaai2023-26595,aaai2023-26595,AAAI,2023,Main,True,False,True,2,exclude | unknown,r42325fa10426e53b0a542e46 | rb74c981d57d4396aa0234b1c
+aaai2023-26596,aaai2023-26596,AAAI,2023,Main,True,False,True,2,exclude | unknown,r0b6743ac93211e2524a381b3 | r449ada58f878d851ddd9e64b
+aaai2023-26597,aaai2023-26597,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4e93e7ab97c7e9b1b947fe0b | r626ed3861c48be7c7382fce4
+aaai2023-26598,aaai2023-26598,AAAI,2023,Main,True,False,True,2,exclude | unknown,r4fb0fd476f75c3bde893d572 | rf3d4e68053495e34f809d10f
+aaai2023-26599,aaai2023-26599,AAAI,2023,Main,True,False,True,2,exclude | unknown,r58a23de68d09c19a18673c44 | r7a4451df147a160278969b1f
+aaai2023-26600,aaai2023-26600,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1c4c0e883f7098a4cd25756b | rf38782f4129366c04576d0d6
+aaai2023-26601,aaai2023-26601,AAAI,2023,Main,True,False,True,2,exclude | unknown,r22ef44059bcd817e72a374b3 | rdd1e5f5729de3dd224e9eee3
+aaai2023-26602,aaai2023-26602,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2a3d45ba8286de4475c58b5a | r67243d37e6def5ee6bca256f
+aaai2023-26603,aaai2023-26603,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8c4c51d0215652f0838e5251 | r8e51596283ed9969673f6734
+aaai2023-26604,aaai2023-26604,AAAI,2023,Main,True,False,True,2,exclude | unknown,re7077a312a21ca2e13ffc268 | re8787653efcb86efd961a79e
+aaai2023-26605,aaai2023-26605,AAAI,2023,Main,True,False,True,2,exclude | unknown,ra422eddee0022814e998f563 | rd34f8cc9b9e06ac70872e596
+aaai2023-26606,aaai2023-26606,AAAI,2023,Main,True,False,True,2,exclude | unknown,r7b52cff66c6ec34c1f28f56c | rc5ee51f506f7d69924fc53da
+aaai2023-26607,aaai2023-26607,AAAI,2023,Main,True,False,True,2,exclude | unknown,rb8998564f1636d30f5d3062d | re0bd2411ceb4893dc07e7704
+aaai2023-26608,aaai2023-26608,AAAI,2023,Main,True,False,True,2,exclude | unknown,r040083df3a555e1812e66262 | r2f4bcc80856670a220da378e
+aaai2023-26609,aaai2023-26609,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2fda676693672671ee1c9dbe | rdc985a5eeb1b254db4e4f5d2
+aaai2023-26610,aaai2023-26610,AAAI,2023,Main,True,False,True,2,exclude | unknown,rdf5aa69b3ecc1360674b2470 | re8b01ccda6b0f2e20980e14c
+aaai2023-26611,aaai2023-26611,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2b1f6577bed17f4607a05475 | rc09b4b3e3b07eb0cfd5986f2
+aaai2023-26612,aaai2023-26612,AAAI,2023,Main,True,False,True,2,exclude | unknown,r18e44873baa1ae76ee5c15e1 | r937e1298589e22d30b466e7d
+aaai2023-26613,aaai2023-26613,AAAI,2023,Main,True,False,True,2,exclude | unknown,r07c435a2216446d911e5ca20 | r207ea5dad562d0143f35fcec
+aaai2023-26614,aaai2023-26614,AAAI,2023,Main,True,False,True,2,exclude | unknown,r19aef3c44a01c54a8f218150 | re9b69e1a7e30137046e97b7b
+aaai2023-26615,aaai2023-26615,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1938bf43030b9a80ec89d08a | r3ca4ceb1127f6fa09902e73d
+aaai2023-26616,aaai2023-26616,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2053834ffd5af02a46bd0fca | rda181f92daa72ed4c908f48d
+aaai2023-26617,aaai2023-26617,AAAI,2023,Main,True,False,True,2,exclude | unknown,ra4ecec1b656877b58b02ea02 | rc482ae2953d9704debccf6bc
+aaai2023-26618,aaai2023-26618,AAAI,2023,Main,True,False,True,2,exclude | unknown,rd1e95e3ee40cfb45002c29c8 | rd5d22e854f42bab2b3729a11
+aaai2023-26619,aaai2023-26619,AAAI,2023,Main,True,False,True,2,exclude | unknown,r7d732746d1e8aba4fd0b74ce | rc8ec5b6f7a48586d847fe0ce
+aaai2023-26620,aaai2023-26620,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2c64ee69cf1a08dfb9ed8557 | rb9826e4310d75461a05927ef
+aaai2023-26621,aaai2023-26621,AAAI,2023,Main,True,False,True,2,exclude | unknown,r86bbeee57e1c49bf28abf072 | rc26f7d01e162ae27d2f5bb76
+aaai2023-26622,aaai2023-26622,AAAI,2023,Main,True,False,True,2,exclude | unknown,r6dbfd5da675e53b2f2945526 | r9dd33886223423af0b9ac00f
+aaai2023-26623,aaai2023-26623,AAAI,2023,Main,True,False,True,2,exclude | unknown,r434b5be407df5fdd0907f184 | rd48dbc42d5b5bd4946e78fcc
+aaai2023-26624,aaai2023-26624,AAAI,2023,Main,True,False,True,12,include | unknown,r00be2b2d0857f658c128abb8 | r060e48e734d487163a6f8645 | r1c7e86b3c454c60efba81567 | r2003e077c31179cced239f38 | r402d8ae93ce5bb00e339ac31 | r90164bc9c3a04bbb76a9821b | r921a8b977f838a3f171cda4e | ra93ee2d7e88d768ac6397d58 | rd092074e19ccf3410a7359ce | rd2cff6bcc55f1ba9c16fcc86 | re2bd697273662bfbfef4669b | refc9958bfceb2640d56cd60b
+aaai2023-26625,aaai2023-26625,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3230372bddb1e5a197670c09 | rc98f5c23e1ef4557ea591a6d
+aaai2023-26626,aaai2023-26626,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1770950364f2ec4b34864421 | r19ea583a2b8d6ab8707edf9c
+aaai2023-26627,aaai2023-26627,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1ae95d25f34ed4e082496198 | r272cb40c083881cfc6efbc15
+aaai2023-26628,aaai2023-26628,AAAI,2023,Main,True,False,True,2,exclude | unknown,r416b7a885978a4bb02cd292f | ra8ba557df21d6c722019e82c
+aaai2023-26629,aaai2023-26629,AAAI,2023,Main,True,False,True,2,exclude | unknown,r42f9e03b685506e0c3be68c0 | r68f89a532dd455c00a518de2
+aaai2023-26630,aaai2023-26630,AAAI,2023,Main,True,False,True,2,exclude | unknown,rcfd7dffbe8c34ee3e003a6d4 | re7ffc7c31a19b4d49e376820
+aaai2023-26631,aaai2023-26631,AAAI,2023,Main,True,False,True,2,exclude | unknown,r025a9a58109cf6a3b8184ea1 | r9253016ebbb01efe80b4d108
+aaai2023-26632,aaai2023-26632,AAAI,2023,Main,True,False,True,2,exclude | unknown,r09bec1364ec3ffc81da7b48f | r71a590d40dc6019cf15230ab
+aaai2023-26633,aaai2023-26633,AAAI,2023,Main,True,False,True,2,exclude | unknown,r31c6802b45468da3ed249039 | r91edda8b7111273b88b92553
+aaai2023-26634,aaai2023-26634,AAAI,2023,Main,True,False,True,2,exclude | unknown,r33e3fe02a745f6b81018f51a | rd9b896c1a5825ed2a3e03193
+aaai2023-26635,aaai2023-26635,AAAI,2023,Main,True,False,True,2,exclude | unknown,r1a8c0f12cf78bca409ab42c8 | r6992ddfb42f290c517ac9c84
+aaai2023-26636,aaai2023-26636,AAAI,2023,Main,True,False,True,2,exclude | unknown,r34367cabd94b129d030810a0 | rc2094a2b3efd404b14e97abd
+aaai2023-26637,aaai2023-26637,AAAI,2023,Main,True,False,True,2,exclude | unknown,r3a8c47e6085837a36d4dc270 | redaef8e89d8dd9db4d27fb78
+aaai2023-26638,aaai2023-26638,AAAI,2023,Main,True,False,True,2,exclude | unknown,r46544642f68a2b739470e586 | r53249f2116031c793aebadd6
+aaai2023-26639,aaai2023-26639,AAAI,2023,Main,True,False,True,2,exclude | unknown,rdddae1e40292cfd7490a387c | rfcd5c98b2bf6e742e77066cc
+aaai2023-26640,aaai2023-26640,AAAI,2023,Main,True,False,True,2,exclude | unknown,r37773159f59384d0898dee32 | red82ced7a6ea585dafb5f43d
+aaai2023-26641,aaai2023-26641,AAAI,2023,Main,True,False,True,2,exclude | unknown,r7b8dd42a31da73b9844a6ef6 | rba32137c1beb4b9d70296e27
+aaai2023-26642,aaai2023-26642,AAAI,2023,Main,True,False,True,2,exclude | unknown,r5c56704463ed6f281665e4b9 | rba5dc8cd7728630667a1bd1e
+aaai2023-26643,aaai2023-26643,AAAI,2023,Main,True,False,True,2,exclude | unknown,r577a33e580a5481d01162882 | rd69c6cf3a3e44fc364c5126b
+aaai2023-26644,aaai2023-26644,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2a9da5c48158102f4b32b7e5 | rdb19bd5914aa06c98fcb9043
+aaai2023-26645,aaai2023-26645,AAAI,2023,Main,True,False,True,2,exclude | unknown,rcb425c0c4fed413ce2f86b3c | rf14acb48789cc594e69674c3
+aaai2023-26646,aaai2023-26646,AAAI,2023,Main,True,False,True,2,exclude | unknown,r8f53f46adc847a337a77dfc6 | r96d271b5ad41226767543a61
+aaai2023-26647,aaai2023-26647,AAAI,2023,Main,True,False,True,2,exclude | unknown,r2f193ab88fd8828527219ec4 | rab954bf228b065a2c395da39
+aaai2023-26648,aaai2023-26648,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r0aebe18c0a4dcd588a881f5c
+aaai2023-26649,aaai2023-26649,AAAI,2023,AI for Social Impact,True,False,True,24,No affirmative public PDF-image redistribution license established. Non-exclusive arXiv distribution permission is not CC BY. Preserve existing image/permission blockers and core state. | include | unknown,r00f89ab09b9bf590856787d3 | r0e015734ca3e14ee75dbd4c8 | r1e58453fcb5a02bb8e3dadf8 | r21d03011ecd855407a82128b | r2a0735490a3674aecbf0f404 | r40003f45335d0de378cd620a | r534b587f0a0b2d122ec286fa | r5e7432912c00de2b5abc0cf3 | r658062451b1a25a897e17443 | r6a1eb61cea408a69fb671680 | r73eaa7d7f8b2287d44d3f8bf | r860154a29f5936e4cdeb561b | ra65daccd28c44afcf60cc5b8 | raa5b6633494e619926966f00 | raa7bea14b33a45ee5b66050d | rc2f197384c3e59ead1b494f9 | rc4339098dce3cba400d2e25a | rc4c8934aa0a1a65d38823e77 | rc9784f41e7592d8e1a196396 | rd7212f050ad940edd763c885 | re007a14cf8576a4f7bff48dc | rf0d729bf93c75265e8558fab | rf22ebda80e7f8450b6479b1b | rf26513fc1a57c6e6b867ab18
+aaai2023-26650,aaai2023-26650,AAAI,2023,AI for Social Impact,True,False,True,11,include | unknown,r07759656e174deed86cf27e9 | r0e3ed6642cd14e51a0e45f87 | r2700ce4cacbb4a132cb9f122 | r370ac55a19adddadfaa99437 | r61ddeae876d982049213773d | r673a35a25fe2325031632b2f | r6d2d508bd3c7ed93f46190bf | rac8f6c043781bd6240da72bd | rb83ac98a6fed8f1f81f6a795 | rdede033461be7a07769010d4 | rfdfe61bca2503d6905daf2b0
+aaai2023-26651,aaai2023-26651,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,rdb4fe8d67beadade009ef15e
+aaai2023-26652,aaai2023-26652,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r90f011169b41b91bf46964f3
+aaai2023-26653,aaai2023-26653,AAAI,2023,AI for Social Impact,True,False,True,22,include | insufficient; no reuse permission inferred for author PDF or its figures | not_selected | unknown,r0109324b22204e4f7292feb4 | r019456d4ecb1d7af26e9b491 | r185dc68087a8e6e5e9f04139 | r25c061dfd1042a0bbd0f7191 | r35f8315127294f34bdcfdd3a | r4224b7693662ff97288762e3 | r43767e668f7a3896234a7be6 | r5f0cf98e8a2639bd02b52d6c | r62b770271d6d73bc65b846a5 | r76e94443ebb9ae77fc8a245d | r77c9b0bdf2d79849a046ce4b | r84f898703a46e5a352607b24 | r8ba2902d3326f4dd8ddc1100 | r8e7877080b0b87e41ad6afc7 | rca13c3b0dc331c91713aaa7e | rd208e46342b88295f70a6d30 | rda1c2f2cd021fc8c4577f296 | rde3b7fd9307aff970940ff2f | re1cc50d4c8d778abdf7950e9 | recd268105f34c425f4f06009 | rf16a7ea93a767e30944bd0ef | rf5c8093314d1478f558cfbf1
+aaai2023-26654,aaai2023-26654,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,re885b0b52c8d95188b9c8cde
+aaai2023-26655,aaai2023-26655,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r0afc57cf15b9adcb46d1e416
+aaai2023-26656,aaai2023-26656,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r042696059d845088f83270db
+aaai2023-26657,aaai2023-26657,AAAI,2023,AI for Social Impact,True,False,True,11,include | unknown,r154ecb1dd5cf4f1be2653859 | r280ea8556ba0f4bac2acf830 | r4703979b7b9e826c587e8eda | r6395fa58dec40b56921cc232 | r99a80c9310994a4261ef7b24 | r9b332439a1b096ac905a9fa6 | rc816cfb000ea6820970bc11e | rc84e5426c95900c8878d585f | re189dc61a0e141af9cbdd4e5 | rfa11fc89aa747ac79c0e86d5 | rfdc73e4778a02e0d4fff0a6b
+aaai2023-26658,aaai2023-26658,AAAI,2023,AI for Social Impact,True,False,True,11,include | unknown,r05c8eeb1698d41f0dbea5d35 | r3784a09cd91bf1cb606f4b6e | r4e0bfe375d25ac8c712412ac | r598edf062a0c749702eb16d1 | r5af2c7ee395e037a2b3f5cd8 | r7b416a8c82748e021b71740b | radab556d058bc4f245e0d14b | rb08b456078b614e970f930b0 | rc841ddcaff26c2aec08f9028 | rc9b05039166b5ab559982ee6 | rcc8e6b315689a07b1d909cbd
+aaai2023-26659,aaai2023-26659,AAAI,2023,AI for Social Impact,True,False,True,11,include | unknown,r00cf9cca30917864d86194d1 | r4cae400215a00d4082e988c0 | r4cb063e907370e7b89315610 | r5ec08bbcd7ed4641ba70c7bf | rada80b348c21fb30fb6550cf | rbf4a65980acef78f9a879bd3 | rd83c8dc10eaa8c88df2f6094 | rde8de073992517cf1de56576 | rf272a3fee31e51c2f6ede759 | rf5fb29514343ce1a5a866d49 | rfd51cea9cdedd44ad00144ca
+aaai2023-26660,aaai2023-26660,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r25b7ce62048de09c0e7c1ae2
+aaai2023-26661,aaai2023-26661,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,ref0d82cced4b94a7f6ec27f0
+aaai2023-26662,aaai2023-26662,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,rf2b8369e45f24a9df48215fd
+aaai2023-26663,aaai2023-26663,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,rbde3770062443b6682b9367b
+aaai2023-26664,aaai2023-26664,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,rc60b304f4be1dcd85a0a7530
+aaai2023-26665,aaai2023-26665,AAAI,2023,AI for Social Impact,True,False,True,14,include | unknown,r2b9207a067f49c1cfe175bf1 | r30248acd43982ef26d38fc8a | r3648e1d425bcee0a41974bba | r433411f5168d3af8623611b3 | r44dc03933d39cbeebafb6900 | r571c72039ca38a0f61ba2bc6 | r66f2530736ecd7a492e915ee | r747b7f710007784e8009569f | r7df319600f7788d33f1688d9 | rc176eef730a1f48dd71e107e | rcaee39ca06dad0a55d4a48f4 | rcb7b5c703bc77b3d3e269b1a | rf62b098c00d28b4bcb4184f1 | rfa133781a489a662843008f7
+aaai2023-26666,aaai2023-26666,AAAI,2023,AI for Social Impact,True,False,True,11,include | unknown,r25631895ced59aa070d71b07 | r35ea7964633d86fc22dc0cde | r65876e8be15ee0c56e711d3f | r6d4231ecd6d9bf21b135fa5e | ra3a6fa18bef14b811df3ffa8 | ra8a95f0f5e445e9d1c54003c | rbe4c96d194684c6671e0c62f | ref8fe50c3b09025d659aef89 | rf04a172bc4a093da0f3fe78f | rf592407c88a84dd3f03eaef1 | rf6c2ab3ac1daf035018dd5bc
+aaai2023-26667,aaai2023-26667,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,rc71e8f3858eb888d4c5c3bff
+aaai2023-26668,aaai2023-26668,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r7f89bb52b851357ba4e5af7f
+aaai2023-26669,aaai2023-26669,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r5d93542caed8f7e50092ca3c
+aaai2023-26670,aaai2023-26670,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r48286eae2a6e3355c787ba93
+aaai2023-26671,aaai2023-26671,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r526e04345797ec3afc185557
+aaai2023-26672,aaai2023-26672,AAAI,2023,AI for Social Impact,True,False,True,11,include | unknown,r0d19ddc114a722f0b1cd3298 | r2b6456f818b12fb5cefae0fa | r2d62087efabdd93668f49aff | r39960284265afe4be4bc7c06 | r3f27a74f5f2e079d8e6ea1b9 | r54f408bb58fbfa1fe0b84b82 | r85a85a3d41fc1999392f3ab1 | r8ee9e40a3f6639443944d259 | ra11cb2cc6db51d87f8ab1044 | rb9efe6165f2ff16cbaff9bd9 | rf47e8c88a9513f35f3972cfb
+aaai2023-26673,aaai2023-26673,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r550c481f8295903d9badbefe
+aaai2023-26674,aaai2023-26674,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r2a1f087b0fd897ab12e9eb62
+aaai2023-26675,aaai2023-26675,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r4093eff4b92f8ba17b065acc
+aaai2023-26676,aaai2023-26676,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,ref0357d74be506dd4573673f
+aaai2023-26677,aaai2023-26677,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r373dc9860cd9c687825169d4
+aaai2023-26678,aaai2023-26678,AAAI,2023,AI for Social Impact,True,False,True,14,include | unknown,r01107cc39f3456b8ce996754 | r0504ff8bf958ffbcbc08c3b3 | r1e92059949dc537dd83fa45a | r2c0a7b97c1147e2c8059abdf | r3da0daaca2e2a477bb32eb64 | r765e3d67d178b55515ff64f8 | r7e4249494cf8adb06602db1c | r96f604afcc2d854048b71378 | ra0718a82fbc93b075e368611 | rd03c7180e24346352e4b7876 | rf3414d071026270440d51063 | rf6d4314c1dddc637912c190a | rf848eac4f20158822be0409c | rfe0b458fc3d4b21193e2de1b
+aaai2023-26679,aaai2023-26679,AAAI,2023,AI for Social Impact,True,False,True,12,include | not_selected | unknown,r021bfa8cc062572eb0d9cca0 | r044c09e1690fdbf681cdd65e | r1e5bdc43289cdcac0df9b847 | r2120141afe59a385f970d953 | r2261a45e5ee0f29b21bccc66 | r371514b4da20b1923d47d7bc | r47aa07d21aad64a40c0bfd2a | r737966cc049bcdf09df9cb89 | r79c2e611caae337422bf134e | rab28a0801a7506a0e487ee6f | rb025f76026bdea20302f3e99 | rd450e08fa497213d2bc4cc9c
+aaai2023-26680,aaai2023-26680,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r60b67d0ebec360acee5cdde2
+aaai2023-26681,aaai2023-26681,AAAI,2023,AI for Social Impact,True,False,True,8,include | unknown,r2346c991b8501448e1b3e173 | r263faf8d3aa141f827d94cd5 | r45b13306e38c9becc53ea5e3 | r4b48b54785900b7427039d3b | r4fcf29ae1b99dab0554c0203 | r6e0a59ec4aa43a4ab9f569c1 | r791ef30530d9fce68b618b08 | rc6b083c51214d922973a5ba9
+aaai2023-26682,aaai2023-26682,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,rfd609f310a016494ceef3d92
+aaai2023-26683,aaai2023-26683,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r01e56b6b926eb4b25c174485
+aaai2023-26684,aaai2023-26684,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r2309d11a849c193a2572e85b
+aaai2023-26685,aaai2023-26685,AAAI,2023,AI for Social Impact,True,False,True,8,include | unknown,r1a9032eea13932957e94bd93 | r322d42bc85685f1be530801b | r43694e35293153464ebc5158 | r52b19571bd5b1883602e69ea | r5ec4ec18d1b92800681279ad | r8112337e38c3423924627534 | rb344a33049494af60ee0c88c | re59ed2de45d42c5e08ce8ea6
+aaai2023-26686,aaai2023-26686,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,rac64b0ef193bf2baf335af02
+aaai2023-26687,aaai2023-26687,AAAI,2023,AI for Social Impact,True,False,True,16,include | unknown,r180a80a1f122b3e9a0f7a5c5 | r309838b432fc7c5449f86e92 | r30baf7cd30aa40d00cfe12fc | r3f69b02e674ff4d7133a98ba | r4445938b21d6b2d17860ef7a | r54f9ba8dc478f08168eac397 | r553c15dcb2255d70e4f8b733 | r62dcc014ad50e3ffcbf7f962 | r6b47316892d24627f57f2929 | r6c217ed68824c751cc82b485 | r72373c06a6350d9fcb9f8ad3 | r8447f4bd8a7bd8743fbae327 | rb465bab189e766c50b535700 | rc56f7cf627234828aa2f4438 | rc638998f6cae655d345095ab | rd31edce0fee7483bec127ba1
+aaai2023-26688,aaai2023-26688,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r58735e5ff4e40f593be61867
+aaai2023-26689,aaai2023-26689,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r9ea721e67ea0e747121a3772
+aaai2023-26690,aaai2023-26690,AAAI,2023,AI for Social Impact,True,False,True,15,include | unknown,r0c5b565803dee41b49430a2f | r1de0e3bdd63fd4d54d8bf7ba | r25bd42a7d2651c9677c4fe1c | r296b55ecb7d749946bb37875 | r57b78f2caad9261e05c2e422 | r69b8f3c62cd4676d921fffb4 | r6f27c1ce1b86aeea8f049807 | r7858c13f0911c04621cd11d8 | r7b4cb29035410ba2771521fb | r8b1a61ec19b9f7497245665a | r8fead7b6da59d317b6899697 | r93d9266b88d4489dfc10786d | rc7c26166031885a6aa0620fa | rcbcd46fb2d562164d5773068 | rf76bbb928b8a0e1e684ef335
+aaai2023-26691,aaai2023-26691,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r474b034e4aeafabe4735f81a
+aaai2023-26692,aaai2023-26692,AAAI,2023,AI for Social Impact,True,False,True,8,include | unknown,r01f6a417872f6459390ee8aa | r46b1a5a809fc4b4403b47e67 | r4948853afde94620092be026 | r7a22d06a408b39bfe8dea56c | r7bf5d0aec8c23b157be318a6 | r9025093067135da7a8e73054 | r97a24061ca8c990ac1a6a597 | rdbe29229f2fcd9b6a1925a9e
+aaai2023-26693,aaai2023-26693,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r40e8510286c5fae6ac6a2d73
+aaai2023-26694,aaai2023-26694,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,rb506d7cd082b6aaf32dd66e9
+aaai2023-26695,aaai2023-26695,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r85ba8c6e21e423ce87b2ae44
+aaai2023-26696,aaai2023-26696,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r1a5c08fd51cb554a96c43415
+aaai2023-26697,aaai2023-26697,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r2e6443c11f744816bc1d438b
+aaai2023-26698,aaai2023-26698,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,rf81bf022f5dc18c2f5fb9804
+aaai2023-26699,aaai2023-26699,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r772fad1cd4edf9d618e6224b
+aaai2023-26700,aaai2023-26700,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,rf72fe7f0305c0f2b21c0dd72
+aaai2023-26701,aaai2023-26701,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,re8b617230457097ab176dc05
+aaai2023-26702,aaai2023-26702,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r96fa8f328769941ebb428e7f
+aaai2023-26703,aaai2023-26703,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,rfe71fc15638026a5e8bf4f33
+aaai2023-26704,aaai2023-26704,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r105656579ab51bc2cbc6d2d1
+aaai2023-26705,aaai2023-26705,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r191081a3ad661ac99d3dc91b
+aaai2023-26706,aaai2023-26706,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r91b6c29190e3b313e3647d06
+aaai2023-26707,aaai2023-26707,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r87fc76c24c096fda71b2c3d9
+aaai2023-26708,aaai2023-26708,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r0e89af2237ed68a6ee83b990
+aaai2023-26709,aaai2023-26709,AAAI,2023,AI for Social Impact,True,False,True,8,include | unknown,r0b7ef1cae85eaad32aadf8f7 | r1efbc98359692d5e926bc4e5 | r39114b037879e2f3de0897ec | r450df3e64f544191b6deb9fc | r9c1e474b257009e39007f778 | rab370d563fa7dc2e6e46bd8b | re4ed6980f425e47ceacc7bdd | rfbb1865b5510bed548a876c7
+aaai2023-26710,aaai2023-26710,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r8330f714a4cef09e095e7412
+aaai2023-26711,aaai2023-26711,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r9eeb18c4907e1e1a6e689aed
+aaai2023-26712,aaai2023-26712,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r5240b2d21a10cd9d0eb95bbe
+aaai2023-26713,aaai2023-26713,AAAI,2023,AI for Social Impact,True,False,True,1,exclude,r1ed632363d641359c3d92977
+aaai2023-26714,aaai2023-26714,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r40a94c94ad2792c03537ff51 | r47a80b077060cd70d027eac0
+aaai2023-26715,aaai2023-26715,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,re60623c1d43e4ea34708f601 | ref6533538d175f393a73a2f0
+aaai2023-26716,aaai2023-26716,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r52a319f1ed1c6bd2e9d138ec | r93b95c8bf7b2ce25b490ce47
+aaai2023-26717,aaai2023-26717,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r00a86803979b75c886e52e0a | r9b62053ecdcf204d0406e15c
+aaai2023-26718,aaai2023-26718,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r3dfaf611dbd5daa1144ceed9 | rea5369f653b3ff436678ad76
+aaai2023-26719,aaai2023-26719,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,rb6bbbcd2caea0ded97953568 | rd6222324dbd536433a0a64fb
+aaai2023-26720,aaai2023-26720,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r0341bf8b5cda0065d91f6e2e | r79d1701cd45438770520dd23
+aaai2023-26721,aaai2023-26721,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r16ffd15a33d5461cedde6ab5 | r44acf2b59d60c0838a446e2d
+aaai2023-26722,aaai2023-26722,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r84b460c3bd7689327a3f28dd | re1484d99c80455a38add263b
+aaai2023-26723,aaai2023-26723,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r1f3084ecfbcff70de2d918cd | r7452bd121e7254d9a8631669
+aaai2023-26724,aaai2023-26724,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r2371d418451e3155d486a749 | r6a28f3e0651da0e114b09266
+aaai2023-26725,aaai2023-26725,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r50f3c4ea82a6a99cab99349e | re3c508dc86f793bbfed4c0ec
+aaai2023-26726,aaai2023-26726,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,re1f5d91068bd8e13945c37dc | re2e25561954b86df77cbc662
+aaai2023-26727,aaai2023-26727,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r79f357c35a05c56d404a6540 | re0baae471a83e0657fd35b61
+aaai2023-26728,aaai2023-26728,AAAI,2023,Safe and Robust AI,True,False,True,9,include | unknown,r1210ed1863004fceb12af3fb | r6e36493a94460d2f5b285c9e | r9c46d6f6aacd0949919c64ab | rb457d7ef46185cd044597c93 | rbc8cd4d0196fceacf5c3cff0 | re1fc14f4f8e31f7c833796f2 | re6324086aa9c3664c083b13e | ref7959853e14a49bd4d21d94 | rf4f08c5c1c700a9ff21e8d40
+aaai2023-26729,aaai2023-26729,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r7f1578b7a5d9f381c0802bbe | rc2361325c74903bb7a4b2d60
+aaai2023-26730,aaai2023-26730,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r34713b129565f48f31530cec | rfbfd6b9703b2cf7030be011c
+aaai2023-26731,aaai2023-26731,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r90f68f7b356e8e4fc2f906aa | rd3a589b77b59eba51122a6cf
+aaai2023-26732,aaai2023-26732,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r48cb9348c779810d45ac3590 | r592e20106230e9532fc78d50
+aaai2023-26733,aaai2023-26733,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r670d2a395ba967c27f517374 | rb3310c6705c26ae65b491de2
+aaai2023-26734,aaai2023-26734,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r65d8b64a74745ba480f15968 | rf61c306b6ccd888819b89431
+aaai2023-26735,aaai2023-26735,AAAI,2023,Safe and Robust AI,True,False,True,9,include | unknown,r203a0d4144828377bff95203 | r3f990c75dfe242b8462902b6 | r56a73898cf68cf7e01383977 | r8063641d09c5c7c1408d0e6e | rb4582c705528efdd636ad338 | rb624e1a679462dfc5de3789b | rc397e2b904517351d8557051 | rc8cdd6e3b48ca3afc7e07673 | rc92a5e4e9fda56933dd26118
+aaai2023-26736,aaai2023-26736,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r165a7ac2e3fed08135fd65c2 | rf8e7a0d72a317edd1f7c3fd7
+aaai2023-26737,aaai2023-26737,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r37d9a333b2c21b77c1555ccb | rd77cc1c3c60d6fae7e3da032
+aaai2023-26738,aaai2023-26738,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,rd5bdc0129f668f1126e3bd1f | re767624bcfb4a241073047b3
+aaai2023-26739,aaai2023-26739,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r27491262084dff444ae5c82d | rd9d8e6817f5646d89383ecfe
+aaai2023-26740,aaai2023-26740,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r18b8ff17a968ab38c98046aa | r7b72ea9c83179163bbd260b9
+aaai2023-26741,aaai2023-26741,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r6f3b4d29477a86a07aef5ba4 | r70dc97c1d3fd045d89e2e88c
+aaai2023-26742,aaai2023-26742,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r9b92d53c6a5ffc49f288863b | re7c4b387d7382f7b6701eb07
+aaai2023-26743,aaai2023-26743,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r0f17cb82669478719fb6f4c5 | r9656a02528eaddb7d38f709f
+aaai2023-26744,aaai2023-26744,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r010f151b6d567f02757a5864 | r01eb195c14219f5d96950a3f
+aaai2023-26745,aaai2023-26745,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r114df881e81505653bf9d16b | r7696a7a1e99272f6be8940b1
+aaai2023-26746,aaai2023-26746,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r1fac0c2cce0038f709ae327a | r63148431cd8044164353c5fb
+aaai2023-26747,aaai2023-26747,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r03a9c052a4d8d7ff68c972e5 | rf0e6aa0f435b13fbd5a45871
+aaai2023-26748,aaai2023-26748,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r8ec31111b6ad17eacd2b1110 | rcb09efaa2cf2b46ad7c07af8
+aaai2023-26749,aaai2023-26749,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r99ec59ede0f94c06c153c85b | rcd1b5a8f40c9c55d9483e770
+aaai2023-26750,aaai2023-26750,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r3e07bea5cad25ef5ceb93eaf | r6e1cc5611ce1fd46d8b90a42
+aaai2023-26751,aaai2023-26751,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r15b5dde75b4593d6a3f77a31 | r89c4879afb1bddf13ac9c80a
+aaai2023-26752,aaai2023-26752,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r73ca998063634084ac9ea60c | r9d34f74558dd6164e78951e0
+aaai2023-26753,aaai2023-26753,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r2edcbe65d3ab4ad0601218d0 | r9285c3cc495c41edb818e3a8
+aaai2023-26754,aaai2023-26754,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r28e0e69b1fbfa4ba2bba49b5 | r577d559e142d92d5d8feac08
+aaai2023-26755,aaai2023-26755,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r0f69af1d50c2c901b785bdaa | r36d34a9087f4b19f4f7300f2
+aaai2023-26756,aaai2023-26756,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r11b42f6a96969e3c95140817 | r6e3ea3395ff7122afc1a64cc
+aaai2023-26757,aaai2023-26757,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r5c5559d89721d842cff874b4 | rc80278a2ad2b87cb0454726e
+aaai2023-26758,aaai2023-26758,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r3b75742e097b3a8cd27bec29 | r9723228cf719d0a34d61d62c
+aaai2023-26759,aaai2023-26759,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r6ce88d51a9f721d03b4cbf8d | r90aa8e6138c5b371593173bc
+aaai2023-26760,aaai2023-26760,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r4c2d78e1a1d85a6c8f4f131b | r837a32ef16fc899857a32cf2
+aaai2023-26761,aaai2023-26761,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,ra8a41b53f9e55f30570a006d | rd3e5324f32f98619a9085f8a
+aaai2023-26762,aaai2023-26762,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r461cd3323c43fd7e018c4679 | rc9fadaf7ea32ceb544b57834
+aaai2023-26763,aaai2023-26763,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r313c1631b3d60244ab8b1b3d | r72b1855f2c51a99c79495e09
+aaai2023-26764,aaai2023-26764,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r5636e2efde59d968e01a1260 | re056b261357f06e486a15fac
+aaai2023-26765,aaai2023-26765,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r31bfe1900b6c6208d1ea56fc | r4c2a05ba70538cf6dc61eb8c
+aaai2023-26766,aaai2023-26766,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r3ce57349193e06608460b7c7 | rb76f2d42654635497fade940
+aaai2023-26767,aaai2023-26767,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r1f17bf712df31e7a1f07c36a | r7d0b30ae6ce73b1649a1f57e
+aaai2023-26768,aaai2023-26768,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r05300d076851cc8b8e9761e5 | r50ebea5678a7dd852e8889e7
+aaai2023-26769,aaai2023-26769,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r696ddff0855a527df32ab2da | rcf5754f1bc127d855d110c79
+aaai2023-26770,aaai2023-26770,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r453be324c4555b789e7a5b56 | ra6307cf94b20f00a26a41ebd
+aaai2023-26771,aaai2023-26771,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r188843ae3d0cf36b843aab59 | r388c72ef7f7711e09b281a39
+aaai2023-26772,aaai2023-26772,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r2bad16e78a217c7a7febbf9a | r55d2699bff1f248aacafe47d
+aaai2023-26773,aaai2023-26773,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r2fd512b6d0837ac0b3225391 | r911f8ce2984e59a7c810a203
+aaai2023-26774,aaai2023-26774,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r9aa6249dead01c404e814fe7 | rd85ad605904d819096eea362
+aaai2023-26775,aaai2023-26775,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,ra7e283f3f64b62d1285ac5bd | re98b96cf6d5eca14e8f635cf
+aaai2023-26776,aaai2023-26776,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r23652e24dac4ec413858f460 | reb2819e8339b8e6d2041ef55
+aaai2023-26777,aaai2023-26777,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r812ca1e74905d769d7ff4131 | rce143a7a0706eabd0d40dbd5
+aaai2023-26778,aaai2023-26778,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r23eb04dab7d0c1c989bce697 | rf70d2af14eee97fcd1d62366
+aaai2023-26779,aaai2023-26779,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r62150139a8351a1fd614d241 | rb4200239fc4fe46672b03ba6
+aaai2023-26780,aaai2023-26780,AAAI,2023,Safe and Robust AI,True,False,True,9,include | unknown,r06fa694b285ad251a5cca8bd | r46ad557406d564d135d5b12c | r4ebd9bf0c840e0c8613b2512 | r5a283199f0f7dfa79c4975eb | r69605be94e8e6fcf9f9263d9 | r6ef6e14f5116c5660e71fefa | r86441169a3204e429de08bb8 | re331612c7df3839a68b04eb2 | rf3c75e50c2dc65b8260b0e16
+aaai2023-26781,aaai2023-26781,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r24c8cdebe2175c45f56fa90b | ra409b35c540d761ae29490c4
+aaai2023-26782,aaai2023-26782,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r2af624008eff6e7741638a10 | rbee2cee6b8140f1e6ad5c968
+aaai2023-26783,aaai2023-26783,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r25f31940b6cbba7509fca085 | r366b0173916c4d3c1c36a175
+aaai2023-26784,aaai2023-26784,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r03b127643ebfa12c18b77b2d | r6fe07daedb1a34aed49c9b20
+aaai2023-26785,aaai2023-26785,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r0b8a8546ad84d98c40e66efc | r56baa99e3ba7210327db5952
+aaai2023-26786,aaai2023-26786,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,rbfcbc0eaa38478ee2559be2e | rcb92e7ce1267d7fb7988a711
+aaai2023-26787,aaai2023-26787,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r0eb5aa95bbfd7b6b9da5259e | r44cd10c6e84b32edd4e2d3aa
+aaai2023-26788,aaai2023-26788,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r4a62e30d36a90161640b0ab7 | r680aa4585d6fefceb047d416
+aaai2023-26789,aaai2023-26789,AAAI,2023,Safe and Robust AI,True,False,True,2,exclude | unknown,r57b55c4afe658fe81d406455 | r6c699fc6658c10e6f47b0493
+aaai2024-27749,aaai2024-27749,AAAI,2024,Main,True,False,True,18,Prior blocker retained; not counted as new license resolution. | include | unknown,r17dfec1cffdab0525cd284d7 | r20ec09d26a6a5ea424fc28f1 | r22ee1dd2e957adfd84ef83e4 | r34f2fb266c4f7a05de43bce0 | r36005e4e5af1fcba91d9800a | r39b9b2d7cd3513c171bc9f3e | r46445d4de7a3ebc721823551 | r4c42228d1b9aa7457f492c49 | r6436cd72c155b6e828071b62 | r7a2205dde0d469267afa056c | r868c2b30633b15ad1f5bc683 | r9b6b829d376a33e301044bc3 | rb12eaee705d9293f5d5e475f | rbfb6697c55c9598a61e01ea1 | re40f071bcc2128ce811d8a5d | rf14bf1759598e8082fe27951 | rf44a05d010139380899e7ac1 | rf6b869bfdc9b854c189a1766
+aaai2024-27750,aaai2024-27750,AAAI,2024,Main,True,False,True,2,exclude | unknown,r1372f0b04e8ca37b91eb901f | r5fc4140ec4d67ddd3a1bf272
+aaai2024-27751,aaai2024-27751,AAAI,2024,Main,True,False,True,11,include | unknown,r0b939fb2d5d82f7fad13f960 | r192bfad7428edf10469b1a9f | r2fdcf8d97da0bf5d6244418c | r5f838f7375db4639277e041d | r872aafcb7c0712149c055ec8 | r885b47473f7cc5afae020c14 | r8ca62979aab679ce782d81d4 | raeaf24e14c6a796fd4170602 | rb4191486c385dd7106b0e5f3 | rbf1e87cf9840ac240222f525 | rd635ff27e73f57bfac01ec49
+aaai2024-27752,aaai2024-27752,AAAI,2024,Main,True,False,True,2,exclude | unknown,r6744a2fa1670029d71a3f6f3 | rebadbcf4a6bb63df36995819
+aaai2024-27753,aaai2024-27753,AAAI,2024,Main,True,False,True,11,include | unknown,r1687db0b8c2feef90d9a99f0 | r1d0bac63bc29d8d7812721ea | r1ecbdf12a371cfc202ad932d | r44aaf6085016b2739c4e6dee | r52ce01e082f08a87b5661bcb | r713259c8cb284e938da8423e | r75562f4006619b703922c02d | rbc80cbd4b0c0f10bb186dafb | rc9e50caf7fdf022c57ef6397 | rdbd67bf7151a96233579de6f | rddf8ff25549ccd97223bce34
+aaai2024-27754,aaai2024-27754,AAAI,2024,Main,True,False,True,2,exclude | unknown,r791d2809ce06e74b8d90cab5 | raf64e97f52a995400332b810
+aaai2024-27755,aaai2024-27755,AAAI,2024,Main,True,False,True,2,exclude | unknown,r968719b00b9d48cf600eeb63 | re4ffef5bc059b1e493a337ba
+aaai2024-27756,aaai2024-27756,AAAI,2024,Main,True,False,True,2,exclude | unknown,r3d8bffcb1f73cb5e1e2ade93 | rd1f4e2ed928ddf56e6a14e30
+aaai2024-27757,aaai2024-27757,AAAI,2024,Main,True,False,True,2,exclude | unknown,r05edac0e4d53ec82222d2227 | r757cf3b5e6a878000d8d22ac
+aaai2024-27758,aaai2024-27758,AAAI,2024,Main,True,False,True,2,exclude | unknown,r99a47d092d39aaf37a878d4a | rfb5ddeaafd68f35eb2b24b26
+aaai2024-27759,aaai2024-27759,AAAI,2024,Main,True,False,True,2,exclude | unknown,r691a9e9d628346441406e63e | reff8be5f470a52fa5ff07d29
+aaai2024-27760,aaai2024-27760,AAAI,2024,Main,True,False,True,2,exclude | unknown,r7c7050cd7a5f81bf984d8ceb | r82a584c9713cdf33b972a8a8
+aaai2024-27761,aaai2024-27761,AAAI,2024,Main,True,False,True,14,include | unknown,r199c9aeb8822221692c33620 | r5842af7f523f886d8f1f6361 | r63fed6f8ad3eba2a169290a9 | r678f6e162d108dafad6aae8b | r756d8b6d35ab969e02cc4d67 | r7a99653feaf82a304557f533 | r9a9896ca7a3cac643305ec72 | r9b219e8f998274175047b754 | r9dc8e8d02ff04e38c413266e | rb5e04183bcff3d820aa25c48 | rcc667ea6a73715156d57e8e9 | rdba738f04eed9b1eaa4c7d1a | re66e9ab22cdfef5d0719578d | rf51832936ce58a8a6245fafa
+aaai2024-27762,aaai2024-27762,AAAI,2024,Main,True,False,True,2,exclude | unknown,r1078f1d0f64bba42d25d034a | rf9f73b8c7a90984cbb9415d1
+aaai2024-27763,aaai2024-27763,AAAI,2024,Main,True,False,True,2,exclude | unknown,r1437e7274941cc16fed2e52c | rda9a4e65fef6800306d4b5af
+aaai2024-27764,aaai2024-27764,AAAI,2024,Main,True,False,True,2,exclude | unknown,r2f477e6c314006ac378a58db | recf4edb27bb93ffed7c38ce2
+aaai2024-27765,aaai2024-27765,AAAI,2024,Main,True,False,True,14,include | unknown,r09aff42561d07de3d97efae3 | r2bf6abae5ea2ba455a2cd2b4 | r485635e868b8a1fd5a29c682 | r5e582e47361447154adb70ee | r85315c36571bbfdf837ef3d5 | ra5cc317b65c4fc6184171d88 | ra712277c9eb94c5fbdd3eb81 | rb64216a09d66d3bca2a6c198 | rb9572ee755757255f4e9a507 | rba4ac97f35507065c59211c9 | rc989a3fbb7f27064582fb917 | rd1dbfcfe7a32ea4d2444869f | ref357f1015fb9ea86d1644ed | rfca5c84e3c94ed50f4b1a7ac
+aaai2024-27766,aaai2024-27766,AAAI,2024,Main,True,False,True,2,exclude | unknown,re1b16bc6629abc85c2b93c66 | rf0b345204d5c970ca518a7e3
+aaai2024-27767,aaai2024-27767,AAAI,2024,Main,True,False,True,2,exclude | unknown,r43cc4f0f4eef87e51b83150d | reb0c4a852e97a6d2ea99ffe6
+aaai2024-27768,aaai2024-27768,AAAI,2024,Main,True,False,True,2,exclude | unknown,r7dca2bc1876d7dcd09f4b569 | rff9908c018c416f5c0db2b3f
+aaai2024-27769,aaai2024-27769,AAAI,2024,Main,True,False,True,2,exclude | unknown,r16475c35442fe74063e15483 | rbf302766a959c595a6a6cf78
+aaai2024-27770,aaai2024-27770,AAAI,2024,Main,True,False,True,9,include | unknown,r205156ff97c40c30471efc0b | r31e6232f497d20d6118ec969 | r6df98a9cab32113ef18e46c2 | r785fea2c9fd5fc8e6eb74d71 | r8d6394f3015c3c40d4fad42b | r947dea0e20f845eb43761028 | rcbf2696934dc454031d633bb | rcd6a113ddd2b4cd383ccadf7 | re58847532ad5554c71fbed61
+aaai2024-27771,aaai2024-27771,AAAI,2024,Main,True,False,True,9,include | unknown,r1ae2b21d96ebf9258fd4da99 | r446362fd9eaef136ae1c35e6 | r65c237a56816c52a575c3add | r72719e1cb5423f7888379dfa | r94f4a65beaf274e74ad2774c | rbb3ba7f7117c9f6c5733a181 | rd51d8c0a0830014c363122bc | re34f5f0102afd953f856e5f4 | rf550ccaa8dd760739501f055
+aaai2024-27772,aaai2024-27772,AAAI,2024,Main,True,False,True,2,exclude | unknown,r2a258ed54ef5347983dd8b1a | r59c8240498d41aebb750abc6
+aaai2024-27773,aaai2024-27773,AAAI,2024,Main,True,False,True,2,exclude | unknown,r0314acc22c3a46921ae0e875 | r2ad5332d5b7242e60e8f27cf
+aaai2024-27774,aaai2024-27774,AAAI,2024,Main,True,False,True,2,exclude | unknown,r9b7853ed673f5d5ae11dc79c | rd78e1e7a77b68e07700d35db
+aaai2024-27775,aaai2024-27775,AAAI,2024,Main,True,False,True,2,exclude | unknown,r20d8bf1061e0a3b08c6c3b41 | rd5738d2781e391dbed847e34
+aaai2024-27776,aaai2024-27776,AAAI,2024,Main,True,False,True,2,exclude | unknown,r34c183f039bb8372bbb6e7d8 | rc4b5c1a22e79792f97c5aa8d
+aaai2024-27777,aaai2024-27777,AAAI,2024,Main,True,False,True,9,include | unknown,r244bcec438b0f48d0bd2cd5a | r37d072174d2f8b81ac78c358 | r39c555701458aa5efed25a62 | r4d0b9a2d9d7c175d57fb6c8c | r86b6a253feb298d8d6f358fa | r92e306537f53d062ffaa8c70 | r99195216c4bf15c9237f0647 | rcc369e2424f519d3a133b62a | rcf0639528f8032b53f197795
+aaai2024-27778,aaai2024-27778,AAAI,2024,Main,True,False,True,9,include | unknown,r7376a380407a036de92b5991 | r797eaef3f5512ba4ab27182a | r7df82d65a0e01ce77cd43df5 | r80c1dbf413a40b0e7d91888c | r8aa1eaa7e27afd24b47cc291 | raf12bf1d8a0bc56b25834197 | rb2899773d7c4f7755abbdf3a | rcba9ebb1afd59d0fcce02020 | re2248821d4c05c7321ea3854
+aaai2024-27779,aaai2024-27779,AAAI,2024,Main,True,False,True,17,Prior blocker retained; not counted as new license resolution. | include | unknown,r3024596cb5aec3655c97f24f | r4af2fb7f5995f19bf0812909 | r5271c693d1fcc609eaa3e5b8 | r5c8c6d2011eb217f9e5c3704 | r6e3238a3bf9fc2cffe5c9319 | r8f0351cc554571eaedaad21a | r9be9f4d024dbd63bc8fce053 | r9cd62c88cbe965490b9400c7 | raa9dcd2efb64abc86d8ff1bc | rc21a5cac2482312d20833817 | rc569fb2e501ef5120e507b3c | rcb29f82d1118f70db0a6bba0 | rd071bb4356b8c85d5e48e403 | re487c982f0f142e320548368 | rea800917d4207b9219efac61 | rf7390ab3b7db97d78f615152 | rfc52f59f70d6f2d8d3e23fb9
+aaai2024-27780,aaai2024-27780,AAAI,2024,Main,True,False,True,2,exclude | unknown,r7059e01711b5af26d861bc70 | r99756a44c16881558cfe582d
+aaai2024-27781,aaai2024-27781,AAAI,2024,Main,True,False,True,2,exclude | unknown,r972d6ee935be1f442e9ca46b | rba31df16c4f9d6e024a3b14d
+aaai2024-27782,aaai2024-27782,AAAI,2024,Main,True,False,True,9,include | unknown,r00a1d90fa6af3a68db95bbd7 | r0637f08422100158bbfe0e17 | r112230c8c5d2f4bb6f62877a | r12b8b7c724d3957c14cb7839 | r2815da64e6fc7ae8782f6082 | r48de88fd8995b1a16d692eac | r69cd6cd237054eef34e93c21 | r88727d72352d6e5fb5778def | r90d78c460468529ebb171bc8
+aaai2024-27783,aaai2024-27783,AAAI,2024,Main,True,False,True,2,exclude | unknown,rc766562f2cd8b9a6f45e9b5f | rce038e7a8a4d72f0d140a2f8
+aaai2024-27784,aaai2024-27784,AAAI,2024,Main,True,False,True,17,include | unknown,r086a185ddc5ee9665b80b969 | r209888e13fb468c41fb9c93e | r27f970dc6dca62009942f691 | r346ad28572154951b3c6ef71 | r3910e6fcb2a723898214954c | r5112249e5d78d0c3f35a1eb8 | r65f4210fc05380ea793fb2ca | r67b1a76941166b40c840b831 | r7549f1ad345f970752125d9d | r7c6372c76575988fa918e165 | r84d359d5c31c5c49b50bf58b | r8df8cd70bd1821500d680d3f | r9d431e5fae8b3ea31da9e17f | ra5cbf682d9d0b4e1ed493cdd | rae43764078d52eabaec97485 | rd1df98ed5f5d23133ef32771 | rf95d33bf5ef31337459c6438
+aaai2024-27785,aaai2024-27785,AAAI,2024,Main,True,False,True,2,exclude | unknown,r0cbfd2e5d0434c3cad3928f1 | r26a0efdf5ce25f5eb532d084
+aaai2024-27786,aaai2024-27786,AAAI,2024,Main,True,False,True,9,include | unknown,r4e33547577b3be09b9895ad6 | r5304013e2accfad018af7a43 | r7280d6cafb4d3fbe927ea1d2 | r92e1c430ddc5422efb33d081 | r99bf54cf9836f64cf905460f | r9f76b246ca0013eb23133c7f | rb6ce16036abcbf3f48b6c91b | rb9d028edbb2614fd8ab0e0ed | rbec456e09194befd0269c538
+aaai2024-27787,aaai2024-27787,AAAI,2024,Main,True,False,True,2,exclude | unknown,r4ef86f689a144719c9169982 | r6ef06324d707bb02076f945d
+aaai2024-27788,aaai2024-27788,AAAI,2024,Main,True,False,True,2,exclude | unknown,r197fe49913e4cef5ed47387e | rf33d532013e8732871eeabb5
+aaai2024-27789,aaai2024-27789,AAAI,2024,Main,True,False,True,12,include | unknown,r2814ee9e8c7d1d78c3108039 | r2ce608ebf35d20be35c6b31a | r3f4712c9cdd3213645627392 | r630490729879251a668cc70b | r65ac9f6ff7b21dc8e1297748 | r69f5c70c3f71c03d26c4f41d | r8d07a8deefaa77b2825cb824 | r8eaa84ea20d6d047748d8888 | ra66f6413373fed31de50697c | racb02a9188e65e6802b5d286 | rf3cda86d2bf628c9c317199c | rf95a0cb4a87dc2626e20e066
+aaai2024-27790,aaai2024-27790,AAAI,2024,Main,True,False,True,2,exclude | unknown,r34c1b8568e2f4c0ae9c5eb36 | rf8c9fdc679be71a5d36a25cf
+aaai2024-27791,aaai2024-27791,AAAI,2024,Main,True,False,True,2,exclude | unknown,r14097982093458c066affef3 | rc65ea40b47d56d081c2cdee7
+aaai2024-27792,aaai2024-27792,AAAI,2024,Main,True,False,True,12,include | unknown,r0f29f256a62a291c6f502f58 | r1b1eff44c756d6b40545edce | r2df7365d163cc60f0ee39061 | r4228db37beb7b06930ed13bb | r6477c451d4f60fb8af38e813 | r66154f63ebebbc8f6c72ca73 | r6e39c11ed7e3e555a8a0a56b | r897290c43fcdcab9edff8017 | r8bd2b2e485d8a328d520abfa | rbc6887568597cc68cc3d429f | rced9a229e904277ef7cfaf2b | rfdadbb8e15614537ef9b9d70
+aaai2024-27793,aaai2024-27793,AAAI,2024,Main,True,False,True,2,exclude | unknown,rba7c529907d513a9c1b7c812 | rd10c9949082f48deec58db3f
+aaai2024-27794,aaai2024-27794,AAAI,2024,Main,True,False,True,2,exclude | unknown,r124b619901db6d6878fdbc2d | r5eea5bdae9865b30a55ec7e9
+aaai2024-27795,aaai2024-27795,AAAI,2024,Main,True,False,True,2,exclude | unknown,r7586b758fc45a3627c3fef4f | rd9ad45aa79c32de135045f57
+aaai2024-27796,aaai2024-27796,AAAI,2024,Main,True,False,True,2,exclude | unknown,r1e481348623033618f65708d | r76186ea5821b6a338f380736
+aaai2024-27797,aaai2024-27797,AAAI,2024,Main,True,False,True,2,exclude | unknown,r00072458988e339a9fea19ad | r9a4727046842ad047e3f521a
+aaai2024-27798,aaai2024-27798,AAAI,2024,Main,True,False,True,2,exclude | unknown,r4cd8e43e3ca1f420b653e611 | re69b0919260ea8a43c91be29
+aaai2024-27799,aaai2024-27799,AAAI,2024,Main,True,False,True,2,exclude | unknown,r05258123c60e1cfd82884fb8 | r1fdef51d45592807eb51844a
+aaai2024-27800,aaai2024-27800,AAAI,2024,Main,True,False,True,2,exclude | unknown,r740ad8896e6a0986abe63f84 | rd04444f26a42e65e5801c819
+aaai2024-27801,aaai2024-27801,AAAI,2024,Main,True,False,True,2,exclude | unknown,ra11dd09d2269cf65fcd3e156 | rbeb32f5cd701658925d9fde9
+aaai2024-27802,aaai2024-27802,AAAI,2024,Main,True,False,True,2,exclude | unknown,r7fca1a337516e27f7be41143 | r83e12f84547572ff7d1dffe4
+aaai2024-27803,aaai2024-27803,AAAI,2024,Main,True,False,True,2,exclude | unknown,r8724de8f3fe78cfc8ac0a740 | ra455c55d5b83923b87f53ce8
+aaai2024-27804,aaai2024-27804,AAAI,2024,Main,True,False,True,2,exclude | unknown,r2461f4ce836de78125dba21a | r6549f9b155e4c92b0a370472
+aaai2024-27805,aaai2024-27805,AAAI,2024,Main,True,False,True,2,exclude | unknown,ra147783b789519698cd8b1ae | rffed726236f8ca272062f14a
+aaai2024-27806,aaai2024-27806,AAAI,2024,Main,True,False,True,2,exclude | unknown,r2595a00bb23278070162dee9 | r28eecbc97ac19b75a776543d
+aaai2024-27807,aaai2024-27807,AAAI,2024,Main,True,False,True,2,exclude | unknown,r38c0a3e57e402f931dd406b6 | r770f903390bb8bce75192e07
+aaai2024-27808,aaai2024-27808,AAAI,2024,Main,True,False,True,2,exclude | unknown,r8e4bf07e6b4c476e8bb97988 | rc9bd284f8d6b911dc9a0b3ec
+aaai2024-27809,aaai2024-27809,AAAI,2024,Main,True,False,True,2,exclude | unknown,r0a9a425a4d83f7bc41831304 | rf828b920caf050c753557b95
+aaai2024-27810,aaai2024-27810,AAAI,2024,Main,True,False,True,2,exclude | unknown,r7d1ced9600ea6476b235ea71 | r9d87b3a608da7924923431c4
+aaai2024-27811,aaai2024-27811,AAAI,2024,Main,True,False,True,2,exclude | unknown,r7f89140877bdea5a646b9fa5 | re4ce34d87e5d51110633d93b
+aaai2024-27812,aaai2024-27812,AAAI,2024,Main,True,False,True,2,exclude | unknown,ra6c06ba69119ee4b857c28f8 | rc5ea446a0ece27a1994845e4
+aaai2024-27813,aaai2024-27813,AAAI,2024,Main,True,False,True,2,exclude | unknown,r31c6ae9ad54ab8ac9b8a72f5 | r98e44d3ec091947443400046
+aaai2024-27814,aaai2024-27814,AAAI,2024,Main,True,False,True,2,exclude | unknown,r28a6e9ff82cf278ee0b62569 | r41cc8d030e6f6709fe8b9fd9
+aaai2024-27815,aaai2024-27815,AAAI,2024,Main,True,False,True,2,exclude | unknown,r412fa4fab839bbae22dd7e28 | rdf5cb04012cac72d5b2e8715
+aaai2024-27816,aaai2024-27816,AAAI,2024,Main,True,False,True,2,exclude | unknown,r318974188bc826e350a63b76 | ra5eb3636d5e959fe53ff20b6
+aaai2024-27817,aaai2024-27817,AAAI,2024,Main,True,False,True,2,exclude | unknown,r1c142bc066897361151de23b | r9b55aa915bd8238b0c422f31
+aaai2024-27818,aaai2024-27818,AAAI,2024,Main,True,False,True,2,exclude | unknown,r4764cb71b562fda5eae0dc6c | rf2bb312d083305f8b47a0867
+aaai2024-27819,aaai2024-27819,AAAI,2024,Main,True,False,True,10,include | unknown,r65a37422a447cb0efe28e0ae | r8836fd88e0f16c1052b97e37 | r8fe2a3795be943d697da9685 | r9c4db5bc8449564bc32b354b | rc5f542e3bc603b495c433a4d | rd122d5963d453ef9f43a931f | rd46571ee9a57cdfe84338c50 | rd575bd86931f488375eb605b | rd83ae9791737d96b0565c694 | re86bdaef10d8c89ae38516eb
+aaai2024-27820,aaai2024-27820,AAAI,2024,Main,True,False,True,2,exclude | unknown,r1ecf396ea51d18e5ec446f28 | r572defb1298d434c18474608
+aaai2024-27821,aaai2024-27821,AAAI,2024,Main,True,False,True,2,exclude | unknown,r89785ac227cdec498ab98e20 | redd77d6866a9eec9f5b0a2d9
+aaai2024-27822,aaai2024-27822,AAAI,2024,Main,True,False,True,2,exclude | unknown,r24c9f5f3bdc65dab37f20970 | r6377a8f202252c40103854bf
+aaai2024-27823,aaai2024-27823,AAAI,2024,Main,True,False,True,2,exclude | unknown,r53178aa07cc3987e076d4e5d | rcb91c44197e2b58225d1aeb2
+aaai2024-27824,aaai2024-27824,AAAI,2024,Main,True,False,True,2,exclude | unknown,r3fb9cfedb29f630d9c6e0053 | r600eb85c1855250269c38e6f
+aaai2024-27825,aaai2024-27825,AAAI,2024,Main,True,False,True,2,exclude | unknown,rb58ff1760e1d23bba7680e85 | rcbb4b3b00963b639b7b2f6a2
+aaai2024-27826,aaai2024-27826,AAAI,2024,Main,True,False,True,2,exclude | unknown,r1b98afe0b64f29e949839859 | r3700573f5477a5eb204a9f65
+aaai2024-27827,aaai2024-27827,AAAI,2024,Main,True,False,True,2,exclude | unknown,r0462111450263133d82d1abd | r4c7e28936d85b684640b07cc
+aaai2024-27828,aaai2024-27828,AAAI,2024,Main,True,False,True,2,exclude | unknown,r32b8ef3204029de66db5653b | r4089d47d52eaa0f7f421dc81
+aaai2024-27829,aaai2024-27829,AAAI,2024,Main,True,False,True,2,exclude | unknown,r3a5896c617298b34373a9edb | rbf2dee8ca7a586e026fbfa2b
+aaai2024-27830,aaai2024-27830,AAAI,2024,Main,True,False,True,2,exclude | unknown,r079fb5dfc6e1f25b50665397 | r205b69dbfad86b7d6cec5107
+aaai2024-27831,aaai2024-27831,AAAI,2024,Main,True,False,True,2,exclude | unknown,r73f883dfd1cd4fd60d93a123 | r75067d56169eb2254255c75f
+aaai2024-27832,aaai2024-27832,AAAI,2024,Main,True,False,True,2,exclude | unknown,r88b6760e2dff91d89e55e528 | rc84a8061cffd64c13e30739c
+aaai2024-27833,aaai2024-27833,AAAI,2024,Main,True,False,True,2,exclude | unknown,r472ec385c2b9312ea57817e7 | r8e15f577b68f45b5a274ed71
+aaai2024-27834,aaai2024-27834,AAAI,2024,Main,True,False,True,2,exclude | unknown,r5096a84aeef730c45336b0af | rdbe4cb5beacf9ad4978e90c8

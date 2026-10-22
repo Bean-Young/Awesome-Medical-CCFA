@@ -1,0 +1,1316 @@
+canonical_id,recorded_ids,venues,years,tracks,explicit_abstract_check_recorded,explicit_body_check_recorded,scientific_decision_recorded,event_count,decisions,event_ids
+2025.findings-acl.886.pdf,2025.findings-acl.886,,2025,,False,False,False,1,unknown,r8bf23d62b0977b1e28908364
+2025.findings-acl.887,2025.findings-acl.887,ACL,2025,Findings,True,False,True,8,exclude | unknown,r10e8f027bfd8cd36a6058b73 | r25a84165003fd6c4a84835a7 | r37d76194deae8217bd2db05d | r411efdee9a63245025fc5b2e | r5b4747fb2fefa4887985cbfb | rc36991b4925518287c8f6854 | rd7e4fa468f6848095c05cd4e | rf7f26d2874b0b46d74af1bf4
+2025.findings-acl.887.pdf,2025.findings-acl.887,,2025,,False,False,False,1,unknown,rbf4f798a0af8034fd06b8ecb
+2025.findings-acl.888,2025.findings-acl.888,ACL,2025,Findings,True,False,True,11,include | pending formal long-paper type verification | unknown,r2000fd77e68d31dc0ccad567 | r30e7f4e75f516a706679bf2b | r34c7ff9b36ad86bb3a2c77dd | r423a8df16d456962356a7e0e | r43b56f4cc638f54e0601bdf4 | r5ac23c2f8059cb9ecfddd3c7 | r766e15c030142401b77557f1 | r84d9b5b131c7cea1ae72715f | raa98775091afdda3c91c8443 | rd3efd3b2c4e515bbb349b0fe | rfb17f4b7815e1091d099f9b4
+2025.findings-acl.888.pdf,2025.findings-acl.888,,2025,,False,False,False,1,unknown,re9e00b3794d33dde73ae3437
+2025.findings-acl.889,2025.findings-acl.889,ACL,2025,Findings,True,False,True,8,exclude | unknown,r0abdb1e7abe0544847d956c2 | r43f072a90eaeec75658594b9 | r7fa1b724b671f16a246e91fd | r9f36b0075112cd9bd1c5e05d | ra00785f6f0f8d347a486c3aa | ra313b906f3a9d246fedaeba6 | rce5f864fad9b3c9a724359aa | re29dee99e2b0b1beb8e699cb
+2025.findings-acl.889.pdf,2025.findings-acl.889,,2025,,False,False,False,1,unknown,rc3e6ee5471cb3ffddc6a7072
+2025.findings-acl.89,2025.findings-acl.89,ACL,2025,Findings,True,False,True,4,exclude | unknown,r1feb6e72f99099e15c9ab49e | r43ef60de5fac68bd7b4b223f | re7d5736af95527b878f0718a | rfdf5b0c2024ff38314fae471
+2025.findings-acl.890,2025.findings-acl.890,ACL,2025,Findings,True,False,True,8,exclude | unknown,r3919cf9cb968948c17bbe987 | r395408e5f60afa9d3adf7f22 | r578f4e36f8a6b25ad350acfe | r61713dfaed52915016ab7bfa | r6c7116be09754322efd41845 | r842963ec17f6a5f6739b7a15 | rd2ff49594ba9143f4ecaa44b | re6e3cfeed7d2f326c0711def
+2025.findings-acl.890.pdf,2025.findings-acl.890,,2025,,False,False,False,1,unknown,r07b56b4a5517fa42954ae5cd
+2025.findings-acl.891,2025.findings-acl.891,ACL,2025,Findings,True,False,True,8,exclude | unknown,r08c61f87304411a45da7e8ad | r1f9ca3b92bfc12cafc811da8 | r313c92c760af82bae28e1cff | r80d265d7b3b4468c8512c227 | r8b5c8542a94bfc3601270ca3 | r93b5c63ca0c86f3345cddcae | rae39057079c1c40e17989bb6 | raf2cf2e4371815abf0213484
+2025.findings-acl.891.pdf,2025.findings-acl.891,,2025,,False,False,False,1,unknown,r72654ebc3fdb0f12df3a8cb8
+2025.findings-acl.892,2025.findings-acl.892,ACL,2025,Findings,True,False,True,8,exclude | unknown,r146658a04bd4312640257685 | r1df852d57d8a885af7d66b54 | r1fe4a43af0aa649660ac259c | r628e9bb2781e9c80f1a1ff53 | r6f47113522e82c1a791ac5c2 | r77fcecf703e5c4469aa8a8a6 | r81926657ef87b1ad4367f527 | rc4b2de4f2f6b197a8f2ae042
+2025.findings-acl.892.pdf,2025.findings-acl.892,,2025,,False,False,False,1,unknown,r285bb0e14190cf477f1d1eda
+2025.findings-acl.893,2025.findings-acl.893,ACL,2025,Findings,True,False,True,8,exclude | unknown,r0426b2cb0842d360f96e2d54 | r06296f52916e41b37f5f6448 | r560df3fc78adbd9e5416b0a3 | r56b4f28671661ffe508a5254 | r667027d721f5af648e7d4797 | r82a543fe9f8efed7acee28ba | rc31c889e12981c08d2137f65 | rc9e302b7a31ba521db6cf998
+2025.findings-acl.893.pdf,2025.findings-acl.893,,2025,,False,False,False,1,unknown,r0493040365eb3e0faf3cb4b0
+2025.findings-acl.894,2025.findings-acl.894,ACL,2025,Findings,True,False,True,8,exclude | unknown,r06fd43908d89ccb903b77839 | r3949f8ac98ce9bf59c495e0a | r55f3ec4ac5597725a634e810 | r97d7dbb8c65708e114a353eb | ra2906ccaa59cb899ed75cff8 | rc3a0e67cd660a467808d5029 | reee99043047f5658977640e0 | rfa1a48b08e54d41c18420436
+2025.findings-acl.894.pdf,2025.findings-acl.894,,2025,,False,False,False,1,unknown,rb9a4057df830083094ba5c29
+2025.findings-acl.895,2025.findings-acl.895,ACL,2025,Findings,True,False,True,8,exclude | unknown,r121f6fd9c19f75fbac84d805 | r1732f4f9e214a4000ad50509 | r17e18889dc638d8fbf09837c | r4087c86c07765ee6534b22e2 | r47b59af8847953cff22c0dd3 | r703b577ccf32f024d0fa8de3 | r9e1326a256d8bad53092cb5e | rf418720a2c4514dd57959b9a
+2025.findings-acl.895.pdf,2025.findings-acl.895,,2025,,False,False,False,1,unknown,refd585abb106279b7fcc169d
+2025.findings-acl.896,2025.findings-acl.896,ACL,2025,Findings,True,False,True,8,exclude | unknown,r09ae83f798c5d158f9d6eb20 | r3f67b7678d0e25ee2e2b4f85 | r5293e9a5f28f5470344a57e7 | rab60f0f0b330401cb25a9e2e | rc38bdb1a04c558a25b21222a | rc58747717dcfe672bfdb267e | re66746402b84bc893ccd8907 | reab14e7d56697680a2847201
+2025.findings-acl.896.pdf,2025.findings-acl.896,,2025,,False,False,False,1,unknown,r34aadefc2822d477e96c56df
+2025.findings-acl.897,2025.findings-acl.897,ACL,2025,Findings,True,False,True,8,exclude | unknown,r03e2b0b5e57a2155f24d41f2 | r0b3ebe62a4ce70fc844ab524 | r447b9c67167fefda39a6e1f2 | r883f8954fab413aadb1ba3a8 | r8f1e1c713ea1bf11853d2579 | rb943bba4857d8ae491700660 | re6c3e002f026dc95c66e6f6c | rfc770e2a125c2a03bc49e8e8
+2025.findings-acl.897.pdf,2025.findings-acl.897,,2025,,False,False,False,1,unknown,r4fe4496711d02f46dd63f193
+2025.findings-acl.898,2025.findings-acl.898,ACL,2025,Findings,True,False,True,8,exclude | unknown,r11e24761cf77dbd3c20a058e | r4a37efe759874f57ed966613 | r4b914ac5b7e677d357f7432c | r4e5af1fd3ed6b591befe3a53 | r648f55832514c759d8407295 | racbcbb94fc93f550602d688a | rc19857c357d5044b4b173581 | rc4b5f27804e23fe7a8e99cdc
+2025.findings-acl.898.pdf,2025.findings-acl.898,,2025,,False,False,False,1,unknown,rad5906b604e6b37e2c4afb2d
+2025.findings-acl.899,2025.findings-acl.899,ACL,2025,Findings,True,False,True,11,include | pending formal long-paper type verification | unknown,r01b8f6bf0951c9f682520868 | r2239f9bd1e4423e9288709c7 | r245798c6adf0410e145c5ac6 | r2f8aa6669bbee7af8af579a9 | r37e83ad769cad47e18350ebe | r5128fca9c84e27a8ef21c649 | r953dda6c1183359bdd143fb1 | r9f46fa092568a5450dfa80a2 | ra649c37f62f81c48dd094150 | rb488ac8c65693ed6bd8db497 | rd115e2922c31b2cd956fe43b
+2025.findings-acl.899.pdf,2025.findings-acl.899,,2025,,False,False,False,1,unknown,rd1274148566fc094b2fbea45
+2025.findings-acl.9,2025.findings-acl.9,ACL,2025,Findings,True,True,True,4,exclude | unknown,r383cc5486e6ec00f01dcd6a9 | r49cb0d1c4cc263f74854ca4c | r773f1578cc2c1deff960b994 | r7ed6bfe4b0e891f3224c96f8
+2025.findings-acl.90,2025.findings-acl.90,ACL,2025,Findings,True,True,True,4,exclude | unknown,r4895680417c98beccb555198 | r4a27bc4b2da86c07c223923c | rcd56b54fc5e22c138cdfde1e | rf4ccda1c3638ff5f23991e43
+2025.findings-acl.900,2025.findings-acl.900,ACL,2025,Findings,True,False,True,8,exclude | unknown,r0f10fbd77b0c6bfec5449e9c | r20101f14a6215b7468d424ef | r5eca709adf1f4cff208616d3 | rb6722f5d10d8de0ff2634947 | rceae04b22a2b83366d994f26 | re382a715887a622601b8bf76 | rf893b8fda1b1eb278a1594b2 | rfa36e054a3ad44817d63f67e
+2025.findings-acl.900.pdf,2025.findings-acl.900,,2025,,False,False,False,1,unknown,r695d4213968e92917ac4fa98
+2025.findings-acl.901,2025.findings-acl.901,ACL,2025,Findings,True,False,True,6,exclude | unknown,r52d165aeb935c00353e203af | r56cdd9df3b1f609aff3d3bc2 | r5d28ae7ca4613db7f37e15f5 | r7999b253b9804498eb20cc03 | refa9817fac55f44ecd8186f5 | rf676521d5ae5c5c13ff3b375
+2025.findings-acl.901.pdf,2025.findings-acl.901.pdf,,2025,,False,False,False,1,unknown,r77fe8420d6c329b4ab164843
+2025.findings-acl.902,2025.findings-acl.902,ACL,2025,Findings,True,False,True,6,exclude | unknown,r03facc2775903c2d7681ff24 | r0e97dde79f8cb8d6b92cf062 | r205e380a71efbe7b63e415f8 | r3431c237fd45a13db7ef072a | r3494dbfc8158bf5701f33c4e | r451333545943ce64381baf64
+2025.findings-acl.902.pdf,2025.findings-acl.902.pdf,,2025,,False,False,False,1,unknown,r41acea10e598659538234c83
+2025.findings-acl.903,2025.findings-acl.903,ACL,2025,Findings,True,False,True,6,exclude | unknown,r0afc087462b07409d8c32db2 | r6c4e598b88fd631421f4e73d | ra5b4f0cbc493c255f31b815d | rafed77dba0bb50075964de4d | rc062577aab1d8299da798e90 | refb92ccaff304b4efb871f04
+2025.findings-acl.903.pdf,2025.findings-acl.903.pdf,,2025,,False,False,False,1,unknown,r746b9787de98f61f99a0bf2f
+2025.findings-acl.904,2025.findings-acl.904,ACL,2025,Findings,True,False,True,6,exclude | unknown,r52c6fcb6cbc03b4ebf18514c | ra3ce7625e3811af66058f12f | rdf5dc52751029d28a811e4fc | re2d1fe24fc267cc45ce679b1 | re85e18844b3b3a5d266f7581 | rf1adf651b7d029412f09ae30
+2025.findings-acl.904.pdf,2025.findings-acl.904.pdf,,2025,,False,False,False,1,unknown,r8a16a4f5f75dc02cfb321fd2
+2025.findings-acl.905,2025.findings-acl.905,ACL,2025,Findings,True,False,True,6,exclude | unknown,r0b78bef4ac396f08a9a1ac76 | r13d84f6bee6c9e3c9023432d | r5174d02a27d9c6460575d546 | r637a769037a831fd1d87a930 | re890989d357718208f4a7f16 | rf83a249b47ac2e50f4c8234a
+2025.findings-acl.905.pdf,2025.findings-acl.905.pdf,,2025,,False,False,False,1,unknown,r7dcc2e58fea4b4dbb622697f
+2025.findings-acl.906,2025.findings-acl.906,ACL,2025,Findings,True,False,True,6,exclude | unknown,r061d2c7d2b556e5a817fa8de | r1439879ae56b0f16fe4c8985 | r78e6a5a74b983d96f320f5ab | rdc8f0f4d413164e53f994d90 | rde8100f1b4ed0b64f5637d32 | rf168846a53756d80d6d91875
+2025.findings-acl.906.pdf,2025.findings-acl.906.pdf,,2025,,False,False,False,1,unknown,rdfb7cd3343e14afd246084b4
+2025.findings-acl.907,2025.findings-acl.907,ACL,2025,Findings,True,False,True,8,include | pending formal long-paper type verification | unknown,r59414e8e0050a4313967a955 | r5ccf5d4612b0395c59954d0c | r931124fa0a386d33a38b8d1d | rbcb835d3f40e13dae1d8e7e0 | rbe4562f228c73f67f9156fc0 | rd46fb8e2bcc2c0b41eee8d2e | reaa974e4c2133dea7dd04ca7 | rf874725d97527f2eca80c7dd
+2025.findings-acl.907.pdf,2025.findings-acl.907.pdf,,2025,,False,False,False,1,unknown,rad9f082abb8fb16690699ae6
+2025.findings-acl.908,2025.findings-acl.908,ACL,2025,Findings,True,False,True,6,exclude | unknown,r220e6f89589674496c3b7a6c | r8a3e13c1c825b7f5b2dff5a0 | r9891a6746a51d8f283b78f8b | rad34c9df00688ec49ae1c1c4 | rb2fa8e022b59c49847896f64 | rddbee3e8479f17916bd1ac70
+2025.findings-acl.908.pdf,2025.findings-acl.908.pdf,,2025,,False,False,False,1,unknown,rbec10462947cd4ebc61694ea
+2025.findings-acl.909,2025.findings-acl.909,ACL,2025,Findings,True,False,True,8,include | pending formal long-paper type verification | unknown,r25021561a3f909c96bda5dfd | r2f9357131f24397686c2ca8d | r4d5d78da65e803d57538735d | r6dc9c186fe9985874f736671 | r7df15034ae6da6044eaed7d4 | r8ffe8a7395ecb0949dd9dda4 | rb42162734e3e4d4ccfa450ae | rf0f5dda4a937bcf546632679
+2025.findings-acl.909.pdf,2025.findings-acl.909.pdf,,2025,,False,False,False,1,unknown,r2b130b29f13a8a3380e12740
+2025.findings-acl.91,2025.findings-acl.91,ACL,2025,Findings,True,True,True,4,exclude | unknown,r3417672c9007491f927b4d6d | r5abd964d914b1d3974eaa513 | r5bcbc8649ce6f9c379d5333e | rebc5c5ee6441cb745b8e2ec2
+2025.findings-acl.910,2025.findings-acl.910,ACL,2025,Findings,True,False,True,6,exclude | unknown,r0935c33595b91eb2f3d6ccfa | r14c490c6d0ceb22722cf7e47 | r85107d7582ca18bd1fcdff7d | rd499b5341e088be36537c548 | rda7e41e12bc6b32ba5c5d6a0 | rebf35feb782b542d0b8e83ab
+2025.findings-acl.910.pdf,2025.findings-acl.910.pdf,,2025,,False,False,False,1,unknown,r0c2218e224774bb07c286269
+2025.findings-acl.911,2025.findings-acl.911,ACL,2025,Findings,True,False,True,6,exclude | unknown,r0d19a71700c8ac380ab024b3 | r3bd008953baef60abeb144b6 | ra6f91a21051f8580a31900ad | rca6f2d57f4d2742dc9276e08 | rf24e391726dbe143d164588a | rf9c4f6275e41da7ec87f70b1
+2025.findings-acl.911.pdf,2025.findings-acl.911.pdf,,2025,,False,False,False,1,unknown,rd4d3a99bfea9c4f4dc4800ab
+2025.findings-acl.912,2025.findings-acl.912,ACL,2025,Findings,True,False,True,6,exclude | unknown,r2c8ea0df2b7efe4d362b7738 | rbd6d54c457e9a0fec5ba47e3 | rc6299644f56e0a9966674e53 | re92f7a95d376bd1c78847a58 | rf58bb79786e6c0f8edfbea7c | rf8ee1a1445a738a1ca3017d0
+2025.findings-acl.912.pdf,2025.findings-acl.912.pdf,,2025,,False,False,False,1,unknown,r475f8d5913a832ce07daad3e
+2025.findings-acl.913,2025.findings-acl.913,ACL,2025,Findings,True,False,True,6,exclude | unknown,r09346fbf19b5f7aad7eeebe9 | r3722598d07f7a19e0a0506b7 | r425030235425c8b710aadea3 | r72a0734784d0e7d839dabadd | r914d5a5a2cc7ade4ecee12ad | rd36e2b2fe9c0b6a43e1327fd
+2025.findings-acl.913.pdf,2025.findings-acl.913.pdf,,2025,,False,False,False,1,unknown,r6cecc36ca0ff671ba464a5c2
+2025.findings-acl.914,2025.findings-acl.914,ACL,2025,Findings,True,False,True,6,exclude | unknown,r13c06d0fab5ebf94f2f329d3 | r2363db15faffac2bd05d94af | r3ea62ec725ab0fe70a24c92a | r94208ff2f1361ece3b045f9f | re050a0d6c8a21ee89b5fa708 | re16fe4021b875a2c3ec21555
+2025.findings-acl.914.pdf,2025.findings-acl.914.pdf,,2025,,False,False,False,1,unknown,r058a625a42fbc7ecef2d7230
+2025.findings-acl.915,2025.findings-acl.915,ACL,2025,Findings,True,False,True,6,exclude | unknown,r392ee6628ca954e9a68ffda1 | r51c6ffb76c9090b3964b4b7c | r6b8a0c554a70b14204427ac8 | r88be804c7fb634698e1d21c0 | rbc6bc3ae81cd23e9fe67f45f | rf9ae35c7f4d176a3fddd5592
+2025.findings-acl.915.pdf,2025.findings-acl.915.pdf,,2025,,False,False,False,1,unknown,raeb7edab7198c2c9d504d0e9
+2025.findings-acl.916,2025.findings-acl.916,ACL,2025,Findings,True,False,True,6,exclude | unknown,r09a17dcbc5ae514be72a3db1 | r0fe4ea58f8eebda975ebe0aa | r3d2995d173cedefabaf65c7b | r4216962b15aecbcfc8b0c1c8 | r66273295c262e2897acd242d | r6dad0906e2427b10e640c7d4
+2025.findings-acl.916.pdf,2025.findings-acl.916.pdf,,2025,,False,False,False,1,unknown,r9a2b7fe70cae94d5c49a9acf
+2025.findings-acl.917,2025.findings-acl.917,ACL,2025,Findings,True,False,True,6,exclude | unknown,r2e8756c70af102a7d32d89a3 | r5ac996e253aa16ed61814391 | r6055075e3121413915e5e0b8 | r785ce55f6724831d168e2caf | rb142bd7c85a47867ff3f915d | rb7d8b359765468d61df5663c
+2025.findings-acl.917.pdf,2025.findings-acl.917.pdf,,2025,,False,False,False,1,unknown,rf12a12736c059bd1d2542688
+2025.findings-acl.918,2025.findings-acl.918,ACL,2025,Findings,True,False,True,8,include | pending formal long-paper type verification | unknown,r0288948d175c1c44ea8b7afb | r3bf3056ffe23c82201816bea | r3dbcb71c7705b96230fcc796 | r93f19a4dcd709fca8fecd882 | r9433d4311ff6bb42e2d35264 | ra9895a4836b13d55b25a9c72 | re554e2316af254c64e01388d | re927b4c6b8de266024281013
+2025.findings-acl.918.pdf,2025.findings-acl.918.pdf,,2025,,False,False,False,1,unknown,rd8c6f923b020e164b47c2d9c
+2025.findings-acl.919,2025.findings-acl.919,ACL,2025,Findings,True,False,True,6,exclude | unknown,r4f9a8b51630c6c58a98e3b05 | r5ca90e2d1a0778be041280db | r71d83d0238336de46f95a155 | r788391b325b5dd7a897ac1af | r8a9c4b7ad5deb51429d13da9 | rafa576482fa349b37e3b2fed
+2025.findings-acl.919.pdf,2025.findings-acl.919.pdf,,2025,,False,False,False,1,unknown,r327d276eb3af5d40678ddeec
+2025.findings-acl.92,2025.findings-acl.92,ACL,2025,Findings,True,True,True,4,exclude | unknown,r19e1b8bcf64c133324b8acf9 | r207137e8470969bf767d2a72 | r6578b199efc4091b3d351459 | rfc8f14486657189285c98d1a
+2025.findings-acl.920,2025.findings-acl.920,ACL,2025,Findings,True,False,True,6,exclude | unknown,r0107d00cb29998f630058a2d | r04a4b7d08bdee0c7d3dc067f | r93306508d9730d45f62eee50 | rb03cab03442b4418d6f78b5b | rb04c4a8e829a1dffbfc42fe2 | rca8549d01dbed4b03fce5bcd
+2025.findings-acl.920.pdf,2025.findings-acl.920.pdf,,2025,,False,False,False,1,unknown,r99d00cbd1a79ecc881f036ba
+2025.findings-acl.921,2025.findings-acl.921,ACL,2025,Findings,True,False,True,8,exclude | unknown,r2c099a634d5bfe29f273a554 | r5e003b46be1c0d799a423403 | r69a4504a4a9b200f589f9b18 | rb4fa065afac550e44a299a61 | rc4b1482d0eba34b318eed044 | rcfff0a00ce34702152c481bc | rd2639b08c1826c3dc1e4a64c | rde0fe60d5b71fa0b6debc4ae
+2025.findings-acl.921.pdf,2025.findings-acl.921,,2025,,False,False,False,1,unknown,r39a2d87a2dc88cba423c34be
+2025.findings-acl.922,2025.findings-acl.922,ACL,2025,Findings,True,False,True,8,exclude | unknown,r01245ea58fa6de2216b78c19 | r07422cb88ecd9b2dba696bcf | r35033828fbc3ab1b8e570c59 | r3adee94ecc82dda4d271e66c | r4d003d4796a9c3fea176326c | r8904f41e492e7b417dd5c8ea | r8d4d01e18b5e758ba7a9eb01 | rd30d109765b26146a041719e
+2025.findings-acl.922.pdf,2025.findings-acl.922,,2025,,False,False,False,1,unknown,ra583d2e9d406bcbad578b5ba
+2025.findings-acl.923,2025.findings-acl.923,ACL,2025,Findings,True,False,True,8,exclude | unknown,r1f6349c35631837046c9adc7 | r5e02dad62ea9092c706f6118 | r83f281b10f9da27710827a6a | r8f2485185b6a2fed93d13111 | r96f0e014c4fccbdd18877eb0 | rac86fd19275cfe44bb68738c | re2a5af3987fb3615da918d06 | rf0315687f14ace3cf1f4cfd4
+2025.findings-acl.923.pdf,2025.findings-acl.923,,2025,,False,False,False,1,unknown,r8003cc77939da65ce03c31fc
+2025.findings-acl.924,2025.findings-acl.924,ACL,2025,Findings,True,False,True,8,exclude | unknown,r0280dc4d2af322b07a14140d | r3b23e4593f687568e88f5505 | r590cdbf87d56569783fe6ea7 | r691e1182b21735da73f24763 | r6a708dc58c121bb5f8a16f09 | r99221a63ea6f04983cc8d0d3 | r9f38c78b5b00e08f90ca2293 | ra51265bc92c6caccb99822d1
+2025.findings-acl.924.pdf,2025.findings-acl.924,,2025,,False,False,False,1,unknown,rc05d87c37b962c1ca54af2dd
+2025.findings-acl.925,2025.findings-acl.925,ACL,2025,Findings,True,False,True,8,exclude | unknown,r1a98f732d9391e7a16046a89 | r3f0ab200b221bf187c753c7e | r591e24d1d6d07ad94cf31066 | r639c05a1e9916e8a4aa8add5 | r8923829d5ccc7ddb54f2af24 | ra1cae09ad775c7eb81896476 | ra2bf8a50009fae8780c4ed4a | recb5708f764df666ff20d71a
+2025.findings-acl.925.pdf,2025.findings-acl.925,,2025,,False,False,False,1,unknown,r2bc6ff874c493e4ecad5a99a
+2025.findings-acl.926,2025.findings-acl.926,ACL,2025,Findings,True,False,True,8,exclude | unknown,r119b05b321acc5640f819567 | r24069ef38f081580c33697e6 | r2c3462e358cb66917f7220b3 | r56e7c57b4bb4a5cde9eb1130 | r7fc6c1ec24564069824d18e4 | r9de7aecb7461d98e8ac8da92 | r9e5ef255e182eb4aab76a831 | rdec1d4dcca99133c705bd96e
+2025.findings-acl.926.pdf,2025.findings-acl.926,,2025,,False,False,False,1,unknown,r74229f3eaea3d8e0f5937443
+2025.findings-acl.927,2025.findings-acl.927,ACL,2025,Findings,True,False,True,8,exclude | unknown,r4c22647026b269c5feb94d2e | r6ac217cb93f978c57ee9b5bb | r710a87065f4069e57cce9421 | r8fc64da1167497c5e6640551 | ra012ce356c1ae0b4c7b64dad | racdf15210e4bc22f2a366e61 | rbf825f15473b44b533e01319 | rfc3adbdd60e2ebdccebd713d
+2025.findings-acl.927.pdf,2025.findings-acl.927,,2025,,False,False,False,1,unknown,rbc27fbc6279d443252f90031
+2025.findings-acl.928,2025.findings-acl.928,ACL,2025,Findings,True,False,True,8,exclude | unknown,r3893ba20761a6941d6e99bfe | r3bff7322c265a7f3a8c42349 | r99dd4334392dfd59b1df3b0c | r9edb45ab0830e95340e2a41a | ra64fd2da2c4efcbcdf5868d0 | rb2b01ca422fc1ea261b9d475 | rd87720f0f9780621e4230229 | rdd237319fd40cce9e2360837
+2025.findings-acl.928.pdf,2025.findings-acl.928,,2025,,False,False,False,1,unknown,r2efd6103738e4a382b1f111f
+2025.findings-acl.929,2025.findings-acl.929,ACL,2025,Findings,True,False,True,8,exclude | unknown,r0b9304f1b630538c0c6af6dc | r0efeeef1dff7bb218bdb0327 | r123299d9d57af2c6c859ce89 | r17e0882be904c6f00f6239e7 | r5ca4b6d1d096b8c087f96db1 | r5eb53cf83f13a8165b97eb6d | r5ec1055f86a0ba877b01e2c0 | rf9a676abbbfac62307696765
+2025.findings-acl.929.pdf,2025.findings-acl.929,,2025,,False,False,False,1,unknown,rde1a19f36893d44d82f89d89
+2025.findings-acl.93,2025.findings-acl.93,ACL,2025,Findings,True,True,True,4,exclude | unknown,r16b48540160a74fc8c852bf3 | r25a7243d60ec453f7d1cd5ad | r598a3f8cacdcd45221440c72 | rec129a9875b326fd6e3ddee5
+2025.findings-acl.930,2025.findings-acl.930,ACL,2025,Findings,True,False,True,8,exclude | unknown,r3364551ff05140ff42045802 | r397c0a39256a7ac8b6a41036 | r51ab4ea9b6938fd472a4ba8d | r593c48e8a5f589cd6edcd1ff | r6502156dc10fe9edc0cc76a2 | refeb307072a339d8f508ff79 | rf75480de8f818fecb8e655ab | rfaed4ff9afa9f70474287607
+2025.findings-acl.930.pdf,2025.findings-acl.930,,2025,,False,False,False,1,unknown,r1ca3a6a3a4f29cdfbb75a60e
+2025.findings-acl.931,2025.findings-acl.931,ACL,2025,Findings,True,False,True,8,exclude | unknown,r0284a090562e621ff8fd315c | r34afa8b90b72c5b3792bdb1a | r3c3ace02f0073800dd896c16 | r5d886e80508324a02af5953b | r7236d76894d86762d0c3ee71 | r76c61c768b638af38ebbb395 | rcf22a01156763145868eece4 | rf4cdd4d21ed5449725bcd56e
+2025.findings-acl.931.pdf,2025.findings-acl.931,,2025,,False,False,False,1,unknown,rf9021ad6c0788fd4cb0ed426
+2025.findings-acl.932,2025.findings-acl.932,ACL,2025,Findings,True,False,True,8,exclude | unknown,r108ae85aaa484b998ad457bf | r35fb6848c2513f615f874cb9 | r4e0afb6e1508a56ff13b9771 | r79562fd760b760d45b77f72d | r9b9b18b9d6fe5c5d0b9ca298 | r9cbab6cca5a82b15f2adc543 | re886e293b59a80c7fd72d270 | rfb63b324c6ad5ea7930431b1
+2025.findings-acl.932.pdf,2025.findings-acl.932,,2025,,False,False,False,1,unknown,ra2005877e08c1166122ddd75
+2025.findings-acl.933,2025.findings-acl.933,ACL,2025,Findings,True,False,True,8,exclude | unknown,r16ab92bd642ee81a76c2a9cc | r25806770044072e4ccb5c21c | r343e85390014c3d92df2dd38 | r4ea5db96ae3c10852f6755e0 | r65b3e39b0e32a92edc41365d | r8acb55beaba6c30ca39dcd48 | r8f05ae15db9a6bc958c8a2db | re930d587ed4b1fdad1a8b6e4
+2025.findings-acl.933.pdf,2025.findings-acl.933,,2025,,False,False,False,1,unknown,r078c1e28aad676bf4a5e4090
+2025.findings-acl.934,2025.findings-acl.934,ACL,2025,Findings,True,False,True,8,exclude | unknown,r5a89ffc4f4d77b85ffda2166 | r5ca33d32d0266aeba8709a5c | r7021ad0a03d559ad99365820 | r79e169f681021c2808a54f58 | ra09c74992ea862030cfbf8b5 | rae33443982d58aacc137a5a4 | rd5ce5b5c40812dfa793d8ee9 | re737d15a91cd989928e33e00
+2025.findings-acl.934.pdf,2025.findings-acl.934,,2025,,False,False,False,1,unknown,r2c3bee58ba6b4d968834ac19
+2025.findings-acl.935,2025.findings-acl.935,ACL,2025,Findings,True,False,True,8,exclude | unknown,r0ad75cf0fedc5ad922d24283 | r12e3584ecdff492a8618b103 | r1476cf548029141b6fd5057e | r191567278453cfbd2d5e1130 | r4f0f5e7ef57592f5c7fc36b9 | r515589317c70aa5ad7b25743 | r80a619291100663fe72e7348 | ra35b59ce60791af2db54c1e2
+2025.findings-acl.935.pdf,2025.findings-acl.935,,2025,,False,False,False,1,unknown,r132ad8705a18747dc5fed473
+2025.findings-acl.936,2025.findings-acl.936,ACL,2025,Findings,True,False,True,8,exclude | unknown,r256a225bf07a2c665fbfcca9 | r41d7958dd0aa4942ec967d38 | r7aaf301ed972ec4684c04c3b | raff40309706a722d7449d82a | rc242eaebb5c1dbee62804f82 | rd16f99f6abf155b4c52b82f2 | rf8fc40cba475fcf55e478451 | rf95127f448daba954a05f3eb
+2025.findings-acl.936.pdf,2025.findings-acl.936,,2025,,False,False,False,1,unknown,r352b5fa85a2f6cac7090d69a
+2025.findings-acl.937,2025.findings-acl.937,ACL,2025,Findings,True,False,True,8,exclude | unknown,r225029578cc9e0d59b894d46 | r236351ac7b9fc9492647c22e | r2c0247f117a103c1ecd19b38 | r6a3f086ff49c89c6987d73ed | r88f3dc4c109d2907a96f48da | r9dee13952f8587201ff5bf17 | rb307bf5745e55ca6a2abb943 | rbbf45b6432b7630b7b7a9daf
+2025.findings-acl.937.pdf,2025.findings-acl.937,,2025,,False,False,False,1,unknown,r07d6517f1298fad789efd7ec
+2025.findings-acl.938,2025.findings-acl.938,ACL,2025,Findings,True,False,True,8,exclude | unknown,r0fef45af3dda140d5b83257d | r1b2f7edc92a4829e770c73fa | r20308b0af1a74f9140e088fc | r30ff1c9dfad49662ea8e286e | r57ec2cbf3a8b7c85a2142a9c | r82f577243aad4df43a859a9c | raa630cebf292f7094b59a4aa | rc79fe34e2cc17fbbeef63088
+2025.findings-acl.938.pdf,2025.findings-acl.938,,2025,,False,False,False,1,unknown,r386bebf6da2d1864b031533d
+2025.findings-acl.939,2025.findings-acl.939,ACL,2025,Findings,True,False,True,8,exclude | unknown,r0e74a59d8e9dd943734b30ca | r338d9c021501e257a71cf895 | r3f4d420e8f148f4d22a8e9e9 | r4d52d14e5842362ced52bd73 | r5e4ac52c9ef6194db6530266 | r9a0757f94a230ebd8a915ba5 | rad0be6578c024c3a7c597446 | rf3c73ed12240ee498a7e8e0a
+2025.findings-acl.939.pdf,2025.findings-acl.939,,2025,,False,False,False,1,unknown,re4ddb559f94058703dee58c1
+2025.findings-acl.94,2025.findings-acl.94,ACL,2025,Findings,True,True,True,4,exclude | unknown,r00f4693a665e1d0bc21a219d | r117ca1fb3aab6ca8e1dbbe75 | r78f185982d11e528d401b5de | rc4272b6f70d6768608fecc77
+2025.findings-acl.940,2025.findings-acl.940,ACL,2025,Findings,True,False,True,8,exclude | unknown,r063fe156023bfce80574a956 | r62e6a1098e6784964feaeaef | r6938d181be129c1e6aff0480 | r7ed94ae84fcf2c6186eb28f4 | r9902ddb9ba388a124c8ed975 | rab27aeb4259a77d818631f66 | redfc9464a90071eddb95d053 | rf9e6bd69543c83974abe3c50
+2025.findings-acl.940.pdf,2025.findings-acl.940,,2025,,False,False,False,1,unknown,r747766385f6864eec4d4f88f
+2025.findings-acl.941,2025.findings-acl.941,ACL,2025,Findings,True,False,True,6,exclude | unknown,r0b60c9843793ab06b6f75b7b | r153d015fcd701ace772f0d97 | r6dc0e5bf80abe5368ad157d6 | r922cbc47dbaf5812f4fca528 | rcb216d116c0bf49e184a7e33 | rdb76663a3b6089ed5e4d11d6
+2025.findings-acl.941.pdf,2025.findings-acl.941.pdf,,2025,,False,False,False,1,unknown,r790daa586779ef91d636e702
+2025.findings-acl.942,2025.findings-acl.942,ACL,2025,Findings,True,False,True,6,exclude | unknown,r03e0d6c77134d635fda2f509 | r66fa18a2bd70be7ef7f27d9a | r7c362ad399b914a97a79a2c5 | ra17dc03ea0e2370813e6850e | ra5e4c2dbff0fcac4bc7f966d | rb19d136a044173f68484b0ff
+2025.findings-acl.942.pdf,2025.findings-acl.942.pdf,,2025,,False,False,False,1,unknown,r99759ab41cbfbd0dc34166a1
+2025.findings-acl.943,2025.findings-acl.943,ACL,2025,Findings,True,False,True,6,exclude | unknown,r118e17dfc32b0bae1f13fb49 | r215ae899048402a7d58f7370 | r66890a00f4a28978d22e044f | r7c1eae437aab159f3fd9cc1c | r887144caa5fae5928f94a307 | rd5e1f88d753e087903c307cd
+2025.findings-acl.943.pdf,2025.findings-acl.943.pdf,,2025,,False,False,False,1,unknown,r26de38409a6f1139a52f8922
+2025.findings-acl.944,2025.findings-acl.944,ACL,2025,Findings,True,False,True,6,exclude | unknown,r07f320115ec5909c67866779 | r68df72b5d0243439219a3d76 | rb01775d8cfbec142b7db2c43 | rb8d7b0cb6c10803a10c5e55f | rd07b0c7d24eb22d7aff1c05b | re62761ef3c14ea5a78b6f51d
+2025.findings-acl.944.pdf,2025.findings-acl.944.pdf,,2025,,False,False,False,1,unknown,r20f5247c3a2f7af7d1b55e64
+2025.findings-acl.945,2025.findings-acl.945,ACL,2025,Findings,True,False,True,6,exclude | unknown,r1d42cafda791a9330d1ca796 | r5bf4742cd963569dd9717e53 | r7af160d6883ff96fa00e71b8 | r7b6c4466ba9c0179f4e16849 | rcd767e07fa4eafb6dd43392c | rf3a6185772530c71cab29f6a
+2025.findings-acl.945.pdf,2025.findings-acl.945.pdf,,2025,,False,False,False,1,unknown,rff0dfb776d5a1bad9bb9b720
+2025.findings-acl.946,2025.findings-acl.946,ACL,2025,Findings,True,False,True,6,exclude | unknown,r2e75bbc023bc9486f4fc44b5 | r677f25e46d6579f79fe35a08 | rbace08c287a34d86d1aebe5b | rbca4de3fcbe881804b1408ea | rc30c35f69ed839adb1780f13 | rd777fee135722754d2bab5eb
+2025.findings-acl.946.pdf,2025.findings-acl.946.pdf,,2025,,False,False,False,1,unknown,rb580a384763b7b19ecc9eae8
+2025.findings-acl.947,2025.findings-acl.947,ACL,2025,Findings,True,False,True,6,exclude | unknown,r0116547c518adb1fc3cfc10f | r5332fea60968082a7a26a2bb | raba6c014373e009102d7aa66 | raf08bdc3d51fa894210bb39f | rb8a85939ac49b9c5c813f506 | rfca3c7a6aa142d13649a9775
+2025.findings-acl.947.pdf,2025.findings-acl.947.pdf,,2025,,False,False,False,1,unknown,r647965b10c6d556d9d61da13
+2025.findings-acl.948,2025.findings-acl.948,ACL,2025,Findings,True,False,True,6,exclude | unknown,r19f79a60fbcd0392fd9629c7 | r221103d78e5bb71dcb4f0760 | r2ea6c2789ea404582e5a9491 | r637c401d1677edbc31c8ed9d | r8936547f5ae84aa635d0eb91 | r8bc95f810acfe10f960209f5
+2025.findings-acl.948.pdf,2025.findings-acl.948.pdf,,2025,,False,False,False,1,unknown,rb5e13e6e5d5e26b8096d1ab6
+2025.findings-acl.949,2025.findings-acl.949,ACL,2025,Findings,True,False,True,6,exclude | unknown,r0c7224a44c75c0599537640b | r392c80fb4e225383cc8d82f8 | r43c2d2c9ab68bfa93ddbc411 | r5e555add2a303e12197892fd | r9aa19c1c883049d9ab0cd7b0 | re231285214a2ddec1389ff04
+2025.findings-acl.949.pdf,2025.findings-acl.949.pdf,,2025,,False,False,False,1,unknown,r526577fe7267f354b0d65aa5
+2025.findings-acl.95,2025.findings-acl.95,ACL,2025,Findings,True,False,True,4,exclude | unknown,r3329e4a09e255eee5e7efedd | r378d585d17db995bad0f2c4c | r3d4bc2c7bd7f566a15607377 | ref0d5901d337f582a8654466
+2025.findings-acl.950,2025.findings-acl.950,ACL,2025,Findings,True,False,True,6,exclude | unknown,r13eca4e4cdd1a664cd90e22b | r7be441be3e555d7cdb7cd170 | rb836e303a9d68de4c78115c5 | rdfb1259ee324bd3282f9838f | rf7c8da211e8227108ca8cdb9 | rfcf4f2e8d34a077797a7c375
+2025.findings-acl.950.pdf,2025.findings-acl.950.pdf,,2025,,False,False,False,1,unknown,r3e9a41697b6a72a257b25ffc
+2025.findings-acl.951,2025.findings-acl.951,ACL,2025,Findings,True,False,True,6,exclude | unknown,r25b7ff0d56c0d8cfc7a0da20 | r3865e86cc52c9ee2787424bc | r5b27cce93f951cede1ee4ee0 | ra1dfd6886cd9e5184c9b90ee | rb1a3619b6a444170130d61bc | rbbe0a8413ad5c7b6423d5c85
+2025.findings-acl.951.pdf,2025.findings-acl.951.pdf,,2025,,False,False,False,1,unknown,r608d82cf1c20517b37ffc612
+2025.findings-acl.952,2025.findings-acl.952,ACL,2025,Findings,True,False,True,6,exclude | unknown,r03d5f74b208f814a76729bd4 | r10bc18413332dc826fb1c6b7 | r3a9c505cd5a52260e8a15af5 | rb172cdd42c95ce1864452aed | rc4f22144dda32a08dfe19d57 | rd54b34b0d828e773f4c3d253
+2025.findings-acl.952.pdf,2025.findings-acl.952.pdf,,2025,,False,False,False,1,unknown,rcfb0790334fd8bc178172ed3
+2025.findings-acl.953,2025.findings-acl.953,ACL,2025,Findings,True,False,True,6,exclude | unknown,r8aaefbbb35bdc2cf4fccbba0 | rc39dc366d44fe1a8174a9425 | rd883def4e523c2ca61aadcba | rddb8e8f2b5aae84445f8ef93 | ree0e54137a0b39e8a682a8e4 | rf2183d3fde7fba464d6f574f
+2025.findings-acl.953.pdf,2025.findings-acl.953.pdf,,2025,,False,False,False,1,unknown,r28628cbe73206d0995781b2f
+2025.findings-acl.954,2025.findings-acl.954,ACL,2025,Findings,True,False,True,6,exclude | unknown,r013dd05a5724444bbc8cd5f6 | r0fa06bf6d2e658328e0bf594 | r1a4743c4b5253223db6e5212 | r56b4122bc1b31fa56b8a89bd | r605532867b3acb69d400bb96 | r99bd8d156fe3f44be0fbd2bf
+2025.findings-acl.954.pdf,2025.findings-acl.954.pdf,,2025,,False,False,False,1,unknown,r402538f23fb4ee85400a37a1
+2025.findings-acl.955,2025.findings-acl.955,ACL,2025,Findings,True,False,True,6,exclude | unknown,r05d488a722ff34834f495b1e | r3d5e691bed557d963b062cdd | r722af33e47c23608a77ea17a | r9a343b4c0d6b05c311c9b97b | ra7827156976c7b9c1370cdd0 | rc201ac1d21253034050f9137
+2025.findings-acl.955.pdf,2025.findings-acl.955.pdf,,2025,,False,False,False,1,unknown,r4963dbb4ff2daeb723199104
+2025.findings-acl.956,2025.findings-acl.956,ACL,2025,Findings,True,False,True,6,exclude | unknown,r18e67cdc9cfbedb2e034d90f | r1ffbb92c08731d309a25abd5 | r40a4d4aff219525a55252fa6 | r72c255d4c8fa5c66fd9c908b | r9fbd7ae2e684f76a0343c779 | rb6bf9de18152c8765e7fb68d
+2025.findings-acl.956.pdf,2025.findings-acl.956.pdf,,2025,,False,False,False,1,unknown,r7081b79dd9da0d0cd3152f6b
+2025.findings-acl.957,2025.findings-acl.957,ACL,2025,Findings,True,False,True,6,exclude | unknown,r0f8d4423595d597de03b56e0 | r3711a465e17dfaf8cc4c31b5 | r5960aeeefc859a07ec26fd28 | rbf2b4016eb32b0b61d2a498f | rd8a4d1b93678286d1f4005cd | rf819f85edbf051198a08720d
+2025.findings-acl.957.pdf,2025.findings-acl.957.pdf,,2025,,False,False,False,1,unknown,ra20b83cbacb768f1db25ea5e
+2025.findings-acl.958,2025.findings-acl.958,ACL,2025,Findings,True,False,True,6,exclude | unknown,r1304a24e6f878cc304e64064 | r1e31f76c0f301392bfa419fe | r8f668455855b85418c488dac | raec5a1d09f3903ffe7cd0533 | rf65e6a5e324f6035b8f601e6 | rf87d072ce155c58bf1aee910
+2025.findings-acl.958.pdf,2025.findings-acl.958.pdf,,2025,,False,False,False,1,unknown,r6e6c58d32d295d8a1222fb77
+2025.findings-acl.959,2025.findings-acl.959,ACL,2025,Findings,True,False,True,6,exclude | unknown,r1a6ce65ac2216eaadb7f9ddf | r3456ac55b534aca77ee01121 | r63c9b3776935a1b49846ffc5 | ra31338a122a87e63f47f09b8 | rb38ed4e57dc4153fc5f231e6 | rf34a73529bd730a8bae03fa1
+2025.findings-acl.959.pdf,2025.findings-acl.959.pdf,,2025,,False,False,False,1,unknown,r32d7e1e08276e71dda1d3b18
+2025.findings-acl.96,2025.findings-acl.96,ACL,2025,Findings,True,True,True,4,exclude | unknown,r2801d8ee9c733d96c036a340 | r761dc1db92ffb639cc92d982 | ra4a43d04d238941bafb7be07 | rbdc0365142395b517407da20
+2025.findings-acl.960,2025.findings-acl.960,ACL,2025,Findings,True,False,True,6,exclude | unknown,r238c9e4bc4fda7e609ee5c97 | r2a6d59f92ce5b404b1e61391 | r381e1d87d8660001d2c1d59f | r8f5fa9fd55e505baca4c67b8 | r98320624cb7f693ef37cd522 | rf6f6cd3bde40648f3dffda76
+2025.findings-acl.960.pdf,2025.findings-acl.960.pdf,,2025,,False,False,False,1,unknown,r01fba90d4667a3535b95e6a4
+2025.findings-acl.961,2025.findings-acl.961,ACL,2025,Findings,True,False,True,8,exclude | unknown,r07e0b0942220cd47501ebad1 | r232d077981786a40276bfc5c | r59b42e00bf7bcb8a00aca459 | r80c140ad714a4ce2e05285a3 | r9e425610d1d1976c91ab296c | ra906d6621a2fd5d8ed00ff50 | rc2648ee6189524b6b0907f64 | rd2143b0e9ea193ae9695c869
+2025.findings-acl.961.pdf,2025.findings-acl.961,,2025,,False,False,False,1,unknown,ra93c4a8c66057dc8552166fb
+2025.findings-acl.962,2025.findings-acl.962,ACL,2025,Findings,True,False,True,8,exclude | unknown,r4d0ba6d4d3ba07200b68015c | r93cdacbbb8ad9cf1d102c8df | rb3fe4383dc8001213b2a14e7 | rc44645e5934538783f3723ac | re05497a2c23546ee6eb3d81f | rea516a1d7d092c5280da9aaf | red8dade245a8584bf5c8c553 | rfda4e7fc980e6ca2826a7541
+2025.findings-acl.962.pdf,2025.findings-acl.962,,2025,,False,False,False,1,unknown,rcb1a5f6f142c11b111c2bddc
+2025.findings-acl.963,2025.findings-acl.963,ACL,2025,Findings,True,False,True,8,exclude | unknown,r115c8541f365b503081b0d59 | r171ab25de501bb14303b5ce9 | r23d926e92baf4a90fec3597a | r60ff3f62af2e413fc9bc6adf | r6c30cedcbab8eff07f998f2f | r8b103185108033ae7e44b58f | rb47221810bdccb3da619c69a | rccae54aa4e70f819d462a59a
+2025.findings-acl.963.pdf,2025.findings-acl.963,,2025,,False,False,False,1,unknown,rbcd8a38c94d64146cea2a2c7
+2025.findings-acl.964,2025.findings-acl.964,ACL,2025,Findings,True,False,True,8,exclude | unknown,r1c714bfe12edee085abed354 | r43a5610e189bff06059bc5d2 | r50af3602c9445d24e301edfa | r59acbe327e94f84885c4340a | ra139248b15164b6936c1aad1 | rb6171f2d3551aa5225be2fd8 | rb74595c81d44cbe50f2e05f4 | rdaed6f283cb6373aa448e75e
+2025.findings-acl.964.pdf,2025.findings-acl.964,,2025,,False,False,False,1,unknown,r30131947895f6ad519f90bae
+2025.findings-acl.965,2025.findings-acl.965,ACL,2025,Findings,True,False,True,8,exclude | unknown,r1005df1c8a50a99c899e7a2e | r1380e288a592218afde15cf9 | r18d715ab6f08b2106207e197 | r42129d60ebe398a897f09e0e | r5a9a50432ed7de02d5c9e3ae | r75f7d70126906eea0705a386 | r779805891905b3411d1f57f1 | racef5cb4b187d848ede5a0ea
+2025.findings-acl.965.pdf,2025.findings-acl.965,,2025,,False,False,False,1,unknown,rf74eeb8850ce1a9f66c51632
+2025.findings-acl.966,2025.findings-acl.966,ACL,2025,Findings,True,False,True,8,exclude | unknown,r13eef72a07fc86b4886810b7 | r1e57c69899b20cd086066dbb | r68eae032d14f4d4872b61cf9 | r6f08e6d18178b9ede39b2d62 | r7227b977ef3ab6adad9449bc | r76d42745046bbc4913644f47 | r7fe49c00d76e67465c1b7c92 | r9405a17b092c6a09f691e7d1
+2025.findings-acl.966.pdf,2025.findings-acl.966,,2025,,False,False,False,1,unknown,r61b78055f6a4341852bb8c92
+2025.findings-acl.967,2025.findings-acl.967,ACL,2025,Findings,True,False,True,11,include | pending formal long-paper type verification | unknown,r359c636db252931d98d8bc30 | r4f638b8b28ecbffc12892c3b | r63634a429ae441e5289dcf09 | r6a220d3e993de477651dd843 | r7df52b55074441e37ecdaaae | r92bc73bb1c4a8743df2b78a3 | r92f0dea23c385fa0e32d0672 | r9a5a00365a209b35ceec6e10 | ra6d104552868ec8fcbcb3534 | rbbbb70da2ce2537bc95ac32f | rf071a56806c220aa292de8dc
+2025.findings-acl.967.pdf,2025.findings-acl.967,,2025,,False,False,False,1,unknown,r95e63de3ccd8421e9ca4be9f
+2025.findings-acl.968,2025.findings-acl.968,ACL,2025,Findings,True,False,True,8,exclude | unknown,r0d45e5c56c1f47e123a3fdbe | r0eaac3248b4ed0e4f3a7333b | r108af2bcec852e9ea3a032ac | r12a3db4a322eb47cee4c8022 | r7ae7055f07737f31434df6b7 | ra1f51c44e4b4f5ff1b308fee | rcfec9a2fb78ed3dc07c23d47 | rf9564131d5796be3ce282a40
+2025.findings-acl.968.pdf,2025.findings-acl.968,,2025,,False,False,False,1,unknown,r561cb8390d13467e82bb1abb
+2025.findings-acl.969,2025.findings-acl.969,ACL,2025,Findings,True,False,True,8,exclude | unknown,r07eadec32add96212c1833da | r10bb56a7bec9dfaf0976c151 | r3aa51e3e255f1d8aec0d8a4b | r6f44f232cfa12383a62583c5 | r73ce8d5004c466d744a4ae98 | r80d859d279ec1fd077477b7b | ra606e9a2ebf5a20123a72e52 | rb66fe7ab9210f20c9df7b21c
+2025.findings-acl.969.pdf,2025.findings-acl.969,,2025,,False,False,False,1,unknown,r4d0f21d2f4a430fbc9933be3
+2025.findings-acl.97,2025.findings-acl.97,ACL,2025,Findings,True,True,True,4,exclude | unknown,r09620cd42092706694c3df74 | r33ca9acf2f46270d19ba46b9 | r6006075bb2cf5e22f035472c | r9fd9d53f5ef43e1106d7a9f3
+2025.findings-acl.970,2025.findings-acl.970,ACL,2025,Findings,True,False,True,8,exclude | unknown,r3b62b64aa1877a29dc21bc8e | r6c7d0b104fb6b2cdadd402dd | r8b27f32c6f47d8711f51aec2 | r9bfc1f4c37987f9cf5e2b81e | r9db8ebab6a669a8eb573ee07 | radbe0135cf0911e10a875a70 | rbd46d2ab2156de0f1d5863fe | re3db711a59956f39f36ccc1d
+2025.findings-acl.970.pdf,2025.findings-acl.970,,2025,,False,False,False,1,unknown,r77b6384d2006c7b31d65460b
+2025.findings-acl.971,2025.findings-acl.971,ACL,2025,Findings,True,False,True,11,include | pending formal long-paper type verification | unknown,r1000f5ddc767a2eb95a51c59 | r206ca261155a2579001d22c5 | r28e557f98619cace01260ee9 | r56db037063bf6e3ab42f1e1d | r5f8db1cdaf415f0a1fabb9ef | r78e5f4107ccb869d9ef1a153 | r9f32a38ce4d087c0c2477854 | ra236d6fabb1ae217f5176a9c | rdeb57b50021a9f556a365e34 | rf2b60203aaf22b64b75a6bda | rf5143d3a66b2ca811fe4388c
+2025.findings-acl.971.pdf,2025.findings-acl.971,,2025,,False,False,False,1,unknown,r47e12c082871535daaa76297
+2025.findings-acl.972,2025.findings-acl.972,ACL,2025,Findings,True,False,True,8,exclude | unknown,r44c6ed3bf29ab0b729beb58e | r85328d573aa55a44ae1eb91f | r867016925e846d3ce887176a | r96294ee8437e41eb6561fc3e | ra8d8fcc29f0752ead5209fca | rbf4a75c1bab25650213a5841 | rcc26131459488a998720c074 | rf290a13449a17aa06c1e70f2
+2025.findings-acl.972.pdf,2025.findings-acl.972,,2025,,False,False,False,1,unknown,rcaaae468e66b927c46d2f1db
+2025.findings-acl.973,2025.findings-acl.973,ACL,2025,Findings,True,False,True,8,exclude | unknown,r359d748df2b07da2c1bf6430 | r42227f2da9ef01365c47fdb5 | rc8fd88fd74f04d466a62e83d | rce8610c212259bb3e4e9c182 | rd33b9672a10432ad973e07e7 | rd65d05008252e5d7ba60030b | rf1b224b3fcb7f0fcfdf51385 | rfd9765474a3f12611fb40d20
+2025.findings-acl.973.pdf,2025.findings-acl.973,,2025,,False,False,False,1,unknown,r86fab3525dba36454e7968b3
+2025.findings-acl.974,2025.findings-acl.974,ACL,2025,Findings,True,False,True,8,exclude | unknown,r6b54c1723a0f9db8ace6709e | r7f72d44d0c44e6e15f8255d8 | r8fefcc1a124884bda962cff2 | rbd4150ffc8412105e96d4a44 | rcea2459b56338ce51c612ac3 | rd3c3712a7767fa761a86e023 | rdeafd8635b09cb9a74bd418c | rfb16fad6cadfe49d64d134b2
+2025.findings-acl.974.pdf,2025.findings-acl.974,,2025,,False,False,False,1,unknown,rda9e7e4614f4ab148b7ab9b1
+2025.findings-acl.975,2025.findings-acl.975,ACL,2025,Findings,True,False,True,8,exclude | unknown,r04fd5dafa4541a93fa6f611d | r21d3b8f6a5bda9cc3c300557 | r6b4c6d4c72080a6a318ecdd2 | r727debe2a9b76af747b23745 | r9591460a692decbe754fde0b | rc3714ee6edb621d8933de3eb | rcebe35d38374e69120ad67e7 | rd68237ebc781b7b0876e5e00
+2025.findings-acl.975.pdf,2025.findings-acl.975,,2025,,False,False,False,1,unknown,r37e1c309007fac6c73b891c9
+2025.findings-acl.976,2025.findings-acl.976,ACL,2025,Findings,True,False,True,8,exclude | unknown,r1425f7910a73cee9513c079e | r464628e4e110762c46d9dc9b | r498a42b815bbfb36473f0009 | r4f1af2d2e3e87ba1c8bd69a7 | rb9b121cc63dea8a0312dd919 | rc2cb048c19695ab8933b5b47 | rc54fd28374b5360ad6e21c16 | re93a0f7942f2744e75603e62
+2025.findings-acl.976.pdf,2025.findings-acl.976,,2025,,False,False,False,1,unknown,r254bc723ce378b395b841b44
+2025.findings-acl.977,2025.findings-acl.977,ACL,2025,Findings,True,False,True,8,exclude | unknown,r192cf287471f058b3003ed8b | r24e2b8bd679eac3a9182d1b5 | r3615d36f285a3f27ac5de669 | r56aa19ca5751725b91acf5ef | r7faa29e9ec3707deebe28ade | r8ac224b4e11cdb496c1b9311 | r9efdc80fa75c206561a4125f | rb5b9d84d2b2467d911fb9baa
+2025.findings-acl.977.pdf,2025.findings-acl.977,,2025,,False,False,False,1,unknown,rcb78eceb5515333406d9139d
+2025.findings-acl.978,2025.findings-acl.978,ACL,2025,Findings,True,False,True,8,exclude | unknown,r2446236808963b3494ec4142 | r254c48acc1eabded64621b59 | r2a75a65542a6e981e620f67f | r7f723037d59d2a3e5a7c28fa | r931f910bc457d15a39a61ebb | r9876fc0499cf6b49a040a8b7 | rac5005287c18baa276f2a417 | rbfee3ac689bf0f9860c80d69
+2025.findings-acl.978.pdf,2025.findings-acl.978,,2025,,False,False,False,1,unknown,r8c3ed1ebbf2062ea096a40c9
+2025.findings-acl.979,2025.findings-acl.979,ACL,2025,Findings,True,False,True,8,exclude | unknown,r0f412e5dcd8ed192fc6d4892 | r2b2c76dc4d6b2c10f29b8df9 | r4d985cde13733cc92d86d950 | r82832318abf99a993dbc0df7 | rb8d35c304240a27d1904fc4f | rdeaf6aacb7be47be62f51482 | re6be37fa5fb52df261dcb627 | rfa77a899f364b57a2ad7f2c6
+2025.findings-acl.979.pdf,2025.findings-acl.979,,2025,,False,False,False,1,unknown,re7bb7cd710a23e064fe57c4f
+2025.findings-acl.98,2025.findings-acl.98,ACL,2025,Findings,True,False,True,4,exclude | unknown,r17e109fae8db0151145b1f79 | r55875139612783331203e3eb | r9745663dd1fd99a8c8fe1011 | r975019ff7d0cc6629360db03
+2025.findings-acl.980,2025.findings-acl.980,ACL,2025,Findings,True,False,True,8,exclude | unknown,r2b45e3b57ead54a99cc54bb7 | r45f89828c730208471db917c | r58ab54a3c59a68d127db8117 | r5d6c5637555bc1f06a638608 | r7772be70a5dd9261c545975c | r8692b461c9237e9ed56068bd | r96d20f47161f3fdc31b27d70 | re8be90087f8ac6d79b84b1ee
+2025.findings-acl.980.pdf,2025.findings-acl.980,,2025,,False,False,False,1,unknown,r3160dace3462256d9824e234
+2025.findings-acl.981,2025.findings-acl.981,ACL,2025,Findings,True,False,True,8,include | pending formal long-paper type verification | unknown,r01fc99b4a52c1a9a5998c263 | r9fc3a0845446fe1c01f0b67e | ra32c84ef21828a2d1400476c | ra5258f60503ff37ea6ca02f5 | ra88007f9145a8e8228d2fe70 | rc019c5ba1713a28cb00ad16c | rcf3977c4892c8140d7cf0f24 | re6e7830a3384eb70ce8f4d11
+2025.findings-acl.981.pdf,2025.findings-acl.981.pdf,,2025,,False,False,False,1,unknown,rbd5f64b25288821cd589ef4c
+2025.findings-acl.982,2025.findings-acl.982,ACL,2025,Findings,True,False,True,6,exclude | unknown,r22b06ac3b2f27612247a36dd | rb8d2695726c1708687bb71df | rd2a0484d56b49d557d8a6a9f | rde6e0a8f33eebe6b78d7df75 | re3d5379937aaa3e861f7db2b | rec846da26f76f121bb2260f0
+2025.findings-acl.982.pdf,2025.findings-acl.982.pdf,,2025,,False,False,False,1,unknown,r8d77cf5e110a82307bf073c2
+2025.findings-acl.983,2025.findings-acl.983,ACL,2025,Findings,True,False,True,6,exclude | unknown,r4f5980182ce7bd3542025f36 | r76a3baf4e73ab677924b025a | r7d55c11cc26136db9c066ccc | ra074b7fda0220510d1b1f8c4 | rbc33f1a134e5837ee48a83cb | rf648b6e9d62a6c9c4d0cd2a1
+2025.findings-acl.983.pdf,2025.findings-acl.983.pdf,,2025,,False,False,False,1,unknown,rdb348cf5403b00d19c7a1747
+2025.findings-acl.984,2025.findings-acl.984,ACL,2025,Findings,True,False,True,6,exclude | unknown,r211560707067c229d00564d8 | r2b28244fcfb64df35e879674 | r73cbf712c06c47ab3d917810 | r7b23fdecd4e6a9f9f007977f | r8b7ff632588f6e09263f8af6 | rd08c668d7496110e9aa4798b
+2025.findings-acl.984.pdf,2025.findings-acl.984.pdf,,2025,,False,False,False,1,unknown,rbc659b96979a31ae48044e83
+2025.findings-acl.985,2025.findings-acl.985,ACL,2025,Findings,True,False,True,6,exclude | unknown,r30d981bcb00345d819ce533f | r6575c1d723289731da088298 | r711d0bb6a077f83338ae8304 | r8eada3770f26b879d06b4e42 | r9461a691c98679efad08802f | rbec02c2305b29cc3bc6758b3
+2025.findings-acl.985.pdf,2025.findings-acl.985.pdf,,2025,,False,False,False,1,unknown,r6984170586cad6677c0b2972
+2025.findings-acl.986,2025.findings-acl.986,ACL,2025,Findings,True,False,True,6,exclude | unknown,r2a3c2e604851d25cced42a53 | r48366a78e7bc2f7a5cced373 | r6dfdc885b515b0915ebeae0b | raa0fe8365f0db18935335d03 | re0cb5fa1ea155208b8a98b8d | re2d9d02e179fe231d43c8724
+2025.findings-acl.986.pdf,2025.findings-acl.986.pdf,,2025,,False,False,False,1,unknown,r1743f61c2f59b22a4d8cd894
+2025.findings-acl.987,2025.findings-acl.987,ACL,2025,Findings,True,False,True,6,exclude | unknown,r40aae0b9cc546d85d5c61c16 | r46d84e7603af5bb0363b48bf | r87e00a0c38bba7c9975dbc06 | r89f9d5b55a708dc48231d45d | re92a3f657773d528d1d48414 | red2d4ff0a4cbc726e4aa22be
+2025.findings-acl.987.pdf,2025.findings-acl.987.pdf,,2025,,False,False,False,1,unknown,ra4948d395697ccf748cb5fab
+2025.findings-acl.988,2025.findings-acl.988,ACL,2025,Findings,True,False,True,6,exclude | unknown,r02f02323bdef53e479dee56b | r4c4b107553dc65c8d2cb014a | r769e8dace08f6406496259c7 | ra6d3f36beb9d06003c774192 | rb533dc622b3aa6ead116e90d | re0ccea43e274dba066bf7eaa
+2025.findings-acl.988.pdf,2025.findings-acl.988.pdf,,2025,,False,False,False,1,unknown,r05f0f4c7377da37a6d011ea3
+2025.findings-acl.989,2025.findings-acl.989,ACL,2025,Findings,True,False,True,6,exclude | unknown,r046f92494a71dcec9cac078d | r2c0bb2d4247ab747b9dc6044 | r30dde81338b57627a67b10fe | r7d0fdf44f89d07ecb62a4979 | r8838b3d470cf9c0722432370 | red65b881c1f57d59cce9630b
+2025.findings-acl.989.pdf,2025.findings-acl.989.pdf,,2025,,False,False,False,1,unknown,r5da44a004f8ef6b67eefa0be
+2025.findings-acl.99,2025.findings-acl.99,ACL,2025,Findings,True,False,True,4,exclude | unknown,r1e0a8f215e05ee845a93a6c5 | r7157e8fca26c15a09aefede8 | r97d4de5bac7a15e5faacb11a | rc385d4033c4f9efc4ff1998c
+2025.findings-acl.990,2025.findings-acl.990,ACL,2025,Findings,True,False,True,6,exclude | unknown,r254e82200e3a04eafcd1e14c | r2a4cece1213ede6b97f905ff | r53bc0ab338779435cdcdead5 | r7a186930cd544d0939684701 | rd9d1f61e046a5d7f2cca5625 | rfe41706f0242a0e5270156c1
+2025.findings-acl.990.pdf,2025.findings-acl.990.pdf,,2025,,False,False,False,1,unknown,r58b52902fc4f51968cb86b15
+2025.findings-acl.991,2025.findings-acl.991,ACL,2025,Findings,True,False,True,6,exclude | unknown,r03a165eacec03c3ad9a4aced | r1731435ed4f33bdd90b558ec | r1aac9c7edbfdde1bdf5032cc | r53baa05303dae8c0e3232af7 | r7588346ee6a0b29d688bd7a3 | re8437eb741519b541f69bdc2
+2025.findings-acl.991.pdf,2025.findings-acl.991.pdf,,2025,,False,False,False,1,unknown,r887de9f84b7be4743464b336
+2025.findings-acl.992,2025.findings-acl.992,ACL,2025,Findings,True,False,True,6,exclude | unknown,r022c031af4fce8ca6df3edf7 | r65b4842399543e94c1725737 | r9162d6ed4edaea38de47953a | r9dd0415aba6429389b8bc831 | re4169d634aa7a3ee8186ef40 | reda4336d54da40738aaeb3ad
+2025.findings-acl.992.pdf,2025.findings-acl.992.pdf,,2025,,False,False,False,1,unknown,r1c6add096bd52f74f78a3d5a
+2025.findings-acl.993,2025.findings-acl.993,ACL,2025,Findings,True,False,True,6,exclude | unknown,r14f0410b705c728bb540dab3 | r3b81be16871b2be1be6d776d | r64461e9cfd52fc35adf75070 | rb1485095d7d7359f37ea8c66 | rbaaf3c677bcfb0854fa9050b | rc608808ed33b333b85371f74
+2025.findings-acl.993.pdf,2025.findings-acl.993.pdf,,2025,,False,False,False,1,unknown,r6096ea8dbd6206b7e4006b93
+2025.findings-acl.994,2025.findings-acl.994,ACL,2025,Findings,True,False,True,6,exclude | unknown,r04474b01ff6f9062c05d97f5 | r06dcdacf2ee8e66a117ef69d | r1759f738b343d21f8ef7b2a9 | r213caa84dcd5873f508e04f9 | r38c60f160e2f147929ca94f0 | r61809a7879bef4f3244483ef
+2025.findings-acl.994.pdf,2025.findings-acl.994.pdf,,2025,,False,False,False,1,unknown,rbd21af52b15a0a9c3525a172
+2025.findings-acl.995,2025.findings-acl.995,ACL,2025,Findings,True,False,True,6,exclude | unknown,r1dc989b8fa5f1b7b562d0879 | r370b91f45ba091a6438a2585 | rb515f49e6522e6c61fc277fd | rb6e9237ffaf6730b93060481 | rd1b55c8101bd8e8071b227c2 | re5b46878d04a221bc30b7ba9
+2025.findings-acl.995.pdf,2025.findings-acl.995.pdf,,2025,,False,False,False,1,unknown,rb9ed220c9055c0e1b38ce317
+2025.findings-acl.996,2025.findings-acl.996,ACL,2025,Findings,True,False,True,6,exclude | unknown,r2dbb8c809b5f11d14a1fee6a | r62085f39a9a9657f3af539a1 | r996d25f2cc3b5be0c4383ab7 | ra517080e415ffe9ee422603a | raa16962b4b3d6690a1efd9e8 | rd96cf15db066f6ddceb1722d
+2025.findings-acl.996.pdf,2025.findings-acl.996.pdf,,2025,,False,False,False,1,unknown,rf5279b04daf6f37c411a8379
+2025.findings-acl.997,2025.findings-acl.997,ACL,2025,Findings,True,False,True,6,exclude | unknown,r478f8437119679b7ae11b358 | r7de816ba116dca86dce8f7ce | rbb76e8cbeb117dc77d9de978 | rc459d0edf8aa8b0188d3370d | rcdf506cc74daa85597e7a1c3 | rece7b9dd03134f7df49e7220
+2025.findings-acl.997.pdf,2025.findings-acl.997.pdf,,2025,,False,False,False,1,unknown,rb86141ff066d3cc63825a4c0
+2025.findings-acl.998,2025.findings-acl.998,ACL,2025,Findings,True,False,True,6,exclude | unknown,r090605c5a2e56e5f85c31b21 | r12153e45ade4b52a4c8576c0 | r34376dea3d0f05329dfc2f83 | r8b7a1138ef3d2e9d0d02db62 | r9d0466795de77215a3e9b4d3 | rd241ab9a8642bb37bcb2e96c
+2025.findings-acl.998.pdf,2025.findings-acl.998.pdf,,2025,,False,False,False,1,unknown,ra692e9deaad46ffaeff50d10
+2025.findings-acl.999,2025.findings-acl.999,ACL,2025,Findings,True,False,True,6,exclude | unknown,r170fbfa4ce00f7231cc8c5f9 | r4537875e163037407a5f4120 | r7784b6732df87d170bbd8c77 | r7e2451f8c6e74f08a2d296dc | rd3bc68cbb84a601b8a8fe294 | rd45bbd006b77d613999afd68
+2025.findings-acl.999.pdf,2025.findings-acl.999.pdf,,2025,,False,False,False,1,unknown,r59be9084cf606ae6d60c275d
+2026.acl-long,2026.acl-long,ACL,2026,Main,False,False,False,2,unknown,r01a94abf649772924c4a76c2 | re78f837ff0b2a94c44418792
+2026.acl-long.1,2026.acl-long.1,ACL,2026,Main long,True,False,True,5,OUT | body_needed | unknown,r345e342b7e3e57ad535df882 | r7092af8c30775890c7f6c702 | r9a1296ed69e32432eb7bbc9e | rb56b0c7e3a8221e631934e49 | rc6f4f21fc243fbf267a66183
+2026.acl-long.1.pdf,2026.acl-long.1 | 2026.acl-long.1.pdf,ACL,2026,Main long,False,False,True,3,OUT | unknown,r164e68dbb0658becd43a0e28 | r3c7b66b863111982fdfadcda | r6b52e536c6800ffd282a32f8
+2026.acl-long.10,2026.acl-long.10,ACL,2026,Main long,True,False,True,5,OUT | body_needed | unknown,r3d638c424230df5db57b252b | r615063710213788c34a70f9e | r730fe606cfa0cd4b1f47b255 | rc031abaa88c1d3fe42c0a90f | rea3f7ca2cdcc3ef5f0b5e3e0
+2026.acl-long.10.pdf,2026.acl-long.10 | 2026.acl-long.10.pdf,ACL,2026,Main long,False,False,True,3,OUT | unknown,r818fc134e41380cf06f17e30 | r88284cb90aba17bf61cbd826 | rb89138b3c049a4ab0e19ecb0
+2026.acl-long.100,2026.acl-long.100,ACL,2026,Main long,True,False,True,4,OUT | unknown,r3368e7527f465d1d9ce0cd0c | r6cf206d3b385dff167d5a6ee | r947554eb19875d02d7187ad6 | rb6aedbd36faa1c62ee527120
+2026.acl-long.1000,2026.acl-long.1000,ACL,2026,Main long,False,False,False,1,unknown,r70c1bdb026c9b95df47de77b
+2026.acl-long.1001,2026.acl-long.1001,ACL,2026,Main long,False,False,False,1,unknown,r887130902679d1b9199ef897
+2026.acl-long.1002,2026.acl-long.1002,ACL,2026,Main long,False,False,False,1,unknown,rfb7fed96f26ac8e34e0a6d28
+2026.acl-long.1003,2026.acl-long.1003,ACL,2026,Main long,False,False,False,1,unknown,r16e4ae4b565d184c86aa80d3
+2026.acl-long.1004,2026.acl-long.1004,ACL,2026,Main long,False,False,False,1,unknown,rca476b55f13637dde045c6fd
+2026.acl-long.1005,2026.acl-long.1005,ACL,2026,Main long,False,False,False,1,unknown,raab9fee9694c4b770653baba
+2026.acl-long.1006,2026.acl-long.1006,ACL,2026,Main long,False,False,False,1,unknown,rd6c13fc324628637b05dcf5b
+2026.acl-long.1007,2026.acl-long.1007,ACL,2026,Main long,False,False,False,1,unknown,rc2630634a5b35d5c6234d7ff
+2026.acl-long.1008,2026.acl-long.1008,ACL,2026,Main long,False,False,False,1,unknown,rf39f9d3007e856742db0783e
+2026.acl-long.1009,2026.acl-long.1009,ACL,2026,Main long,False,False,False,1,unknown,r18fa8a49c93e892bea14735c
+2026.acl-long.101,2026.acl-long.101,ACL,2026,Main long,True,False,True,3,OUT | unknown,r6b74a53681b322c9d1eeabe8 | rad3d9849c98153cc0c9bf3d2 | rd61a84d4a9fcd844bcb17c8c
+2026.acl-long.1010,2026.acl-long.1010,ACL,2026,Main long,False,False,False,1,unknown,r1856bdfe64331d147aae75b8
+2026.acl-long.1011,2026.acl-long.1011,ACL,2026,Main long,False,False,False,1,unknown,ra263f5a0da5f6ff54861a6bb
+2026.acl-long.1012,2026.acl-long.1012,ACL,2026,Main long,False,False,False,1,unknown,rf0cb85ba086692a75c822c78
+2026.acl-long.1013,2026.acl-long.1013,ACL,2026,Main long,False,False,False,1,unknown,rf6febd3a194758e6d7e0934d
+2026.acl-long.1014,2026.acl-long.1014,ACL,2026,Main long,False,False,False,1,unknown,re1b5140c585f2088077746c7
+2026.acl-long.1015,2026.acl-long.1015,ACL,2026,Main long,False,False,False,1,unknown,rc8627d7c3b6f6b7a59f7da1c
+2026.acl-long.1016,2026.acl-long.1016,ACL,2026,Main long,False,False,False,1,unknown,rb6d5552e50759da2c70a8928
+2026.acl-long.1017,2026.acl-long.1017,ACL,2026,Main long,False,False,False,1,unknown,rbb1298747e2e68ec65d778a7
+2026.acl-long.1018,2026.acl-long.1018,ACL,2026,Main long,False,False,False,1,unknown,r9dd2820a0dc7966e38fd735b
+2026.acl-long.1019,2026.acl-long.1019,ACL,2026,Main long,False,False,False,1,unknown,re7f9ea0fad5100e1e6e7de28
+2026.acl-long.102,2026.acl-long.102,ACL,2026,Main long,True,False,True,3,OUT | unknown,r306a140dc1ff8f52c03c8912 | r8e0b27de7414cbbcd16169f0 | rbf20e9ca71069ccf2afccfd4
+2026.acl-long.1020,2026.acl-long.1020,ACL,2026,Main long,False,False,False,1,unknown,r60e64b8e5b323eca79cff99d
+2026.acl-long.1021,2026.acl-long.1021,ACL,2026,Main long,False,False,False,1,unknown,r1c915b99b1061266a11aecbe
+2026.acl-long.1022,2026.acl-long.1022,ACL,2026,Main long,False,False,False,1,unknown,re6e8c1a340d18a7a4cb76ca7
+2026.acl-long.1023,2026.acl-long.1023,ACL,2026,Main long,False,False,False,1,unknown,rd8df72f22cc137920c3fe6a4
+2026.acl-long.1024,2026.acl-long.1024,ACL,2026,Main long,False,False,False,1,unknown,rdd40a2db12439059957ea854
+2026.acl-long.1025,2026.acl-long.1025,ACL,2026,Main long,False,False,False,1,unknown,r32236be67a4398349b821f2e
+2026.acl-long.1026,2026.acl-long.1026,ACL,2026,Main long,False,False,False,1,unknown,r14ef911db89a82060cbb0484
+2026.acl-long.1027,2026.acl-long.1027,ACL,2026,Main long,False,False,False,1,unknown,r10495593c32987a135bd9479
+2026.acl-long.1028,2026.acl-long.1028,ACL,2026,Main long,False,False,False,1,unknown,rc109c7c45663ad1f77e055ce
+2026.acl-long.1029,2026.acl-long.1029,ACL,2026,Main long,False,False,False,1,unknown,r593e362ca6b6ffd4b8ee65d0
+2026.acl-long.103,2026.acl-long.103,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r28cb696001ecd102095866df | r30a5c9d4fa87af1378bc98e0 | r3f811a37a9997f0fbfbc9817
+2026.acl-long.1030,2026.acl-long.1030,ACL,2026,Main long,False,False,False,1,unknown,rdd128f76b2ae915e8740c6e8
+2026.acl-long.1031,2026.acl-long.1031,ACL,2026,Main long,False,False,False,1,unknown,r89a28159f50d81d094757d4d
+2026.acl-long.1032,2026.acl-long.1032,ACL,2026,Main long,False,False,False,1,unknown,rd7e2d174234ce28b566cfe6f
+2026.acl-long.1033,2026.acl-long.1033,ACL,2026,Main long,False,False,False,1,unknown,r5959050f8c824f0f87ce2878
+2026.acl-long.1034,2026.acl-long.1034,ACL,2026,Main long,False,False,False,1,unknown,rf4b27d418002574677fda3b8
+2026.acl-long.1035,2026.acl-long.1035,ACL,2026,Main long,False,False,False,1,unknown,r8e8ade177f0b1cbf0e0d8465
+2026.acl-long.1036,2026.acl-long.1036,ACL,2026,Main long,False,False,False,1,unknown,r2c7cb306dbfec88d6fe02616
+2026.acl-long.1037,2026.acl-long.1037,ACL,2026,Main long,False,False,False,1,unknown,rdc43438726ea270cca6f49ec
+2026.acl-long.1038,2026.acl-long.1038,ACL,2026,Main long,False,False,False,1,unknown,r644624437fc29cb84092540d
+2026.acl-long.1039,2026.acl-long.1039,ACL,2026,Main long,False,False,False,1,unknown,r513eb5c19052b0b1cc0b1cef
+2026.acl-long.104,2026.acl-long.104,ACL,2026,Main long,True,False,True,3,OUT | unknown,r35f4ab389a9301cc3695dbf5 | r8affbc222e093f548b5b0dcc | rdb0cfa432b14d43ef85d22c0
+2026.acl-long.1040,2026.acl-long.1040,ACL,2026,Main long,False,False,False,1,unknown,ra57b7b438ccb19dff4e77013
+2026.acl-long.1041,2026.acl-long.1041,ACL,2026,Main long,False,False,False,1,unknown,r2dc15b37affccfeb0a7437fc
+2026.acl-long.1042,2026.acl-long.1042,ACL,2026,Main long,False,False,False,1,unknown,rfccadc9e6189e34b18ef97e9
+2026.acl-long.1043,2026.acl-long.1043,ACL,2026,Main long,False,False,False,1,unknown,r7a37bf1ea72a9a9e12eb86ff
+2026.acl-long.1044,2026.acl-long.1044,ACL,2026,Main long,False,False,False,1,unknown,r3cf3a4f3dab75a344463a67e
+2026.acl-long.1045,2026.acl-long.1045,ACL,2026,Main long,False,False,False,1,unknown,r3cb1fbf59aa9d6fcaa267df5
+2026.acl-long.1046,2026.acl-long.1046,ACL,2026,Main long,False,False,False,1,unknown,re483d27bb44798ad083e7d11
+2026.acl-long.1047,2026.acl-long.1047,ACL,2026,Main long,False,False,False,1,unknown,rd941321b3b4eea8ad19fb643
+2026.acl-long.1048,2026.acl-long.1048,ACL,2026,Main long,False,False,False,1,unknown,r8e3305020a678441f7bd8400
+2026.acl-long.1049,2026.acl-long.1049,ACL,2026,Main long,False,False,False,1,unknown,r564f342c84eed240f48057dd
+2026.acl-long.105,2026.acl-long.105,ACL,2026,Main long,True,False,True,3,OUT | unknown,rd156d1c087fbbe8596877dfb | rd5318da61f1530db9a02a32d | rdcd484419a5728d856e7b28e
+2026.acl-long.1050,2026.acl-long.1050,ACL,2026,Main long,False,False,False,1,unknown,r3e33af1c47a930852dbfcec8
+2026.acl-long.1051,2026.acl-long.1051,ACL,2026,Main long,False,False,False,1,unknown,r5ac9efed671604f4b943fd7e
+2026.acl-long.1052,2026.acl-long.1052,ACL,2026,Main long,False,False,False,1,unknown,rbb495a5174da35e7552bb217
+2026.acl-long.1053,2026.acl-long.1053,ACL,2026,Main long,False,False,False,1,unknown,r51f53e55ee4b49f824e897a6
+2026.acl-long.1054,2026.acl-long.1054,ACL,2026,Main long,False,False,False,1,unknown,ra87532b4e71b7b7755b1d157
+2026.acl-long.1055,2026.acl-long.1055,ACL,2026,Main long,False,False,False,1,unknown,r2c70d22db3e2c68d557aa741
+2026.acl-long.1056,2026.acl-long.1056,ACL,2026,Main long,False,False,False,1,unknown,rbfcdc4eed6e7a963b950e071
+2026.acl-long.1057,2026.acl-long.1057,ACL,2026,Main long,False,False,False,1,unknown,r8d4f2d753d12c96d7ec46ee5
+2026.acl-long.1058,2026.acl-long.1058,ACL,2026,Main long,False,False,False,1,unknown,r8e97df883ddf44b29c2edea3
+2026.acl-long.1059,2026.acl-long.1059,ACL,2026,Main long,False,False,False,1,unknown,r59f514425f26ca153579d854
+2026.acl-long.106,2026.acl-long.106,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r1400fb786ce912b1ab411ca8 | rf68376a301a9f71d569d4fd9 | rfa906767dcfebf47f8013144
+2026.acl-long.1060,2026.acl-long.1060,ACL,2026,Main long,False,False,False,1,unknown,r376910ed209ef3f05f58c7f0
+2026.acl-long.1061,2026.acl-long.1061,ACL,2026,Main long,False,False,False,1,unknown,rc497e0b28205587268404cd3
+2026.acl-long.1062,2026.acl-long.1062,ACL,2026,Main long,False,False,False,1,unknown,rb841c191a6690a674311aed2
+2026.acl-long.1063,2026.acl-long.1063,ACL,2026,Main long,False,False,False,2,unknown,r0e288a546dbcb92c8298286e | rc8b78191c764fb68c0631f95
+2026.acl-long.1064,2026.acl-long.1064,ACL,2026,Main long,False,False,False,1,unknown,r0de1a80d5b0d8bfefe41f7fa
+2026.acl-long.1065,2026.acl-long.1065,ACL,2026,Main long,False,False,False,1,unknown,rb87cab6d922ebebfdddce7e8
+2026.acl-long.1066,2026.acl-long.1066,ACL,2026,Main long,False,False,False,1,unknown,r054d98daacad6c01759ec921
+2026.acl-long.1067,2026.acl-long.1067,ACL,2026,Main long,False,False,False,2,unknown,r5ffdaea0d5cede56dd6fed9e | rea57f755fb270ea35e310bc6
+2026.acl-long.1068,2026.acl-long.1068,ACL,2026,Main long,False,False,False,1,unknown,r99a62d3788dade15632093ad
+2026.acl-long.1069,2026.acl-long.1069,ACL,2026,Main long,False,False,False,1,unknown,r026d6ae427c2bb2d1b286733
+2026.acl-long.107,2026.acl-long.107,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r8afa497ca8508998c82046b1 | r9d3f3705bfafe949dc0e2611 | rf0ee5d4e9a1ea2543f742a44
+2026.acl-long.1070,2026.acl-long.1070,ACL,2026,Main long,False,False,False,1,unknown,ra45f5b0d8e35cec5ae3a4bff
+2026.acl-long.1071,2026.acl-long.1071,ACL,2026,Main long,False,False,False,1,unknown,ref234eca037a0dc48d18ff80
+2026.acl-long.1072,2026.acl-long.1072,ACL,2026,Main long,False,False,False,1,unknown,rae1f3325a646f14fbb5be49f
+2026.acl-long.1073,2026.acl-long.1073,ACL,2026,Main long,False,False,True,6,IN | unknown,r282879bcf69dfd6c6adcb7be | r3a18a228f2d1aa64b48c68e0 | r49c29c22ab3aea02318cd867 | r60974e21902487219f234f9b | rdefb6051b6df58b659f49444 | reb90d48e1c849a6d3ad989fa
+2026.acl-long.1074,2026.acl-long.1074,ACL,2026,Main long,False,False,False,1,unknown,r540618f0d9d3bc478693dca3
+2026.acl-long.1075,2026.acl-long.1075,ACL,2026,Main long,False,False,False,1,unknown,r52c879e0be36f8dd1a9d3a20
+2026.acl-long.1076,2026.acl-long.1076,ACL,2026,Main long,False,False,False,1,unknown,r4fcc405dc5205d6e7da3dc70
+2026.acl-long.1077,2026.acl-long.1077,ACL,2026,Main long,False,False,False,1,unknown,r715e99a653f13f63f0df4723
+2026.acl-long.1078,2026.acl-long.1078,ACL,2026,Main long,False,False,False,1,unknown,r480f05a4f9abd8d96c345d79
+2026.acl-long.1079,2026.acl-long.1079,ACL,2026,Main long,False,False,False,1,unknown,rf97d83313f441e2f8ad623e8
+2026.acl-long.108,2026.acl-long.108,ACL,2026,Main long,True,False,True,3,OUT | unknown,r8dbbabf8006b239bdda979a0 | rb5966735c6abebf8d8d86775 | rea441738a91df1ded6f59ef4
+2026.acl-long.1080,2026.acl-long.1080,ACL,2026,Main long,False,False,False,1,unknown,r3872722e8a39e83541bd931e
+2026.acl-long.1081,2026.acl-long.1081,ACL,2026,Main long,False,False,False,1,unknown,rb6eec18572d46eebe69cc3b3
+2026.acl-long.1082,2026.acl-long.1082,ACL,2026,Main long,False,False,False,1,unknown,r955d32cc07b22c08e8c55c1b
+2026.acl-long.1083,2026.acl-long.1083,ACL,2026,Main long,False,False,False,1,unknown,r1bdaca652018f1e770e3d7e4
+2026.acl-long.1084,2026.acl-long.1084,ACL,2026,Main long,False,False,False,1,unknown,r3bf395497db78756bd70105a
+2026.acl-long.1085,2026.acl-long.1085,ACL,2026,Main long,False,False,False,1,unknown,r960bf431c478d1ecaa369d46
+2026.acl-long.1086,2026.acl-long.1086,ACL,2026,Main long,False,False,False,1,unknown,rc07d90d493927d7a89cb9c3f
+2026.acl-long.1087,2026.acl-long.1087,ACL,2026,Main long,False,False,False,1,unknown,r288437ca0fedd7d04ec4a8b9
+2026.acl-long.1088,2026.acl-long.1088,ACL,2026,Main long,False,False,False,1,unknown,r07bb24cc5e53ecbc484f0e27
+2026.acl-long.1089,2026.acl-long.1089,ACL,2026,Main long,False,False,False,1,unknown,r5a593cee47043c096ca12b4c
+2026.acl-long.109,2026.acl-long.109,ACL,2026,Main long,True,False,True,3,OUT | unknown,r59fd852c1874c555fdfacfda | r83b67264640ec0b3c64cb568 | rd52782cca928ebbf3aa0e282
+2026.acl-long.1090,2026.acl-long.1090,ACL,2026,Main long,False,False,False,1,unknown,r6f244e7b6e90dd293b2514cf
+2026.acl-long.1091,2026.acl-long.1091,ACL,2026,Main long,False,False,False,1,unknown,rce5ebe279f5f132f7e9519c6
+2026.acl-long.1092,2026.acl-long.1092,ACL,2026,Main long,False,False,False,1,unknown,r211395dc8384070d2c5f653f
+2026.acl-long.1093,2026.acl-long.1093,ACL,2026,Main long,False,False,False,1,unknown,r87e9e85ae511ce6e3cb08964
+2026.acl-long.1094,2026.acl-long.1094,ACL,2026,Main long,False,False,False,1,unknown,rd9daa96c32681971917217d4
+2026.acl-long.1095,2026.acl-long.1095,ACL,2026,Main long,False,False,False,1,unknown,r1c0ca957b6a0bb266587e3a5
+2026.acl-long.1096,2026.acl-long.1096,ACL,2026,Main long,False,False,False,1,unknown,ra09183555ce3b147dbcdcd7c
+2026.acl-long.1097,2026.acl-long.1097,ACL,2026,Main long,False,False,False,1,unknown,r38850c7867295a197d35f882
+2026.acl-long.1098,2026.acl-long.1098,ACL,2026,Main long,False,False,False,1,unknown,rfd58132fc948630baf548fda
+2026.acl-long.1099,2026.acl-long.1099,ACL,2026,Main long,False,False,False,1,unknown,r4067d0e82aa06a0ef9b2df1b
+2026.acl-long.11,2026.acl-long.11,ACL,2026,Main long,True,False,True,6,OUT | body_needed | unknown,r0cb93cb8eab508bd8b035490 | r2ab9dd7416e33d953f11d75b | r2fc3fb8ad20bb5c8901b260a | r5fb4380b47545a1e847bd53b | r647218ea59094ba4634d32bf | r782f71234d8310f8a76f3b72
+2026.acl-long.11.pdf,2026.acl-long.11 | 2026.acl-long.11.pdf,ACL,2026,Main long,False,False,True,4,OUT | unknown | unresolved,r06f73bb69fca4390d01a317c | r4d14e34c4bf00e13cf48ae7c | r573b0fd135ab97ea9d240e16 | rb66b8eaaf2e8c2a54476bffb
+2026.acl-long.110,2026.acl-long.110,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r5e9a14409be10172d52bfd58 | r840bda9ec3e8920e03245917 | rfceb20ccfe27d1301bf532db
+2026.acl-long.1100,2026.acl-long.1100,ACL,2026,Main long,False,False,False,1,unknown,r8371d76421c8a5ef20eac7f7
+2026.acl-long.1101,2026.acl-long.1101,ACL,2026,Main long,False,False,False,1,unknown,r11b20d572bd12903aea63692
+2026.acl-long.1102,2026.acl-long.1102,ACL,2026,Main long,False,False,False,1,unknown,rb9c1c40663376ced17db8397
+2026.acl-long.1103,2026.acl-long.1103,ACL,2026,Main long,False,False,False,1,unknown,r67f2ed35fc0953e9fcfb730f
+2026.acl-long.1104,2026.acl-long.1104,ACL,2026,Main long,False,False,False,1,unknown,r3caa63061923e3bf1a267f89
+2026.acl-long.1105,2026.acl-long.1105,ACL,2026,Main long,False,False,False,1,unknown,r248e89243fcc7454c2f61fbe
+2026.acl-long.1106,2026.acl-long.1106,ACL,2026,Main long,False,False,False,1,unknown,re0e7e083268c8d293509d3d9
+2026.acl-long.1107,2026.acl-long.1107,ACL,2026,Main long,False,False,False,1,unknown,r360cb4e5206b5a2111892bfc
+2026.acl-long.1108,2026.acl-long.1108,ACL,2026,Main long,False,False,False,1,unknown,re9d4e3a1225424798057ccb4
+2026.acl-long.1109,2026.acl-long.1109,ACL,2026,Main long,False,False,False,1,unknown,re84944baf1843c3c14f83854
+2026.acl-long.111,2026.acl-long.111,ACL,2026,Main long,True,False,True,3,OUT | unknown,r750866b18453ac71d1996fac | r9825437dfa60f6206d4c7299 | r9a9e927a360d9344ec647577
+2026.acl-long.1110,2026.acl-long.1110,ACL,2026,Main long,False,False,False,1,unknown,rcab0cce346c161c0b507f718
+2026.acl-long.1111,2026.acl-long.1111,ACL,2026,Main long,False,False,False,1,unknown,rda5c073c19466cf3f6da46c9
+2026.acl-long.1112,2026.acl-long.1112,ACL,2026,Main long,False,False,False,1,unknown,rcf44667805a4f9ba673f65b5
+2026.acl-long.1113,2026.acl-long.1113,ACL,2026,Main long,False,False,False,1,unknown,re3e04770657a546cffca5ebb
+2026.acl-long.1114,2026.acl-long.1114,ACL,2026,Main long,False,False,False,1,unknown,r3d5f724536b1d939d53fc353
+2026.acl-long.1115,2026.acl-long.1115,ACL,2026,Main long,False,False,False,1,unknown,raba50b2c5acb77b4e2a8d1c8
+2026.acl-long.1116,2026.acl-long.1116,ACL,2026,Main long,False,False,False,1,unknown,re411fd5407c56433aa15a1c5
+2026.acl-long.1117,2026.acl-long.1117,ACL,2026,Main long,False,False,False,1,unknown,r496aee1ce58636a11a4952e1
+2026.acl-long.1118,2026.acl-long.1118,ACL,2026,Main long,False,False,False,1,unknown,r537d5f2b3280b89b5340644b
+2026.acl-long.1119,2026.acl-long.1119,ACL,2026,Main long,False,False,False,1,unknown,r5a66b36ce3959c0c39cef237
+2026.acl-long.112,2026.acl-long.112,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r09318f033e8d6516f51418e5 | r6e2dca0f20a9f627ec504e7d | ra3b7dc03655dc1fea8843312
+2026.acl-long.1120,2026.acl-long.1120,ACL,2026,Main long,False,False,False,1,unknown,r53d3bd4bd2df5afb9241d7b3
+2026.acl-long.1121,2026.acl-long.1121,ACL,2026,Main long,False,False,False,1,unknown,r641b8c7ddb0f486c983da7d2
+2026.acl-long.1122,2026.acl-long.1122,ACL,2026,Main long,False,False,False,1,unknown,r23f1208b39b7c34538bd7fa3
+2026.acl-long.1123,2026.acl-long.1123,ACL,2026,Main long,False,False,False,1,unknown,rc0806e2ef867b139d54d837f
+2026.acl-long.1124,2026.acl-long.1124,ACL,2026,Main long,False,False,False,1,unknown,r7d3de8ed8d7ec6559d552567
+2026.acl-long.1125,2026.acl-long.1125,ACL,2026,Main long,False,False,False,1,unknown,r9f50d328e66abdae2434c737
+2026.acl-long.1126,2026.acl-long.1126,ACL,2026,Main long,False,False,False,1,unknown,r10276e6b0e9b1f6f5b6c920f
+2026.acl-long.1127,2026.acl-long.1127,ACL,2026,Main long,False,False,False,1,unknown,ref2722913718a84c39a371ec
+2026.acl-long.1128,2026.acl-long.1128,ACL,2026,Main long,False,False,False,1,unknown,r52d681d279aac79da7fd3580
+2026.acl-long.1129,2026.acl-long.1129,ACL,2026,Main long,False,False,False,1,unknown,rdc71393979996ccf21046e2f
+2026.acl-long.113,2026.acl-long.113,ACL,2026,Main long,True,False,True,4,body_needed | unknown,r2b057b1b66df68d71ffe87f9 | r56bb1045d50467c38da6c405 | rbba35abb0781c608318767ba | re749765ca5293e728e3f479c
+2026.acl-long.1130,2026.acl-long.1130,ACL,2026,Main long,False,False,False,1,unknown,r5e1f7af7f84cbae2596b90fd
+2026.acl-long.1131,2026.acl-long.1131,ACL,2026,Main long,False,False,False,1,unknown,rbc97ace5e16bdf4c7730fa85
+2026.acl-long.1132,2026.acl-long.1132,ACL,2026,Main long,False,False,False,1,unknown,r721c568d650cf54c61970417
+2026.acl-long.1133,2026.acl-long.1133,ACL,2026,Main long,False,False,False,1,unknown,r9f5fea017271b193b0e5c034
+2026.acl-long.1134,2026.acl-long.1134,ACL,2026,Main long,False,False,False,1,unknown,rea1e828cbee358de25ab1f64
+2026.acl-long.1135,2026.acl-long.1135,ACL,2026,Main long,False,False,False,1,unknown,r05c2581e347893bb64afed15
+2026.acl-long.1136,2026.acl-long.1136,ACL,2026,Main long,False,False,False,1,unknown,rf07eaab53b921334986794e0
+2026.acl-long.1137,2026.acl-long.1137,ACL,2026,Main long,False,False,False,1,unknown,r8b9b5794a50be322c164ad82
+2026.acl-long.1138,2026.acl-long.1138,ACL,2026,Main long,False,False,False,1,unknown,r7165585ac39990dcdb8d4efc
+2026.acl-long.1139,2026.acl-long.1139,ACL,2026,Main long,False,False,False,1,unknown,r29a2c72eeff228ca484fe7b9
+2026.acl-long.114,2026.acl-long.114,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r802b2b424e48506f268ffe29 | rc0cb907758f44762ad48fda8 | rd586f750083d4ce609369282
+2026.acl-long.1140,2026.acl-long.1140,ACL,2026,Main long,False,False,False,6,unknown,r032ad099cc67e4b150a84e6e | r43095913fb7a3181835fb071 | r7e2baff408f1880fd5577a54 | r85cd229739f72de31676c7ff | ra080c4a2e7e6d713d1d864c5 | rd500e9343c80f8eab1abf3f4
+2026.acl-long.1141,2026.acl-long.1141,ACL,2026,Main long,False,False,False,1,unknown,r819c43bd17549313f9c4e043
+2026.acl-long.1142,2026.acl-long.1142,ACL,2026,Main long,False,False,False,1,unknown,rc1a00613db58aad3176161e5
+2026.acl-long.1143,2026.acl-long.1143,ACL,2026,Main long,False,False,False,1,unknown,rcff241d76921806132b70855
+2026.acl-long.1144,2026.acl-long.1144,ACL,2026,Main long,False,False,False,1,unknown,r0891468e49efcf46ee7a5b64
+2026.acl-long.1145,2026.acl-long.1145,ACL,2026,Main long,False,False,False,1,unknown,re26e77fd39ead4d1478ed240
+2026.acl-long.1146,2026.acl-long.1146,ACL,2026,Main long,False,False,False,1,unknown,rf8b6618e1eb76945f639c4f1
+2026.acl-long.1147,2026.acl-long.1147,ACL,2026,Main long,False,False,False,1,unknown,r592df4dac54f20cb38bdf9bb
+2026.acl-long.1148,2026.acl-long.1148,ACL,2026,Main long,False,False,False,1,unknown,r3828d161703dc387541dce4c
+2026.acl-long.1149,2026.acl-long.1149,ACL,2026,Main long,False,False,False,1,unknown,rb7f3647e69450de14fce2a0d
+2026.acl-long.115,2026.acl-long.115,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r37a965074f7a091a2b08498b | r906aee2e7bb04b6925f9206f | rd77dfae671710dba7e767d21
+2026.acl-long.1150,2026.acl-long.1150,ACL,2026,Main long,False,False,False,1,unknown,r8e72d1d21f119d756fa5333a
+2026.acl-long.1151,2026.acl-long.1151,ACL,2026,Main long,False,False,False,1,unknown,r972795c6cb31744742699bf9
+2026.acl-long.1152,2026.acl-long.1152,ACL,2026,Main long,False,False,False,1,unknown,r7cf123c1afb60f9c29e448da
+2026.acl-long.1153,2026.acl-long.1153,ACL,2026,Main long,False,False,False,1,unknown,r40626686ebe229a96bdd83f2
+2026.acl-long.1154,2026.acl-long.1154,ACL,2026,Main long,False,False,False,1,unknown,rd2502e653b414a2fab50a5a8
+2026.acl-long.1155,2026.acl-long.1155,ACL,2026,Main long,False,False,False,1,unknown,rdd2184d93cff9e0f228b5362
+2026.acl-long.1156,2026.acl-long.1156,ACL,2026,Main long,False,False,False,1,unknown,r7772c4602195395d6db7fef3
+2026.acl-long.1157,2026.acl-long.1157,ACL,2026,Main long,False,False,False,1,unknown,rabd60aac9ba6c435005d188f
+2026.acl-long.1158,2026.acl-long.1158,ACL,2026,Main long,False,False,False,1,unknown,r85bce64e8f0fbffa937e171c
+2026.acl-long.1159,2026.acl-long.1159,ACL,2026,Main long,False,False,False,1,unknown,rfe0a67ae555bb9df78fde389
+2026.acl-long.116,2026.acl-long.116,ACL,2026,Main long,True,False,True,3,OUT | unknown,r12f0511ffda1176af9445b5a | r1bbc91cfca46f5ad60258150 | r752ef4a3e62966a6be702921
+2026.acl-long.1160,2026.acl-long.1160,ACL,2026,Main long,False,False,False,1,unknown,rcb9249bd43b1c8afe76a839f
+2026.acl-long.1161,2026.acl-long.1161,ACL,2026,Main long,False,False,False,1,unknown,r2a0cdd0275248e8c7e33f7c7
+2026.acl-long.1162,2026.acl-long.1162,ACL,2026,Main long,False,False,False,1,unknown,rc386be6e712b123e79145f3c
+2026.acl-long.1163,2026.acl-long.1163,ACL,2026,Main long,False,False,False,1,unknown,r8729e4385e41f38accdb2045
+2026.acl-long.1164,2026.acl-long.1164,ACL,2026,Main long,False,False,False,1,unknown,r1b8b11fd88d2749fe4a7441d
+2026.acl-long.1165,2026.acl-long.1165,ACL,2026,Main long,False,False,False,1,unknown,r54a74fb5ccb3f135963be86a
+2026.acl-long.1166,2026.acl-long.1166,ACL,2026,Main long,False,False,False,1,unknown,rc76612609ac5047fcee39977
+2026.acl-long.1167,2026.acl-long.1167,ACL,2026,Main long,False,False,False,1,unknown,re2a9d1e286d987bc57c7025b
+2026.acl-long.1168,2026.acl-long.1168,ACL,2026,Main long,False,False,False,1,unknown,rd1a6a2bb36a602d1b0065ee7
+2026.acl-long.1169,2026.acl-long.1169,ACL,2026,Main long,False,False,False,1,unknown,r8ebb4c656ef73f91c614ff37
+2026.acl-long.117,2026.acl-long.117,ACL,2026,Main long,True,False,True,3,OUT | unknown,r3350bde950aba4218266e2dc | r757c903adb33f7fd7c758a26 | rdf96605bbbccb365a864b3e9
+2026.acl-long.1170,2026.acl-long.1170,ACL,2026,Main long,False,False,False,1,unknown,r06f7ac34dabdc936b071cd8d
+2026.acl-long.1171,2026.acl-long.1171,ACL,2026,Main long,False,False,False,1,unknown,rc6a4778ad50e3c3df3f58e88
+2026.acl-long.1172,2026.acl-long.1172,ACL,2026,Main long,False,False,False,1,unknown,rc4b763ea4b8729d86ca2df9d
+2026.acl-long.1173,2026.acl-long.1173,ACL,2026,Main long,False,False,False,1,unknown,rc721a67cc04118888133b3be
+2026.acl-long.1174,2026.acl-long.1174,ACL,2026,Main long,False,False,False,1,unknown,r24d934f7b423a4eb59d2e012
+2026.acl-long.1175,2026.acl-long.1175,ACL,2026,Main long,False,False,False,1,unknown,r101f331b14a8d630bd3ab0c9
+2026.acl-long.1176,2026.acl-long.1176,ACL,2026,Main long,False,False,False,1,unknown,rfa33d83300ecccf7e58d175f
+2026.acl-long.1177,2026.acl-long.1177,ACL,2026,Main long,False,False,False,2,unknown,r9436b286d965548494d6ae58 | radaf190011cc2a7345f26c51
+2026.acl-long.1178,2026.acl-long.1178,ACL,2026,Main long,False,False,False,1,unknown,r0f08b0f46cfaca1614185bcb
+2026.acl-long.1179,2026.acl-long.1179,ACL,2026,Main long,False,False,False,1,unknown,r0edff12c7e65e20552dc0aa4
+2026.acl-long.118,2026.acl-long.118,ACL,2026,Main long,True,False,True,3,OUT | unknown,r7278220be8431591135877a7 | rb8bc14b0e9bef6628183a6fa | re3705666f4b1391da919b89d
+2026.acl-long.1180,2026.acl-long.1180,ACL,2026,Main long,False,False,False,1,unknown,rb49f60d8136c51579cee4d2d
+2026.acl-long.1181,2026.acl-long.1181,ACL,2026,Main long,False,False,False,1,unknown,r584695ddccde6e38007e50d1
+2026.acl-long.1182,2026.acl-long.1182,ACL,2026,Main long,False,False,False,1,unknown,r1b775d6697c26362b6323619
+2026.acl-long.1183,2026.acl-long.1183,ACL,2026,Main long,False,False,False,1,unknown,r4e0589d1732f68da2c9e9f30
+2026.acl-long.1184,2026.acl-long.1184,ACL,2026,Main long,False,False,False,1,unknown,r8bcb6105a86b7c1709f42e18
+2026.acl-long.1185,2026.acl-long.1185,ACL,2026,Main long,False,False,False,1,unknown,r44c5a089c1cd155f9040add1
+2026.acl-long.1186,2026.acl-long.1186,ACL,2026,Main long,False,False,False,1,unknown,r0261bcc333a8e262b8f629fa
+2026.acl-long.1187,2026.acl-long.1187,ACL,2026,Main long,False,False,False,1,unknown,r34d6b54c8c43f4a6345de2c7
+2026.acl-long.1188,2026.acl-long.1188,ACL,2026,Main long,False,False,False,1,unknown,raa690056ba28bd92be223ad1
+2026.acl-long.1189,2026.acl-long.1189,ACL,2026,Main long,False,False,False,1,unknown,r204ebc011eb6b20ac394e99c
+2026.acl-long.119,2026.acl-long.119,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r622483e42d49112afa3dbec8 | r789c045c371026bbe05903ab | rb6a03168dcda0cdbdd749e1c
+2026.acl-long.1190,2026.acl-long.1190,ACL,2026,Main long,False,False,False,1,unknown,rda6ed39529a23368bb210299
+2026.acl-long.1191,2026.acl-long.1191,ACL,2026,Main long,False,False,False,1,unknown,r808649570bf749851641ba82
+2026.acl-long.1192,2026.acl-long.1192,ACL,2026,Main long,False,False,False,1,unknown,ra11066a4ad1c17850aaf1a1f
+2026.acl-long.1193,2026.acl-long.1193,ACL,2026,Main long,False,False,False,1,unknown,r79366640b573bec381c34099
+2026.acl-long.1194,2026.acl-long.1194,ACL,2026,Main long,False,False,False,1,unknown,rd95e63261764a6593564bcba
+2026.acl-long.1195,2026.acl-long.1195,ACL,2026,Main long,False,False,False,1,unknown,rfc38dd9d086a22d6b2052244
+2026.acl-long.1196,2026.acl-long.1196,ACL,2026,Main long,False,False,False,1,unknown,re4251a46d5f5c9f27e1581f3
+2026.acl-long.1197,2026.acl-long.1197,ACL,2026,Main long,False,False,False,1,unknown,r58a3ace9d7dbc9579a2ce897
+2026.acl-long.1198,2026.acl-long.1198,ACL,2026,Main long,False,False,False,1,unknown,r09b0324f41a30d649348f9f9
+2026.acl-long.1199,2026.acl-long.1199,ACL,2026,Main long,False,False,False,1,unknown,rbb79ad4f338278c7ad8d1914
+2026.acl-long.12,2026.acl-long.12,ACL,2026,Main long,True,False,True,5,OUT | body_needed | unknown,r0004c072eb1129b748ea7abe | r2fd78e646694233ede9e4229 | r74ba653bee2ea2a7e0e0811c | r9b1245ca31d283f079112719 | rf74826e2e5c07d84a90ca06e
+2026.acl-long.12.pdf,2026.acl-long.12 | 2026.acl-long.12.pdf,ACL,2026,Main long,False,False,True,3,OUT | unknown,r78b6a7cfaae0b6cb94f7e9ef | rae30051a26d4fa950b748d5d | rda340d4271a6d06421ef5eeb
+2026.acl-long.120,2026.acl-long.120,ACL,2026,Main long,True,False,True,3,OUT | unknown,r91d7398933f92087e6300bbf | rc0b1ace2a8cb1715a53f024f | rf23c949d526c391fda273f28
+2026.acl-long.1200,2026.acl-long.1200,ACL,2026,Main | Main long,False,False,False,10,unknown,r11bde46833a8fbef46b7be0e | r17a724bdb9637b06fee1628d | r2b0b750ab5506b62a3ecf25f | rb25c174c077d8a3a6fa2b8ed | rb617cda356fb525d2c9278aa | rca4452b40e3693910ab403a2 | re52e28adf2ea87aee7041e66 | re6d39f8819191363f78cf67e | re7d9a43cfcab3472808a4cb0 | rfb923576edf6306fb5694897
+2026.acl-long.1200.pdf,2026.acl-long.1200 | 2026.acl-long.1200.pdf,ACL,2026,Main | Main long,True,False,True,8,IN | unknown,r2a941ec05763fc9703ebd7ee | r46a3411ff3e5e2101fcd527c | r5a940369f6bacd5947060336 | r773d75b1b75861a49a4709bf | r831d242c422cf6d25c34f489 | ra8b14a02880a80fcaeab1ed5 | re82b290f6906e747978fc915 | rf698c334e4f292921f5c2ad2
+2026.acl-long.1201,2026.acl-long.1201,ACL,2026,Main long,False,False,False,1,unknown,ra6db01450f6ce3befe46d889
+2026.acl-long.1202,2026.acl-long.1202,ACL,2026,Main long,False,False,False,1,unknown,r157667454dc892df2f933a20
+2026.acl-long.1203,2026.acl-long.1203,ACL,2026,Main long,False,False,False,1,unknown,r32a4b0eaacd9086d26a3b7b6
+2026.acl-long.1204,2026.acl-long.1204,ACL,2026,Main long,False,False,False,1,unknown,r565446f248b562e5d65df1aa
+2026.acl-long.1205,2026.acl-long.1205,ACL,2026,Main long,False,False,False,1,unknown,r97152f7dfebc933d2ebd9c1b
+2026.acl-long.1206,2026.acl-long.1206,ACL,2026,Main long,False,False,False,1,unknown,r1bd203b49042b05bce446696
+2026.acl-long.1207,2026.acl-long.1207,ACL,2026,Main long,False,False,False,1,unknown,rad0ebfc05c74c61e3afcd6b0
+2026.acl-long.1208,2026.acl-long.1208,ACL,2026,Main long,False,False,False,1,unknown,r82fdfea60c13c0512faa655c
+2026.acl-long.1209,2026.acl-long.1209,ACL,2026,Main long,False,False,False,1,unknown,rc7866e9f0162756a7bc591c0
+2026.acl-long.121,2026.acl-long.121,ACL,2026,Main long,True,False,True,4,body_needed | unknown,r0df9e5a32a73059a43a69441 | r65d42bd9325482d55077a9e8 | r95e18a1ebef0c6fd08b308a1 | rb3f1a14211c7ccbba6213bb0
+2026.acl-long.1210,2026.acl-long.1210,ACL,2026,Main long,False,False,False,1,unknown,r5eb92030bdc8a176ef288d15
+2026.acl-long.1211,2026.acl-long.1211,ACL,2026,Main long,False,False,False,1,unknown,rf0b20b10bc1c02b34871bb6b
+2026.acl-long.1212,2026.acl-long.1212,ACL,2026,Main long,False,False,False,1,unknown,rdd57d08b09add1785c3ac4ab
+2026.acl-long.1213,2026.acl-long.1213,ACL,2026,Main long,False,False,False,1,unknown,r063fe5fa9799c70c068aa9c5
+2026.acl-long.1214,2026.acl-long.1214,ACL,2026,Main long,False,False,False,1,unknown,rd20b12848f16e4be361faf4c
+2026.acl-long.1215,2026.acl-long.1215,ACL,2026,Main long,False,False,False,1,unknown,r808f6ad05b8252cb023536e9
+2026.acl-long.1216,2026.acl-long.1216,ACL,2026,Main long,False,False,False,1,unknown,rf081627372f934c1004fe45d
+2026.acl-long.1217,2026.acl-long.1217,ACL,2026,Main long,False,False,False,1,unknown,r571bd57ef6cf23075c651a66
+2026.acl-long.1218,2026.acl-long.1218,ACL,2026,Main long,False,False,False,2,unknown,ra52ff025310823f23dec5cd6 | re8fdab0c99a889281a8a3e8e
+2026.acl-long.1219,2026.acl-long.1219,ACL,2026,Main long,False,False,False,1,unknown,r67ffed2b04799c283d8572f3
+2026.acl-long.122,2026.acl-long.122,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r3153b412abb402daeffa8260 | r564a5ca687516fbee69b27e6 | rf75ae8b1f89cca18e3551838
+2026.acl-long.1220,2026.acl-long.1220,ACL,2026,Main long,False,False,False,1,unknown,r6aaea22179f49474c88d6958
+2026.acl-long.1221,2026.acl-long.1221,ACL,2026,Main long,False,False,False,1,unknown,rb47be408e9a27926055594a1
+2026.acl-long.1222,2026.acl-long.1222,ACL,2026,Main long,False,False,False,1,unknown,r94e8275cf37196722fa2a42f
+2026.acl-long.1223,2026.acl-long.1223,ACL,2026,Main long,False,False,False,1,unknown,r57199f2c0e5d8039cf08d29f
+2026.acl-long.1224,2026.acl-long.1224,ACL,2026,Main long,False,False,False,1,unknown,ra4c8f371124b39ab4b0b568a
+2026.acl-long.1225,2026.acl-long.1225,ACL,2026,Main long,False,False,False,1,unknown,rb076a2f596a5b81a7159fc38
+2026.acl-long.1226,2026.acl-long.1226,ACL,2026,Main long,False,False,False,1,unknown,r3c75fc72145f34f3cb155d85
+2026.acl-long.1227,2026.acl-long.1227,ACL,2026,Main long,False,False,False,1,unknown,r7a2ad583ae51b2510b2ed2d1
+2026.acl-long.1228,2026.acl-long.1228,ACL,2026,Main long,False,False,False,2,unknown,r0f899900ad9fc213b3e9daee | r99f48529b6205772dde93aea
+2026.acl-long.1229,2026.acl-long.1229,ACL,2026,Main long,False,False,False,1,unknown,r0eaeaec00baa426c9108f613
+2026.acl-long.123,2026.acl-long.123,ACL,2026,Main long,True,False,True,3,OUT | unknown,r1a0d6d3a7dae5faa86e8cf6c | ra825d39079bd082b268ccfcc | rf9cee3865f69ebb047cc2a1d
+2026.acl-long.1230,2026.acl-long.1230,ACL,2026,Main long,False,False,False,1,unknown,rea6af06b9327c7a3be95ca8c
+2026.acl-long.1231,2026.acl-long.1231,ACL,2026,Main long,False,False,False,1,unknown,r88a9b4e1b3052e15662c09ca
+2026.acl-long.1232,2026.acl-long.1232,ACL,2026,Main long,False,False,False,1,unknown,r0b82264bc388e30bc638da1c
+2026.acl-long.1233,2026.acl-long.1233,ACL,2026,Main long,False,False,False,1,unknown,r695718de0ee3dfc393ff3114
+2026.acl-long.1234,2026.acl-long.1234,ACL,2026,Main long,False,False,False,1,unknown,rbb51b71c07703b4f380b6085
+2026.acl-long.1235,2026.acl-long.1235,ACL,2026,Main long,False,False,False,1,unknown,rc5c55e7de47af323b3103592
+2026.acl-long.1236,2026.acl-long.1236,ACL,2026,Main long,False,False,False,1,unknown,r98b746a22f0acbfa3d73097a
+2026.acl-long.1237,2026.acl-long.1237,ACL,2026,Main long,False,False,False,1,unknown,r031f70735469435784f6311d
+2026.acl-long.1238,2026.acl-long.1238,ACL,2026,Main long,False,False,False,1,unknown,r4c5ce9fe0638a24b8f13ea3c
+2026.acl-long.1239,2026.acl-long.1239,ACL,2026,Main long,False,False,False,1,unknown,rdd7ea5064966c772b9f801a8
+2026.acl-long.124,2026.acl-long.124,ACL,2026,Main long,True,False,True,3,OUT | unknown,r3d6ae7fd53bce78479c04418 | rb2a18816c4fd3fab74ba9f12 | rf07dc6d5e990345efa5c89c1
+2026.acl-long.1240,2026.acl-long.1240,ACL,2026,Main long,False,False,False,1,unknown,rdf00ea137db11cd88422d230
+2026.acl-long.1241,2026.acl-long.1241,ACL,2026,Main long,False,False,False,1,unknown,rb4694d8774ca4e8ec7955da1
+2026.acl-long.1242,2026.acl-long.1242,ACL,2026,Main long,False,False,False,1,unknown,r65e64e927e036428e27f3de0
+2026.acl-long.1243,2026.acl-long.1243,ACL,2026,Main long,False,False,False,2,unknown,r4cae1c022ebaca17fadb3261 | rfb2685c8734387e72819d716
+2026.acl-long.1244,2026.acl-long.1244,ACL,2026,Main long,False,False,False,1,unknown,r228837c365bee25dd2742f34
+2026.acl-long.1245,2026.acl-long.1245,ACL,2026,Main long,False,False,False,1,unknown,rb75a1022eb8ff355742f0866
+2026.acl-long.1246,2026.acl-long.1246,ACL,2026,Main long,False,False,False,1,unknown,r159bb9788fcd51e0c303cdcf
+2026.acl-long.1247,2026.acl-long.1247,ACL,2026,Main long,False,False,False,1,unknown,rf960c3f0ab2c66befa22405d
+2026.acl-long.1248,2026.acl-long.1248,ACL,2026,Main long,False,False,False,1,unknown,ra147a624d6c040e62879f8d9
+2026.acl-long.1249,2026.acl-long.1249,ACL,2026,Main long,False,False,False,1,unknown,rea638c72fd721427278fa625
+2026.acl-long.125,2026.acl-long.125,ACL,2026,Main long,True,False,True,3,OUT | unknown,r34166391ac97c5918e643fb4 | r980b8c46d06f8c32f65dd918 | rfb48e4e4d5b527d36651a786
+2026.acl-long.1250,2026.acl-long.1250,ACL,2026,Main long,False,False,False,1,unknown,r9d7fc85de7176567429f843a
+2026.acl-long.1251,2026.acl-long.1251,ACL,2026,Main long,False,False,False,1,unknown,ra6a66e381f5d3336dd7e5ffa
+2026.acl-long.1252,2026.acl-long.1252,ACL,2026,Main long,False,False,False,1,unknown,r079c42ecba8b131327bef233
+2026.acl-long.1253,2026.acl-long.1253,ACL,2026,Main long,False,False,False,1,unknown,r70bc5e03622d85eca5cdd543
+2026.acl-long.1254,2026.acl-long.1254,ACL,2026,Main long,False,False,False,1,unknown,r78ae3a1226ae8d7b49b57f7e
+2026.acl-long.1255,2026.acl-long.1255,ACL,2026,Main long,False,False,False,1,unknown,rc3e5f9dc598ef36911fca666
+2026.acl-long.1256,2026.acl-long.1256,ACL,2026,Main long,False,False,False,1,unknown,r9cf4859edd2e4ab970fe5a9e
+2026.acl-long.1257,2026.acl-long.1257,ACL,2026,Main long,False,False,False,1,unknown,r73f4a21af1044ada325f9bb7
+2026.acl-long.1258,2026.acl-long.1258,ACL,2026,Main long,False,False,False,1,unknown,ref49e8566379ab293607883c
+2026.acl-long.1259,2026.acl-long.1259,ACL,2026,Main long,False,False,False,1,unknown,rdd46c6e8348aa96a6990dd2e
+2026.acl-long.126,2026.acl-long.126,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r1a5507532aed7517ec649287 | r8b167183c1310730580338b7 | ree45a063fc0b44d22baf1513
+2026.acl-long.1260,2026.acl-long.1260,ACL,2026,Main long,False,False,False,1,unknown,r373cebbe2c6eaa3ee75c6176
+2026.acl-long.1261,2026.acl-long.1261,ACL,2026,Main long,False,False,False,1,unknown,r1c44bf1eae32fafb008d08b3
+2026.acl-long.1262,2026.acl-long.1262,ACL,2026,Main long,False,False,False,1,unknown,r7655a9ed1c09a2e2873a5665
+2026.acl-long.1263,2026.acl-long.1263,ACL,2026,Main long,False,False,False,2,unknown,r6fcc6f1496e58b754cf33a8e | ra035cca58b5c05c6d913e047
+2026.acl-long.1264,2026.acl-long.1264,ACL,2026,Main long,False,False,False,1,unknown,r09f1a853f31ee8940775200e
+2026.acl-long.1265,2026.acl-long.1265,ACL,2026,Main long,False,False,False,1,unknown,rcfdb9087db2e2598518792c8
+2026.acl-long.1266,2026.acl-long.1266,ACL,2026,Main long,False,False,False,1,unknown,rdf773b42e0992c7347b93490
+2026.acl-long.1267,2026.acl-long.1267,ACL,2026,Main long,False,False,False,1,unknown,rdcc32a67ca779a6496283323
+2026.acl-long.1268,2026.acl-long.1268,ACL,2026,Main long,False,False,False,1,unknown,r2446495dbd76e35066002366
+2026.acl-long.1269,2026.acl-long.1269,ACL,2026,Main long,False,False,False,1,unknown,r37f033db8cc80ee5a74648fb
+2026.acl-long.127,2026.acl-long.127,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r50a3047093dc4e6d3d358742 | rb9d9eec89245212a618c8937 | red2f188adf60e6ba4aab93d8
+2026.acl-long.1270,2026.acl-long.1270,ACL,2026,Main long,False,False,False,1,unknown,rb8e4864c521ded3c767ebe47
+2026.acl-long.1271,2026.acl-long.1271,ACL,2026,Main long,False,False,False,1,unknown,rbcc7bbb798a7a67d65570e47
+2026.acl-long.1272,2026.acl-long.1272,ACL,2026,Main long,False,False,False,1,unknown,r81e2c295ceec98f31e15b614
+2026.acl-long.1273,2026.acl-long.1273,ACL,2026,Main long,False,False,False,1,unknown,rbd4754ffd40f1fc3819ab857
+2026.acl-long.1274,2026.acl-long.1274,ACL,2026,Main long,False,False,False,1,unknown,r7298d14f5f56d88754cf0824
+2026.acl-long.1275,2026.acl-long.1275,ACL,2026,Main long,False,False,False,1,unknown,rc7297d0c42de0143f5d15778
+2026.acl-long.1276,2026.acl-long.1276,ACL,2026,Main long,False,False,False,1,unknown,r1b3ddb04d57626914a089cd1
+2026.acl-long.1277,2026.acl-long.1277,ACL,2026,Main long,False,False,False,1,unknown,rb0bdf13ef64c4c84b6b2fc75
+2026.acl-long.1278,2026.acl-long.1278,ACL,2026,Main long,False,False,False,1,unknown,r104b2f10bfadd5962f375c62
+2026.acl-long.1279,2026.acl-long.1279,ACL,2026,Main long,False,False,False,1,unknown,r1733cd2fa972f28ece84cdcb
+2026.acl-long.128,2026.acl-long.128,ACL,2026,Main long,True,False,True,3,OUT | unknown,rbd51343a3375c9ae51f65905 | rbe7f4103b698645e5466c12b | rcffd97b13ec31ffcc8288afd
+2026.acl-long.1280,2026.acl-long.1280,ACL,2026,Main long,False,False,False,1,unknown,r4131f2f4fa6e683ddc6b1954
+2026.acl-long.1281,2026.acl-long.1281,ACL,2026,Main long,False,False,False,1,unknown,r8a38d617033568d63895258b
+2026.acl-long.1282,2026.acl-long.1282,ACL,2026,Main long,False,False,False,1,unknown,r27edd48175566bbc8fe9cdce
+2026.acl-long.1283,2026.acl-long.1283,ACL,2026,Main long,False,False,False,1,unknown,rb1a6c7eecadbe7bbc0dd55a5
+2026.acl-long.1284,2026.acl-long.1284,ACL,2026,Main long,False,False,False,1,unknown,r778f4809eb952bc4f158032b
+2026.acl-long.1285,2026.acl-long.1285,ACL,2026,Main long,False,False,False,1,unknown,r05bf5d4c824fde5fdd8bd5f1
+2026.acl-long.1286,2026.acl-long.1286,ACL,2026,Main long,False,False,False,1,unknown,ra61bbca8bb5a2a04d02464fc
+2026.acl-long.1287,2026.acl-long.1287,ACL,2026,Main long,False,False,False,1,unknown,r53a95b872bd4371cf37f2336
+2026.acl-long.1288,2026.acl-long.1288,ACL,2026,Main long,False,False,False,1,unknown,ra76dd8cdc8367cffc26c037e
+2026.acl-long.1289,2026.acl-long.1289,ACL,2026,Main long,False,False,False,1,unknown,r636b2e92f5512376d5c4292b
+2026.acl-long.129,2026.acl-long.129,ACL,2026,Main long,True,False,True,3,OUT | unknown,rabed4e60dfd07fe9ff188f6d | re45f5ede043eb1234c1a24c7 | rf468615578b54fb26b859e1c
+2026.acl-long.1290,2026.acl-long.1290,ACL,2026,Main long,False,False,False,1,unknown,r18a5419ff09a304b10b339ed
+2026.acl-long.1291,2026.acl-long.1291,ACL,2026,Main long,False,False,False,1,unknown,rbb133f7bd1a56587cd9c8472
+2026.acl-long.1292,2026.acl-long.1292,ACL,2026,Main long,False,False,False,1,unknown,r9eed7fe054d914326800edb0
+2026.acl-long.1293,2026.acl-long.1293,ACL,2026,Main long,False,False,False,1,unknown,rda157cced8dfdc8ff6b5ab37
+2026.acl-long.1294,2026.acl-long.1294,ACL,2026,Main long,False,False,False,1,unknown,rb255f5d421416eaf31021df0
+2026.acl-long.1295,2026.acl-long.1295,ACL,2026,Main long,False,False,False,1,unknown,r8d2cf77e9cc0629825535e3d
+2026.acl-long.1296,2026.acl-long.1296,ACL,2026,Main long,False,False,False,1,unknown,r32438cd76532f7cdb027c2a8
+2026.acl-long.1297,2026.acl-long.1297,ACL,2026,Main long,False,False,False,1,unknown,r89fb4766bc2bb7beba7e0074
+2026.acl-long.1298,2026.acl-long.1298,ACL,2026,Main long,False,False,False,1,unknown,r830955cf614a7bbeedf9c56f
+2026.acl-long.1299,2026.acl-long.1299,ACL,2026,Main long,False,False,False,1,unknown,rbcb15b7e049e9d295b0b64c0
+2026.acl-long.13,2026.acl-long.13,ACL,2026,Main long,True,False,True,5,OUT | body_needed | unknown,r21ee9664c5fa8c89c355ed60 | r9f49468f60734a2fc082167b | rb66ef03e922f2d958651bf8a | rc1353feb9e6152dcb8114e88 | ree5a4eabb74f19f0a14022b4
+2026.acl-long.13.pdf,2026.acl-long.13 | 2026.acl-long.13.pdf,ACL,2026,Main long,False,False,True,3,OUT | unknown,radcd9d8e9a52b4a5efe86474 | rf736e264cc831bb7852df305 | rfa79a1dbba6791f69d63955a
+2026.acl-long.130,2026.acl-long.130,ACL,2026,Main long,True,False,True,3,OUT | unknown,r0ca62ae70d1332490457018a | r325f479f437418ebee5968aa | r540582d1f4da1779ea5ae75b
+2026.acl-long.1300,2026.acl-long.1300,ACL,2026,Main long,False,False,False,1,unknown,r1f5d3a5c7f9f6373ca9d8c7b
+2026.acl-long.1301,2026.acl-long.1301,ACL,2026,Main long,False,False,False,1,unknown,rbddfe8f6d27c3390a64b179d
+2026.acl-long.1302,2026.acl-long.1302,ACL,2026,Main long,False,False,False,1,unknown,r32826aff90f542fc4a561f63
+2026.acl-long.1303,2026.acl-long.1303,ACL,2026,Main long,False,False,False,1,unknown,r964a679298bca0c7b17adfbe
+2026.acl-long.1304,2026.acl-long.1304,ACL,2026,Main long,False,False,False,1,unknown,r756cc7f4d80d94fa612dd4ba
+2026.acl-long.1305,2026.acl-long.1305,ACL,2026,Main long,False,False,False,1,unknown,ra3078384cbdf1bdbddb7d4f4
+2026.acl-long.1306,2026.acl-long.1306,ACL,2026,Main long,False,False,False,1,unknown,r1abafc5fc262e56d6ceea3c0
+2026.acl-long.1307,2026.acl-long.1307,ACL,2026,Main long,False,False,False,1,unknown,r02fde106a3b191575fedb1ba
+2026.acl-long.1308,2026.acl-long.1308,ACL,2026,Main long,False,False,False,1,unknown,rd04c52f20d2a3d9765b03e63
+2026.acl-long.1309,2026.acl-long.1309,ACL,2026,Main long,False,False,False,1,unknown,r1822b6072b7a765705df6e2a
+2026.acl-long.131,2026.acl-long.131,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r1ad546336919e2e05ace0085 | r1c03c6f06606ac7e1919eb7d | rffcdc227bf6ee57b2f6d8039
+2026.acl-long.1310,2026.acl-long.1310,ACL,2026,Main long,False,False,False,1,unknown,r74ac0f19333f361409e4a360
+2026.acl-long.1311,2026.acl-long.1311,ACL,2026,Main long,False,False,False,1,unknown,r28ae6334a3e99fcef0c7dab2
+2026.acl-long.1312,2026.acl-long.1312,ACL,2026,Main long,False,False,False,1,unknown,rf3d8a4b4bf9eea58ae7ae20a
+2026.acl-long.1313,2026.acl-long.1313,ACL,2026,Main long,False,False,False,1,unknown,rcff1667e18c05a3171fe992e
+2026.acl-long.1314,2026.acl-long.1314,ACL,2026,Main long,False,False,False,1,unknown,r2293dff0daf047a835a7799c
+2026.acl-long.1315,2026.acl-long.1315,ACL,2026,Main long,False,False,False,1,unknown,r3ce606e3409bf30bc43c36f4
+2026.acl-long.1316,2026.acl-long.1316,ACL,2026,Main long,False,False,False,1,unknown,r39de65d8352555879c079dbe
+2026.acl-long.1317,2026.acl-long.1317,ACL,2026,Main long,False,False,False,1,unknown,r127507a0cf0c2dd2e7a799fd
+2026.acl-long.1318,2026.acl-long.1318,ACL,2026,Main long,False,False,False,1,unknown,r5173e2e42fa80778ceb37383
+2026.acl-long.1319,2026.acl-long.1319,ACL,2026,Main long,False,False,False,1,unknown,re5b524f67d631029673af781
+2026.acl-long.132,2026.acl-long.132,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r04d28ae4297a85e5b947f41c | r1f8536cbaee846332b9f1149 | r585a85bfa52d4b9a998796c2
+2026.acl-long.1320,2026.acl-long.1320,ACL,2026,Main long,False,False,False,1,unknown,r9c59c4e4267776c5b7f6074d
+2026.acl-long.1321,2026.acl-long.1321,ACL,2026,Main long,False,False,False,1,unknown,ra7d87327110257bfa5b9db11
+2026.acl-long.1322,2026.acl-long.1322,ACL,2026,Main long,False,False,False,1,unknown,r2433507b9052884919dad141
+2026.acl-long.1323,2026.acl-long.1323,ACL,2026,Main long,False,False,False,1,unknown,r2276638620d091bf6ccd248e
+2026.acl-long.1324,2026.acl-long.1324,ACL,2026,Main long,False,False,False,1,unknown,r5ac5b4fdefe01edd263e81e5
+2026.acl-long.1325,2026.acl-long.1325,ACL,2026,Main long,False,False,False,1,unknown,rb30b3fbec20b78eac726fc6f
+2026.acl-long.1326,2026.acl-long.1326,ACL,2026,Main long,False,False,False,1,unknown,re51c10d75ed339db3876ae0f
+2026.acl-long.1327,2026.acl-long.1327,ACL,2026,Main long,False,False,False,1,unknown,r5230e3e3d8086bc7dfa49a9a
+2026.acl-long.1328,2026.acl-long.1328,ACL,2026,Main long,False,False,False,1,unknown,rdff33e10045405b84bdb4045
+2026.acl-long.1329,2026.acl-long.1329,ACL,2026,Main long,False,False,False,1,unknown,rd3a0c35eedecdfd04caf7f4a
+2026.acl-long.133,2026.acl-long.133,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r5851fd2d4ef601b28d4c91f2 | r6ff0f615ae523632587d0e78 | rf6e78698ff8e8c729f498f97
+2026.acl-long.1330,2026.acl-long.1330,ACL,2026,Main long,False,False,False,1,unknown,rf4dfefe25f7140e1e0dc2d21
+2026.acl-long.1331,2026.acl-long.1331,ACL,2026,Main long,False,False,False,1,unknown,r4c4bb655643f550bc81c65f4
+2026.acl-long.1332,2026.acl-long.1332,ACL,2026,Main long,False,False,False,1,unknown,rf039061ebc3c7c20e16bd4af
+2026.acl-long.1333,2026.acl-long.1333,ACL,2026,Main long,False,False,False,1,unknown,r4430a506292a15e2d397ada4
+2026.acl-long.1334,2026.acl-long.1334,ACL,2026,Main long,False,False,False,1,unknown,r11abd0d43f28cb85d031af8d
+2026.acl-long.1335,2026.acl-long.1335,ACL,2026,Main long,False,False,False,1,unknown,r4311675b7ae49125ff40d964
+2026.acl-long.1336,2026.acl-long.1336,ACL,2026,Main long,False,False,False,1,unknown,r7a0b45e58f30a5925b9cbab2
+2026.acl-long.1337,2026.acl-long.1337,ACL,2026,Main long,False,False,False,1,unknown,r8bcca615b77a10f518bff431
+2026.acl-long.1338,2026.acl-long.1338,ACL,2026,Main long,False,False,False,1,unknown,r52748545eb70f2fe94c1d428
+2026.acl-long.1339,2026.acl-long.1339,ACL,2026,Main long,False,False,False,1,unknown,r2a01fd1313f2f487c2b4da2e
+2026.acl-long.134,2026.acl-long.134,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r104308e097abebb411982fe5 | r4dc5f961f019c18a7597c73e | r4eb335629a36b08292b4584c
+2026.acl-long.1340,2026.acl-long.1340,ACL,2026,Main long,False,False,False,1,unknown,r9b7bad6c283a115cc3e3ddf9
+2026.acl-long.1341,2026.acl-long.1341,ACL,2026,Main long,False,False,False,1,unknown,r5dcd209d06e50e1f8ee3a4e4
+2026.acl-long.1342,2026.acl-long.1342,ACL,2026,Main long,False,False,False,1,unknown,r86f2fad510e2c72a1b8a7429
+2026.acl-long.1343,2026.acl-long.1343,ACL,2026,Main long,False,False,False,1,unknown,rc9bd41083aed69573dea8e05
+2026.acl-long.1344,2026.acl-long.1344,ACL,2026,Main long,False,False,False,1,unknown,rc47fbdb9e23950a95734e12f
+2026.acl-long.1345,2026.acl-long.1345,ACL,2026,Main long,False,False,False,1,unknown,rdf73f7e3f913acf2f9df07a2
+2026.acl-long.1346,2026.acl-long.1346,ACL,2026,Main long,False,False,False,1,unknown,rb45272fd4542eb3c0cddf223
+2026.acl-long.1347,2026.acl-long.1347,ACL,2026,Main long,False,False,False,1,unknown,rfa021a4633ac48a276ad477c
+2026.acl-long.1348,2026.acl-long.1348,ACL,2026,Main long,False,False,False,1,unknown,r53f21b37a933da622d897980
+2026.acl-long.1349,2026.acl-long.1349,ACL,2026,Main long,False,False,False,1,unknown,r7f5b9d34f9de1da0bd3b7a0c
+2026.acl-long.135,2026.acl-long.135,ACL,2026,Main long,True,False,True,3,OUT | unknown,r7170d8211d79b23eddcd7ecd | r8bb43fa16946b022416ba505 | ra54319401db89fea0fdd7c2d
+2026.acl-long.1350,2026.acl-long.1350,ACL,2026,Main long,False,False,False,1,unknown,r4b945674c497d9b619f5e249
+2026.acl-long.1351,2026.acl-long.1351,ACL,2026,Main long,False,False,False,1,unknown,r55cbbdc76a01c6670c2998b2
+2026.acl-long.1352,2026.acl-long.1352,ACL,2026,Main long,False,False,False,1,unknown,r1793aa1682864d97feb5cee9
+2026.acl-long.1353,2026.acl-long.1353,ACL,2026,Main long,False,False,False,1,unknown,r794396cc6af81d68871995b7
+2026.acl-long.1354,2026.acl-long.1354,ACL,2026,Main long,False,False,False,1,unknown,r6621e962ded1e218032fc9af
+2026.acl-long.1355,2026.acl-long.1355,ACL,2026,Main long,False,False,False,1,unknown,rf26f9cbeb07230d7cd3fdf65
+2026.acl-long.1356,2026.acl-long.1356,ACL,2026,Main long,False,False,False,1,unknown,r4ae0907c5bc5078b1fbb4ca8
+2026.acl-long.1357,2026.acl-long.1357,ACL,2026,Main long,False,False,False,1,unknown,rd3376c6506bbe120cd0fcc10
+2026.acl-long.1358,2026.acl-long.1358,ACL,2026,Main long,False,False,False,1,unknown,r0cf1cc395bc9dcca8080e58c
+2026.acl-long.1359,2026.acl-long.1359,ACL,2026,Main long,False,False,False,1,unknown,rc1c7da958f538665a49e9032
+2026.acl-long.136,2026.acl-long.136,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r35761046c24850fc6dcd8fdc | r7a6787f9f105b3c95abe5bce | rd224d3aed68c75d6668c0f80
+2026.acl-long.1360,2026.acl-long.1360,ACL,2026,Main long,False,False,False,1,unknown,r49c8fd4edcbc452e0ae53483
+2026.acl-long.1361,2026.acl-long.1361,ACL,2026,Main long,False,False,False,1,unknown,r8b4667f84869650259c32356
+2026.acl-long.1362,2026.acl-long.1362,ACL,2026,Main long,False,False,False,1,unknown,r4308f5b64ca0be01d22768d8
+2026.acl-long.1363,2026.acl-long.1363,ACL,2026,Main long,False,False,False,1,unknown,r9a07fb1ed3940989e16c2939
+2026.acl-long.1364,2026.acl-long.1364,ACL,2026,Main long,False,False,False,1,unknown,r5c84b966f0eb6d83d67afcb4
+2026.acl-long.1365,2026.acl-long.1365,ACL,2026,Main long,False,False,False,2,unknown,rd924ed40d8d14d8e9164d331 | refe88b6d31db2860aec323c7
+2026.acl-long.1366,2026.acl-long.1366,ACL,2026,Main long,False,False,False,1,unknown,r3e91244f74d40b3149995612
+2026.acl-long.1367,2026.acl-long.1367,ACL,2026,Main long,False,False,False,1,unknown,ra08fa0e4d45d0cd9d1be4013
+2026.acl-long.1368,2026.acl-long.1368,ACL,2026,Main long,False,False,False,1,unknown,rc4673f9f0625e04f1f0eea31
+2026.acl-long.1369,2026.acl-long.1369,ACL,2026,Main long,False,False,False,1,unknown,r9d74169cdbbe871ec81ea18a
+2026.acl-long.137,2026.acl-long.137,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r2550cf3ac623e2d123099d51 | r5903b5f4c92d82480e5815c2 | r7a4d43a6e9e9886ce2319f25
+2026.acl-long.1370,2026.acl-long.1370,ACL,2026,Main long,False,False,False,1,unknown,r5392b880301cd6091a9e40cf
+2026.acl-long.1371,2026.acl-long.1371,ACL,2026,Main long,False,False,False,1,unknown,ra3d1e995fa943cc4fa10db08
+2026.acl-long.1372,2026.acl-long.1372,ACL,2026,Main long,False,False,False,1,unknown,r83a01a4168d1b07fd8c5bb9f
+2026.acl-long.1373,2026.acl-long.1373,ACL,2026,Main long,False,False,False,1,unknown,r0ed97f691b5f9f1ae5b41747
+2026.acl-long.1374,2026.acl-long.1374,ACL,2026,Main long,False,False,False,1,unknown,rc83607e9e56107e005e42a35
+2026.acl-long.1375,2026.acl-long.1375,ACL,2026,Main long,False,False,False,1,unknown,ra84bce9cfcb274407947431f
+2026.acl-long.1376,2026.acl-long.1376,ACL,2026,Main long,False,False,False,1,unknown,rabff93c20f5175ac28cc39f1
+2026.acl-long.1377,2026.acl-long.1377,ACL,2026,Main long,False,False,False,1,unknown,r8c480e7b9ea85c0938108180
+2026.acl-long.1378,2026.acl-long.1378,ACL,2026,Main long,False,False,False,1,unknown,r27e3133fbede2f7513a24c13
+2026.acl-long.1379,2026.acl-long.1379,ACL,2026,Main long,False,False,False,1,unknown,r4b58ffbfb852fe9b1258012d
+2026.acl-long.138,2026.acl-long.138,ACL,2026,Main long,True,False,True,3,OUT | unknown,r26153a91b657d7352b45639e | r3d49e23c17950529343ae2e8 | r70172e7722ee2bad4cafdc81
+2026.acl-long.1380,2026.acl-long.1380,ACL,2026,Main long,False,False,False,1,unknown,r479b54f59954f689188d2a9c
+2026.acl-long.1381,2026.acl-long.1381,ACL,2026,Main long,False,False,False,1,unknown,ra49b23cb5f3d1601d8cad438
+2026.acl-long.1382,2026.acl-long.1382,ACL,2026,Main long,False,False,False,1,unknown,r5ad20059a677f52ac1c9216d
+2026.acl-long.1383,2026.acl-long.1383,ACL,2026,Main long,False,False,False,1,unknown,r9bd5660c8e5565ef904fbb2c
+2026.acl-long.1384,2026.acl-long.1384,ACL,2026,Main long,False,False,False,1,unknown,r7175f606bcd689bbc5c2fa7f
+2026.acl-long.1385,2026.acl-long.1385,ACL,2026,Main long,False,False,False,1,unknown,r6293b9d329733bb125dcee0a
+2026.acl-long.1386,2026.acl-long.1386,ACL,2026,Main long,False,False,False,1,unknown,rd09e54701ac9e1f4de2a5d67
+2026.acl-long.1387,2026.acl-long.1387,ACL,2026,Main long,False,False,False,1,unknown,r61c82d9a7b263bc0e7316c06
+2026.acl-long.1388,2026.acl-long.1388,ACL,2026,Main long,False,False,False,1,unknown,ra970fbcfe7afd810963ccd2c
+2026.acl-long.1389,2026.acl-long.1389,ACL,2026,Main long,False,False,False,1,unknown,r747af1c37a5bd15d253e4f1a
+2026.acl-long.139,2026.acl-long.139,ACL,2026,Main long,True,False,True,3,OUT | unknown,r25c94b22db72093882e7ccfc | r447f7b8650898270ecbe5aba | rdd977d7d75b270f60ce4560f
+2026.acl-long.1390,2026.acl-long.1390,ACL,2026,Main long,False,False,False,1,unknown,r0b51879a51c926b57948e47e
+2026.acl-long.1391,2026.acl-long.1391,ACL,2026,Main long,False,False,False,1,unknown,r570f10f4d197e4da1f60d2c6
+2026.acl-long.1392,2026.acl-long.1392,ACL,2026,Main long,False,False,False,1,unknown,r9b35149500792c625b554545
+2026.acl-long.1393,2026.acl-long.1393,ACL,2026,Main long,False,False,False,1,unknown,r2fe96352b13450f005010d4d
+2026.acl-long.1394,2026.acl-long.1394,ACL,2026,Main long,False,False,False,1,unknown,r737edf8ac9950fbf307fb111
+2026.acl-long.1395,2026.acl-long.1395,ACL,2026,Main long,False,False,False,1,unknown,r7ed94e32b3941f2428a5effd
+2026.acl-long.1396,2026.acl-long.1396,ACL,2026,Main long,False,False,False,1,unknown,r673412079e34f1655de7b6e2
+2026.acl-long.1397,2026.acl-long.1397,ACL,2026,Main long,False,False,False,1,unknown,r13637c6d873599af79bb98cb
+2026.acl-long.1398,2026.acl-long.1398,ACL,2026,Main long,False,False,False,1,unknown,rd3121529fb7b8b4bd095b290
+2026.acl-long.1399,2026.acl-long.1399,ACL,2026,Main long,False,False,False,1,unknown,r721d3d6fd99890745fbc0749
+2026.acl-long.14,2026.acl-long.14,ACL,2026,Main long,True,False,True,5,OUT | body_needed | unknown,r56926b5968bfcc1a51fccc0f | r61a7b9d632bd1a56c8bf297f | r61f5b35f204e26cfc55debd3 | r8a5b3857f066571a7240a1b7 | rb8446af1d74e340524e1edb4
+2026.acl-long.14.pdf,2026.acl-long.14 | 2026.acl-long.14.pdf,ACL,2026,Main long,False,False,True,3,OUT | unknown,r28f2d380a9814ed2d3e740f4 | r521522157912e12c3554903a | ra98cc5a9cec0eeaea283fdbc
+2026.acl-long.140,2026.acl-long.140,ACL,2026,Main long,True,False,True,3,OUT | unknown,r7434b149ac2111a14305e79e | rc1fbab42aea7878dc8f0b0a1 | rd8a88dd01fc1aecdbaead749
+2026.acl-long.1400,2026.acl-long.1400,ACL,2026,Main long,False,False,False,1,unknown,r2e805fe26c3ba23608c1feef
+2026.acl-long.1401,2026.acl-long.1401,ACL,2026,Main long,False,False,False,1,unknown,rff8fc1febd59ee2e60690c3c
+2026.acl-long.1402,2026.acl-long.1402,ACL,2026,Main long,False,False,False,1,unknown,r4fb42ada31298b34a4f32e0e
+2026.acl-long.1403,2026.acl-long.1403,ACL,2026,Main long,False,False,False,1,unknown,r09a8bd39b7e80f7bb3924cf2
+2026.acl-long.1404,2026.acl-long.1404,ACL,2026,Main long,False,False,False,1,unknown,r383fa3612d0e52b32d7c0bbb
+2026.acl-long.1405,2026.acl-long.1405,ACL,2026,Main long,False,False,False,1,unknown,re7841ee64b3f92cda132a789
+2026.acl-long.1406,2026.acl-long.1406,ACL,2026,Main long,False,False,False,1,unknown,r61ade0b04c3b3909aeb1a333
+2026.acl-long.1407,2026.acl-long.1407,ACL,2026,Main long,False,False,False,1,unknown,r6e29e060d0debeebc68097d6
+2026.acl-long.1408,2026.acl-long.1408,ACL,2026,Main long,False,False,False,1,unknown,rf516d291e508f29f5c6de21b
+2026.acl-long.1409,2026.acl-long.1409,ACL,2026,Main long,False,False,False,1,unknown,r7e8f3a7534ece8a6a182b6bf
+2026.acl-long.141,2026.acl-long.141,ACL,2026,Main long,True,False,True,3,OUT | unknown,r97f4441ea6189cfd173cd4d5 | ra56e0d5b120c4dcc3f76b9a3 | rcd9cfaa0eed0ccf030d03ffd
+2026.acl-long.1410,2026.acl-long.1410,ACL,2026,Main long,False,False,False,1,unknown,rbdc260878c0d121c20ac0906
+2026.acl-long.1411,2026.acl-long.1411,ACL,2026,Main long,False,False,False,2,unknown,rccdab9ee94e8606c5dbce2e5 | rce52973b89d70357c4460df0
+2026.acl-long.1412,2026.acl-long.1412,ACL,2026,Main long,False,False,False,1,unknown,r90d3181264506e6c601b1aa6
+2026.acl-long.1413,2026.acl-long.1413,ACL,2026,Main long,False,False,False,1,unknown,rcb0e4b1e61df4e27ff0df212
+2026.acl-long.1414,2026.acl-long.1414,ACL,2026,Main long,False,False,False,1,unknown,ra53a8bbfd24855a91830210a
+2026.acl-long.1415,2026.acl-long.1415,ACL,2026,Main long,False,False,False,1,unknown,rda986ea31f06723ef1d30067
+2026.acl-long.1416,2026.acl-long.1416,ACL,2026,Main long,False,False,False,2,unknown,r4ad8ea6a9f14de550f232e5a | r583c3ca8514ff500a919f4df
+2026.acl-long.1417,2026.acl-long.1417,ACL,2026,Main long,False,False,False,1,unknown,rbe1861fe74f579c0ad5e42fd
+2026.acl-long.1418,2026.acl-long.1418,ACL,2026,Main long,False,False,False,1,unknown,r70feee01c7ab43e0b0b6b1bc
+2026.acl-long.1419,2026.acl-long.1419,ACL,2026,Main long,False,False,False,1,unknown,r6d3f30eb01d792b99880cbc5
+2026.acl-long.142,2026.acl-long.142,ACL,2026,Main long,True,False,True,3,OUT | unknown,r2967f04a3107e86b6f650b66 | rc72e84644cbf7f2861d95691 | rfaa7b01823b5cfc50a6ea5e8
+2026.acl-long.1420,2026.acl-long.1420,ACL,2026,Main long,False,False,False,1,unknown,r6ebecafcebefa8e431813dae
+2026.acl-long.1421,2026.acl-long.1421,ACL,2026,Main long,False,False,False,1,unknown,re0ad04fb540431c5be83d046
+2026.acl-long.1422,2026.acl-long.1422,ACL,2026,Main long,False,False,False,1,unknown,r950da5c3c0a34de4b7b72ddf
+2026.acl-long.1423,2026.acl-long.1423,ACL,2026,Main long,False,False,False,1,unknown,r5338a226df1f4e8852936b77
+2026.acl-long.1424,2026.acl-long.1424,ACL,2026,Main long,False,False,False,1,unknown,raae78df240b8b5f3a9067d95
+2026.acl-long.1425,2026.acl-long.1425,ACL,2026,Main long,False,False,False,1,unknown,r46237c75854626c7d53949aa
+2026.acl-long.1426,2026.acl-long.1426,ACL,2026,Main long,False,False,False,1,unknown,r44b8a3148ae57758472092e7
+2026.acl-long.1427,2026.acl-long.1427,ACL,2026,Main long,False,False,False,1,unknown,r294bb7c4d71a8409aa40382c
+2026.acl-long.1428,2026.acl-long.1428,ACL,2026,Main long,False,False,False,2,unknown,rd8d74d9d14f6769195d5dba7 | rf1849206975d05278b290bb8
+2026.acl-long.1429,2026.acl-long.1429,ACL,2026,Main long,False,False,False,1,unknown,r4f0105acaffca47fd1e8d271
+2026.acl-long.143,2026.acl-long.143,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r4b28cf45904a263f201d6c00 | r75a02668dfc2c36f2357bc61 | ra6d7c8b6e0948f8b8fdccf7c
+2026.acl-long.1430,2026.acl-long.1430,ACL,2026,Main long,False,False,False,1,unknown,r6e0648b0e518fdfeea76ab7a
+2026.acl-long.1431,2026.acl-long.1431,ACL,2026,Main long,False,False,False,1,unknown,r366d953ff686294d746c4223
+2026.acl-long.1432,2026.acl-long.1432,ACL,2026,Main long,False,False,False,1,unknown,r09b130428a41f796c753dd63
+2026.acl-long.1433,2026.acl-long.1433,ACL,2026,Main long,False,False,False,1,unknown,red494df9b4f6713bc0c3a34d
+2026.acl-long.1434,2026.acl-long.1434,ACL,2026,Main long,False,False,False,1,unknown,rbfca41c5a838370300cf9355
+2026.acl-long.1435,2026.acl-long.1435,ACL,2026,Main long,False,False,False,1,unknown,rccabc07aef7be32c631455d7
+2026.acl-long.1436,2026.acl-long.1436,ACL,2026,Main long,False,False,False,1,unknown,ra05362b3f06f19cf95effcd0
+2026.acl-long.1437,2026.acl-long.1437,ACL,2026,Main long,False,False,False,1,unknown,rf0902ae3d11206dfb3f8dbca
+2026.acl-long.1438,2026.acl-long.1438,ACL,2026,Main long,False,False,False,1,unknown,r5d6a7f07c38aaf86625a21a1
+2026.acl-long.1439,2026.acl-long.1439,ACL,2026,Main long,False,False,False,1,unknown,r3569e1c4167534fce58d9435
+2026.acl-long.144,2026.acl-long.144,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r2f5bd4c0dec81e96ba3a1946 | rb2851ab5e653c543a1250879 | rd05cd450d89f662630e5a2c4
+2026.acl-long.1440,2026.acl-long.1440,ACL,2026,Main long,False,False,False,1,unknown,r38cb4cdeb9fc3ad6d45c87da
+2026.acl-long.1441,2026.acl-long.1441,ACL,2026,Main long,False,False,False,1,unknown,rfaefa9338f3b045596cb3484
+2026.acl-long.1442,2026.acl-long.1442,ACL,2026,Main long,False,False,False,1,unknown,r568268ea14a3f9bbd5779e01
+2026.acl-long.1443,2026.acl-long.1443,ACL,2026,Main long,False,False,False,1,unknown,r8b7fc415938b32f28452360e
+2026.acl-long.1444,2026.acl-long.1444,ACL,2026,Main long,False,False,False,1,unknown,re9243bb3440b23e5a0959dea
+2026.acl-long.1445,2026.acl-long.1445,ACL,2026,Main long,False,False,False,1,unknown,raa3c9030d3d14c7a5111645b
+2026.acl-long.1446,2026.acl-long.1446,ACL,2026,Main long,False,False,False,1,unknown,r3be45b4653fccf90bc40833f
+2026.acl-long.1447,2026.acl-long.1447,ACL,2026,Main long,False,False,False,1,unknown,ra7807a3c9fc3a80736baf7fb
+2026.acl-long.1448,2026.acl-long.1448,ACL,2026,Main long,False,False,False,1,unknown,r064c6a8c7d9e4ca985ee2001
+2026.acl-long.1449,2026.acl-long.1449,ACL,2026,Main long,False,False,False,1,unknown,r569132a1e2bfd0c549a98aff
+2026.acl-long.145,2026.acl-long.145,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r9a87e27af85afc3ada54b8bf | rbe59951c98960e2acb5fb686 | rf1824d48921856dd65eb8025
+2026.acl-long.1450,2026.acl-long.1450,ACL,2026,Main long,False,False,False,1,unknown,r88596c1133312a1a6ab5b2e7
+2026.acl-long.1451,2026.acl-long.1451,ACL,2026,Main long,False,False,False,1,unknown,r3dca904e97bc779f5a16ea24
+2026.acl-long.1452,2026.acl-long.1452,ACL,2026,Main long,False,False,False,1,unknown,r06b5ea702374b6ddeea9826b
+2026.acl-long.1453,2026.acl-long.1453,ACL,2026,Main long,False,False,False,1,unknown,r59673857c11a1d2ad78a8cc1
+2026.acl-long.1454,2026.acl-long.1454,ACL,2026,Main long,False,False,False,1,unknown,rba72578cd0a9546c76c417a7
+2026.acl-long.1455,2026.acl-long.1455,ACL,2026,Main long,False,False,False,1,unknown,r4b43ec2eda5bb21e2b3a2afe
+2026.acl-long.1456,2026.acl-long.1456,ACL,2026,Main long,False,False,False,1,unknown,r3d0e9082d89646b84970f66a
+2026.acl-long.1457,2026.acl-long.1457,ACL,2026,Main long,False,False,False,1,unknown,r4cf43f2b4988817c8019902e
+2026.acl-long.1458,2026.acl-long.1458,ACL,2026,Main long,False,False,False,1,unknown,r39e25f8d93f0cc77f3f75f94
+2026.acl-long.1459,2026.acl-long.1459,ACL,2026,Main long,False,False,False,1,unknown,r8fe2e3d31c3b94e6c40a66f1
+2026.acl-long.146,2026.acl-long.146,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r68eae3401b7bc2dc584c08d8 | r9e4e13ef8c9f543ebbe47a90 | ra046b5c2bf04b601874c34f5
+2026.acl-long.1460,2026.acl-long.1460,ACL,2026,Main long,False,False,False,1,unknown,r88f40d903eefc19cd84716d9
+2026.acl-long.1461,2026.acl-long.1461,ACL,2026,Main long,False,False,False,1,unknown,r682c21893192e35f2285d14c
+2026.acl-long.1462,2026.acl-long.1462,ACL,2026,Main long,False,False,False,1,unknown,r051690a5e724cf7b8b98ed42
+2026.acl-long.1463,2026.acl-long.1463,ACL,2026,Main long,False,False,False,1,unknown,r22ba41e41d58e276a2ceea8d
+2026.acl-long.1464,2026.acl-long.1464,ACL,2026,Main long,False,False,False,1,unknown,r54f99bc7c0a315c3976c996d
+2026.acl-long.1465,2026.acl-long.1465,ACL,2026,Main long,False,False,False,1,unknown,rdbb3aebfd7b21d131f5cad9b
+2026.acl-long.1466,2026.acl-long.1466,ACL,2026,Main long,False,False,False,1,unknown,rfb60a809ca133ee6229632dd
+2026.acl-long.1467,2026.acl-long.1467,ACL,2026,Main long,False,False,False,1,unknown,re3b3844fc4b8e7f171750af7
+2026.acl-long.1468,2026.acl-long.1468,ACL,2026,Main long,False,False,False,1,unknown,r728cb97e7c1c1f268c7794b3
+2026.acl-long.1469,2026.acl-long.1469,ACL,2026,Main long,False,False,False,2,unknown,r3660a9cbccc65ced12076618 | rfeb09c979468824180ea610f
+2026.acl-long.147,2026.acl-long.147,ACL,2026,Main long,True,False,True,3,OUT | unknown,r2676142d12e642dbf37dec0a | r4a4bdba721518a17102e7ef6 | r5b51c832de0989b9dfe13efd
+2026.acl-long.1470,2026.acl-long.1470,ACL,2026,Main long,False,False,False,1,unknown,r1041e2f184818de6098b7a61
+2026.acl-long.1471,2026.acl-long.1471,ACL,2026,Main long,False,False,False,1,unknown,r6a9adb3389a516f36e3b64aa
+2026.acl-long.1472,2026.acl-long.1472,ACL,2026,Main long,False,False,False,1,unknown,rbb512dda33934e30fdc3a34a
+2026.acl-long.1473,2026.acl-long.1473,ACL,2026,Main long,False,False,False,1,unknown,r167b8945e9554e176566ed52
+2026.acl-long.1474,2026.acl-long.1474,ACL,2026,Main long,False,False,False,1,unknown,rba8fad506e82af5fe87a1ceb
+2026.acl-long.1475,2026.acl-long.1475,ACL,2026,Main long,False,False,False,1,unknown,rcfaa29132c2234a4d372b2c6
+2026.acl-long.1476,2026.acl-long.1476,ACL,2026,Main long,False,False,False,1,unknown,r3855247a3798648a164548de
+2026.acl-long.1477,2026.acl-long.1477,ACL,2026,Main long,False,False,False,1,unknown,rf9b38186f7075eaecefd7b79
+2026.acl-long.1478,2026.acl-long.1478,ACL,2026,Main long,False,False,False,1,unknown,r8e22d5645740c08aa14b422d
+2026.acl-long.1479,2026.acl-long.1479,ACL,2026,Main long,False,False,False,1,unknown,r3aa63de3ac08baa6b2171420
+2026.acl-long.148,2026.acl-long.148,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r34baf425260c454e2e334a43 | rab5def62ad98c2dfc2dcee6f | rb6f539cd5849cefbb02a487f
+2026.acl-long.1480,2026.acl-long.1480,ACL,2026,Main long,False,False,False,1,unknown,r2105ea8145d0d36fe4c1cff1
+2026.acl-long.1481,2026.acl-long.1481,ACL,2026,Main long,False,False,False,1,unknown,rac3c729e8c7abbcae30dc051
+2026.acl-long.1482,2026.acl-long.1482,ACL,2026,Main long,False,False,False,1,unknown,r0a646dccd200e94deb4a8e51
+2026.acl-long.1483,2026.acl-long.1483,ACL,2026,Main long,False,False,False,1,unknown,rac34d7c6edfe54461fabef94
+2026.acl-long.1484,2026.acl-long.1484,ACL,2026,Main long,False,False,False,1,unknown,rfc8ab29b250010981b1ca358
+2026.acl-long.1485,2026.acl-long.1485,ACL,2026,Main long,False,False,False,1,unknown,rda0496e5bcc6ff003c87fc0a
+2026.acl-long.1486,2026.acl-long.1486,ACL,2026,Main long,False,False,False,1,unknown,r09aa371b560c5463727ce948
+2026.acl-long.1487,2026.acl-long.1487,ACL,2026,Main long,False,False,False,1,unknown,r1b7006fd7c368bb1540f479b
+2026.acl-long.1488,2026.acl-long.1488,ACL,2026,Main long,False,False,False,1,unknown,r9dcece91645d0cbf2bc94985
+2026.acl-long.1489,2026.acl-long.1489,ACL,2026,Main long,False,False,False,1,unknown,r5573c25dd7d78bc46abd4fd8
+2026.acl-long.149,2026.acl-long.149,ACL,2026,Main long,True,False,True,3,OUT | unknown,r2c122dc3d464efc0861e0a31 | r419ca30ffce1edff8dd0511f | r54a82c189290033b6bec6cc6
+2026.acl-long.1490,2026.acl-long.1490,ACL,2026,Main long,False,False,False,1,unknown,r824fe3390d9883c389e82f44
+2026.acl-long.1491,2026.acl-long.1491,ACL,2026,Main long,False,False,False,1,unknown,r382342ca07d690b4e8b4672c
+2026.acl-long.1492,2026.acl-long.1492,ACL,2026,Main long,False,False,False,1,unknown,rf09eb59e1cb3f25b537a1d5f
+2026.acl-long.1493,2026.acl-long.1493,ACL,2026,Main long,False,False,False,1,unknown,rf7c06e38e7a384634a943bbe
+2026.acl-long.1494,2026.acl-long.1494,ACL,2026,Main long,False,False,False,1,unknown,r7a9e90eb4f88398d1966b803
+2026.acl-long.1495,2026.acl-long.1495,ACL,2026,Main long,False,False,False,1,unknown,r89953719c84a8d152afdb802
+2026.acl-long.1496,2026.acl-long.1496,ACL,2026,Main long,False,False,False,1,unknown,r8157d0256c58e63861213010
+2026.acl-long.1497,2026.acl-long.1497,ACL,2026,Main long,False,False,False,1,unknown,rb7b02d82cf2b6a819d0ecdea
+2026.acl-long.1498,2026.acl-long.1498,ACL,2026,Main long,False,False,False,1,unknown,raa1b661f78dc4ec1afa6ff19
+2026.acl-long.1499,2026.acl-long.1499,ACL,2026,Main long,False,False,False,1,unknown,r38544491676c8a3ea9b796a8
+2026.acl-long.15,2026.acl-long.15,ACL,2026,Main long,True,False,True,5,OUT | body_needed | unknown,r15a805669297a4f6959d0a02 | r5917199ac6711ee1a64754ec | r79c53300a7324dddcb07151f | rbac0edf02d8f3746e8f1db3e | re2e76523261ab40bb6528b4e
+2026.acl-long.15.pdf,2026.acl-long.15 | 2026.acl-long.15.pdf,ACL,2026,Main long,False,False,True,3,OUT | unknown,ra73f91c81bfdf40c7923b112 | rbffcdc2b99da716f9af0f4b9 | rec3f0e75bed2161de3967ad7
+2026.acl-long.150,2026.acl-long.150,ACL,2026,Main long,True,False,True,3,OUT | unknown,r0de002b4d519a756d314f87e | r411f458b2517e4114bf45ce9 | rc4057007836faa47c6c9b33d
+2026.acl-long.1500,2026.acl-long.1500,ACL,2026,Main long,False,False,False,2,unknown,r7c685bdd074a9a4f94f25e36 | rdd26925840b8f4dba5cb1857
+2026.acl-long.1501,2026.acl-long.1501,ACL,2026,Main long,False,False,False,1,unknown,r769d10df0f1933adedf3fcd1
+2026.acl-long.1502,2026.acl-long.1502,ACL,2026,Main long,False,False,False,1,unknown,rffce54b8a41bd4147400aeaf
+2026.acl-long.1503,2026.acl-long.1503,ACL,2026,Main long,False,False,False,1,unknown,r18fc6cf461389f89991b4466
+2026.acl-long.1504,2026.acl-long.1504,ACL,2026,Main long,False,False,False,1,unknown,r6953245736a8b5fa6b636f31
+2026.acl-long.1505,2026.acl-long.1505,ACL,2026,Main long,False,False,False,2,unknown,r403e570a351653c7ef0dda38 | r7239f4f03813e3bc94b79776
+2026.acl-long.1506,2026.acl-long.1506,ACL,2026,Main long,False,False,False,1,unknown,r6d238f2b4a43371d87acb749
+2026.acl-long.1507,2026.acl-long.1507,ACL,2026,Main long,False,False,False,1,unknown,r9fe0f367836dd6e4f462e59d
+2026.acl-long.1508,2026.acl-long.1508,ACL,2026,Main long,False,False,False,1,unknown,r49e138b1210788a532bc89ca
+2026.acl-long.1509,2026.acl-long.1509,ACL,2026,Main long,False,False,False,1,unknown,r23e69f2c189b12652baf59d7
+2026.acl-long.151,2026.acl-long.151,ACL,2026,Main long,True,False,True,3,OUT | unknown,r25a60f12936344332d0c1ec7 | r9d4b26c1b8464977f9d85321 | rf4968b1135ad32346da87acb
+2026.acl-long.1510,2026.acl-long.1510,ACL,2026,Main long,False,False,False,1,unknown,r93d0dcffb7cd3487ccf48149
+2026.acl-long.1511,2026.acl-long.1511,ACL,2026,Main long,False,False,False,1,unknown,re829f212bfb90aec05c07635
+2026.acl-long.1512,2026.acl-long.1512,ACL,2026,Main long,False,False,False,1,unknown,rbd8adad19d5a3c49831b5c2a
+2026.acl-long.1513,2026.acl-long.1513,ACL,2026,Main long,False,False,False,1,unknown,r413e59b55a034b919ac101cf
+2026.acl-long.1514,2026.acl-long.1514,ACL,2026,Main long,False,False,False,1,unknown,r27516d653a3919b04b8a86f7
+2026.acl-long.1515,2026.acl-long.1515,ACL,2026,Main long,False,False,False,1,unknown,rffd77172ae95d372a4e9b8f0
+2026.acl-long.1516,2026.acl-long.1516,ACL,2026,Main long,False,False,False,1,unknown,r43ba5ab25c2a0396afb06126
+2026.acl-long.1517,2026.acl-long.1517,ACL,2026,Main long,False,False,False,6,unknown,r57fb3335594a92b9505f5bda | r7118b5a69a3b88237267f4a4 | r897f1a7ad31fed0bec6ecc1a | raf872b5f6ec3a1b61a4ee390 | rcfc9b7a02c19f454aa303a01 | rd7349013cab8cb03fb613da5
+2026.acl-long.1518,2026.acl-long.1518,ACL,2026,Main long,False,False,False,1,unknown,r879542f11e922c6ad6b41752
+2026.acl-long.1519,2026.acl-long.1519,ACL,2026,Main long,False,False,False,1,unknown,r3b8ed06cb7dbd26e0f5c8da0
+2026.acl-long.152,2026.acl-long.152,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r2cc084ccff30542713843be4 | r4cd8dee53baf3a05bc7a6377 | rd8b305797f0de4b48aaff450
+2026.acl-long.1520,2026.acl-long.1520,ACL,2026,Main long,False,False,False,1,unknown,r4ac24be2b0cddd138139b56e
+2026.acl-long.1521,2026.acl-long.1521,ACL,2026,Main long,False,False,False,1,unknown,r8ee6d4cdde3e3b86dba2e3e1
+2026.acl-long.1522,2026.acl-long.1522,ACL,2026,Main long,False,False,False,1,unknown,r4c5cffb2d8ec693f9d844900
+2026.acl-long.1523,2026.acl-long.1523,ACL,2026,Main long,False,False,False,1,unknown,r502d203eacc6d63eeb594037
+2026.acl-long.1524,2026.acl-long.1524,ACL,2026,Main long,False,False,False,1,unknown,r562d37d563ff29dc0905427a
+2026.acl-long.1525,2026.acl-long.1525,ACL,2026,Main long,False,False,False,1,unknown,rd44f299a264fe6548e536ed2
+2026.acl-long.1526,2026.acl-long.1526,ACL,2026,Main long,False,False,False,1,unknown,r8d1e29b70d259d10daac1edb
+2026.acl-long.1527,2026.acl-long.1527,ACL,2026,Main long,False,False,False,1,unknown,r26b5e9a158fca5e7a1c0f6dc
+2026.acl-long.1528,2026.acl-long.1528,ACL,2026,Main long,False,False,False,1,unknown,raa0075cebdad7ff95bdcdaa2
+2026.acl-long.1529,2026.acl-long.1529,ACL,2026,Main long,False,False,False,1,unknown,ra22c66efa1734adce3e7c591
+2026.acl-long.153,2026.acl-long.153,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r40c91c23ba893e235f63f798 | r999e70cc8689f1362acab5ae | rdf1231a1c206b8524991fc4d
+2026.acl-long.1530,2026.acl-long.1530,ACL,2026,Main long,False,False,False,1,unknown,r146a31f7699a874b53897f31
+2026.acl-long.1531,2026.acl-long.1531,ACL,2026,Main long,False,False,False,1,unknown,rf3148c2f3c4297416e5f268e
+2026.acl-long.1532,2026.acl-long.1532,ACL,2026,Main long,False,False,False,1,unknown,rfd601bbf8fc92d2771296c5a
+2026.acl-long.1533,2026.acl-long.1533,ACL,2026,Main long,False,False,False,1,unknown,r7ca31f6b5ffb04fc112343af
+2026.acl-long.1534,2026.acl-long.1534,ACL,2026,Main long,False,False,False,1,unknown,r0fbc57268b5a46bc73b7ae58
+2026.acl-long.1535,2026.acl-long.1535,ACL,2026,Main long,False,False,False,1,unknown,rcfc53b6dcbfef7fb07a95ce2
+2026.acl-long.1536,2026.acl-long.1536,ACL,2026,Main long,False,False,False,1,unknown,r3d3d1d2c40497c7cede7f34f
+2026.acl-long.1537,2026.acl-long.1537,ACL,2026,Main long,False,False,False,1,unknown,rd9ceea2813a0e0b076fde65d
+2026.acl-long.1538,2026.acl-long.1538,ACL,2026,Main long,False,False,False,1,unknown,r3a8012197bb09a02ba63af17
+2026.acl-long.1539,2026.acl-long.1539,ACL,2026,Main long,False,False,False,1,unknown,r3a1a8c4846f27181797ca339
+2026.acl-long.154,2026.acl-long.154,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r0b1fb464660181d80f92608f | r78c33aa861951c68a6047a9e | rcc49e49025387436c43a3f23
+2026.acl-long.1540,2026.acl-long.1540,ACL,2026,Main long,False,False,False,1,unknown,r0de584e8dd06dda65db6f411
+2026.acl-long.1541,2026.acl-long.1541,ACL,2026,Main long,False,False,False,1,unknown,raaf3d5e08747a41cc41f46d1
+2026.acl-long.1542,2026.acl-long.1542,ACL,2026,Main long,False,False,False,1,unknown,r68e37d9230b3e92869d0b75e
+2026.acl-long.1543,2026.acl-long.1543,ACL,2026,Main long,False,False,False,1,unknown,r0b9f848a8c2a623f898782ad
+2026.acl-long.1544,2026.acl-long.1544,ACL,2026,Main long,False,False,False,1,unknown,r0a7833c4bcadd8b50e0997a1
+2026.acl-long.1545,2026.acl-long.1545,ACL,2026,Main long,False,False,False,1,unknown,r77d215a3bca4cfa41c3a4626
+2026.acl-long.1546,2026.acl-long.1546,ACL,2026,Main long,False,False,False,1,unknown,r026ae6a084726760430cfd7a
+2026.acl-long.1547,2026.acl-long.1547,ACL,2026,Main long,False,False,False,1,unknown,r032a2e22ab7e000d100173be
+2026.acl-long.1548,2026.acl-long.1548,ACL,2026,Main long,False,False,False,1,unknown,rf1e9896a49f2bf3a32b27534
+2026.acl-long.1549,2026.acl-long.1549,ACL,2026,Main long,False,False,False,1,unknown,r604d9630a52503aecf6c5933
+2026.acl-long.155,2026.acl-long.155,ACL,2026,Main long,True,False,True,3,OUT | unknown,r909f882b2bf98d2db6c56e1b | radc1fd2792e724f417cc2111 | rf913a94a6c738bf93b299737
+2026.acl-long.1550,2026.acl-long.1550,ACL,2026,Main long,False,False,False,1,unknown,r9a5ba106a3c4a21586048a2d
+2026.acl-long.1551,2026.acl-long.1551,ACL,2026,Main long,False,False,False,1,unknown,re44029c2f4f27cfe87fe2202
+2026.acl-long.1552,2026.acl-long.1552,ACL,2026,Main long,False,False,False,1,unknown,r70ae57a5d0f3c2601939d77b
+2026.acl-long.1553,2026.acl-long.1553,ACL,2026,Main long,False,False,False,1,unknown,r611b1a78ee9c166b9dba0143
+2026.acl-long.1554,2026.acl-long.1554,ACL,2026,Main long,False,False,False,1,unknown,r538cdf4d7ece6c051fa8974d
+2026.acl-long.1555,2026.acl-long.1555,ACL,2026,Main long,False,False,False,1,unknown,r5aad97e2cdf5b915a44ec96a
+2026.acl-long.1556,2026.acl-long.1556,ACL,2026,Main long,False,False,False,1,unknown,rdc54195c3e6be57dc699be11
+2026.acl-long.1557,2026.acl-long.1557,ACL,2026,Main long,False,False,False,1,unknown,r48cb701667665768f11ae966
+2026.acl-long.1558,2026.acl-long.1558,ACL,2026,Main long,False,False,False,1,unknown,r62db00038956a13f4fafee56
+2026.acl-long.1559,2026.acl-long.1559,ACL,2026,Main long,False,False,False,1,unknown,ra2431cfcc769d15f6103cb83
+2026.acl-long.156,2026.acl-long.156,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r8a0e8328ced08352879e166b | r9fd3c886dc0df9a7c116f364 | rd68e3f811dfc460d9a80b828
+2026.acl-long.1560,2026.acl-long.1560,ACL,2026,Main long,False,False,False,1,unknown,r83d2eb767b9cf877c0bcd632
+2026.acl-long.1561,2026.acl-long.1561,ACL,2026,Main long,False,False,False,1,unknown,r8be292900998e1824af5f68f
+2026.acl-long.1562,2026.acl-long.1562,ACL,2026,Main long,False,False,False,1,unknown,rcae767e24592ad4a786eba41
+2026.acl-long.1563,2026.acl-long.1563,ACL,2026,Main long,False,False,False,1,unknown,rfa2b90d89b9b7780634a8c08
+2026.acl-long.1564,2026.acl-long.1564,ACL,2026,Main long,False,False,False,1,unknown,r3cefd4cc7557e6f5ced5121e
+2026.acl-long.1565,2026.acl-long.1565,ACL,2026,Main long,False,False,False,1,unknown,re7fd404c19f76ba85866315e
+2026.acl-long.1566,2026.acl-long.1566,ACL,2026,Main long,False,False,False,1,unknown,r9b1b3fe817d2359e08a12ff4
+2026.acl-long.1567,2026.acl-long.1567,ACL,2026,Main long,False,False,False,2,unknown,rccb6c7d3733e94835fae1b64 | re11ca04accad690317119211
+2026.acl-long.1568,2026.acl-long.1568,ACL,2026,Main long,False,False,False,1,unknown,raa11efcec329750f4c99bc93
+2026.acl-long.1569,2026.acl-long.1569,ACL,2026,Main long,False,False,False,1,unknown,ra59538ab85b79c837be12e6b
+2026.acl-long.157,2026.acl-long.157,ACL,2026,Main long,True,False,True,3,OUT | unknown,r635b3c728b6ad6a335883db1 | r7943616f4f2c838203a44a11 | red77366a4e2c816cf7784822
+2026.acl-long.1570,2026.acl-long.1570,ACL,2026,Main long,False,False,False,1,unknown,r6dc1d5ebc1f14c4f24d8cfa6
+2026.acl-long.1571,2026.acl-long.1571,ACL,2026,Main long,False,False,False,1,unknown,r2ef902d06c5789b7b9783ba6
+2026.acl-long.1572,2026.acl-long.1572,ACL,2026,Main long,False,False,False,1,unknown,raeb9d1740d58974f0a39ca1a
+2026.acl-long.1573,2026.acl-long.1573,ACL,2026,Main long,False,False,False,1,unknown,r0398f810ad5297bee798f270
+2026.acl-long.1574,2026.acl-long.1574,ACL,2026,Main long,False,False,False,1,unknown,r185cf94edeba76f832b9bb22
+2026.acl-long.1575,2026.acl-long.1575,ACL,2026,Main long,False,False,False,1,unknown,r023b9f9f26bfab088092c304
+2026.acl-long.1576,2026.acl-long.1576,ACL,2026,Main long,False,False,False,1,unknown,r958889b80ee7d443d9534ef2
+2026.acl-long.1577,2026.acl-long.1577,ACL,2026,Main long,False,False,False,1,unknown,r9f65d847c9334078d529f42b
+2026.acl-long.1578,2026.acl-long.1578,ACL,2026,Main long,False,False,False,1,unknown,rf3b82e0b6bb0536e34320102
+2026.acl-long.1579,2026.acl-long.1579,ACL,2026,Main long,False,False,False,1,unknown,r4eb5ad5e1f09e12b7607689a
+2026.acl-long.158,2026.acl-long.158,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r4f0c5cfa84bafdc2b783ceed | rb8fdd826c6dde8dfa787fe85 | rc01a20338db0a7d627a31125
+2026.acl-long.1580,2026.acl-long.1580,ACL,2026,Main long,False,False,False,1,unknown,rc5d82644c124d197f7252f90
+2026.acl-long.1581,2026.acl-long.1581,ACL,2026,Main long,False,False,False,1,unknown,r282442cc871ffdf869eeb4b9
+2026.acl-long.1582,2026.acl-long.1582,ACL,2026,Main long,False,False,False,1,unknown,r981928822d0a27c032350ec3
+2026.acl-long.1583,2026.acl-long.1583,ACL,2026,Main long,False,False,False,1,unknown,rb25b33cf7a69e4509e69227c
+2026.acl-long.1584,2026.acl-long.1584,ACL,2026,Main long,False,False,False,1,unknown,r59439d618805198e5a1cd4d2
+2026.acl-long.1585,2026.acl-long.1585,ACL,2026,Main long,False,False,False,1,unknown,r4fe9eb10e4c628b1bc1925a9
+2026.acl-long.1586,2026.acl-long.1586,ACL,2026,Main long,False,False,False,1,unknown,r2d0fdccd1dc7033147bd2eee
+2026.acl-long.1587,2026.acl-long.1587,ACL,2026,Main long,False,False,False,1,unknown,red142fbf64613b27b97ac693
+2026.acl-long.1588,2026.acl-long.1588,ACL,2026,Main long,False,False,False,1,unknown,r8cad2b88166c0c1816276901
+2026.acl-long.1589,2026.acl-long.1589,ACL,2026,Main long,False,False,False,1,unknown,rc455f48ca2d02b7220183977
+2026.acl-long.159,2026.acl-long.159,ACL,2026,Main long,True,False,True,3,OUT | unknown,r576e62ef6256131a0fdea332 | r897e3a95b3ed11512fc9cc40 | racd32ddbc42bde709fe9a2da
+2026.acl-long.1590,2026.acl-long.1590,ACL,2026,Main long,False,False,False,1,unknown,r7e7a31ba0d14d0246bb3eea5
+2026.acl-long.1591,2026.acl-long.1591,ACL,2026,Main long,False,False,False,1,unknown,r1b4737279fb5f7e9c1003f9a
+2026.acl-long.1592,2026.acl-long.1592,ACL,2026,Main long,False,False,False,1,unknown,r488dbb8a7327bac6f1c9dd5c
+2026.acl-long.1593,2026.acl-long.1593,ACL,2026,Main long,False,False,False,1,unknown,r2ee0e367d2895b69a7b52174
+2026.acl-long.1594,2026.acl-long.1594,ACL,2026,Main long,False,False,False,1,unknown,r00ecf508929f794003095670
+2026.acl-long.1595,2026.acl-long.1595,ACL,2026,Main long,False,False,False,1,unknown,r8c28d29b8f9484846697da3f
+2026.acl-long.1596,2026.acl-long.1596,ACL,2026,Main long,False,False,False,1,unknown,r8170507a356a34f715ff6b03
+2026.acl-long.1597,2026.acl-long.1597,ACL,2026,Main long,False,False,False,1,unknown,r146581e282ef8874f457d8e7
+2026.acl-long.1598,2026.acl-long.1598,ACL,2026,Main long,False,False,False,1,unknown,r362b232469cd30f66d88e881
+2026.acl-long.1599,2026.acl-long.1599,ACL,2026,Main long,False,False,False,1,unknown,r7fd919e1d28e97d8e64890fb
+2026.acl-long.16,2026.acl-long.16,ACL,2026,Main long,True,False,True,4,OUT | unknown,r5a52f1d3c8832c97a1f6d2de | r91321fb0abeaff3e4567b7fa | raf65c3fe40a8de85b26b037f | re6f291304f029fb27820d89a
+2026.acl-long.160,2026.acl-long.160,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r048c23bf4ffe08364dbb8618 | r0c15ac187665a907a97cb8d8 | ra2405fc04144d363e59cce31
+2026.acl-long.1600,2026.acl-long.1600,ACL,2026,Main long,False,False,False,1,unknown,r2fc81fe20e74f69cb1788892
+2026.acl-long.1601,2026.acl-long.1601,ACL,2026,Main long,False,False,False,1,unknown,r5dc0a2ff79ab5d5ddda137fc
+2026.acl-long.1602,2026.acl-long.1602,ACL,2026,Main long,False,False,False,1,unknown,r1c1bec47962a95d038f29e4f
+2026.acl-long.1603,2026.acl-long.1603,ACL,2026,Main long,False,False,False,1,unknown,re46264cd38bb4e459f4fe65b
+2026.acl-long.1604,2026.acl-long.1604,ACL,2026,Main long,False,False,False,1,unknown,r3608f8a050552d91a82d6761
+2026.acl-long.1605,2026.acl-long.1605,ACL,2026,Main long,False,False,False,1,unknown,r0f63214a44f8dc8807004609
+2026.acl-long.1606,2026.acl-long.1606,ACL,2026,Main long,False,False,False,1,unknown,r9d511c89afaeeee047d64ba4
+2026.acl-long.1607,2026.acl-long.1607,ACL,2026,Main long,False,False,False,1,unknown,rd01a6ea66283b929c5514683
+2026.acl-long.1608,2026.acl-long.1608,ACL,2026,Main long,False,False,False,2,unknown,r272523b3ad147d68784ae4c5 | r3722190a3b3c5499d4e5034f
+2026.acl-long.1609,2026.acl-long.1609,ACL,2026,Main long,False,False,False,1,unknown,ra18e842ea5cbd97fd20355a4
+2026.acl-long.161,2026.acl-long.161,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r22b636037dcbe75b5a0d415d | rd26b3d0edf2ace9cf049fdfa | rd5c369f3cebbbe09facc8da2
+2026.acl-long.1610,2026.acl-long.1610,ACL,2026,Main long,False,False,False,1,unknown,rd315cf0833fd7e9d1e748cfe
+2026.acl-long.1611,2026.acl-long.1611,ACL,2026,Main long,False,False,False,1,unknown,r033faf8b37bfbaccdd0bcdb7
+2026.acl-long.1612,2026.acl-long.1612,ACL,2026,Main long,False,False,False,1,unknown,r1b975f0a3e6f2d88f48965e4
+2026.acl-long.1613,2026.acl-long.1613,ACL,2026,Main long,False,False,False,1,unknown,r3d2e6d601707ab05505879b9
+2026.acl-long.1614,2026.acl-long.1614,ACL,2026,Main long,False,False,False,1,unknown,r73a2726c589e8062c48b8cef
+2026.acl-long.1615,2026.acl-long.1615,ACL,2026,Main long,False,False,False,1,unknown,r30cbe00bc16fe12161c28f17
+2026.acl-long.1616,2026.acl-long.1616,ACL,2026,Main long,False,False,False,1,unknown,r997841efe83921cbcf87365f
+2026.acl-long.1617,2026.acl-long.1617,ACL,2026,Main long,False,False,False,1,unknown,r45c4f28ce263d3787e91c1e8
+2026.acl-long.1618,2026.acl-long.1618,ACL,2026,Main long,False,False,False,1,unknown,rb659e1cefe05663bab57704d
+2026.acl-long.1619,2026.acl-long.1619,ACL,2026,Main long,False,False,False,1,unknown,r7f174e7d5bec1deb1e720e0f
+2026.acl-long.162,2026.acl-long.162,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r5803a6598baef19e7600c9b2 | re27b5d080845004e82f824a4 | rf008a8eb4e58b72a90c2a69c
+2026.acl-long.1620,2026.acl-long.1620,ACL,2026,Main long,False,False,False,1,unknown,r6a333dcf8c035d900d7bf0c8
+2026.acl-long.1621,2026.acl-long.1621,ACL,2026,Main long,False,False,False,1,unknown,r73be9e15b58f40d7e094df98
+2026.acl-long.1622,2026.acl-long.1622,ACL,2026,Main long,False,False,False,1,unknown,r0ff035c0ce8a890294339d54
+2026.acl-long.1623,2026.acl-long.1623,ACL,2026,Main long,False,False,False,1,unknown,r1c3fe25a9b31ffd70480424c
+2026.acl-long.1624,2026.acl-long.1624,ACL,2026,Main long,False,False,False,1,unknown,rfc03cc6fd4367e8241b3062d
+2026.acl-long.1625,2026.acl-long.1625,ACL,2026,Main long,False,False,False,1,unknown,r0d9e2525ddb937fae37b393b
+2026.acl-long.1626,2026.acl-long.1626,ACL,2026,Main long,False,False,False,1,unknown,rcf6b4067c030002ee359cf25
+2026.acl-long.1627,2026.acl-long.1627,ACL,2026,Main long,False,False,False,1,unknown,ra363e3c3f43a0c489e5e8d60
+2026.acl-long.1628,2026.acl-long.1628,ACL,2026,Main long,False,False,False,1,unknown,r466a14fbc2a896a9e34c55a9
+2026.acl-long.1629,2026.acl-long.1629,ACL,2026,Main long,False,False,False,1,unknown,r324b3aa479ffb05d7a55a138
+2026.acl-long.163,2026.acl-long.163,ACL,2026,Main long,True,False,True,3,OUT | unknown,r7b4605e5c88cdbbb821b245b | r7df4486f3f15396b8b93c1ad | rc1eb217a6457f19f1562e74e
+2026.acl-long.1630,2026.acl-long.1630,ACL,2026,Main long,False,False,False,1,unknown,r1e1a8ff937d24716f1b99639
+2026.acl-long.1631,2026.acl-long.1631,ACL,2026,Main long,False,False,False,1,unknown,rf7ca7ae86f0b30828505ec4e
+2026.acl-long.1632,2026.acl-long.1632,ACL,2026,Main long,False,False,False,1,unknown,ra5e63678d9f7ce54e6eec473
+2026.acl-long.1633,2026.acl-long.1633,ACL,2026,Main long,False,False,False,1,unknown,r4ccc5d0fc1b74a5143f6148c
+2026.acl-long.1634,2026.acl-long.1634,ACL,2026,Main long,False,False,False,1,unknown,r2ca2ce4e5f38357f8739e620
+2026.acl-long.1635,2026.acl-long.1635,ACL,2026,Main long,False,False,False,1,unknown,rf75ab3df4481ae7561f27cf9
+2026.acl-long.1636,2026.acl-long.1636,ACL,2026,Main long,False,False,False,1,unknown,r2b37a980cf336f1e4709fb9a
+2026.acl-long.1637,2026.acl-long.1637,ACL,2026,Main long,False,False,False,1,unknown,re687c9dd2ac68571ddffe168
+2026.acl-long.1638,2026.acl-long.1638,ACL,2026,Main long,False,False,False,1,unknown,r73edf772c045c28dd43600d4
+2026.acl-long.1639,2026.acl-long.1639,ACL,2026,Main long,False,False,False,1,unknown,rd90345dd398248e2d775f865
+2026.acl-long.164,2026.acl-long.164,ACL,2026,Main long,True,False,True,3,OUT | unknown,rbfdc556918d7092bc1a5eef7 | rc0273eda848ed78e47ea3092 | rffd8e48b152584293734de18
+2026.acl-long.1640,2026.acl-long.1640,ACL,2026,Main long,False,False,False,1,unknown,r8362b8e0344c12a82ad7e831
+2026.acl-long.1641,2026.acl-long.1641,ACL,2026,Main long,False,False,False,1,unknown,r6058aea0be99210d7a31cb9d
+2026.acl-long.1642,2026.acl-long.1642,ACL,2026,Main long,False,False,False,1,unknown,rd99123028518164625b3662e
+2026.acl-long.1643,2026.acl-long.1643,ACL,2026,Main long,False,False,False,1,unknown,r0d5fc1d41cd4b3f0d69edf74
+2026.acl-long.1644,2026.acl-long.1644,ACL,2026,Main long,False,False,False,1,unknown,rc2f3d23941b0e9fd6a28e6a7
+2026.acl-long.1645,2026.acl-long.1645,ACL,2026,Main long,False,False,False,1,unknown,rd1abe6c144b8642496d3e4fb
+2026.acl-long.1646,2026.acl-long.1646,ACL,2026,Main long,False,False,False,1,unknown,r7c28198001258c11f588cc3b
+2026.acl-long.1647,2026.acl-long.1647,ACL,2026,Main long,False,False,False,1,unknown,rdb7abdea6e113f46b45a9f54
+2026.acl-long.1648,2026.acl-long.1648,ACL,2026,Main long,False,False,False,1,unknown,ra6fb4268fa51c2200c3e6f5f
+2026.acl-long.1649,2026.acl-long.1649,ACL,2026,Main long,False,False,False,1,unknown,rc768f31de5e6bdc3120242b0
+2026.acl-long.165,2026.acl-long.165,ACL,2026,Main long,True,False,True,3,OUT | unknown,ra4ccb7693cd0f8621481235f | rb70bb63fb7b22acafbf9bdb1 | rf70cedd5075ced2c5108a6d4
+2026.acl-long.1650,2026.acl-long.1650,ACL,2026,Main long,False,False,False,1,unknown,r560fd7417ec5729aed99850d
+2026.acl-long.1651,2026.acl-long.1651,ACL,2026,Main long,False,False,False,1,unknown,r7c0c22d89b7fd9b0f4d90f1a
+2026.acl-long.1652,2026.acl-long.1652,ACL,2026,Main long,False,False,False,1,unknown,re625af42b234ea6fd14dec4c
+2026.acl-long.1653,2026.acl-long.1653,ACL,2026,Main long,False,False,False,1,unknown,r501a4de67c2ad74eb82c6f08
+2026.acl-long.1654,2026.acl-long.1654,ACL,2026,Main long,False,False,False,1,unknown,r3b5e4d9edff0eb74de022c89
+2026.acl-long.1655,2026.acl-long.1655,ACL,2026,Main long,False,False,False,2,unknown,rdce52973d020fa85d02dc13d | re5ff6d22da10e42044d0e753
+2026.acl-long.1656,2026.acl-long.1656,ACL,2026,Main long,False,False,False,1,unknown,r95efb9502ca21f7b3250e698
+2026.acl-long.1657,2026.acl-long.1657,ACL,2026,Main long,False,False,False,1,unknown,r21bcc1f5815b8293ad54df32
+2026.acl-long.1658,2026.acl-long.1658,ACL,2026,Main long,False,False,False,1,unknown,r84a600e8d023a9b95a5f972c
+2026.acl-long.1659,2026.acl-long.1659,ACL,2026,Main long,False,False,False,1,unknown,ra8d4f9fcac5b353da36bee5e
+2026.acl-long.166,2026.acl-long.166,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r1fea9db0c76ced8378b49a12 | r75d0e958820143715136fe20 | ra795b715e902f5ae6226bd88
+2026.acl-long.1660,2026.acl-long.1660,ACL,2026,Main long,False,False,False,1,unknown,r784ce5bf8b1130a0f3cb5a36
+2026.acl-long.1661,2026.acl-long.1661,ACL,2026,Main long,False,False,False,1,unknown,r9e0031fc2ad118f01efdfc08
+2026.acl-long.1662,2026.acl-long.1662,ACL,2026,Main long,False,False,False,1,unknown,rb1af81d6ef3112e109985115
+2026.acl-long.1663,2026.acl-long.1663,ACL,2026,Main long,False,False,False,1,unknown,rb045cb2558dd44e64e23e39e
+2026.acl-long.1664,2026.acl-long.1664,ACL,2026,Main long,False,False,False,1,unknown,r6d0f912c00b43eb6eda533ec
+2026.acl-long.1665,2026.acl-long.1665,ACL,2026,Main long,False,False,False,1,unknown,r7a7f1396d0661e47b56585bd
+2026.acl-long.1666,2026.acl-long.1666,ACL,2026,Main long,False,False,False,1,unknown,rd8d89e4f5035f5e536d1b8c4
+2026.acl-long.1667,2026.acl-long.1667,ACL,2026,Main long,False,False,False,1,unknown,rae1e62647dbc255b44f77021
+2026.acl-long.1668,2026.acl-long.1668,ACL,2026,Main long,False,False,False,1,unknown,r5ba924ccaf6ab94ede2d6604
+2026.acl-long.1669,2026.acl-long.1669,ACL,2026,Main long,False,False,False,1,unknown,r26d400f988b0428c3c7d6f77
+2026.acl-long.167,2026.acl-long.167,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r898ee66ebe9353dd9a961e06 | rc5a38eb28d34923a32d87f42 | rff53f9b8aaa2b7c05dd47962
+2026.acl-long.1670,2026.acl-long.1670,ACL,2026,Main long,False,False,False,1,unknown,r03a5bd198bc92b7d97c21de1
+2026.acl-long.1671,2026.acl-long.1671,ACL,2026,Main long,False,False,False,2,unknown,r176467f37160a4bb6cfa605b | r2fdc3bf229091c12c4a0978b
+2026.acl-long.1672,2026.acl-long.1672,ACL,2026,Main long,False,False,False,1,unknown,r81d24c86a51f002a2696d35a
+2026.acl-long.1673,2026.acl-long.1673,ACL,2026,Main long,False,False,False,1,unknown,r7af1f5bb7baaea12c7e2ecf2
+2026.acl-long.1674,2026.acl-long.1674,ACL,2026,Main long,False,False,False,1,unknown,r48235aadd038ce0b3b92f5df
+2026.acl-long.1675,2026.acl-long.1675,ACL,2026,Main long,False,False,False,1,unknown,r0802266d1f779294f2739621
+2026.acl-long.1676,2026.acl-long.1676,ACL,2026,Main long,False,False,False,1,unknown,ra27af08dde8de57c28ecb637
+2026.acl-long.1677,2026.acl-long.1677,ACL,2026,Main long,False,False,False,1,unknown,r37483aaf5110972f077570cc
+2026.acl-long.1678,2026.acl-long.1678,ACL,2026,Main long,False,False,False,1,unknown,r6cf623e51f0b2c4afff18393
+2026.acl-long.1679,2026.acl-long.1679,ACL,2026,Main long,False,False,False,1,unknown,r71dd0a16448a80c06f0fd050
+2026.acl-long.168,2026.acl-long.168,ACL,2026,Main long,True,False,True,3,OUT | unknown,r38c709bc6aa4e6593d4dad26 | r6c9e3f4c5e6fa04ae7502f9a | r7bf45b74e52b80357ee41c1a
+2026.acl-long.1680,2026.acl-long.1680,ACL,2026,Main long,False,False,False,1,unknown,r081c91bcea277802549a2ab5
+2026.acl-long.1681,2026.acl-long.1681,ACL,2026,Main long,False,False,False,1,unknown,r36a0fa65e89e567f6c833ac0
+2026.acl-long.1682,2026.acl-long.1682,ACL,2026,Main long,False,False,False,1,unknown,r957d30c36a2dbc4151685641
+2026.acl-long.1683,2026.acl-long.1683,ACL,2026,Main long,False,False,False,1,unknown,r13b7bbdca41d1af9c8afc228
+2026.acl-long.1684,2026.acl-long.1684,ACL,2026,Main long,False,False,False,1,unknown,rb9426c7a72b866a53327c7ce
+2026.acl-long.1685,2026.acl-long.1685,ACL,2026,Main long,False,False,False,1,unknown,r09e9e84e52d63be8a54a2e2a
+2026.acl-long.1686,2026.acl-long.1686,ACL,2026,Main long,False,False,False,1,unknown,r1099e0e6519fb7d81b313d7a
+2026.acl-long.1687,2026.acl-long.1687,ACL,2026,Main long,False,False,False,1,unknown,r343f4087a3e6f91eda172bf9
+2026.acl-long.1688,2026.acl-long.1688,ACL,2026,Main long,False,False,False,1,unknown,r7759861c838a170665b64df2
+2026.acl-long.1689,2026.acl-long.1689,ACL,2026,Main long,False,False,False,1,unknown,r72f7afa3bc504f0d3e8caa85
+2026.acl-long.169,2026.acl-long.169,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r1f089f2ada04a5aac1c496cc | rece0cce28968b144982af646 | rfa78054733534596a4237e6e
+2026.acl-long.1690,2026.acl-long.1690,ACL,2026,Main long,False,False,False,1,unknown,rd5c7e9b84778d2a04dd83a3d
+2026.acl-long.1691,2026.acl-long.1691,ACL,2026,Main long,False,False,False,1,unknown,rd8dfe2810e9720013e3a8777
+2026.acl-long.1692,2026.acl-long.1692,ACL,2026,Main long,False,False,False,1,unknown,r27df73a674298b3c4a76d291
+2026.acl-long.1693,2026.acl-long.1693,ACL,2026,Main long,False,False,False,1,unknown,rea0336d40ce4b139a50e331f
+2026.acl-long.1694,2026.acl-long.1694,ACL,2026,Main long,False,False,False,1,unknown,r79f0accbe9c5a97f4b58c2c3
+2026.acl-long.1695,2026.acl-long.1695,ACL,2026,Main long,False,False,False,1,unknown,r6fd059e8269bd6fd85d647ec
+2026.acl-long.1696,2026.acl-long.1696,ACL,2026,Main long,False,False,False,1,unknown,r0e40e1433f43ee716a875cb0
+2026.acl-long.1697,2026.acl-long.1697,ACL,2026,Main long,False,False,False,1,unknown,rdf295769c8082ef072d9e39d
+2026.acl-long.1698,2026.acl-long.1698,ACL,2026,Main long,False,False,False,1,unknown,r9e91af809b16dd81aceba31a
+2026.acl-long.1699,2026.acl-long.1699,ACL,2026,Main long,False,False,False,1,unknown,r72762f9ec1b362756e7f7827
+2026.acl-long.17,2026.acl-long.17,ACL,2026,Main | Main long,False,False,True,12,IN | unknown,r13e078643c77c0374077d800 | r1f87a008433999c6a857cdcf | r4042927f9499c50f56187b72 | r7536441a96c121a1feae7e1b | r8c32722b6a84ec771971f298 | rae53df236c825697c5de2192 | rb1222de39629787c0d65c2cf | rb8b9a96a39138923ce5cded7 | rbf3da29dbe5667e86f0bf5d6 | rce14c82c4b868aa5b3e7d1d4 | rd939bb326ea52b213c571fa1 | rdd426b9f2cd2d3d62a1e38f7
+2026.acl-long.17.pdf,2026.acl-long.17 | 2026.acl-long.17.pdf,ACL,2026,Main | Main long,True,False,True,9,IN | unknown,r0afcf0204931886789cc0efb | r26f57aeb46676c46911d12cf | r2cf4445a814048fe52eb767c | r677261f58722bbbd5a6e6fac | rc755f888968ebf8e625f2a89 | rd4f92e2cfd8aa276fdf81dfb | rec9bdfde547a2f94df40fe25 | rf69902ca6c425ec433106edc | rfa50e6e7970a3541c9892862
+2026.acl-long.170,2026.acl-long.170,ACL,2026,Main long,True,False,True,3,body_needed | unknown,rae32016ed2c6b70a9acbf9ef | rbc37515c2e665a64658c90f4 | rbc3c6e4bde9ecb8db24aeca0
+2026.acl-long.1700,2026.acl-long.1700,ACL,2026,Main long,False,False,False,1,unknown,rbb5e9da2b0fcd028efdfa62d
+2026.acl-long.1701,2026.acl-long.1701,ACL,2026,Main long,False,False,False,1,unknown,r1bbdd2ae8226b77880516832
+2026.acl-long.1702,2026.acl-long.1702,ACL,2026,Main long,False,False,False,1,unknown,r66554c40ce2ff9e81f8dbff7
+2026.acl-long.1703,2026.acl-long.1703,ACL,2026,Main long,False,False,False,1,unknown,r144cf6850dc325ec018699dd
+2026.acl-long.1704,2026.acl-long.1704,ACL,2026,Main long,False,False,False,1,unknown,r909e0fac173d10f6d8dfe8be
+2026.acl-long.1705,2026.acl-long.1705,ACL,2026,Main long,False,False,False,1,unknown,r2574ea27d9d7b295cfc82bc5
+2026.acl-long.1706,2026.acl-long.1706,ACL,2026,Main long,False,False,False,1,unknown,r37825da60ef3b73bbe1c7b37
+2026.acl-long.1707,2026.acl-long.1707,ACL,2026,Main long,False,False,False,1,unknown,r7319033e478abd6808e0d5bf
+2026.acl-long.1708,2026.acl-long.1708,ACL,2026,Main long,False,False,False,1,unknown,r7ae897a17ac7496781a6c2f1
+2026.acl-long.1709,2026.acl-long.1709,ACL,2026,Main long,False,False,False,1,unknown,r82f8c8c0abaff2496e248388
+2026.acl-long.171,2026.acl-long.171,ACL,2026,Main long,True,False,True,3,OUT | unknown,r31eb6510acbfc6d5d675e46b | r70f543ab2f1db8d3fdec49b3 | r7c83e1f2c05a7dbeab385afa
+2026.acl-long.1710,2026.acl-long.1710,ACL,2026,Main long,False,False,False,1,unknown,rb5ddc0911775f2023c06ab52
+2026.acl-long.1711,2026.acl-long.1711,ACL,2026,Main long,False,False,False,1,unknown,r77f86ede102a3f7767fe6519
+2026.acl-long.1712,2026.acl-long.1712,ACL,2026,Main long,False,False,False,1,unknown,rc3621ec3166359aaa607c962
+2026.acl-long.1713,2026.acl-long.1713,ACL,2026,Main long,False,False,False,1,unknown,r49ac7df4c670615d344a508f
+2026.acl-long.1714,2026.acl-long.1714,ACL,2026,Main long,False,False,False,2,unknown,r1d75841ee34d94bb59153782 | r949ab989da7d393333b4f2b5
+2026.acl-long.1715,2026.acl-long.1715,ACL,2026,Main long,False,False,False,1,unknown,r2100bf34e2ecf54190603d24
+2026.acl-long.1716,2026.acl-long.1716,ACL,2026,Main long,False,False,False,1,unknown,rc19e9431e179d004a27cc1c1
+2026.acl-long.1717,2026.acl-long.1717,ACL,2026,Main long,False,False,False,1,unknown,rf2900f7558b7fa0d15d2682a
+2026.acl-long.1718,2026.acl-long.1718,ACL,2026,Main long,False,False,False,2,unknown,rb65b8c9809ddbb3230513df5 | rbe07643b65b520c01b01677e
+2026.acl-long.1719,2026.acl-long.1719,ACL,2026,Main long,False,False,False,1,unknown,rf17a9343d17e5c6363c57479
+2026.acl-long.172,2026.acl-long.172,ACL,2026,Main long,True,False,True,3,OUT | unknown,r52d76387bfad988edd55ec7d | r64e2187a79a175bcc8b804a2 | ra707a99dab210c8ab3d32e26
+2026.acl-long.1720,2026.acl-long.1720,ACL,2026,Main long,False,False,False,1,unknown,r5acdca0b1189e8089426fba5
+2026.acl-long.1721,2026.acl-long.1721,ACL,2026,Main long,False,False,False,1,unknown,r942dd5f37421030799b07a2e
+2026.acl-long.1722,2026.acl-long.1722,ACL,2026,Main long,False,False,False,1,unknown,r0f62ae8d8e59b44eab42eda4
+2026.acl-long.1723,2026.acl-long.1723,ACL,2026,Main long,False,False,False,1,unknown,re3f9e7da222c4ae1557547e3
+2026.acl-long.1724,2026.acl-long.1724,ACL,2026,Main long,False,False,False,1,unknown,raf798322a87f67f6c07e07cc
+2026.acl-long.1725,2026.acl-long.1725,ACL,2026,Main long,False,False,False,1,unknown,r5777cbcdffec598a53be8cf3
+2026.acl-long.1726,2026.acl-long.1726,ACL,2026,Main long,False,False,False,1,unknown,r5d15752a321cbaa999d03684
+2026.acl-long.1727,2026.acl-long.1727,ACL,2026,Main long,False,False,False,1,unknown,r20d80d3c00d48a9dce5adefc
+2026.acl-long.1728,2026.acl-long.1728,ACL,2026,Main long,False,False,False,1,unknown,r16ddafe7c32def1bad020ae8
+2026.acl-long.1729,2026.acl-long.1729,ACL,2026,Main long,False,False,False,1,unknown,r7313b7a7d6e5d12007e109d0
+2026.acl-long.173,2026.acl-long.173,ACL,2026,Main long,True,False,True,3,OUT | unknown,r65ea08c9b33cb75dce3585d1 | r67e4023bb734fb2f66bdaf60 | rc29f6aea79532c9ed5925fd9
+2026.acl-long.1730,2026.acl-long.1730,ACL,2026,Main long,False,False,False,1,unknown,r08093c54e16496b26e39129a
+2026.acl-long.1731,2026.acl-long.1731,ACL,2026,Main long,False,False,False,1,unknown,reeeb5d17bb6587553d01c8f4
+2026.acl-long.1732,2026.acl-long.1732,ACL,2026,Main long,False,False,False,1,unknown,rc6ec2969ead0a4725c210566
+2026.acl-long.1733,2026.acl-long.1733,ACL,2026,Main long,False,False,False,1,unknown,rc516d61b849e80004face6cd
+2026.acl-long.1734,2026.acl-long.1734,ACL,2026,Main long,False,False,False,1,unknown,r507b76ddc58863ab8fb17907
+2026.acl-long.1735,2026.acl-long.1735,ACL,2026,Main long,False,False,False,1,unknown,re930d549f0f4eee36149a43f
+2026.acl-long.1736,2026.acl-long.1736,ACL,2026,Main long,False,False,False,1,unknown,r70e07a106562cf17fdbcb608
+2026.acl-long.1737,2026.acl-long.1737,ACL,2026,Main long,False,False,False,1,unknown,r20cdb00f7fbe6f982fad534c
+2026.acl-long.1738,2026.acl-long.1738,ACL,2026,Main long,False,False,False,1,unknown,rf96c37686b0f72716cbc286d
+2026.acl-long.1739,2026.acl-long.1739,ACL,2026,Main long,False,False,False,1,unknown,r97e8991d0758b713720e11df
+2026.acl-long.174,2026.acl-long.174,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r3ff32a9053488499d19c0d05 | r4e3c0ad67518956abc155ca3 | rcff37b9d7e39b3994c7c9090
+2026.acl-long.1740,2026.acl-long.1740,ACL,2026,Main long,False,False,False,1,unknown,rfdf26ba0a62c3e1543eaaf9b
+2026.acl-long.1741,2026.acl-long.1741,ACL,2026,Main long,False,False,False,1,unknown,recc99f594f2cb81c767b9756
+2026.acl-long.1742,2026.acl-long.1742,ACL,2026,Main long,False,False,False,1,unknown,rf9b20a1271ebf535236bd5e6
+2026.acl-long.1743,2026.acl-long.1743,ACL,2026,Main long,False,False,False,2,unknown,r61507382c19758ac3f984e58 | r862942e062086296cb26f246
+2026.acl-long.1744,2026.acl-long.1744,ACL,2026,Main long,False,False,False,1,unknown,re1c37c0509e1ad4cf192ec6a
+2026.acl-long.1745,2026.acl-long.1745,ACL,2026,Main long,False,False,False,1,unknown,r46f26bb8c85c0e17c2e3597d
+2026.acl-long.1746,2026.acl-long.1746,ACL,2026,Main long,False,False,False,1,unknown,r0a9c68424beab674f2abfa46
+2026.acl-long.1747,2026.acl-long.1747,ACL,2026,Main long,False,False,False,1,unknown,r04295d2b6a18d245d53de23f
+2026.acl-long.1748,2026.acl-long.1748,ACL,2026,Main long,False,False,False,1,unknown,r7e03867d75067dad149f1d53
+2026.acl-long.1749,2026.acl-long.1749,ACL,2026,Main long,False,False,False,1,unknown,r91198f14226f04eb4873b0f0
+2026.acl-long.175,2026.acl-long.175,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r0edbc04e22a4071c2374ec77 | r28e39d108baeb7bf204aad0f | rf1ab063536d33667537afaf7
+2026.acl-long.1750,2026.acl-long.1750,ACL,2026,Main long,False,False,False,1,unknown,rfe561e4aa579a7a4dd78ad81
+2026.acl-long.1751,2026.acl-long.1751,ACL,2026,Main long,False,False,False,1,unknown,rdcd99b4a05258a44dd70c42f
+2026.acl-long.1752,2026.acl-long.1752,ACL,2026,Main long,False,False,False,1,unknown,r57a6b1356fd97901bbcd397c
+2026.acl-long.1753,2026.acl-long.1753,ACL,2026,Main long,False,False,False,1,unknown,r04b4585ccb840085f752b6e0
+2026.acl-long.1754,2026.acl-long.1754,ACL,2026,Main long,False,False,False,1,unknown,r061d7d37eebf48534ad8800f
+2026.acl-long.1755,2026.acl-long.1755,ACL,2026,Main long,False,False,False,1,unknown,r4daafe28487c02b2ace80ae0
+2026.acl-long.1756,2026.acl-long.1756,ACL,2026,Main long,False,False,False,1,unknown,r23544f10d29cb8b2de65d358
+2026.acl-long.1757,2026.acl-long.1757,ACL,2026,Main long,False,False,False,1,unknown,re2f47f11c6c72835b934d82e
+2026.acl-long.1758,2026.acl-long.1758,ACL,2026,Main long,False,False,False,1,unknown,r0f463a9eca244970988cdb63
+2026.acl-long.1759,2026.acl-long.1759,ACL,2026,Main long,False,False,False,1,unknown,r37912a18346201d9c12b8d9c
+2026.acl-long.176,2026.acl-long.176,ACL,2026,Main long,True,False,True,3,OUT | unknown,r092601d629f8a5019f836056 | r2037ce008db68b800283780e | r9652f64eefb7a7bc3c2fe46d
+2026.acl-long.1760,2026.acl-long.1760,ACL,2026,Main long,False,False,False,1,unknown,r05cc2391c5bf26cd54cc11c9
+2026.acl-long.1761,2026.acl-long.1761,ACL,2026,Main long,False,False,False,1,unknown,r525ba7cdab855fa7c5884295
+2026.acl-long.1762,2026.acl-long.1762,ACL,2026,Main long,False,False,False,1,unknown,r4f6b4bc03516ca675ace1798
+2026.acl-long.1763,2026.acl-long.1763,ACL,2026,Main long,False,False,False,1,unknown,r02bec38452f7dfdf3e41da70
+2026.acl-long.1764,2026.acl-long.1764,ACL,2026,Main long,False,False,False,1,unknown,re1d28aa4d03ea3838ff93cc6
+2026.acl-long.1765,2026.acl-long.1765,ACL,2026,Main long,False,False,False,1,unknown,rab80ceb4d0d6b82abe3c552b
+2026.acl-long.1766,2026.acl-long.1766,ACL,2026,Main long,False,False,False,1,unknown,r9bc492a061c323f91774b593
+2026.acl-long.1767,2026.acl-long.1767,ACL,2026,Main long,False,False,False,1,unknown,ra4c7a303ad15bb14a0c74529
+2026.acl-long.1768,2026.acl-long.1768,ACL,2026,Main long,False,False,False,2,unknown,ra2da35a52527d91a915b90ec | rcfaf30ef841c8951fa83223c
+2026.acl-long.1769,2026.acl-long.1769,ACL,2026,Main long,False,False,False,1,unknown,r74bdbc1cde398808600a101a
+2026.acl-long.177,2026.acl-long.177,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r17e9fe45d112c04cfda6151e | r7de2c3bee4c8fe15b263c6bf | r88ac1efa3ee8e0ea671a4bf2
+2026.acl-long.1770,2026.acl-long.1770,ACL,2026,Main long,False,False,False,1,unknown,r39e3501dea0df39a7d0a9b2a
+2026.acl-long.1771,2026.acl-long.1771,ACL,2026,Main long,False,False,False,1,unknown,ra5c5845ed2cf40372da47767
+2026.acl-long.1772,2026.acl-long.1772,ACL,2026,Main long,False,False,False,1,unknown,r8f08af8ac9579499350229a5
+2026.acl-long.1773,2026.acl-long.1773,ACL,2026,Main long,False,False,False,1,unknown,rf53ab5a3c5674d3f10993931
+2026.acl-long.1774,2026.acl-long.1774,ACL,2026,Main long,False,False,False,1,unknown,r478c448dc99a44a22399f5aa
+2026.acl-long.1775,2026.acl-long.1775,ACL,2026,Main long,False,False,False,1,unknown,r33015f6b628ef2ece65ec1ea
+2026.acl-long.1776,2026.acl-long.1776,ACL,2026,Main long,False,False,False,1,unknown,r610eca95f93a51f11b8f77f2
+2026.acl-long.1777,2026.acl-long.1777,ACL,2026,Main long,False,False,False,1,unknown,re2b33b76fec24193d4eb32cb
+2026.acl-long.1778,2026.acl-long.1778,ACL,2026,Main long,False,False,False,1,unknown,r1b6bf1b71eadad024cdf6e65
+2026.acl-long.1779,2026.acl-long.1779,ACL,2026,Main long,False,False,False,1,unknown,r2c9ed1d5b97117b2c396f5c0
+2026.acl-long.178,2026.acl-long.178,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r416156e5a5f193ce8d28848e | rcfbabd2bd51e83b7c3685549 | rd0ca3c0d5a0717cc1a1c7309
+2026.acl-long.1780,2026.acl-long.1780,ACL,2026,Main long,False,False,False,1,unknown,raefe3b12c036c50767b8ee2b
+2026.acl-long.1781,2026.acl-long.1781,ACL,2026,Main long,False,False,False,2,unknown,r9e65ead84e4f589376e0ec39 | ra272d802e8e9e9588cab27a5
+2026.acl-long.1782,2026.acl-long.1782,ACL,2026,Main long,False,False,False,1,unknown,r8b83b20640348cd939b4b23c
+2026.acl-long.1783,2026.acl-long.1783,ACL,2026,Main long,False,False,False,1,unknown,r0d0e2e319ebaffa23f9b8500
+2026.acl-long.1784,2026.acl-long.1784,ACL,2026,Main long,False,False,False,1,unknown,r112fbeafb5322b965fb9f038
+2026.acl-long.1785,2026.acl-long.1785,ACL,2026,Main long,False,False,False,1,unknown,ra80f9017cc60aac2283f42f7
+2026.acl-long.1786,2026.acl-long.1786,ACL,2026,Main long,False,False,False,1,unknown,r622bf83dcb7c9f2cee0f8074
+2026.acl-long.1787,2026.acl-long.1787,ACL,2026,Main long,False,False,False,1,unknown,r1fbbc037643b261c2e6a1e48
+2026.acl-long.1788,2026.acl-long.1788,ACL,2026,Main long,False,False,False,1,unknown,rcb90d1e7bce2e86cf978c5f7
+2026.acl-long.1789,2026.acl-long.1789,ACL,2026,Main long,False,False,False,1,unknown,ra2902ca047b81bcec663906d
+2026.acl-long.179,2026.acl-long.179,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r13fbbd4d7a77981d900e787b | r77fbe42f708f43fa8b3211ca | r8d55936a841c322206a46a1e
+2026.acl-long.1790,2026.acl-long.1790,ACL,2026,Main long,False,False,False,1,unknown,r68ef39f936626d731796ccde
+2026.acl-long.1791,2026.acl-long.1791,ACL,2026,Main long,False,False,False,1,unknown,r1109ed6a742b2d3ad82a67d6
+2026.acl-long.1792,2026.acl-long.1792,ACL,2026,Main long,False,False,False,1,unknown,rd4b2546a7d61eb78233c9688
+2026.acl-long.1793,2026.acl-long.1793,ACL,2026,Main long,False,False,False,1,unknown,r6dd975a0187b4aa961d688ec
+2026.acl-long.1794,2026.acl-long.1794,ACL,2026,Main long,False,False,False,1,unknown,rb5b21febf9014aa1bc15914d
+2026.acl-long.1795,2026.acl-long.1795,ACL,2026,Main long,False,False,False,1,unknown,rbc908fcb3c6295353a5bc4c6
+2026.acl-long.1796,2026.acl-long.1796,ACL,2026,Main long,False,False,False,1,unknown,reef7dc8154fe3aad95f7701e
+2026.acl-long.1797,2026.acl-long.1797,ACL,2026,Main long,False,False,False,1,unknown,r8e3db1da800204a122662bba
+2026.acl-long.1798,2026.acl-long.1798,ACL,2026,Main long,False,False,False,1,unknown,r4862fe811e2a1ad1e9815260
+2026.acl-long.1799,2026.acl-long.1799,ACL,2026,Main long,False,False,False,1,unknown,r73a556cf72c3579bbb4a44bc
+2026.acl-long.18,2026.acl-long.18,ACL,2026,Main long,True,False,True,5,OUT | body_needed | unknown,r0ce30788246d137dfcbef1bc | r18bb6c835127c1479cadfbcf | r20b1ce788bdc1559eb631a85 | r8b425c397ef19bf60e4ce74c | re028fdcfa8aa58877e549d2b
+2026.acl-long.18.pdf,2026.acl-long.18,ACL,2026,Main long,False,False,True,2,OUT,r1965cb462f8a00f4541be351 | r20498fc5832a869aeae2e35b
+2026.acl-long.180,2026.acl-long.180,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r397fa9d533a28f776ffac91b | r60b22ab484b71d63ce58ce04 | rf62420529422865bfb64776e
+2026.acl-long.1800,2026.acl-long.1800,ACL,2026,Main long,False,False,False,1,unknown,rcfd28a864ab3f59a8d1f446d
+2026.acl-long.1801,2026.acl-long.1801,ACL,2026,Main long,False,False,False,1,unknown,r03965a72a5e45812b9506502
+2026.acl-long.1802,2026.acl-long.1802,ACL,2026,Main long,False,False,False,1,unknown,r9926ed5834365a448b68de2f
+2026.acl-long.1803,2026.acl-long.1803,ACL,2026,Main long,False,False,False,1,unknown,re96600d8a598acfb1b8f3ba7
+2026.acl-long.1804,2026.acl-long.1804,ACL,2026,Main long,False,False,False,1,unknown,r37128f9c5cef9f881cd00cc6
+2026.acl-long.1805,2026.acl-long.1805,ACL,2026,Main long,False,False,False,1,unknown,r36482232ad63e0c42d538064
+2026.acl-long.1806,2026.acl-long.1806,ACL,2026,Main long,False,False,False,1,unknown,re9bdc671f71bf9596b26a80c
+2026.acl-long.1807,2026.acl-long.1807,ACL,2026,Main long,False,False,False,1,unknown,r573b0f6fafbdb963645b8c65
+2026.acl-long.1808,2026.acl-long.1808,ACL,2026,Main long,False,False,False,1,unknown,r7a845e60b847037a1ff2e248
+2026.acl-long.1809,2026.acl-long.1809,ACL,2026,Main long,False,False,False,1,unknown,r04cb494780576126196f32c4
+2026.acl-long.181,2026.acl-long.181,ACL,2026,Main long,True,False,True,3,OUT | unknown,r5671d326d815c17859e4ce7b | r77244fca36653bc102ff8c26 | r851178598cac050eb3ecf943
+2026.acl-long.1810,2026.acl-long.1810,ACL,2026,Main long,False,False,False,1,unknown,r707811fbe564acacf95de1dd
+2026.acl-long.1811,2026.acl-long.1811,ACL,2026,Main long,False,False,False,1,unknown,re1f340e27eab2c5318121b7b
+2026.acl-long.1812,2026.acl-long.1812,ACL,2026,Main long,False,False,False,1,unknown,r8b71cdbc9f8301145d98de5f
+2026.acl-long.1813,2026.acl-long.1813,ACL,2026,Main long,False,False,False,1,unknown,r488c4c685b834f75b8174b59
+2026.acl-long.1814,2026.acl-long.1814,ACL,2026,Main long,False,False,False,1,unknown,r283ef48af7501549eb0952d6
+2026.acl-long.1815,2026.acl-long.1815,ACL,2026,Main long,False,False,False,1,unknown,r20d2eef9b8c7cdc392a42191
+2026.acl-long.1816,2026.acl-long.1816,ACL,2026,Main long,False,False,False,1,unknown,r6e951c18f5c97d85037aed40
+2026.acl-long.1817,2026.acl-long.1817,ACL,2026,Main long,False,False,False,1,unknown,r0b5a57b22fc1ba37c6b388e2
+2026.acl-long.1818,2026.acl-long.1818,ACL,2026,Main long,False,False,False,1,unknown,rca2b89a040d8bc38d54475b1
+2026.acl-long.1819,2026.acl-long.1819,ACL,2026,Main long,False,False,False,1,unknown,r711d657bc558fd3b92d394ff
+2026.acl-long.182,2026.acl-long.182,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r1849c22809902c03e2d635b1 | r42fdb5d05c895fdc0f4b4508 | r505a6a4ff1cb04029bf024c6
+2026.acl-long.1820,2026.acl-long.1820,ACL,2026,Main long,False,False,False,1,unknown,rc07d950673da2a8d0b7b3041
+2026.acl-long.1821,2026.acl-long.1821,ACL,2026,Main long,False,False,False,1,unknown,rc1497cf27bd337c29a433ef1
+2026.acl-long.1822,2026.acl-long.1822,ACL,2026,Main long,False,False,False,1,unknown,rfb2393d85d8a3250e8c49eae
+2026.acl-long.1823,2026.acl-long.1823,ACL,2026,Main long,False,False,False,1,unknown,r43297fa7ab7cc0502df61842
+2026.acl-long.1824,2026.acl-long.1824,ACL,2026,Main long,False,False,False,1,unknown,r3c3d7fd3076d8f4076d597b4
+2026.acl-long.1825,2026.acl-long.1825,ACL,2026,Main long,False,False,False,1,unknown,r03cc81847695f32499cc0498
+2026.acl-long.1826,2026.acl-long.1826,ACL,2026,Main long,False,False,False,1,unknown,r8f7005972eaa109b34b804a5
+2026.acl-long.1827,2026.acl-long.1827,ACL,2026,Main long,False,False,False,1,unknown,ra51ecdaee67b4ca9f6f85d3a
+2026.acl-long.1828,2026.acl-long.1828,ACL,2026,Main long,False,False,False,1,unknown,r61280512d441ea1924ef2414
+2026.acl-long.1829,2026.acl-long.1829,ACL,2026,Main long,False,False,False,1,unknown,re342ce55e9daef80a5a82677
+2026.acl-long.183,2026.acl-long.183,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r2706f6c12d0c36cb81b39c64 | r3325779c81efb29b31a8dc83 | r3cb4f3d526286b4a505468ed
+2026.acl-long.1830,2026.acl-long.1830,ACL,2026,Main long,False,False,False,1,unknown,rbd53959a23a09ee1a0b13d20
+2026.acl-long.1831,2026.acl-long.1831,ACL,2026,Main long,False,False,False,1,unknown,r99f6f18653bcb9878445d744
+2026.acl-long.1832,2026.acl-long.1832,ACL,2026,Main long,False,False,False,1,unknown,r1e2d9f410028f13324e72538
+2026.acl-long.1833,2026.acl-long.1833,ACL,2026,Main long,False,False,False,1,unknown,r0ed4cddaac60c94d46bb56f4
+2026.acl-long.1834,2026.acl-long.1834,ACL,2026,Main long,False,False,False,1,unknown,r8738531cf383fae8169e9023
+2026.acl-long.1835,2026.acl-long.1835,ACL,2026,Main long,False,False,False,1,unknown,r0d9174bff9851be1d787af8b
+2026.acl-long.1836,2026.acl-long.1836,ACL,2026,Main long,False,False,False,1,unknown,rb10f0a69e9a7231120365b9c
+2026.acl-long.1837,2026.acl-long.1837,ACL,2026,Main long,False,False,False,1,unknown,r6302e89088756f5b22f97a16
+2026.acl-long.1838,2026.acl-long.1838,ACL,2026,Main long,False,False,False,1,unknown,r915bba3d53541e3ad66168ee
+2026.acl-long.1839,2026.acl-long.1839,ACL,2026,Main long,False,False,False,1,unknown,rd11b4ffa4a4161d4cb1b95ee
+2026.acl-long.184,2026.acl-long.184,ACL,2026,Main long,True,False,True,3,OUT | unknown,r11d3ba5c56492a751d7c8b40 | r134a5a9aef9b6c11a703e661 | r2227d6369061b48d9311034d
+2026.acl-long.1840,2026.acl-long.1840,ACL,2026,Main long,False,False,False,1,unknown,r408fec19d2fef33eb7cb7661
+2026.acl-long.1841,2026.acl-long.1841,ACL,2026,Main long,False,False,False,1,unknown,r30ae1c480e1f545454081c34
+2026.acl-long.1842,2026.acl-long.1842,ACL,2026,Main long,False,False,False,1,unknown,rea764434c61b741a5073e7f4
+2026.acl-long.1843,2026.acl-long.1843,ACL,2026,Main long,False,False,False,1,unknown,rc50fffaead9f5dd32efc8b99
+2026.acl-long.1844,2026.acl-long.1844,ACL,2026,Main long,False,False,False,1,unknown,r4565ac927b72993fe12333a8
+2026.acl-long.1845,2026.acl-long.1845,ACL,2026,Main long,False,False,False,1,unknown,r3acab3184a9ab8f59502ea33
+2026.acl-long.1846,2026.acl-long.1846,ACL,2026,Main long,False,False,False,1,unknown,rb711a6bb0dc2a947bb2ebe4f
+2026.acl-long.1847,2026.acl-long.1847,ACL,2026,Main long,False,False,False,2,unknown,r3d82d6c174fec1b83f1b19d1 | r6179b0403c4d8816e85e07fa
+2026.acl-long.1848,2026.acl-long.1848,ACL,2026,Main long,False,False,False,1,unknown,r32238e3717b1cc25af5223d9
+2026.acl-long.1849,2026.acl-long.1849,ACL,2026,Main long,False,False,False,1,unknown,ra319c3c3c91bc2bdc150484a
+2026.acl-long.185,2026.acl-long.185,ACL,2026,Main long,True,False,True,3,OUT | unknown,r2c6a0c4e91264b736f013309 | r590e7d8be9004ec8ef421927 | rf184cb3668eb0a75d9e01e52
+2026.acl-long.1850,2026.acl-long.1850,ACL,2026,Main long,False,False,False,1,unknown,r2db0a0736a2739bd285fe443
+2026.acl-long.1851,2026.acl-long.1851,ACL,2026,Main long,False,False,False,1,unknown,r89cd47d15d1ed4f675e677a8
+2026.acl-long.1852,2026.acl-long.1852,ACL,2026,Main long,False,False,False,1,unknown,r174d96da241b7a87b844abd4
+2026.acl-long.1853,2026.acl-long.1853,ACL,2026,Main long,False,False,False,1,unknown,r15a0b069da9cf48ba3a80b32
+2026.acl-long.1854,2026.acl-long.1854,ACL,2026,Main long,False,False,False,1,unknown,r8ea564bbf4546fea448956b3
+2026.acl-long.1855,2026.acl-long.1855,ACL,2026,Main long,False,False,False,1,unknown,r177762ddbeabb0d6328d7226
+2026.acl-long.1856,2026.acl-long.1856,ACL,2026,Main long,False,False,False,1,unknown,r15241fa111f68927c1d95d77
+2026.acl-long.1857,2026.acl-long.1857,ACL,2026,Main long,False,False,False,1,unknown,r0a4d545cdf0fe5a55f2b1c4a
+2026.acl-long.1858,2026.acl-long.1858,ACL,2026,Main long,False,False,False,1,unknown,r54b12296aa2456eb4e8926a9
+2026.acl-long.1859,2026.acl-long.1859,ACL,2026,Main long,False,False,False,1,unknown,r7ef1ea8f2eba9eb7d717cbdf
+2026.acl-long.186,2026.acl-long.186,ACL,2026,Main long,True,False,True,4,body_needed | unknown,r6627d4af2ed97cae3227204b | r6df3ea6807d5e8d96ba43c23 | rb4582072840b991bf1081072 | rfc93603b2b54d735ba5cd3f1
+2026.acl-long.1860,2026.acl-long.1860,ACL,2026,Main long,False,False,False,1,unknown,r5cfdf7cc840d4d5e90300666
+2026.acl-long.1861,2026.acl-long.1861,ACL,2026,Main long,False,False,False,1,unknown,r307a93aea84720acadbc79fb
+2026.acl-long.1862,2026.acl-long.1862,ACL,2026,Main long,False,False,False,1,unknown,r8bdb97091dbd011964a8b793
+2026.acl-long.1863,2026.acl-long.1863,ACL,2026,Main long,False,False,False,1,unknown,r06812fec1802a6036f85aafa
+2026.acl-long.1864,2026.acl-long.1864,ACL,2026,Main long,False,False,False,1,unknown,r33e34dd24581d4a3754f5ac4
+2026.acl-long.1865,2026.acl-long.1865,ACL,2026,Main long,False,False,False,1,unknown,r85a684ccb76403bafa529136
+2026.acl-long.1866,2026.acl-long.1866,ACL,2026,Main long,False,False,False,1,unknown,r5318baf72286db254015cd1b
+2026.acl-long.1867,2026.acl-long.1867,ACL,2026,Main long,False,False,False,1,unknown,r669e98ee2e164e4a0f7a887b
+2026.acl-long.1868,2026.acl-long.1868,ACL,2026,Main long,False,False,False,1,unknown,rd464f341ea46873d44379b88
+2026.acl-long.1869,2026.acl-long.1869,ACL,2026,Main long,False,False,False,1,unknown,r0684605e4b51b86ce48311ff
+2026.acl-long.187,2026.acl-long.187,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r04db4e6df436939a16a7741e | r05464423245e2b73f928ab97 | r5b7f2b484d604049489114c5
+2026.acl-long.1870,2026.acl-long.1870,ACL,2026,Main long,False,False,False,1,unknown,r45aa2e61dc83b731b2ee1369
+2026.acl-long.1871,2026.acl-long.1871,ACL,2026,Main long,False,False,False,1,unknown,rd2519f0074ff8a869e0794ed
+2026.acl-long.1872,2026.acl-long.1872,ACL,2026,Main long,False,False,False,1,unknown,rd54cca4dba2d86ab3cdae864
+2026.acl-long.1873,2026.acl-long.1873,ACL,2026,Main long,False,False,False,1,unknown,r5b2ceeab1290171a9808b52e
+2026.acl-long.1874,2026.acl-long.1874,ACL,2026,Main long,False,False,False,1,unknown,r84ee22af7a6bfeed9160d7da
+2026.acl-long.1875,2026.acl-long.1875,ACL,2026,Main long,False,False,False,1,unknown,r5b7b4484428144d23f9a1d80
+2026.acl-long.1876,2026.acl-long.1876,ACL,2026,Main long,False,False,False,1,unknown,r73ce28168c7ec9987b0bf044
+2026.acl-long.1877,2026.acl-long.1877,ACL,2026,Main long,False,False,False,1,unknown,rdef84271758125b7645fa84c
+2026.acl-long.1878,2026.acl-long.1878,ACL,2026,Main long,False,False,False,1,unknown,rb554ca58079d207706bdefc5
+2026.acl-long.1879,2026.acl-long.1879,ACL,2026,Main long,False,False,False,1,unknown,r8283e21e07af05724fb8ce99
+2026.acl-long.188,2026.acl-long.188,ACL,2026,Main long,True,False,True,3,OUT | unknown,r33dec0697a9ca158febe7603 | r8d6ef8fe3e8396802a1faf71 | reaec0b454b0b1e12fc286d5e
+2026.acl-long.1880,2026.acl-long.1880,ACL,2026,Main long,False,False,False,1,unknown,r6dadb8ffb57c813cae7ea53c
+2026.acl-long.1881,2026.acl-long.1881,ACL,2026,Main long,False,False,False,1,unknown,r8c00154457e755b313c54f24
+2026.acl-long.1882,2026.acl-long.1882,ACL,2026,Main long,False,False,False,1,unknown,rc1f70f7143c551e1bbd60085
+2026.acl-long.1883,2026.acl-long.1883,ACL,2026,Main long,False,False,False,1,unknown,r5f449e391e9eae23fe9f73df
+2026.acl-long.1884,2026.acl-long.1884,ACL,2026,Main long,False,False,False,1,unknown,re15cb057afca343e60f63c29
+2026.acl-long.1885,2026.acl-long.1885,ACL,2026,Main long,False,False,False,1,unknown,rc7db7cb2b98fd12a380672f8
+2026.acl-long.1886,2026.acl-long.1886,ACL,2026,Main long,False,False,False,1,unknown,r29077d1c94c53efb0eb0904a
+2026.acl-long.1887,2026.acl-long.1887,ACL,2026,Main long,False,False,False,1,unknown,r780752cad71850bb88a9c725
+2026.acl-long.1888,2026.acl-long.1888,ACL,2026,Main long,False,False,False,1,unknown,r673f7c7d203b61725d7e99a0
+2026.acl-long.1889,2026.acl-long.1889,ACL,2026,Main long,False,False,False,1,unknown,r0476006d041c5bc172bb57ac
+2026.acl-long.189,2026.acl-long.189,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r2e5476e30a2dd4d420d4510c | r86c0f8cc696604538324d43f | rd9ae17522658751911a1377e
+2026.acl-long.1890,2026.acl-long.1890,ACL,2026,Main long,False,False,False,1,unknown,r9b8c40126c74e1c78f126029
+2026.acl-long.1891,2026.acl-long.1891,ACL,2026,Main long,False,False,False,1,unknown,r074caa6524a29e1903dcd98c
+2026.acl-long.1892,2026.acl-long.1892,ACL,2026,Main long,False,False,False,1,unknown,r741bb950288ecc30aa5e2e4e
+2026.acl-long.1893,2026.acl-long.1893,ACL,2026,Main long,False,False,False,1,unknown,rdc180744f53762ad467fad7d
+2026.acl-long.1894,2026.acl-long.1894,ACL,2026,Main long,False,False,False,1,unknown,r8c4e62a87f03cee213cdc126
+2026.acl-long.1895,2026.acl-long.1895,ACL,2026,Main long,False,False,False,1,unknown,r59180ae60f3d4cafd56d5a69
+2026.acl-long.1896,2026.acl-long.1896,ACL,2026,Main long,False,False,False,1,unknown,r45c76834c1e0345a718a3612
+2026.acl-long.1897,2026.acl-long.1897,ACL,2026,Main long,False,False,False,1,unknown,rf4dbe2c20e5abc8a3ff80b7b
+2026.acl-long.1898,2026.acl-long.1898,ACL,2026,Main long,False,False,False,1,unknown,r1c66588fe7178dfe1ec49386
+2026.acl-long.1899,2026.acl-long.1899,ACL,2026,Main long,False,False,False,2,unknown,r6a1e110aaf5c9370e7141837 | rd407c6a97f7d3051e92fad94
+2026.acl-long.19,2026.acl-long.19,ACL,2026,Main long,True,False,True,4,OUT | unknown,r3fdd7218c83dda5c3c0c75b7 | r965d4aae0b07c8aee89e551f | r96afbed86c8f5de82177d4b4 | rb9d54687f49c0fd2fb0644b3
+2026.acl-long.190,2026.acl-long.190,ACL,2026,Main long,True,False,True,3,OUT | unknown,r2bf3958af10e672652562c28 | r586e75d9e889349d795661fa | rbd4fedc42f032505374f1609
+2026.acl-long.1900,2026.acl-long.1900,ACL,2026,Main long,False,False,False,1,unknown,r40897d77b7789c9a7e0448a1
+2026.acl-long.1901,2026.acl-long.1901,ACL,2026,Main long,False,False,False,1,unknown,r46a7e5902b0ba80c56acd9d4
+2026.acl-long.1902,2026.acl-long.1902,ACL,2026,Main long,False,False,False,1,unknown,ra41f7e2d040d784f001b7b60
+2026.acl-long.1903,2026.acl-long.1903,ACL,2026,Main long,False,False,False,1,unknown,r859f8700b3d6ee3169fa5da0
+2026.acl-long.1904,2026.acl-long.1904,ACL,2026,Main long,False,False,False,1,unknown,r4154058a30ceb7e3ddaae42c
+2026.acl-long.1905,2026.acl-long.1905,ACL,2026,Main long,False,False,False,1,unknown,r4346b1111720544b04987134
+2026.acl-long.1906,2026.acl-long.1906,ACL,2026,Main long,False,False,False,1,unknown,r45c2a63ac856aafcba7df029
+2026.acl-long.1907,2026.acl-long.1907,ACL,2026,Main long,False,False,False,1,unknown,r5bad84d03d7b5c692533fb97
+2026.acl-long.1908,2026.acl-long.1908,ACL,2026,Main long,False,False,False,1,unknown,re35aa4d8f841d9a2765861fc
+2026.acl-long.1909,2026.acl-long.1909,ACL,2026,Main long,False,False,False,1,unknown,rda5b53a86e64ae8068e53980
+2026.acl-long.191,2026.acl-long.191,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r8f28c22175629fc235f51e5e | rbd511120c4c3453b0c356f13 | re7cb814483e45eaab367557c
+2026.acl-long.1910,2026.acl-long.1910,ACL,2026,Main long,False,False,False,1,unknown,rf3473b151c73307c47e98746
+2026.acl-long.1911,2026.acl-long.1911,ACL,2026,Main long,False,False,False,1,unknown,r4d6cd76100fefa91ffe123f0
+2026.acl-long.1912,2026.acl-long.1912,ACL,2026,Main long,False,False,False,1,unknown,r0b4791b1623828d6cc5b9dc4
+2026.acl-long.1913,2026.acl-long.1913,ACL,2026,Main long,False,False,False,1,unknown,rd6473fe16bf2956d0307ec56
+2026.acl-long.1914,2026.acl-long.1914,ACL,2026,Main long,False,False,False,1,unknown,rc0998afe52ea6d6e8ee381a5
+2026.acl-long.1915,2026.acl-long.1915,ACL,2026,Main long,False,False,False,1,unknown,r2eb2903ea80723b3be554154
+2026.acl-long.1916,2026.acl-long.1916,ACL,2026,Main long,False,False,False,1,unknown,r3bbd1c2f836697f239fbab5c
+2026.acl-long.1917,2026.acl-long.1917,ACL,2026,Main long,False,False,False,1,unknown,r3f5688541a7a7309100275f8
+2026.acl-long.1918,2026.acl-long.1918,ACL,2026,Main long,False,False,False,1,unknown,rd4763c2a66665e263a536394
+2026.acl-long.1919,2026.acl-long.1919,ACL,2026,Main long,False,False,False,1,unknown,rb336c0add8e134f905ac8d8c
+2026.acl-long.192,2026.acl-long.192,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r7a9c035e13f0352b864f0ed1 | r8c690ceb775c9e07b508d253 | r8e4c29f22d046b83fb9c4f0b
+2026.acl-long.1920,2026.acl-long.1920,ACL,2026,Main long,False,False,False,1,unknown,rf9dc5391f18f1e2a19b25a7f
+2026.acl-long.1921,2026.acl-long.1921,ACL,2026,Main long,False,False,False,1,unknown,rb9b660a76c1389d97840c3e7
+2026.acl-long.1922,2026.acl-long.1922,ACL,2026,Main long,False,False,False,1,unknown,rba3eae08ccd501e05055d92e
+2026.acl-long.1923,2026.acl-long.1923,ACL,2026,Main long,False,False,False,1,unknown,rf0d8a2f5f8995ca0cc31a014
+2026.acl-long.1924,2026.acl-long.1924,ACL,2026,Main long,False,False,False,1,unknown,r47a87caaf6faa184c2f14f43
+2026.acl-long.1925,2026.acl-long.1925,ACL,2026,Main long,False,False,False,1,unknown,r3d69d55962b7baa20e0150f3
+2026.acl-long.1926,2026.acl-long.1926,ACL,2026,Main long,False,False,False,1,unknown,r3e72f80529ab13cbc7420580
+2026.acl-long.1927,2026.acl-long.1927,ACL,2026,Main long,False,False,False,1,unknown,r1634cfb17fe2c7753b62188a
+2026.acl-long.1928,2026.acl-long.1928,ACL,2026,Main long,False,False,False,1,unknown,re6816cbd88edebff389cd1a7
+2026.acl-long.1929,2026.acl-long.1929,ACL,2026,Main long,False,False,False,1,unknown,rd101c16772f1bd05d39d76a7
+2026.acl-long.193,2026.acl-long.193,ACL,2026,Main long,True,False,True,3,OUT | unknown,r2a65b09b018be5851faf6b89 | r6c09a592e328c1930f46eef7 | raffb1668b51272b7111077cb
+2026.acl-long.1930,2026.acl-long.1930,ACL,2026,Main long,False,False,False,1,unknown,r89f980ca0cb46f6c339f6573
+2026.acl-long.1931,2026.acl-long.1931,ACL,2026,Main long,False,False,False,1,unknown,rdb8513b98971c9ab9899b985
+2026.acl-long.1932,2026.acl-long.1932,ACL,2026,Main long,False,False,False,1,unknown,re8fc0b77b85b2aba6b75adf6
+2026.acl-long.1933,2026.acl-long.1933,ACL,2026,Main long,False,False,False,1,unknown,ra751b8455f81f0722bb33ce4
+2026.acl-long.1934,2026.acl-long.1934,ACL,2026,Main long,False,False,False,1,unknown,r998fc00fb2d710c96008d219
+2026.acl-long.1935,2026.acl-long.1935,ACL,2026,Main long,False,False,False,1,unknown,re7854013e7dbd1a09fc8302f
+2026.acl-long.1936,2026.acl-long.1936,ACL,2026,Main long,False,False,False,1,unknown,rcb3733d693f142a2aa9097e3
+2026.acl-long.1937,2026.acl-long.1937,ACL,2026,Main long,False,False,False,1,unknown,rb7a5beb9d421fb569a864081
+2026.acl-long.1938,2026.acl-long.1938,ACL,2026,Main long,False,False,False,1,unknown,r392751fa2b29621e43ca80b0
+2026.acl-long.1939,2026.acl-long.1939,ACL,2026,Main long,False,False,False,1,unknown,r10978b7849afc3c4eb693f68
+2026.acl-long.194,2026.acl-long.194,ACL,2026,Main long,True,False,True,3,OUT | unknown,r0156273b6616b5d9fc18b4bf | r357e97a7549e7d97f395881a | rf71355d2a69fd92933c32b21
+2026.acl-long.1940,2026.acl-long.1940,ACL,2026,Main long,False,False,False,1,unknown,r2201ef8a6a1ce5fdad1a4ea5
+2026.acl-long.1941,2026.acl-long.1941,ACL,2026,Main long,False,False,False,1,unknown,r439196503c522deace37dcc0
+2026.acl-long.1942,2026.acl-long.1942,ACL,2026,Main long,False,False,False,1,unknown,r35b9902d436043f3073034a4
+2026.acl-long.1943,2026.acl-long.1943,ACL,2026,Main long,False,False,False,1,unknown,rf65290cf32a5e40ef2d120f4
+2026.acl-long.1944,2026.acl-long.1944,ACL,2026,Main long,False,False,False,1,unknown,r7b759b0833cbd859e0a4781f
+2026.acl-long.1945,2026.acl-long.1945,ACL,2026,Main long,False,False,False,1,unknown,r4db4e978c5811b7a82495eae
+2026.acl-long.1946,2026.acl-long.1946,ACL,2026,Main long,False,False,False,1,unknown,red1c9dbaaba9cbd01b50dbe5
+2026.acl-long.1947,2026.acl-long.1947,ACL,2026,Main long,False,False,False,1,unknown,r623af9154a464ca655d16eb4
+2026.acl-long.1948,2026.acl-long.1948,ACL,2026,Main long,False,False,False,1,unknown,r3b22bb4b898513b9e806c7f2
+2026.acl-long.1949,2026.acl-long.1949,ACL,2026,Main long,False,False,False,1,unknown,r248a77f4f2cd09952e32c92b
+2026.acl-long.195,2026.acl-long.195,ACL,2026,Main long,True,False,True,3,body_needed | unknown,r095b34a4b9c6cf854fffa335 | r3dbd7f9b85159440de1696a9 | r81f73933e8468f7337e326b2
+2026.acl-long.1950,2026.acl-long.1950,ACL,2026,Main long,False,False,False,1,unknown,r4908f173a65d21253f8bf9bd
+2026.acl-long.1951,2026.acl-long.1951,ACL,2026,Main long,False,False,False,1,unknown,r54d2254dbfdb7e453e271558
+2026.acl-long.1952,2026.acl-long.1952,ACL,2026,Main long,False,False,False,1,unknown,rf8b7240cb78fd5217b63d1ae
+2026.acl-long.1953,2026.acl-long.1953,ACL,2026,Main long,False,False,False,1,unknown,r2b37b9f5cedeb1921ac29ba2
+2026.acl-long.1954,2026.acl-long.1954,ACL,2026,Main long,False,False,False,1,unknown,r1d4912d5b7953316f111fb6e
+2026.acl-long.1955,2026.acl-long.1955,ACL,2026,Main long,False,False,False,1,unknown,r593274ac49dde88432f85ea5
+2026.acl-long.1956,2026.acl-long.1956,ACL,2026,Main long,False,False,False,1,unknown,rc9383d15069bca6e75a166aa
+2026.acl-long.1957,2026.acl-long.1957,ACL,2026,Main long,False,False,False,1,unknown,rcf41b503b23e4ea1800d4aa4
