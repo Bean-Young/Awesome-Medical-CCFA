@@ -1,0 +1,356 @@
+{
+  "version": "2026-10-15",
+  "scope": "870 currently included papers; multi-label assignments overlap.",
+  "method": "Controlled English topic labels manually assigned from paper titles and existing verified contribution summaries. Ambiguous modality and method claims omitted. Topics are not mutually exclusive.",
+  "topics": [
+    {
+      "name": "MRI",
+      "category": "Modality",
+      "definition": "Magnetic resonance imaging is explicitly an input, target, or evaluated modality.",
+      "paper_count": 65
+    },
+    {
+      "name": "CT",
+      "category": "Modality",
+      "definition": "Computed tomography is explicitly used as an input, output, or evaluation modality.",
+      "paper_count": 34
+    },
+    {
+      "name": "X-ray",
+      "category": "Modality",
+      "definition": "Radiographs, mammograms, or X-ray projections are explicitly used.",
+      "paper_count": 40
+    },
+    {
+      "name": "Ultrasound",
+      "category": "Modality",
+      "definition": "Ultrasound or echocardiography is explicitly used.",
+      "paper_count": 11
+    },
+    {
+      "name": "Endoscopy",
+      "category": "Modality",
+      "definition": "Endoscopic or colonoscopic imagery, including polyp analysis and endoscope tracking.",
+      "paper_count": 13
+    },
+    {
+      "name": "Pathology",
+      "category": "Modality",
+      "definition": "Histology, histopathology, whole-slide images, or clinical tissue-slide analysis.",
+      "paper_count": 56
+    },
+    {
+      "name": "Retinal imaging",
+      "category": "Modality",
+      "definition": "Retinal, fundus, ophthalmic OCT, or optic-disc/cup image analysis.",
+      "paper_count": 12
+    },
+    {
+      "name": "Microscopy",
+      "category": "Modality",
+      "definition": "Microscopic image acquisition, cellular imaging, or microscopy restoration beyond a generic whole-slide classification label.",
+      "paper_count": 34
+    },
+    {
+      "name": "Medical segmentation",
+      "category": "Task",
+      "definition": "Pixel-, voxel-, mesh-, cell-, or instance-level delineation of medical structures.",
+      "paper_count": 136
+    },
+    {
+      "name": "Registration & motion tracking",
+      "category": "Task",
+      "definition": "Spatial registration, correspondence, lesion tracking, or medical motion estimation.",
+      "paper_count": 28
+    },
+    {
+      "name": "Image reconstruction",
+      "category": "Task",
+      "definition": "Recovering images from measurements or degraded data, including super-resolution and restoration; not merely decoding learned representations.",
+      "paper_count": 27
+    },
+    {
+      "name": "Image synthesis",
+      "category": "Task",
+      "definition": "Generating, translating, virtually staining, or interpolating medical images or cellular layouts.",
+      "paper_count": 32
+    },
+    {
+      "name": "Diagnosis & detection",
+      "category": "Task",
+      "definition": "Disease classification, diagnostic reasoning, abnormality detection, clinical grading, or medical object/landmark detection.",
+      "paper_count": 91
+    },
+    {
+      "name": "Report generation",
+      "category": "Task",
+      "definition": "Generating medical image reports or summaries of clinical radiology reports.",
+      "paper_count": 28
+    },
+    {
+      "name": "Medical VQA",
+      "category": "Task",
+      "definition": "Answering questions grounded in medical images.",
+      "paper_count": 6
+    },
+    {
+      "name": "Clinical NLP",
+      "category": "Task",
+      "definition": "Clinical language modeling, medical text understanding, concept normalization, entity extraction, or text simplification.",
+      "paper_count": 210
+    },
+    {
+      "name": "EHR prediction",
+      "category": "Task",
+      "definition": "Clinical outcome or health-state modeling using patient records, clinical measurements, or electronic health records.",
+      "paper_count": 31
+    },
+    {
+      "name": "Survival prediction",
+      "category": "Task",
+      "definition": "Estimating survival outcomes or survival time, including multimodal pathology/genomics models.",
+      "paper_count": 11
+    },
+    {
+      "name": "Drug discovery",
+      "category": "Task",
+      "definition": "Therapeutic molecule/antibody design, drug-response or pharmacokinetic modeling, repurposing, or drug-interaction prediction.",
+      "paper_count": 35
+    },
+    {
+      "name": "Medication & treatment recommendation",
+      "category": "Task",
+      "definition": "Selecting medications, optimizing treatment policies, or recommending clinical procedures.",
+      "paper_count": 11
+    },
+    {
+      "name": "Genomics & transcriptomics",
+      "category": "Domain",
+      "definition": "Gene expression, genetic biomarkers, tumor genomes, or image–genomics modeling is a substantive part of the work.",
+      "paper_count": 40
+    },
+    {
+      "name": "Surgical AI",
+      "category": "Domain",
+      "definition": "Surgical workflow recognition, skill assessment, operating-room understanding, or intraoperative navigation.",
+      "paper_count": 10
+    },
+    {
+      "name": "Physiological monitoring",
+      "category": "Domain",
+      "definition": "Estimating physiological signals, pulse, blood flow, or quantitative physiological measurements.",
+      "paper_count": 28
+    },
+    {
+      "name": "Mental health",
+      "category": "Domain",
+      "definition": "Mental-health screening or assessment is an explicit application.",
+      "paper_count": 61
+    },
+    {
+      "name": "Dentistry",
+      "category": "Domain",
+      "definition": "Dental, tooth, orthodontic, or oral radiograph analysis.",
+      "paper_count": 8
+    },
+    {
+      "name": "Dermatology & wounds",
+      "category": "Domain",
+      "definition": "Skin disease, skin-lesion analysis, psoriasis severity, or wound assessment and reconstruction.",
+      "paper_count": 8
+    },
+    {
+      "name": "Neuroimaging & neurological assessment",
+      "category": "Domain",
+      "definition": "Brain imaging, neurological disease assessment, neural decoding, or neurodevelopmental assessment.",
+      "paper_count": 58
+    },
+    {
+      "name": "Federated learning",
+      "category": "Method",
+      "definition": "Collaborative model learning across institutions without pooling the original data, including decentralized/distributed learning.",
+      "paper_count": 12
+    },
+    {
+      "name": "Privacy & security",
+      "category": "Method",
+      "definition": "Privacy guarantees, distributed data protection, medical-model attacks, or re-identification/privacy analysis.",
+      "paper_count": 16
+    },
+    {
+      "name": "Explainability",
+      "category": "Method",
+      "definition": "Interpretable concepts, localized explanations, feature attribution, or human correction of model decisions.",
+      "paper_count": 35
+    },
+    {
+      "name": "Causal inference",
+      "category": "Method",
+      "definition": "Explicit causal effect estimation, causal graphical modeling, confounding control, or causal intervention/adjustment.",
+      "paper_count": 21
+    },
+    {
+      "name": "Domain adaptation & generalization",
+      "category": "Method",
+      "definition": "Cross-domain/site/modality adaptation, domain generalization, distribution-shift handling, or an explicit study of transferable medical representations.",
+      "paper_count": 46
+    },
+    {
+      "name": "Self-supervised learning",
+      "category": "Method",
+      "definition": "Explicit pretraining or learning from unlabeled signals using self-supervised/unsupervised representation objectives.",
+      "paper_count": 42
+    },
+    {
+      "name": "Semi-supervised learning",
+      "category": "Method",
+      "definition": "Joint use of labeled and unlabeled examples is an explicit method component.",
+      "paper_count": 26
+    },
+    {
+      "name": "Weakly supervised learning",
+      "category": "Method",
+      "definition": "Learning from coarse, sparse, slide-level, image-level, or otherwise weak labels, including multiple-instance learning.",
+      "paper_count": 33
+    },
+    {
+      "name": "Medical vision-language models",
+      "category": "Method",
+      "definition": "Joint medical image–text representation learning, multimodal foundation models, or language-grounded visual reasoning.",
+      "paper_count": 35
+    },
+    {
+      "name": "Neural architecture search",
+      "category": "Method",
+      "definition": "Automated search over medical network architectures or topology.",
+      "paper_count": 8
+    },
+    {
+      "name": "Anatomical modeling",
+      "category": "Task",
+      "definition": "Explicit anatomical geometry, surface, shape-template, or deformable-tissue modeling.",
+      "paper_count": 14
+    },
+    {
+      "name": "Assistive & biomedical technology",
+      "category": "Domain",
+      "definition": "Medical devices, neuroprosthetic decoding, vision testing, bioprinting, or healthcare-device reconstruction.",
+      "paper_count": 22
+    },
+    {
+      "name": "Disease progression",
+      "category": "Task",
+      "definition": "Longitudinal disease forecasting, progression representations, or disease-evolution modeling.",
+      "paper_count": 15
+    },
+    {
+      "name": "Public health & clinical research",
+      "category": "Domain",
+      "definition": "Epidemic control or clinical-trial recruitment and research operations.",
+      "paper_count": 51
+    },
+    {
+      "name": "Cell biology",
+      "category": "Biomedical field",
+      "definition": "Cellular processes, single-cell biology, and experimental cellular protocols.",
+      "paper_count": 29
+    },
+    {
+      "name": "Protein modeling",
+      "category": "Biomedical field",
+      "definition": "Protein structure, sequence, function, interactions, or design.",
+      "paper_count": 30
+    },
+    {
+      "name": "Neuroscience",
+      "category": "Biomedical field",
+      "definition": "Empirical or computational study of neural systems, cognition, or model-organism behavior.",
+      "paper_count": 40
+    },
+    {
+      "name": "Visual neuroscience",
+      "category": "Biomedical field",
+      "definition": "Human visual perception and its neural representations.",
+      "paper_count": 14
+    },
+    {
+      "name": "Medical reasoning",
+      "category": "Biomedical field",
+      "definition": "Medical reasoning research explicitly supported by source review.",
+      "paper_count": 46
+    },
+    {
+      "name": "Data & evaluation",
+      "category": "Biomedical field",
+      "definition": "Data & evaluation research explicitly supported by source review.",
+      "paper_count": 122
+    },
+    {
+      "name": "Biomedical science",
+      "category": "Research topic",
+      "definition": "Source-reviewed research topic; see per-paper topic evidence.",
+      "paper_count": 5
+    },
+    {
+      "name": "Medical image reconstruction",
+      "category": "Research topic",
+      "definition": "Source-reviewed research topic; see per-paper topic evidence.",
+      "paper_count": 2
+    },
+    {
+      "name": "Medical image registration",
+      "category": "Research topic",
+      "definition": "Source-reviewed research topic; see per-paper topic evidence.",
+      "paper_count": 1
+    },
+    {
+      "name": "Medical imaging",
+      "category": "Research topic",
+      "definition": "Source-reviewed research topic; see per-paper topic evidence.",
+      "paper_count": 4
+    },
+    {
+      "name": "Medical research",
+      "category": "Research topic",
+      "definition": "Source-reviewed research topic; see per-paper topic evidence.",
+      "paper_count": 28
+    },
+    {
+      "name": "Nutritional assessment",
+      "category": "Research topic",
+      "definition": "Source-reviewed research topic; see per-paper topic evidence.",
+      "paper_count": 1
+    },
+    {
+      "name": "Oncology",
+      "category": "Research topic",
+      "definition": "Source-reviewed research topic; see per-paper topic evidence.",
+      "paper_count": 1
+    },
+    {
+      "name": "Physiological signals",
+      "category": "Research topic",
+      "definition": "Source-reviewed research topic; see per-paper topic evidence.",
+      "paper_count": 1
+    },
+    {
+      "name": "Privacy & robustness",
+      "category": "Research topic",
+      "definition": "Source-reviewed research topic; see per-paper topic evidence.",
+      "paper_count": 5
+    },
+    {
+      "name": "Public health",
+      "category": "Research topic",
+      "definition": "Source-reviewed research topic; see per-paper topic evidence.",
+      "paper_count": 4
+    },
+    {
+      "name": "Treatment & intervention",
+      "category": "Research topic",
+      "definition": "Source-reviewed research topic; see per-paper topic evidence.",
+      "paper_count": 2
+    }
+  ],
+  "updated_at": "2026-10-15T20:20:11.754541+00:00"
+}

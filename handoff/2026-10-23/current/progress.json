@@ -1,0 +1,6578 @@
+{
+  "as_of": "2026-10-22T17:54:47Z",
+  "included_papers": 2004,
+  "metadata_ready": 1170,
+  "illustrated_profiles": 1247,
+  "pending_candidates": 143,
+  "excluded_candidates": 61,
+  "scope": "Medical/biomedical-only or biomedical-dominant study; counts reflect partial source coverage. Re-review is not counted as newly read abstracts.",
+  "edition_progress": [
+    {
+      "venue": "CVPR",
+      "year": 2020,
+      "track": "Main",
+      "unique_abstracts_reviewed": 1466,
+      "screening_complete": true,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 0,
+      "source_url": "https://openaccess.thecvf.com/CVPR2020?day=all",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 43,
+      "metadata_ready": 2,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "CVPR",
+      "year": 2021,
+      "track": "Main",
+      "unique_abstracts_reviewed": 1660,
+      "screening_complete": true,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 0,
+      "source_url": "https://openaccess.thecvf.com/CVPR2021?day=all",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 43,
+      "metadata_ready": 10,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "CVPR",
+      "year": 2022,
+      "track": "Main",
+      "unique_abstracts_reviewed": 740,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": 85,
+      "source_url": "https://openaccess.thecvf.com/CVPR2022?day=all",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 43,
+      "metadata_ready": 16,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "CVPR",
+      "year": 2023,
+      "track": "Main",
+      "unique_abstracts_reviewed": 60,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": 2,
+      "source_url": "https://openaccess.thecvf.com/CVPR2023?day=all",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 44,
+      "metadata_ready": 11,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "CVPR",
+      "year": 2024,
+      "track": "Main",
+      "unique_abstracts_reviewed": 58,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": 0,
+      "source_url": "https://openaccess.thecvf.com/CVPR2024?day=all",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 71,
+      "metadata_ready": 30,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "CVPR",
+      "year": 2025,
+      "track": "Main",
+      "unique_abstracts_reviewed": 60,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": 0,
+      "source_url": "https://openaccess.thecvf.com/CVPR2025?day=all",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 84,
+      "metadata_ready": 29,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "CVPR",
+      "year": 2026,
+      "track": "Main",
+      "unique_abstracts_reviewed": 70,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": 23,
+      "source_url": "https://openaccess.thecvf.com/CVPR2026?day=all",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 3,
+      "metadata_ready": 0,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "ICCV",
+      "year": 2021,
+      "track": "Main",
+      "unique_abstracts_reviewed": 20,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": 12,
+      "source_url": "https://openaccess.thecvf.com/ICCV2021?day=all",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 15,
+      "metadata_ready": 3,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "ICCV",
+      "year": 2023,
+      "track": "Main",
+      "unique_abstracts_reviewed": 30,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": 15,
+      "source_url": "https://openaccess.thecvf.com/ICCV2023?day=all",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 27,
+      "metadata_ready": 9,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "ICCV",
+      "year": 2025,
+      "track": "Main",
+      "unique_abstracts_reviewed": 40,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": 11,
+      "source_url": "https://openaccess.thecvf.com/ICCV2025?day=all",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 60,
+      "metadata_ready": 23,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "ACL",
+      "year": 2020,
+      "track": "Main",
+      "unique_abstracts_reviewed": 570,
+      "screening_complete": false,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 1,
+      "source_url": "https://aclanthology.org/2020.acl-main/",
+      "trusted_abstract_review_lower_bound": 570,
+      "historical_abstract_review_flags": 570,
+      "verification_rereviews": 1105,
+      "included_papers": 22,
+      "metadata_ready": 22,
+      "pending_candidates": 1,
+      "review_count_basis": "570 formal Long IDs independently matched to pinned ACL2020 official repository type mapping (778 total =570 Long +208 Short). Full old abstract rereview: 22 INCLUDE,547 EXCLUDE,1 HOLD .137; 569 final decisions, NOT whole-track final completion. 570 old abstract/11 overlapping focused-body rereviews add zero unique global reading credit.",
+      "coverage_reported_abstracts_reviewed": 570,
+      "review_count_status": "verified distinct review manifest",
+      "review_count_note": "Trusted lower bounds are deduplicated independent review records; older unrecertified flags and rereview operations are not counted as new unique papers.",
+      "new_independently_reported_abstracts_reviewed": 35,
+      "new_unique_abstracts_read": 35,
+      "prior_review_flags_unverified": 0,
+      "current_scope_reconciliation_note": "570 formal Long IDs independently matched to pinned ACL2020 official repository type mapping (778 total =570 Long +208 Short). Full old abstract rereview: 22 INCLUDE,547 EXCLUDE,1 HOLD .137; 569 final decisions, NOT whole-track final completion. 570 old abstract/11 overlapping focused-body rereviews add zero unique global reading credit.",
+      "final_eligibility_decisions": 569,
+      "excluded_papers": 547,
+      "latest_checkpoint_abstract_rereviews": 570,
+      "latest_checkpoint_focused_body_rereviews": 11,
+      "scope_decision_ledger": "research_audit/acl2020_long_rereview_integrated_20261021/census/final_ledger570.json",
+      "known_legacy_pending_ids": [
+        "2020.acl-main.137"
+      ],
+      "historical_decision_manifest_reconciled": true
+    },
+    {
+      "venue": "ACL",
+      "year": 2021,
+      "track": "Main",
+      "unique_abstracts_reviewed": 571,
+      "screening_complete": true,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 0,
+      "source_url": "https://aclanthology.org/2021.acl-long/",
+      "trusted_abstract_review_lower_bound": 571,
+      "historical_abstract_review_flags": 65,
+      "verification_rereviews": 571,
+      "included_papers": 28,
+      "metadata_ready": 28,
+      "pending_candidates": 0,
+      "review_count_basis": "571 official Long IDs reconciled against complete per-ID semantic abstract rereview and final scope ledger: 28 INCLUDE / 543 EXCLUDE / 0 HOLD. 571 old abstract rereviews and 15 overlapping focused body rereviews, zero new unique global reading credit. Prior HOLD version retained with sourced final .82 adjudication.",
+      "coverage_reported_abstracts_reviewed": 571,
+      "review_count_status": "verified distinct review manifest",
+      "review_count_note": "Trusted lower bounds are deduplicated independent review records; older unrecertified flags and rereview operations are not counted as new unique papers.",
+      "new_independently_reported_abstracts_reviewed": 65,
+      "new_unique_abstracts_read": 571,
+      "prior_review_flags_unverified": 0,
+      "current_scope_reconciliation_note": "571 official Long IDs reconciled against complete per-ID semantic abstract rereview and final scope ledger: 28 INCLUDE / 543 EXCLUDE / 0 HOLD. 571 old abstract rereviews and 15 overlapping focused body rereviews, zero new unique global reading credit. Prior HOLD version retained with sourced final .82 adjudication.",
+      "known_legacy_pending_ids": [],
+      "historical_decision_manifest_reconciled": true,
+      "final_eligibility_decisions": 571,
+      "excluded_papers": 543,
+      "focused_body_verification_rereviews": 15,
+      "scope_decision_ledger": "research_audit/acl2021_long_closed_20261021/census_v2/combined_ledger.json"
+    },
+    {
+      "venue": "ACL",
+      "year": 2021,
+      "track": "Findings",
+      "unique_abstracts_reviewed": 339,
+      "screening_complete": true,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 0,
+      "source_url": "https://aclanthology.org/2021.findings-acl/",
+      "trusted_abstract_review_lower_bound": 339,
+      "historical_abstract_review_flags": 0,
+      "verification_rereviews": 0,
+      "included_papers": 17,
+      "metadata_ready": 16,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census",
+      "coverage_reported_abstracts_reviewed": 339,
+      "review_count_status": "verified distinct review manifest",
+      "review_count_note": "Trusted lower bounds are deduplicated independent review records; older unrecertified flags and rereview operations are not counted as new unique papers.",
+      "new_independently_reported_abstracts_reviewed": 0,
+      "new_unique_abstracts_read": 339,
+      "prior_review_flags_unverified": 0
+    },
+    {
+      "venue": "ACL",
+      "year": 2022,
+      "track": "Main",
+      "unique_abstracts_reviewed": 603,
+      "screening_complete": true,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 0,
+      "source_url": "https://aclanthology.org/2022.acl-long/",
+      "trusted_abstract_review_lower_bound": 603,
+      "historical_abstract_review_flags": 0,
+      "verification_rereviews": 603,
+      "included_papers": 33,
+      "metadata_ready": 33,
+      "pending_candidates": 0,
+      "review_count_basis": "603 formal Long IDs fully rereviewed:35 scope INCLUDE,568 EXCLUDE,0 HOLD;33 materialized cards,2 included profiles awaiting material/licensing acceptance. 603 old abstract rereviews and73 overlapping focused-body rereviews add zero global unique reading credit;200 abstracts previously reported and403 additionally confirmed belong to the earlier window;all73 body rereviews completed after23:28UTC. Old anonymous pending1 corrected as inconsistent historical counter, not an identified pending resolution.",
+      "coverage_reported_abstracts_reviewed": 603,
+      "review_count_status": "verified distinct review manifest",
+      "review_count_note": "Trusted lower bounds are deduplicated independent review records; older unrecertified flags and rereview operations are not counted as new unique papers.",
+      "new_independently_reported_abstracts_reviewed": 0,
+      "new_unique_abstracts_read": 603,
+      "prior_review_flags_unverified": 0,
+      "final_eligibility_decisions": 603,
+      "excluded_papers": 568,
+      "scope_include_decisions": 35,
+      "materialized_included_count": 33,
+      "pending_profile_ids": [
+        "2022.acl-long.195",
+        "2022.acl-long.222"
+      ],
+      "pending_profile_count": 2,
+      "scope_pending_count": 0,
+      "latest_checkpoint_abstract_rereviews": 603,
+      "latest_checkpoint_focused_body_rereviews": 73,
+      "scope_decision_ledger": "research_audit/acl2022_long_reconciled_20261021/census/final_ledger603.json",
+      "current_scope_reconciliation_note": "603 formal Long IDs fully rereviewed:35 scope INCLUDE,568 EXCLUDE,0 HOLD;33 materialized cards,2 included profiles awaiting material/licensing acceptance. 603 old abstract rereviews and73 overlapping focused-body rereviews add zero global unique reading credit;200 abstracts previously reported and403 additionally confirmed belong to the earlier window;all73 body rereviews completed after23:28UTC. Old anonymous pending1 corrected as inconsistent historical counter, not an identified pending resolution."
+    },
+    {
+      "venue": "ACL",
+      "year": 2022,
+      "track": "Findings",
+      "unique_abstracts_reviewed": 276,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": 0,
+      "source_url": "https://aclanthology.org/2022.findings-acl/",
+      "trusted_abstract_review_lower_bound": 276,
+      "historical_abstract_review_flags": 0,
+      "verification_rereviews": 0,
+      "included_papers": 13,
+      "metadata_ready": 13,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census",
+      "coverage_reported_abstracts_reviewed": 276,
+      "review_count_status": "verified distinct review manifest",
+      "review_count_note": "Trusted lower bounds are deduplicated independent review records; older unrecertified flags and rereview operations are not counted as new unique papers.",
+      "new_independently_reported_abstracts_reviewed": 0,
+      "new_unique_abstracts_read": 276,
+      "prior_review_flags_unverified": 0,
+      "included_count": 13,
+      "included_verified_so_far": 13,
+      "retained_medical_count": 13,
+      "medical_count": 13,
+      "materialized_included_count": 13,
+      "screening_include_decisions": 14,
+      "screening_exclude_decisions": 262,
+      "pending_profile_count": 1,
+      "pending_profile_ids": [
+        "2022.findings-acl.156"
+      ],
+      "eligibility_screening_complete": false,
+      "pending_eligibility_among_reviewed": 0,
+      "final_eligibility_decisions_among_reviewed": 276,
+      "verified_long_subset_abstract_review_complete": true,
+      "verified_long_subset_eligibility_screening_complete": true,
+      "denominator": null,
+      "denominator_complete": false,
+      "full_track_long_denominator": null,
+      "verified_subset_denominator": 276,
+      "denominator_scope": "Findings confirmed Long subset: 276 reviewed; 14 included, 13 indexed, 1 awaiting material clearance. Full Long denominator not verified; not a complete track.",
+      "current_scope_reconciliation_note": "All 276 confirmed Long IDs have final scope decisions, 14 include / 262 exclude; the remaining unknown-type paper .50 is not counted in the Long denominator. Material clearance is separate from scope.",
+      "scope_reconciliation_source": "research_audit/findings2022_ready5_20261022/scope_public.json"
+    },
+    {
+      "venue": "ACL",
+      "year": 2023,
+      "track": "Main",
+      "unique_abstracts_reviewed": 910,
+      "screening_complete": true,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 0,
+      "source_url": "https://aclanthology.org/2023.acl-long/",
+      "trusted_abstract_review_lower_bound": 910,
+      "historical_abstract_review_flags": 0,
+      "verification_rereviews": 0,
+      "included_papers": 28,
+      "metadata_ready": 27,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census",
+      "coverage_reported_abstracts_reviewed": 910,
+      "review_count_status": "verified distinct review manifest",
+      "review_count_note": "Trusted lower bounds are deduplicated independent review records; older unrecertified flags and rereview operations are not counted as new unique papers.",
+      "new_independently_reported_abstracts_reviewed": 0,
+      "new_unique_abstracts_read": 910,
+      "prior_review_flags_unverified": 0
+    },
+    {
+      "venue": "ACL",
+      "year": 2023,
+      "track": "Findings",
+      "unique_abstracts_reviewed": 712,
+      "screening_complete": false,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 61,
+      "source_url": "https://aclanthology.org/2023.findings-acl/",
+      "trusted_abstract_review_lower_bound": 712,
+      "historical_abstract_review_flags": 0,
+      "verification_rereviews": 0,
+      "included_papers": 27,
+      "metadata_ready": 27,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census",
+      "coverage_reported_abstracts_reviewed": 712,
+      "review_count_status": "verified distinct review manifest",
+      "review_count_note": "Trusted lower bounds are deduplicated independent review records; older unrecertified flags and rereview operations are not counted as new unique papers.",
+      "new_independently_reported_abstracts_reviewed": 0,
+      "new_unique_abstracts_read": 712,
+      "prior_review_flags_unverified": 0
+    },
+    {
+      "venue": "ACL",
+      "year": 2024,
+      "track": "Main",
+      "unique_abstracts_reviewed": 864,
+      "screening_complete": true,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 0,
+      "source_url": "https://aclanthology.org/2024.acl-long/",
+      "trusted_abstract_review_lower_bound": 864,
+      "historical_abstract_review_flags": 0,
+      "verification_rereviews": 0,
+      "included_papers": 30,
+      "metadata_ready": 30,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census",
+      "coverage_reported_abstracts_reviewed": 864,
+      "review_count_status": "verified distinct review manifest",
+      "review_count_note": "Trusted lower bounds are deduplicated independent review records; older unrecertified flags and rereview operations are not counted as new unique papers.",
+      "new_independently_reported_abstracts_reviewed": 0,
+      "new_unique_abstracts_read": 864,
+      "prior_review_flags_unverified": 0
+    },
+    {
+      "venue": "ACL",
+      "year": 2024,
+      "track": "Findings",
+      "unique_abstracts_reviewed": 879,
+      "screening_complete": false,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 2,
+      "source_url": "https://aclanthology.org/2024.findings-acl/",
+      "trusted_abstract_review_lower_bound": 879,
+      "historical_abstract_review_flags": 0,
+      "verification_rereviews": 0,
+      "included_papers": 43,
+      "metadata_ready": 43,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census",
+      "coverage_reported_abstracts_reviewed": 879,
+      "review_count_status": "verified distinct review manifest",
+      "review_count_note": "Trusted lower bounds are deduplicated independent review records; older unrecertified flags and rereview operations are not counted as new unique papers.",
+      "new_independently_reported_abstracts_reviewed": 0,
+      "new_unique_abstracts_read": 879,
+      "prior_review_flags_unverified": 0
+    },
+    {
+      "venue": "ACL",
+      "year": 2025,
+      "track": "Main",
+      "unique_abstracts_reviewed": 1500,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": 527,
+      "source_url": "https://aclanthology.org/2025.acl-long/",
+      "trusted_abstract_review_lower_bound": 1500,
+      "historical_abstract_review_flags": 0,
+      "verification_rereviews": 0,
+      "included_papers": 70,
+      "metadata_ready": 70,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census",
+      "coverage_reported_abstracts_reviewed": 1500,
+      "review_count_status": "verified distinct review manifest",
+      "review_count_note": "Trusted lower bounds are deduplicated independent review records; older unrecertified flags and rereview operations are not counted as new unique papers.",
+      "new_independently_reported_abstracts_reviewed": 0,
+      "new_unique_abstracts_read": 1500,
+      "prior_review_flags_unverified": 0
+    },
+    {
+      "venue": "ACL",
+      "year": 2025,
+      "track": "Findings",
+      "unique_abstracts_reviewed": 1387,
+      "screening_complete": false,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 69,
+      "source_url": "https://aclanthology.org/2025.findings-acl/",
+      "trusted_abstract_review_lower_bound": 1387,
+      "historical_abstract_review_flags": 0,
+      "verification_rereviews": 0,
+      "included_papers": 13,
+      "metadata_ready": 13,
+      "pending_candidates": 69,
+      "review_count_basis": "1387 sequential complete abstracts and 821 focused PDF checks; 1373 unresolved Long/Short types; zero additional formal-long denominator credit.",
+      "coverage_reported_abstracts_reviewed": 0,
+      "review_count_status": "verified distinct review manifest",
+      "review_count_note": "Trusted lower bounds are deduplicated independent review records; older unrecertified flags and rereview operations are not counted as new unique papers.",
+      "new_independently_reported_abstracts_reviewed": 0,
+      "new_unique_abstracts_read": 0,
+      "prior_review_flags_unverified": 0,
+      "abstract_completion_evidence": "research_audit/acl2025_findings_volume_completion_20261018_1421/acceptance.json",
+      "abstract_completion_at": "2026-10-18T14:21:00Z"
+    },
+    {
+      "venue": "ACL",
+      "year": 2026,
+      "track": "Main",
+      "unique_abstracts_reviewed": 105,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": 0,
+      "source_url": "https://aclanthology.org/2026.acl-long/",
+      "trusted_abstract_review_lower_bound": 105,
+      "historical_abstract_review_flags": 0,
+      "verification_rereviews": 3,
+      "included_papers": 9,
+      "metadata_ready": 9,
+      "pending_candidates": 0,
+      "review_count_basis": "Partial ACL2026 Main Long screening: 105 distinct complete abstracts, 54 focused body checks, 96 OUT and 9 scientific IN among reviewed IDs; 9 complete public profiles out of 2222 formal papers. First 100 IDs have final decisions, but this is not whole-track completion or complete medical prevalence. Body checks preserve principal-method/experiment versus focused scope-review depth; no full-paper/all-appendix claim. Downloads, rereviews, adjudications and profile completion add no unique reading credit.",
+      "coverage_reported_abstracts_reviewed": 105,
+      "review_count_status": "verified distinct review manifest",
+      "review_count_note": "Trusted lower bounds are deduplicated independent review records; older unrecertified flags and rereview operations are not counted as new unique papers.",
+      "new_independently_reported_abstracts_reviewed": 105,
+      "new_unique_abstracts_read": 105,
+      "prior_review_flags_unverified": 0,
+      "reviewed_ids": [
+        "2026.acl-long.1",
+        "2026.acl-long.2",
+        "2026.acl-long.3",
+        "2026.acl-long.4",
+        "2026.acl-long.5",
+        "2026.acl-long.6",
+        "2026.acl-long.7",
+        "2026.acl-long.8",
+        "2026.acl-long.9",
+        "2026.acl-long.10",
+        "2026.acl-long.11",
+        "2026.acl-long.12",
+        "2026.acl-long.13",
+        "2026.acl-long.14",
+        "2026.acl-long.15",
+        "2026.acl-long.16",
+        "2026.acl-long.17",
+        "2026.acl-long.18",
+        "2026.acl-long.19",
+        "2026.acl-long.20",
+        "2026.acl-long.21",
+        "2026.acl-long.22",
+        "2026.acl-long.23",
+        "2026.acl-long.24",
+        "2026.acl-long.25",
+        "2026.acl-long.26",
+        "2026.acl-long.27",
+        "2026.acl-long.28",
+        "2026.acl-long.29",
+        "2026.acl-long.30",
+        "2026.acl-long.31",
+        "2026.acl-long.32",
+        "2026.acl-long.33",
+        "2026.acl-long.34",
+        "2026.acl-long.35",
+        "2026.acl-long.36",
+        "2026.acl-long.37",
+        "2026.acl-long.38",
+        "2026.acl-long.39",
+        "2026.acl-long.40",
+        "2026.acl-long.41",
+        "2026.acl-long.42",
+        "2026.acl-long.43",
+        "2026.acl-long.44",
+        "2026.acl-long.45",
+        "2026.acl-long.46",
+        "2026.acl-long.47",
+        "2026.acl-long.48",
+        "2026.acl-long.49",
+        "2026.acl-long.50",
+        "2026.acl-long.51",
+        "2026.acl-long.52",
+        "2026.acl-long.53",
+        "2026.acl-long.54",
+        "2026.acl-long.55",
+        "2026.acl-long.56",
+        "2026.acl-long.57",
+        "2026.acl-long.58",
+        "2026.acl-long.59",
+        "2026.acl-long.60",
+        "2026.acl-long.61",
+        "2026.acl-long.62",
+        "2026.acl-long.63",
+        "2026.acl-long.64",
+        "2026.acl-long.65",
+        "2026.acl-long.66",
+        "2026.acl-long.67",
+        "2026.acl-long.68",
+        "2026.acl-long.69",
+        "2026.acl-long.70",
+        "2026.acl-long.71",
+        "2026.acl-long.72",
+        "2026.acl-long.73",
+        "2026.acl-long.74",
+        "2026.acl-long.75",
+        "2026.acl-long.76",
+        "2026.acl-long.77",
+        "2026.acl-long.78",
+        "2026.acl-long.79",
+        "2026.acl-long.80",
+        "2026.acl-long.81",
+        "2026.acl-long.82",
+        "2026.acl-long.83",
+        "2026.acl-long.84",
+        "2026.acl-long.85",
+        "2026.acl-long.86",
+        "2026.acl-long.87",
+        "2026.acl-long.88",
+        "2026.acl-long.89",
+        "2026.acl-long.90",
+        "2026.acl-long.91",
+        "2026.acl-long.92",
+        "2026.acl-long.93",
+        "2026.acl-long.94",
+        "2026.acl-long.95",
+        "2026.acl-long.96",
+        "2026.acl-long.97",
+        "2026.acl-long.98",
+        "2026.acl-long.99",
+        "2026.acl-long.100",
+        "2026.acl-long.743",
+        "2026.acl-long.1073",
+        "2026.acl-long.1140",
+        "2026.acl-long.1200",
+        "2026.acl-long.1517"
+      ],
+      "current_evidence_updated_at": "2026-10-22T17:54:47Z",
+      "excluded_count": 96,
+      "screening_include_decisions": 9,
+      "final_decisions_complete": 105
+    },
+    {
+      "venue": "ACL",
+      "year": 2026,
+      "track": "Findings",
+      "unique_abstracts_reviewed": 0,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": 0,
+      "source_url": "https://aclanthology.org/2026.findings-acl/",
+      "trusted_abstract_review_lower_bound": 0,
+      "historical_abstract_review_flags": 0,
+      "verification_rereviews": 0,
+      "included_papers": 0,
+      "metadata_ready": 0,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census",
+      "coverage_reported_abstracts_reviewed": 0,
+      "review_count_status": "verified distinct review manifest",
+      "review_count_note": "Trusted lower bounds are deduplicated independent review records; older unrecertified flags and rereview operations are not counted as new unique papers.",
+      "new_independently_reported_abstracts_reviewed": 0,
+      "new_unique_abstracts_read": 0,
+      "prior_review_flags_unverified": 0
+    },
+    {
+      "venue": "AAAI",
+      "year": 2020,
+      "track": "All eligible full tracks",
+      "unique_abstracts_reviewed": 1610,
+      "screening_complete": false,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 1,
+      "source_url": "https://ojs.aaai.org/index.php/AAAI/issue/archive",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 0,
+      "metadata_ready": 0,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "AAAI",
+      "year": 2023,
+      "track": "Main",
+      "unique_abstracts_reviewed": 1577,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": 1,
+      "source_url": "https://ojs.aaai.org/index.php/AAAI/issue/archive",
+      "trusted_abstract_review_lower_bound": 1577,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 74,
+      "metadata_ready": 15,
+      "pending_candidates": 1,
+      "review_count_basis": "Distinct current audit IDs; historical overlap unknown; no completion inferred.",
+      "coverage_reported_abstracts_reviewed": 1577,
+      "available_abstract_review_complete": true,
+      "review_count_status": "current per-paper evidence lower bound"
+    },
+    {
+      "venue": "AAAI",
+      "year": 2024,
+      "track": "Main",
+      "unique_abstracts_reviewed": 690,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": 0,
+      "source_url": "https://ojs.aaai.org/index.php/AAAI/issue/archive",
+      "trusted_abstract_review_lower_bound": 690,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 48,
+      "metadata_ready": 5,
+      "pending_candidates": 0,
+      "review_count_basis": "Distinct current audit IDs; historical overlap unknown; no completion inferred.",
+      "coverage_reported_abstracts_reviewed": 690,
+      "review_count_status": "current per-paper evidence lower bound",
+      "current_evidence_updated_at": "2026-10-22T17:54:47Z",
+      "scope_resolution_note": "DeepBranchTracer: one previously read pending scientific decision resolved OUT after focused rereview; no new unique reading, admission, denominator or scope-policy change."
+    },
+    {
+      "venue": "AAAI",
+      "year": 2025,
+      "track": "Main",
+      "unique_abstracts_reviewed": 0,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": null,
+      "source_url": "https://ojs.aaai.org/index.php/AAAI/issue/archive",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 0,
+      "metadata_ready": 0,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "AAAI",
+      "year": 2026,
+      "track": "Main",
+      "unique_abstracts_reviewed": 0,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": null,
+      "source_url": "https://ojs.aaai.org/index.php/AAAI/issue/archive",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 0,
+      "metadata_ready": 0,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "AAAI",
+      "year": 2021,
+      "track": "Main",
+      "unique_abstracts_reviewed": 1654,
+      "screening_complete": false,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 1,
+      "source_url": "https://ojs.aaai.org/index.php/AAAI/issue/view/385",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 90,
+      "metadata_ready": 22,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "AAAI",
+      "year": 2021,
+      "track": "AI for Social Impact",
+      "unique_abstracts_reviewed": 40,
+      "screening_complete": true,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 0,
+      "source_url": "https://ojs.aaai.org/index.php/AAAI/issue/view/401",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 3,
+      "metadata_ready": 0,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "AAAI",
+      "year": 2022,
+      "track": "Main",
+      "unique_abstracts_reviewed": 1319,
+      "screening_complete": false,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 3,
+      "source_url": "https://ojs.aaai.org/index.php/AAAI/issue/view/507",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 58,
+      "metadata_ready": 17,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "AAAI",
+      "year": 2022,
+      "track": "AI for Social Impact",
+      "unique_abstracts_reviewed": 50,
+      "screening_complete": true,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 0,
+      "source_url": "https://ojs.aaai.org/index.php/AAAI/issue/view/521",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 13,
+      "metadata_ready": 6,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "AAAI",
+      "year": 2023,
+      "track": "Main",
+      "unique_abstracts_reviewed": 1577,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": 1,
+      "source_url": "https://ojs.aaai.org/index.php/AAAI/issue/view/548",
+      "trusted_abstract_review_lower_bound": 1577,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 74,
+      "metadata_ready": 15,
+      "pending_candidates": 1,
+      "review_count_basis": "Distinct current audit IDs; historical overlap unknown; no completion inferred.",
+      "coverage_reported_abstracts_reviewed": 1577,
+      "available_abstract_review_complete": true,
+      "review_count_status": "current per-paper evidence lower bound"
+    },
+    {
+      "venue": "AAAI",
+      "year": 2023,
+      "track": "AI for Social Impact",
+      "unique_abstracts_reviewed": 66,
+      "screening_complete": true,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 0,
+      "source_url": "https://ojs.aaai.org/index.php/AAAI/issue/view/559",
+      "trusted_abstract_review_lower_bound": 66,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 17,
+      "metadata_ready": 4,
+      "pending_candidates": 0,
+      "review_count_basis": "Distinct current audit IDs; historical overlap unknown; no completion inferred.",
+      "eligibility_screening_complete": true,
+      "coverage_reported_abstracts_reviewed": 66,
+      "review_count_status": "current per-paper evidence lower bound"
+    },
+    {
+      "venue": "AAAI",
+      "year": 2023,
+      "track": "Safe and Robust AI",
+      "unique_abstracts_reviewed": 76,
+      "screening_complete": true,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 0,
+      "source_url": "https://ojs.aaai.org/index.php/AAAI/issue/view/559",
+      "trusted_abstract_review_lower_bound": 76,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 3,
+      "metadata_ready": 0,
+      "pending_candidates": 0,
+      "review_count_basis": "Distinct current audit IDs; historical overlap unknown; no completion inferred.",
+      "coverage_reported_abstracts_reviewed": 76,
+      "review_count_status": "current per-paper evidence lower bound",
+      "eligibility_screening_complete": true
+    },
+    {
+      "venue": "NeurIPS",
+      "year": 2020,
+      "track": "Main",
+      "unique_abstracts_reviewed": 759,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": null,
+      "source_url": "https://papers.nips.cc/paper_files/paper/2020",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 49,
+      "metadata_ready": 7,
+      "pending_candidates": 3,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "NeurIPS",
+      "year": 2021,
+      "track": "Main",
+      "unique_abstracts_reviewed": 0,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": null,
+      "source_url": "https://papers.nips.cc/paper_files/paper/2021",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 0,
+      "metadata_ready": 0,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "NeurIPS",
+      "year": 2022,
+      "track": "Main",
+      "unique_abstracts_reviewed": 0,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": null,
+      "source_url": "https://papers.nips.cc/paper_files/paper/2022",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 0,
+      "metadata_ready": 0,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "NeurIPS",
+      "year": 2023,
+      "track": "Main",
+      "unique_abstracts_reviewed": 0,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": null,
+      "source_url": "https://papers.nips.cc/paper_files/paper/2023",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 0,
+      "metadata_ready": 0,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "NeurIPS",
+      "year": 2024,
+      "track": "Main",
+      "unique_abstracts_reviewed": 6,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": null,
+      "source_url": "https://papers.nips.cc/paper_files/paper/2024",
+      "trusted_abstract_review_lower_bound": 6,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 0,
+      "metadata_ready": 0,
+      "pending_candidates": 6,
+      "review_count_basis": "Six historical title-only candidates first evidenced as complete-abstract and focused-principal-body readings before2026-10-22T06:28Z; current scopeIN, materialsHOLD. Not new discoveries or public inclusions; not full-track completion. Formal denominator not revalidated by this batch.",
+      "reading_evidence": "research_audit/neurips2024_restored6_hold_20261022/reading_revision_0638.json"
+    },
+    {
+      "venue": "NeurIPS",
+      "year": 2025,
+      "track": "Main",
+      "unique_abstracts_reviewed": 193,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": null,
+      "source_url": "https://proceedings.neurips.cc/paper_files/paper/2025/vol38-main-conference",
+      "trusted_abstract_review_lower_bound": 193,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 21,
+      "metadata_ready": 19,
+      "pending_candidates": 0,
+      "review_count_basis": "Historical193 abstracts/3 targeted checks lack per-ID ledger; current114/59 retained independently. Conservative union lower bounds193/59; current overlap unknown.",
+      "historical_abstracts_without_id_ledger": 193,
+      "historical_focused_pdf_without_id_ledger": 3,
+      "current_traceable_unique_abstracts": 60,
+      "current_traceable_focused_pdf_checks": 59,
+      "current_traceable_abstracts_reviewed": 114
+    },
+    {
+      "venue": "IJCAI",
+      "year": 2020,
+      "track": "Main",
+      "unique_abstracts_reviewed": 592,
+      "screening_complete": true,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 0,
+      "source_url": "https://www.ijcai.org/proceedings/2020/",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 23,
+      "metadata_ready": 23,
+      "pending_candidates": 0,
+      "review_count_basis": "Complete current Main audit of592 official IDs, retained durably; historical overlap unknown, not an additive historical count.",
+      "coverage_reported_abstracts_reviewed": 27,
+      "review_count_status": "pending reconciliation",
+      "review_count_note": "Coverage export and review-ledger totals require reconciliation; no verified unique total is asserted."
+    },
+    {
+      "venue": "IJCAI",
+      "year": 2021,
+      "track": "Main",
+      "unique_abstracts_reviewed": 586,
+      "screening_complete": true,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 0,
+      "source_url": "https://www.ijcai.org/proceedings/2021/",
+      "trusted_abstract_review_lower_bound": 586,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 32,
+      "metadata_ready": 31,
+      "pending_candidates": 1,
+      "review_count_basis": "586 distinct official Main paper IDs with complete-abstract evidence;203 focused PDF checks.",
+      "coverage_reported_abstracts_reviewed": 586,
+      "review_count_status": "current full abstract census verified",
+      "review_count_note": "Existing source-ledger reconciliation and old HOLD resolution, no newly read abstract/body credit. 2021 final eligibility32include554exclude.",
+      "final_decisions_complete": 586,
+      "hold_ids": []
+    },
+    {
+      "venue": "IJCAI",
+      "year": 2022,
+      "track": "Main",
+      "unique_abstracts_reviewed": 678,
+      "screening_complete": true,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 0,
+      "source_url": "https://www.ijcai.org/proceedings/2022/",
+      "trusted_abstract_review_lower_bound": 678,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 33,
+      "metadata_ready": 32,
+      "pending_candidates": 0,
+      "review_count_basis": "Distinct current audit IDs; historical overlap unknown; no completion inferred.",
+      "coverage_reported_abstracts_reviewed": 678,
+      "review_count_status": "current per-paper evidence lower bound",
+      "review_count_note": "Main track only: existing678-ID abstract census and final eligibility decisions678/678 reconciled,33 include/645 exclude/0 pending; no new reading credit. Other IJCAI2022 tracks are not covered by this completion claim:83 verified formal non-Main papers remain unscreened,8 Early Career paper types unresolved; exact whole-edition formal denominator is unknown.",
+      "final_decisions_complete": 678,
+      "hold_ids": [],
+      "eligibility_screening_complete": true,
+      "eligibility_review_complete": true,
+      "completion_scope": "Main only",
+      "edition_abstract_review_complete": false,
+      "edition_eligibility_screening_complete": false,
+      "edition_formal_denominator": null
+    },
+    {
+      "venue": "IJCAI",
+      "year": 2023,
+      "track": "Main",
+      "unique_abstracts_reviewed": 643,
+      "screening_complete": false,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 11,
+      "source_url": "https://www.ijcai.org/proceedings/2023/",
+      "trusted_abstract_review_lower_bound": 643,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": {
+        "late_abstracts": 4,
+        "late_focused_body": 4,
+        "new_global_credit": 0
+      },
+      "included_papers": 33,
+      "metadata_ready": 33,
+      "pending_candidates": 11,
+      "review_count_basis": "Exact 643-ID union of historical per-paper ledger and new reading ledgers.",
+      "coverage_reported_abstracts_reviewed": 643,
+      "review_count_status": "current per-paper evidence lower bound",
+      "review_count_note": "643/643 full abstracts; 632/643 final decisions: 33 include, 599 exclude, 11 HOLD. Historical 28 abstract/10 focused-body omissions reconciled only at edition level; global overlap unproven. New unique credit is 159 abstracts/42 focused bodies; late 4 abstract and body rereviews earn no new global credit.",
+      "final_decisions_complete": 632,
+      "screening_include_decisions": 33,
+      "excluded_count": 599,
+      "hold_ids": [
+        "ijcai2023-396",
+        "ijcai2023-472",
+        "ijcai2023-474",
+        "ijcai2023-475",
+        "ijcai2023-478",
+        "ijcai2023-479",
+        "ijcai2023-480",
+        "ijcai2023-501",
+        "ijcai2023-629",
+        "ijcai2023-632",
+        "ijcai2023-635"
+      ],
+      "historical_reconciliation": {
+        "abstract_omissions": 28,
+        "focused_body_omissions": 10,
+        "global_new_credit": 0
+      },
+      "pending_profile_candidates": []
+    },
+    {
+      "venue": "IJCAI",
+      "year": 2024,
+      "track": "Main",
+      "unique_abstracts_reviewed": 790,
+      "screening_complete": false,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 4,
+      "source_url": "https://www.ijcai.org/proceedings/2024/",
+      "trusted_abstract_review_lower_bound": 790,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 58,
+      "metadata_ready": 57,
+      "pending_candidates": 0,
+      "review_count_basis": "790 distinct full abstracts:11 prior plus779 new.107 focused body checks:11 prior plus96 new. Independent adjudication applied; four scope holds remain.",
+      "coverage_reported_abstracts_reviewed": 0,
+      "review_count_status": "Verified partial research batches; full abstract and PDF evidence credited separately for holds",
+      "review_count_note": "Partial main-track review only. Source coverage conflicts elsewhere remain unresolved; no completed main-track census claimed.",
+      "denominator": 790,
+      "final_decisions_complete": 786,
+      "screened_include_count": 58,
+      "screened_exclude_count": 728,
+      "hold_ids": [
+        240,
+        241,
+        246,
+        550
+      ]
+    },
+    {
+      "venue": "IJCAI",
+      "year": 2025,
+      "track": "Main",
+      "unique_abstracts_reviewed": 1014,
+      "screening_complete": false,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 3,
+      "source_url": "https://www.ijcai.org/proceedings/2025/",
+      "trusted_abstract_review_lower_bound": 1014,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 85,
+      "metadata_ready": 85,
+      "pending_candidates": 0,
+      "review_count_basis": "999 verified complete abstracts plus15 prior distinct IDs;112 new focused body checks plus15 prior.1005 final decisions,9HOLD. Profiles do not add repeat reading credit.",
+      "coverage_reported_abstracts_reviewed": 0,
+      "review_count_status": "Verified partial research batches; full abstract and PDF evidence credited separately for holds",
+      "review_count_note": "Six previously read scope holds resolved to exclude by accepted independent body review; zero new unique reading credit.13/124/584remain HOLD.",
+      "denominator": 1014,
+      "final_decisions_complete": 1011,
+      "screened_include_count": 85,
+      "screened_exclude_count": 926,
+      "hold_ids": [
+        "ijcai2025-13",
+        "ijcai2025-124",
+        "ijcai2025-584"
+      ]
+    },
+    {
+      "venue": "ICML",
+      "year": 2020,
+      "track": "Main",
+      "unique_abstracts_reviewed": 1084,
+      "screening_complete": true,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 0,
+      "source_url": "https://proceedings.mlr.press/v119/",
+      "trusted_abstract_review_lower_bound": 1084,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": 1,
+      "included_papers": 51,
+      "metadata_ready": 1,
+      "pending_candidates": 0,
+      "review_count_basis": "Exact 1084 official URLs reconciled to historical per-ID full-abstract ledgers; final old HOLD resolved with no new unique reading.",
+      "coverage_reported_abstracts_reviewed": 1084,
+      "review_count_status": "current per-paper evidence lower bound",
+      "available_abstract_review_complete": true,
+      "excluded_papers": 1033,
+      "final_screened": 1084
+    },
+    {
+      "venue": "WWW",
+      "year": 2020,
+      "track": "Main",
+      "unique_abstracts_reviewed": 0,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": null,
+      "source_url": "https://www.sigweb.org/the-web-conf/",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 0,
+      "metadata_ready": 0,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "WWW",
+      "year": 2021,
+      "track": "Main",
+      "unique_abstracts_reviewed": 0,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": null,
+      "source_url": "https://www.sigweb.org/the-web-conf/",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 0,
+      "metadata_ready": 0,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "WWW",
+      "year": 2022,
+      "track": "Main",
+      "unique_abstracts_reviewed": 110,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": null,
+      "source_url": "https://archives.iw3c2.org/www2022/main-proceedings/",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 2,
+      "metadata_ready": 0,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "WWW",
+      "year": 2023,
+      "track": "Main",
+      "unique_abstracts_reviewed": 0,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": null,
+      "source_url": "https://www.sigweb.org/the-web-conf/",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 0,
+      "metadata_ready": 0,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "WWW",
+      "year": 2024,
+      "track": "Main",
+      "unique_abstracts_reviewed": 0,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": null,
+      "source_url": "https://www.sigweb.org/the-web-conf/",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 0,
+      "metadata_ready": 0,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "WWW",
+      "year": 2025,
+      "track": "Main",
+      "unique_abstracts_reviewed": 0,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": null,
+      "source_url": "https://www.sigweb.org/the-web-conf/",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 0,
+      "metadata_ready": 0,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "WWW",
+      "year": 2026,
+      "track": "Main",
+      "unique_abstracts_reviewed": 0,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "pending_eligibility_decisions": null,
+      "source_url": "https://www.sigweb.org/the-web-conf/",
+      "trusted_abstract_review_lower_bound": null,
+      "historical_abstract_review_flags": null,
+      "verification_rereviews": null,
+      "included_papers": 0,
+      "metadata_ready": 0,
+      "pending_candidates": 0,
+      "review_count_basis": "Published source coverage export; partial review, not a complete census"
+    },
+    {
+      "venue": "KDD",
+      "year": 2020,
+      "track": "Research",
+      "unique_abstracts_reviewed": 217,
+      "screening_complete": false,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 21,
+      "included_papers": 17,
+      "metadata_ready": 2,
+      "pending_candidates": 21,
+      "source_url": "https://www.kdd.org/kdd2020/accepted-papers.html",
+      "review_count_basis": "Distinct current audit IDs; historical overlap unknown; no completion inferred.",
+      "coverage_reported_abstracts_reviewed": 217,
+      "trusted_abstract_review_lower_bound": 217,
+      "review_count_status": "current per-paper evidence lower bound",
+      "available_abstract_review_complete": false
+    },
+    {
+      "venue": "KDD",
+      "year": 2020,
+      "track": "Applied Data Science",
+      "unique_abstracts_reviewed": 121,
+      "screening_complete": true,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 0,
+      "included_papers": 5,
+      "metadata_ready": 0,
+      "pending_candidates": 0,
+      "source_url": "https://www.kdd.org/kdd2020/accepted-papers.html",
+      "review_count_basis": "Distinct current audit IDs; historical overlap unknown; no completion inferred.",
+      "coverage_reported_abstracts_reviewed": 121,
+      "trusted_abstract_review_lower_bound": 121,
+      "review_count_status": "current per-paper evidence lower bound",
+      "available_abstract_review_complete": true,
+      "eligibility_screening_complete": true
+    },
+    {
+      "venue": "KDD",
+      "year": 2021,
+      "track": "Research",
+      "included_papers": 14,
+      "metadata_ready": 5,
+      "pending_candidates": 31,
+      "unique_abstracts_reviewed": 239,
+      "abstract_review_complete": true,
+      "eligibility_screening_complete": false,
+      "pending_eligibility_decisions": 31,
+      "coverage_reported_abstracts_reviewed": 239,
+      "trusted_abstract_review_lower_bound": 239,
+      "review_count_status": "current per-paper evidence lower bound",
+      "review_count_basis": "Distinct current audit IDs; historical overlap unknown; no completion inferred."
+    },
+    {
+      "venue": "KDD",
+      "year": 2021,
+      "track": "Applied Data Science",
+      "included_papers": 22,
+      "metadata_ready": 3,
+      "pending_candidates": 3,
+      "unique_abstracts_reviewed": 155,
+      "abstract_review_complete": true,
+      "eligibility_screening_complete": false,
+      "pending_eligibility_decisions": 3,
+      "coverage_reported_abstracts_reviewed": 155,
+      "trusted_abstract_review_lower_bound": 155,
+      "review_count_status": "current per-paper evidence lower bound",
+      "review_count_basis": "Distinct current audit IDs; historical overlap unknown; no completion inferred."
+    },
+    {
+      "venue": "ICML",
+      "year": 2025,
+      "track": "Main",
+      "unique_abstracts_reviewed": 1668,
+      "trusted_abstract_review_lower_bound": 1668,
+      "review_count_basis": "This batch completed six original abstracts and six focused principal-body reads, including RankNovo, then scientific-IN component-provenance HOLD and now resolved without new unique-reading credit. Unique-reading lower bound increases only one (song25e); five historical title-only candidates have unresolved prior completion/publication provenance, not proven rereads. No first discovery or scope restoration; full-track screening remains incomplete.",
+      "screening_complete": false,
+      "new_included_papers": 101,
+      "source": "research_audit/icml2025_current_audit_20261018_01/decision_ledger.json",
+      "additional_nonsequential_review_note": "This batch completed six original abstracts and six focused principal-body reads, including RankNovo, then scientific-IN component-provenance HOLD and now resolved without new unique-reading credit. Unique-reading lower bound increases only one (song25e); five historical title-only candidates have unresolved prior completion/publication provenance, not proven rereads. No first discovery or scope restoration; full-track screening remains incomplete.",
+      "included_papers": 137,
+      "metadata_ready": 136,
+      "additional_nonsequential_reviewed_ids": [
+        "icml2025-ovcharenko25a",
+        "icml2025-yin25g",
+        "icml2025-e50389f47afe",
+        "icml2025-7149d8c7ea01",
+        "icml2025-7ff81ae90ea1",
+        "icml2025-f97e827a4286",
+        "icml2025-4f6f1fd54722",
+        "icml2025-7ba8bf7fbb11",
+        "icml2025-4b3e9a08f325"
+      ],
+      "material_promotion_note": "RankNovo is now a complete public profile following an attributed article-wide CC BY 4.0 rights recheck and mandatory PMLR author rights warranties. This is an existing scientific-IN material-HOLD promotion, not a new discovery or scope restoration. Unique abstract/body reading credit +0; prior reading counters and full-track incompleteness remain unchanged.",
+      "current_evidence_updated_at": "2026-10-22T15:16:18.650482+00:00"
+    },
+    {
+      "venue": "IJCAI",
+      "year": 2025,
+      "track": "AI4Tech: AI Enabling Technologies",
+      "unique_abstracts_reviewed": 42,
+      "trusted_abstract_review_lower_bound": 42,
+      "included_papers": 10,
+      "metadata_ready": 10,
+      "denominator": 42,
+      "screening_complete": false,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 1,
+      "source_url": "https://www.ijcai.org/proceedings/2025/",
+      "review_count_basis": "42 complete abstracts; focused-body ID union from explicit14-ID final ledger plus materialized profile reads.41 final decisions;1027 HOLD. Screening includes are not publication counts.",
+      "final_decisions_complete": 41,
+      "screened_include_count": 10,
+      "screened_exclude_count": 31,
+      "hold_ids": [
+        "ijcai2025-1027"
+      ]
+    },
+    {
+      "venue": "IJCAI",
+      "year": 2025,
+      "track": "AI and Social Good",
+      "unique_abstracts_reviewed": 58,
+      "trusted_abstract_review_lower_bound": 58,
+      "included_papers": 12,
+      "metadata_ready": 12,
+      "denominator": 58,
+      "screening_complete": true,
+      "abstract_review_complete": true,
+      "final_decisions_complete": 58,
+      "pending_eligibility_decisions": 0,
+      "screened_include_count": 12,
+      "screened_exclude_count": 46,
+      "source_url": "https://www.ijcai.org/proceedings/2025/",
+      "review_count_basis": "58 complete abstracts and16 focused body checks in per-ID ledger.12 include decisions are candidates pending profile materialization, not collected papers. Both formal full-paper research/proposal subtypes allowed; no results claimed for proposals."
+    },
+    {
+      "venue": "IJCAI",
+      "year": 2023,
+      "track": "AI for Good",
+      "unique_abstracts_reviewed": 51,
+      "trusted_abstract_review_lower_bound": 51,
+      "screening_complete": false,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 2,
+      "included_papers": 11,
+      "metadata_ready": 11,
+      "pending_candidates": 2,
+      "final_decisions_complete": 49,
+      "screening_include_decisions": 11,
+      "excluded_count": 38,
+      "source_url": "https://www.ijcai.org/proceedings/2023/",
+      "review_count_basis": "Exact per-ID complete-abstract and focused-body ledger; no extra profile-preparation reading credits."
+    },
+    {
+      "venue": "IJCAI",
+      "year": 2023,
+      "track": "AI for Good - Projects",
+      "unique_abstracts_reviewed": 8,
+      "trusted_abstract_review_lower_bound": 8,
+      "screening_complete": false,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 1,
+      "included_papers": 3,
+      "metadata_ready": 1,
+      "pending_candidates": 1,
+      "final_decisions_complete": 7,
+      "screening_include_decisions": 3,
+      "excluded_count": 4,
+      "source_url": "https://www.ijcai.org/proceedings/2023/",
+      "review_count_basis": "Exact per-ID complete-abstract and focused-body ledger; no extra profile-preparation reading credits."
+    },
+    {
+      "venue": "AAAI",
+      "year": 2024,
+      "track": "AI for Social Impact",
+      "unique_abstracts_reviewed": 77,
+      "trusted_abstract_review_lower_bound": 77,
+      "screening_complete": true,
+      "abstract_review_complete": true,
+      "pending_eligibility_decisions": 0,
+      "pending_candidates": 0,
+      "included_papers": 17,
+      "metadata_ready": 5,
+      "final_decisions_complete": 77,
+      "screening_include_decisions": 17,
+      "excluded_count": 60,
+      "hold_ids": [],
+      "source_url": "https://ojs.aaai.org/index.php/AAAI/issue/view/595",
+      "review_count_basis": "Exact77-ID ledger;77 new complete abstracts,11 focused sections;profile work earns no additional reading credit.",
+      "eligibility_screening_complete": true
+    },
+    {
+      "venue": "ICML",
+      "year": 2024,
+      "track": "Main",
+      "unique_abstracts_reviewed": 28,
+      "trusted_abstract_review_lower_bound": 28,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "review_count_basis": "Conservative lower bound of twenty-eight unique nonsequential complete abstracts/focused body records; actual overlapping windows are not summed. Whole-track screening remains incomplete; whole-paper/whole-appendix credit zero.",
+      "included_papers": 54,
+      "metadata_ready": 54,
+      "additional_nonsequential_reviewed_ids": [
+        "icml2024-7f2212971f19",
+        "icml2024-0203d8ec8510",
+        "icml2024-c738aa4df835",
+        "icml2024-05fa46fe0265",
+        "icml2024-983d5516d582",
+        "icml2024-d87e8ccba898",
+        "icml2024-370c7ec729f2",
+        "icml2024-43be7fb7b75f",
+        "icml2024-95947ce992a5",
+        "icml2024-d85e13c4a30c",
+        "icml2024-e07d46506e4d",
+        "icml2024-bbcef9e4d3df",
+        "icml2024-373fdbc634cb",
+        "icml2024-26a2b6ef02c4",
+        "icml2024-58148ba8a118",
+        "icml2024-2c57c63464ce",
+        "icml2024-312ac29298c5",
+        "icml2024-52089b59ea41",
+        "icml2024-5c812298d50c",
+        "icml2024-79792d36aaeb",
+        "icml2024-e1198d6e82c1",
+        "icml2024-6e8b564c13ff",
+        "icml2024-f1626d6962c6",
+        "icml2024-17b2281ffbee",
+        "icml2024-891d4c12a447",
+        "icml2024-849991508d9e",
+        "icml2024-e2fc2ae5d52d",
+        "icml2024-9d2194c0fcb2"
+      ],
+      "additional_nonsequential_review_note": "Latest two historical title-only candidates add two first public complete profiles and two unique abstract/focused-body credits, not first discoveries."
+    },
+    {
+      "venue": "ICML",
+      "year": 2023,
+      "track": "Main",
+      "unique_abstracts_reviewed": 10,
+      "trusted_abstract_review_lower_bound": 10,
+      "included_papers": 23,
+      "metadata_ready": 9,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "review_count_basis": "Ten unique complete-abstract/focused-body records remain unchanged. Yang23e is released from material HOLD with exact CC BY 4.0 author-version components; two recovered candidates remain material HOLD. Not a scope restoration or new reading; full track incomplete.",
+      "additional_nonsequential_reviewed_ids": [
+        "icml2023-28129a935cd3",
+        "icml2023-01a379a26241",
+        "icml2023-e9faf3b40301",
+        "icml2023-da5361fe42db",
+        "icml2023-61f52c387de3",
+        "icml2023-08a7c7ebddcd",
+        "icml2023-7edefe24590a",
+        "icml2023-240dfd7afd50",
+        "icml2023-b823a1151de3",
+        "icml2023-99744277c14e"
+      ],
+      "additional_scope_hold_ids": [
+        "icml2023-7edefe24590a"
+      ],
+      "additional_material_hold_ids": [
+        "icml2023-240dfd7afd50",
+        "icml2023-b823a1151de3"
+      ],
+      "author_version_component_correction_ids": [
+        "icml2023-28129a935cd3",
+        "icml2023-e9faf3b40301",
+        "icml2023-da5361fe42db",
+        "icml2023-81994180487e",
+        "icml2023-7d5ff035e7d8",
+        "icml2023-3636fc85e00f",
+        "icml2023-a6ffd7b664c1",
+        "icml2023-6ab48adda2f9"
+      ],
+      "remaining_publisher_permission_hold_ids": [
+        "icml2023-81994180487e",
+        "icml2023-7d5ff035e7d8",
+        "icml2023-b70fe58f3956",
+        "icml2023-6118478ab8c7",
+        "icml2023-663027db6cae",
+        "icml2023-a917114841e8",
+        "icml2023-dc75e8ca21d2",
+        "icml2023-d2b504f98cd2",
+        "icml2023-c8af3ad3c28d",
+        "icml2023-3636fc85e00f",
+        "icml2023-26a525f80873",
+        "icml2023-5ef700885509",
+        "icml2023-a6ffd7b664c1",
+        "icml2023-490cf6a79a59",
+        "icml2023-6ab48adda2f9",
+        "icml2023-c56711b8fe41"
+      ],
+      "author_version_components_restored_from_remaining_hold_ids": [
+        "icml2023-81994180487e",
+        "icml2023-7d5ff035e7d8",
+        "icml2023-3636fc85e00f",
+        "icml2023-a6ffd7b664c1",
+        "icml2023-6ab48adda2f9"
+      ],
+      "author_version_material_release_ids": [
+        "icml2023-99744277c14e"
+      ],
+      "current_evidence_updated_at": "2026-10-22T11:42:32.094580+00:00"
+    },
+    {
+      "venue": "ICML",
+      "year": 2022,
+      "track": "Main",
+      "unique_abstracts_reviewed": 6,
+      "trusted_abstract_review_lower_bound": 6,
+      "included_papers": 16,
+      "metadata_ready": 2,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "review_count_basis": "Conservative lower bound from six new included papers; historical overlap not reconstructed.",
+      "additional_nonsequential_reviewed_ids": [
+        "icml2022-943c87a5b13d",
+        "icml2022-e064e21b5c42",
+        "icml2022-3b4ab092cf88",
+        "icml2022-45b2c86c2919",
+        "icml2022-6e56b9e51f03",
+        "icml2022-c55abbbe3411"
+      ]
+    },
+    {
+      "venue": "ICML",
+      "year": 2021,
+      "track": "Main",
+      "unique_abstracts_reviewed": 3,
+      "trusted_abstract_review_lower_bound": 3,
+      "included_papers": 38,
+      "metadata_ready": 1,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "additional_nonsequential_reviewed_ids": [
+        "icml2021-a8d20e0e9d03",
+        "icml2021-97b7911351a3",
+        "icml2021-xu21f"
+      ],
+      "review_count_basis": "Conservative lower bound from two included and one excluded newly read IDs; historical overlap not reconstructed."
+    },
+    {
+      "venue": "ICML",
+      "year": 2026,
+      "track": "Main",
+      "unique_abstracts_reviewed": 87,
+      "trusted_abstract_review_lower_bound": 87,
+      "included_papers": 84,
+      "metadata_ready": 84,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "additional_nonsequential_reviewed_ids": [
+        "icml2026-022b19d4c2fd",
+        "icml2026-4f28b84b4756",
+        "icml2026-161d250ef7d2",
+        "icml2026-35ab4d2524c0",
+        "icml2026-2f91f09fa9ed",
+        "icml2026-06c0a27809b9",
+        "icml2026-3e8a9949e6f5",
+        "icml2026-feb143d7591b",
+        "icml2026-49d1ecece760",
+        "icml2026-b8c33242b644",
+        "icml2026-0b8268e9da2a",
+        "icml2026-42e1a83dda1a",
+        "icml2026-12775f865e43",
+        "icml2026-9959d6ba3357",
+        "icml2026-ba94f040ea9d",
+        "icml2026-c143cb8ab457",
+        "icml2026-caccda18755b",
+        "icml2026-1f21b22d61dd",
+        "icml2026-9e9f20888c30",
+        "icml2026-5abc6d25f38e",
+        "icml2026-a4db8e3bd8ac",
+        "icml2026-04fac930933d",
+        "icml2026-f998add6c0fe",
+        "icml2026-3beb284b2d8b",
+        "icml2026-9e15477a3b18",
+        "icml2026-22c3fa4da76d",
+        "icml2026-df1efa8fee8a",
+        "icml2026-d4948e37bc18",
+        "icml2026-739a293ef9cc",
+        "icml2026-18612cc58016",
+        "icml2026-5ab69ecc2d52",
+        "icml2026-3ccf61c80f82",
+        "icml2026-43aeb5fc8e36",
+        "icml2026-d602a8a1ce3f",
+        "icml2026-cbb7c8752a02",
+        "icml2026-5d85dab0184b",
+        "icml2026-1e029406cec8",
+        "icml2026-be539bcfc97c",
+        "icml2026-49be7fd315b6",
+        "icml2026-9acbb5a9b4e8",
+        "icml2026-a82961700ed5",
+        "icml2026-a10b1d800860",
+        "icml2026-2d666da1373a",
+        "icml2026-15d63e11a01b",
+        "icml2026-a45a15148513",
+        "icml2026-b5ceed01d003",
+        "icml2026-d88f56b9c293",
+        "icml2026-335801f43f60",
+        "icml2026-d5449c927ec3",
+        "icml2026-1363a92b7a32",
+        "icml2026-20d7f3fff578",
+        "icml2026-eaebe23e04af",
+        "icml2026-baa35817cefd",
+        "icml2026-90a222f4342e",
+        "icml2026-8583488678ba",
+        "icml2026-41e01fcee2bf",
+        "icml2026-f48ed8bb3c5e",
+        "icml2026-479dea12617d",
+        "icml2026-14c430ee4e73",
+        "icml2026-e32e8ae67170",
+        "icml2026-9754f1a30393",
+        "icml2026-9e680848e012",
+        "icml2026-59a90184f495",
+        "icml2026-84b132d4041e",
+        "icml2026-297f4fc74f2d",
+        "icml2026-4853f9b416b3",
+        "icml2026-5e3cbaa24a73",
+        "icml2026-1f39a924eda9",
+        "icml2026-13597847f7b5",
+        "icml2026-8dca79ef1691",
+        "icml2026-7739e7022db5",
+        "icml2026-558d8c4060bf",
+        "icml2026-5af3fa109029",
+        "icml2026-6e087b3c9938",
+        "icml2026-b0210d589be0",
+        "icml2026-489a77c09a3d",
+        "icml2026-730bafff98ed",
+        "icml2026-15b80e9e604c",
+        "icml2026-636dd69c47b5",
+        "icml2026-4a490bd844d0",
+        "icml2026-2af0581aee3d",
+        "icml2026-e1b8b9319634",
+        "icml2026-60a527ab8286",
+        "icml2026-a9fcf81bbc69",
+        "icml2026-7324f19736df",
+        "icml2026-592f363c82ba",
+        "icml2026-e8617adaad1a"
+      ],
+      "review_count_basis": "87 registered unique complete abstracts and focused principal-body reads; 84 public complete profiles, one existing scientific-IN material HOLD, and prior scientific OUT gatzner26a. Six additional unique readings occurred after 16:28 UTC on 22 October, using original per-ID physical-page and UTC logs. Historical cumulative registration is not all-history revalidation; no whole-paper, all-appendices or complete-track claim.",
+      "additional_material_hold_ids": [
+        "icml2026-9754f1a30393"
+      ],
+      "current_evidence_updated_at": "2026-10-22T16:56:44.735770+00:00",
+      "material_promotion_note": "RNA-FM is now a complete public profile following an attributed article-wide CC BY 4.0 rights recheck and mandatory PMLR author rights warranties. This is an existing scientific-IN material-HOLD promotion, not a new discovery or scope restoration. Unique abstract/body reading credit +0; prior reading counters and full-track incompleteness remain unchanged."
+    },
+    {
+      "venue": "SIGIR",
+      "year": 2026,
+      "track": "Main",
+      "unique_abstracts_reviewed": 3,
+      "trusted_abstract_review_lower_bound": 3,
+      "non_vor_manuscript_key_section_reviews": 2,
+      "non_vor_reviews_in_global_focused_body_counter": false,
+      "included_papers": 0,
+      "metadata_ready": 0,
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "source_url": "https://sigir2026.org/en-AU/pages/program/accepted-papers",
+      "denominator": null,
+      "denominator_complete": false,
+      "review_count_basis": "Three full official abstracts actually read before 00:28 UTC. Two non-VoR manuscript key-section reviews are separately qualified and excluded from the established global focused-body counter. No catalogue cards.",
+      "non_vor_source_limits": [
+        "OntoEL: title-matching anonymous extended manuscript, not independently author-authenticated or VoR.",
+        "RES-MR: author arXiv v1 carries a not-for-distribution notice; not VoR."
+      ],
+      "started_at": "2026-10-22T00:10:29Z",
+      "actual_reading_cutoff": "2026-10-22T00:25:15Z",
+      "already_reported_window_end": "2026-10-22T00:28:00Z"
+    },
+    {
+      "venue": "ICLR",
+      "year": 2026,
+      "track": "Main",
+      "unique_abstracts_reviewed": 9,
+      "trusted_abstract_review_lower_bound": 9,
+      "included_papers": 4,
+      "included_count": 4,
+      "metadata_ready": 4,
+      "materialized_included_count": 4,
+      "screening_include_decisions": 7,
+      "pending_profile_count": 0,
+      "pending_profile_ids": [],
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "eligibility_screening_complete": false,
+      "denominator": null,
+      "eligible_full_papers": null,
+      "denominator_status": "not_counted",
+      "denominator_scope": "Bounded selected-paper review only; four public profiles. Full-track denominator unknown, not a complete census.",
+      "additional_nonsequential_reviewed_ids": [
+        "iclr2026-l7qeok4udp",
+        "iclr2026-QSGanMEcUV",
+        "iclr2026_5zAde2jch7",
+        "iclr2026-022abe84083d235f7572ca5cba24c51c",
+        "iclr2026-02cf868040aa0f0a1e1121cf255fdcfb",
+        "iclr2026-NwzY2yhlme",
+        "iclr2026-24QX6XpvSL",
+        "iclr2026-Z2XIRLv535",
+        "iclr2026-uBy4TCgGiT"
+      ],
+      "review_count_basis": "Nine complete original abstracts and seven focused principal-body reads registered cumulatively. Four public complete profiles; three additional scientific-IN material HOLDs remain private and two safety-interrupted studies remain incomplete with only their pre-interruption abstract reads credited. This integration backfills actual 16:09–16:14 UTC events, not new reading now. No whole-paper, all-appendices or complete-track claim.",
+      "source_url": "https://proceedings.iclr.cc/paper_files/paper/2026",
+      "publication_date": "2026-04-20",
+      "current_evidence": "research_audit/compass_20261022/integration_acceptance.json"
+    },
+    {
+      "venue": "NeurIPS",
+      "year": 2025,
+      "track": "Datasets and Benchmarks",
+      "denominator": 497,
+      "full_paper_denominator": 497,
+      "source_url": "https://proceedings.neurips.cc/paper_files/paper/2025/vol38-main-conference",
+      "formal_type_source": "https://neurips.cc/Conferences/2025/CallForDatasetsBenchmarks",
+      "formal_type_basis": "Edition-specific D&B CFP follows Main CFP, specifies full-paper submission and camera-ready, and says accepted papers published in NeurIPS proceedings. Each497 index entry has data-track=datasets_and_benchmarks_track and individual formal publication page. Not inferred from PDF length.",
+      "denominator_scope": "Formally published Datasets and Benchmarks Track full papers only; separate from Main and Position; excludes workshops and competitions",
+      "eligible_ccf_a": true,
+      "ccf_catalogue_applied": "2022",
+      "ccf_rank_at_edition": "A",
+      "screening_complete": false,
+      "abstract_review_complete": false,
+      "eligibility_screening_complete": false,
+      "complete_medical_census": false,
+      "metadata_inventory_complete": true,
+      "index_unique_urls": 497,
+      "index_unique_titles": 497,
+      "scientific_in_count": 6,
+      "published_included_count": 3,
+      "material_pending_count": 3,
+      "reviewed_ids": [
+        "neurips2025-12750d99d0fa",
+        "neurips2025-1ca47465a87b",
+        "neurips2025-5e0d42bf1eaa",
+        "neurips2025-5482008bd0d4",
+        "neurips2025-6490720ac177",
+        "neurips2025-86a4ea51ccac"
+      ],
+      "unique_abstracts_reviewed": 6,
+      "trusted_abstract_review_lower_bound": 6,
+      "included_papers": 3,
+      "metadata_ready": 3,
+      "pending_candidates": 3,
+      "review_count_basis": "Six complete abstracts and six focused principal-body reads; no whole-appendix claim. The 497-entry metadata inventory is not abstract screening completion. Six scientific IN: three public profiles and three material HOLDs. Unique lower-bound credit uses 345 historical identity-field blobs and a bounded 1142-file prior-reading audit with no alias/completion hit; not proof of never-before reading. Prior aggregate totals are inherited registration, not a new historical certification; prior ACL per-ID manifest gap remains unresolved. DrVD promotion adds no scientific reading credit; original six reading events remain unchanged.",
+      "current_evidence_updated_at": "2026-10-22T17:19:00Z"
+    }
+  ],
+  "independently_reported_batches": [
+    {
+      "venue": "ACL",
+      "batch": "batch4_100_new",
+      "complete_abstracts_reviewed": 100,
+      "paper_ids": [
+        "2020.acl-main.731",
+        "2020.acl-main.732",
+        "2020.acl-main.733",
+        "2020.acl-main.734",
+        "2020.acl-main.735",
+        "2020.acl-main.736",
+        "2020.acl-main.737",
+        "2020.acl-main.739",
+        "2020.acl-main.740",
+        "2020.acl-main.742",
+        "2020.acl-main.743",
+        "2020.acl-main.744",
+        "2020.acl-main.745",
+        "2020.acl-main.746",
+        "2020.acl-main.747",
+        "2020.acl-main.748",
+        "2020.acl-main.749",
+        "2020.acl-main.750",
+        "2020.acl-main.751",
+        "2020.acl-main.753",
+        "2020.acl-main.754",
+        "2020.acl-main.756",
+        "2020.acl-main.761",
+        "2020.acl-main.763",
+        "2020.acl-main.764",
+        "2020.acl-main.765",
+        "2020.acl-main.766",
+        "2020.acl-main.768",
+        "2020.acl-main.769",
+        "2020.acl-main.770",
+        "2020.acl-main.771",
+        "2020.acl-main.772",
+        "2020.acl-main.773",
+        "2020.acl-main.775",
+        "2020.acl-main.777",
+        "2021.acl-long.1",
+        "2021.acl-long.10",
+        "2021.acl-long.11",
+        "2021.acl-long.12",
+        "2021.acl-long.13",
+        "2021.acl-long.14",
+        "2021.acl-long.15",
+        "2021.acl-long.16",
+        "2021.acl-long.17",
+        "2021.acl-long.18",
+        "2021.acl-long.19",
+        "2021.acl-long.2",
+        "2021.acl-long.20",
+        "2021.acl-long.21",
+        "2021.acl-long.22",
+        "2021.acl-long.23",
+        "2021.acl-long.24",
+        "2021.acl-long.25",
+        "2021.acl-long.26",
+        "2021.acl-long.27",
+        "2021.acl-long.28",
+        "2021.acl-long.29",
+        "2021.acl-long.3",
+        "2021.acl-long.30",
+        "2021.acl-long.31",
+        "2021.acl-long.32",
+        "2021.acl-long.33",
+        "2021.acl-long.34",
+        "2021.acl-long.35",
+        "2021.acl-long.36",
+        "2021.acl-long.37",
+        "2021.acl-long.38",
+        "2021.acl-long.39",
+        "2021.acl-long.4",
+        "2021.acl-long.40",
+        "2021.acl-long.41",
+        "2021.acl-long.42",
+        "2021.acl-long.43",
+        "2021.acl-long.44",
+        "2021.acl-long.45",
+        "2021.acl-long.46",
+        "2021.acl-long.47",
+        "2021.acl-long.48",
+        "2021.acl-long.49",
+        "2021.acl-long.5",
+        "2021.acl-long.50",
+        "2021.acl-long.51",
+        "2021.acl-long.52",
+        "2021.acl-long.53",
+        "2021.acl-long.54",
+        "2021.acl-long.55",
+        "2021.acl-long.56",
+        "2021.acl-long.57",
+        "2021.acl-long.58",
+        "2021.acl-long.59",
+        "2021.acl-long.6",
+        "2021.acl-long.60",
+        "2021.acl-long.61",
+        "2021.acl-long.62",
+        "2021.acl-long.63",
+        "2021.acl-long.64",
+        "2021.acl-long.65",
+        "2021.acl-long.7",
+        "2021.acl-long.8",
+        "2021.acl-long.9"
+      ],
+      "reviewed_at": "2026-10-15T11:18:42.514288+00:00",
+      "basis": "Worker explicitly reports reading these complete abstracts; legacy flags have since been independently recertified; rereviews do not add unique papers."
+    }
+  ],
+  "latest_recovery_publication": {
+    "added_ids": [],
+    "excluded_ids": [
+      "2025.findings-acl.581",
+      "2025.findings-acl.582",
+      "2025.findings-acl.583",
+      "2025.findings-acl.584",
+      "2025.findings-acl.585",
+      "2025.findings-acl.586",
+      "2025.findings-acl.587",
+      "2025.findings-acl.588",
+      "2025.findings-acl.589",
+      "2025.findings-acl.590",
+      "2025.findings-acl.591",
+      "2025.findings-acl.592",
+      "2025.findings-acl.593",
+      "2025.findings-acl.594",
+      "2025.findings-acl.595",
+      "2025.findings-acl.596",
+      "2025.findings-acl.597",
+      "2025.findings-acl.598",
+      "2025.findings-acl.599",
+      "2025.findings-acl.600"
+    ],
+    "new_unique_abstract_read_credit": null,
+    "current_audit_decisions": 20,
+    "basis": "Current source audit retained durably. Original private screening ledgers remain unavailable; historical overlap is unknown and prior read counters are unchanged."
+  },
+  "scope_correction_v33": {
+    "removed_ids": [
+      "aaai2023-25164",
+      "aaai2023-25736",
+      "aaai2023-25795",
+      "aaai2023-25812"
+    ],
+    "basis": "Focused source re-review: nonmedical primary research purpose. Full previous records and rationale retained in research_audit. No historical reading increment."
+  },
+  "scope_correction_20261017_2003": {
+    "removed_ids": [
+      "aaai2021-16160"
+    ],
+    "basis": "Primary contribution and all evaluated endpoints concern card-game information seeking and general cognitive behavior, with no medical, disease, clinical mental-health, neurobiological or other biomedical primary experiment. Health software and diagnosis are prospective examples only. Independent PDF pages 1–7 re-review supersedes earlier broad cognitive-science inclusion.",
+    "reading_delta": 0
+  },
+  "scope_correction_20261017_2036": {
+    "removed_ids": [
+      "aaai2020-5974"
+    ],
+    "basis": "Generic transfer-learning main contribution: fMRI response prediction validates intermediate feature mappings, and individual semantic-perception correlations test retention of an established neuroscience observation. Main evaluations and conclusions target CNN generalization for scene, impression and advertising behavior. Exclusion is based on main research focus, not absence of a clinical endpoint; genuine neural data and cognitive analyses remain acknowledged.",
+    "reading_delta": 0
+  },
+  "licensed_abstracts": 1425,
+  "trusted_abstract_review_lower_bound": 13292,
+  "current_review_lower_bound_basis": {
+    "baseline_abstract": 10838,
+    "baseline_focused_body": 3832,
+    "session_unique_abstracts": 10,
+    "session_unique_focused_body": 255,
+    "additional_ai4tech_unique_abstracts": 41,
+    "basis": "Deduplicated append evidence; not a sum of conflicting historical raw coverage rows.",
+    "source": "research_audit/progress_refresh_20261021/reading_ledger.json",
+    "additional_social_good_unique_abstracts": 58,
+    "additional_ijcai2024_main_abstracts": 779,
+    "additional_ijcai2024_main_body": 96,
+    "additional_ijcai2025_main_abstracts": 999,
+    "additional_ijcai2025_main_body": 112
+  },
+  "pending6_old3_20261022": {
+    "scope_decisions": 6,
+    "actual_new_inclusions": 1,
+    "new_discoveries": 0,
+    "historical_inclusion_restorations": 0,
+    "scope_expansions": 0,
+    "actual_queue_removals": 5,
+    "pending_records_after": 133,
+    "known_in_scope_rights_hold_ids": [
+      "neurips2020-6161d93e657d"
+    ],
+    "other_pending_records": 132,
+    "old_metadata_repaired_ids": [
+      "aaai2024-28179",
+      "aaai2023-26649",
+      "aaai2023-25952"
+    ],
+    "old_partial_profiles": 720,
+    "unique_reading_increment": [
+      0,
+      0
+    ],
+    "note": "Pending is the actual existing queue, including the known IN-scope materials hold. Four exclusions were recorded before queue removal. Historical excluded aggregate is preserved, not redefined from this mixed scope audit."
+  },
+  "next6_queue1_20261022": {
+    "unique_included_ids": [
+      "icml2026-d4948e37bc18",
+      "icml2026-739a293ef9cc",
+      "icml2026-18612cc58016",
+      "icml2026-5ab69ecc2d52",
+      "icml2026-3ccf61c80f82",
+      "icml2026-43aeb5fc8e36"
+    ],
+    "unique_reading_increment": [
+      6,
+      6
+    ],
+    "entire_paper_increment": 0,
+    "queue_only_removed_ids": [
+      "ijcai2021-322"
+    ],
+    "queue_only_reading_increment": [
+      0,
+      0
+    ],
+    "pending_records_after": 132,
+    "retained_pending_included_overlap": "ijcai2022-416",
+    "conference_stage_changes": [],
+    "institution_contributions": 5,
+    "verified_no_institution_id": "icml2026-739a293ef9cc"
+  },
+  "scope_correction2_20261022": {
+    "ids": [
+      "ijcai2022-416",
+      "ijcai2022-658"
+    ],
+    "explicit_scope_exclusions": 2,
+    "new_papers": 0,
+    "restored_scope": 0,
+    "new_profile_completions": 0,
+    "unique_reading_credit": [
+      0,
+      0
+    ],
+    "counter_note": "Included-derived totals recomputed. Partial-profile decrease is exclusion, not completion; excluded_candidates61 remains a historical aggregate. Separate source-backed reconciliation completes IJCAI2022 Main only without new reading; other stages and formal denominators remain unchanged."
+  },
+  "ijcai2022_main_reconciliation": {
+    "reconciled_at_utc": "2026-10-22T05:30:04.520980+00:00",
+    "baseline_commit": "8d203e1640a5fc6fcf026732ce35ec87bb74ea8a",
+    "scope": "Main only",
+    "official_unique_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212,
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      261,
+      262,
+      263,
+      264,
+      265,
+      266,
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274,
+      275,
+      276,
+      277,
+      278,
+      279,
+      280,
+      281,
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      288,
+      289,
+      290,
+      291,
+      292,
+      293,
+      294,
+      295,
+      296,
+      297,
+      298,
+      299,
+      300,
+      301,
+      302,
+      303,
+      304,
+      305,
+      306,
+      307,
+      308,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320,
+      321,
+      322,
+      323,
+      324,
+      325,
+      326,
+      327,
+      328,
+      329,
+      330,
+      331,
+      332,
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340,
+      341,
+      342,
+      343,
+      344,
+      345,
+      346,
+      347,
+      348,
+      349,
+      350,
+      351,
+      352,
+      353,
+      354,
+      355,
+      356,
+      357,
+      358,
+      359,
+      360,
+      361,
+      362,
+      363,
+      364,
+      365,
+      366,
+      367,
+      368,
+      369,
+      370,
+      371,
+      372,
+      373,
+      374,
+      375,
+      376,
+      377,
+      378,
+      379,
+      380,
+      381,
+      382,
+      383,
+      384,
+      385,
+      386,
+      387,
+      388,
+      389,
+      390,
+      391,
+      392,
+      393,
+      394,
+      395,
+      396,
+      397,
+      398,
+      399,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405,
+      406,
+      407,
+      408,
+      410,
+      411,
+      412,
+      413,
+      414,
+      415,
+      416,
+      417,
+      418,
+      419,
+      420,
+      421,
+      422,
+      423,
+      424,
+      425,
+      426,
+      427,
+      428,
+      429,
+      430,
+      431,
+      432,
+      433,
+      434,
+      435,
+      436,
+      437,
+      438,
+      439,
+      440,
+      441,
+      442,
+      443,
+      444,
+      445,
+      446,
+      447,
+      448,
+      449,
+      450,
+      451,
+      452,
+      453,
+      454,
+      455,
+      456,
+      457,
+      458,
+      459,
+      460,
+      461,
+      462,
+      463,
+      464,
+      465,
+      466,
+      467,
+      468,
+      469,
+      470,
+      471,
+      472,
+      473,
+      474,
+      475,
+      476,
+      477,
+      478,
+      479,
+      480,
+      481,
+      482,
+      483,
+      484,
+      485,
+      486,
+      487,
+      488,
+      489,
+      490,
+      491,
+      492,
+      493,
+      494,
+      495,
+      496,
+      497,
+      498,
+      499,
+      500,
+      501,
+      502,
+      503,
+      504,
+      505,
+      506,
+      507,
+      508,
+      509,
+      510,
+      511,
+      512,
+      513,
+      514,
+      515,
+      516,
+      517,
+      518,
+      519,
+      520,
+      521,
+      522,
+      523,
+      524,
+      525,
+      526,
+      527,
+      528,
+      529,
+      530,
+      531,
+      532,
+      533,
+      534,
+      535,
+      536,
+      537,
+      538,
+      539,
+      540,
+      541,
+      542,
+      543,
+      544,
+      545,
+      546,
+      547,
+      548,
+      549,
+      550,
+      551,
+      552,
+      553,
+      554,
+      555,
+      556,
+      557,
+      558,
+      559,
+      560,
+      561,
+      562,
+      563,
+      564,
+      565,
+      566,
+      567,
+      568,
+      569,
+      570,
+      571,
+      572,
+      573,
+      574,
+      575,
+      576,
+      577,
+      578,
+      579,
+      580,
+      581,
+      582,
+      583,
+      584,
+      585,
+      586,
+      587,
+      588,
+      589,
+      590,
+      591,
+      592,
+      593,
+      594,
+      595,
+      596,
+      597,
+      598,
+      599,
+      600,
+      601,
+      602,
+      603,
+      604,
+      605,
+      606,
+      607,
+      608,
+      609,
+      610,
+      611,
+      612,
+      613,
+      614,
+      615,
+      616,
+      617,
+      618,
+      619,
+      620,
+      621,
+      622,
+      623,
+      624,
+      625,
+      626,
+      627,
+      628,
+      629,
+      630,
+      631,
+      632,
+      633,
+      634,
+      635,
+      636,
+      637,
+      638,
+      639,
+      640,
+      641,
+      642,
+      643,
+      644,
+      645,
+      646,
+      647,
+      648,
+      649,
+      650,
+      651,
+      652,
+      653,
+      654,
+      655,
+      656,
+      657,
+      658,
+      659,
+      660,
+      661,
+      662,
+      663,
+      664,
+      665,
+      666,
+      667,
+      668,
+      669,
+      670,
+      671,
+      672,
+      673,
+      674,
+      675,
+      676,
+      677,
+      678,
+      679
+    ],
+    "actual_include_ids": [
+      "ijcai2022-1",
+      "ijcai2022-105",
+      "ijcai2022-117",
+      "ijcai2022-122",
+      "ijcai2022-123",
+      "ijcai2022-135",
+      "ijcai2022-138",
+      "ijcai2022-155",
+      "ijcai2022-169",
+      "ijcai2022-195",
+      "ijcai2022-197",
+      "ijcai2022-201",
+      "ijcai2022-220",
+      "ijcai2022-276",
+      "ijcai2022-289",
+      "ijcai2022-326",
+      "ijcai2022-342",
+      "ijcai2022-415",
+      "ijcai2022-426",
+      "ijcai2022-509",
+      "ijcai2022-511",
+      "ijcai2022-518",
+      "ijcai2022-536",
+      "ijcai2022-537",
+      "ijcai2022-539",
+      "ijcai2022-544",
+      "ijcai2022-560",
+      "ijcai2022-58",
+      "ijcai2022-592",
+      "ijcai2022-600",
+      "ijcai2022-649",
+      "ijcai2022-675",
+      "ijcai2022-676"
+    ],
+    "actual_exclude_ids": [
+      "ijcai2022-10",
+      "ijcai2022-100",
+      "ijcai2022-101",
+      "ijcai2022-102",
+      "ijcai2022-103",
+      "ijcai2022-104",
+      "ijcai2022-106",
+      "ijcai2022-107",
+      "ijcai2022-108",
+      "ijcai2022-109",
+      "ijcai2022-11",
+      "ijcai2022-110",
+      "ijcai2022-111",
+      "ijcai2022-112",
+      "ijcai2022-113",
+      "ijcai2022-114",
+      "ijcai2022-115",
+      "ijcai2022-116",
+      "ijcai2022-118",
+      "ijcai2022-119",
+      "ijcai2022-12",
+      "ijcai2022-120",
+      "ijcai2022-121",
+      "ijcai2022-124",
+      "ijcai2022-125",
+      "ijcai2022-126",
+      "ijcai2022-127",
+      "ijcai2022-128",
+      "ijcai2022-129",
+      "ijcai2022-13",
+      "ijcai2022-130",
+      "ijcai2022-131",
+      "ijcai2022-132",
+      "ijcai2022-133",
+      "ijcai2022-134",
+      "ijcai2022-136",
+      "ijcai2022-137",
+      "ijcai2022-139",
+      "ijcai2022-14",
+      "ijcai2022-140",
+      "ijcai2022-141",
+      "ijcai2022-142",
+      "ijcai2022-143",
+      "ijcai2022-144",
+      "ijcai2022-145",
+      "ijcai2022-146",
+      "ijcai2022-147",
+      "ijcai2022-148",
+      "ijcai2022-149",
+      "ijcai2022-15",
+      "ijcai2022-150",
+      "ijcai2022-151",
+      "ijcai2022-152",
+      "ijcai2022-153",
+      "ijcai2022-154",
+      "ijcai2022-156",
+      "ijcai2022-157",
+      "ijcai2022-158",
+      "ijcai2022-159",
+      "ijcai2022-16",
+      "ijcai2022-160",
+      "ijcai2022-161",
+      "ijcai2022-162",
+      "ijcai2022-163",
+      "ijcai2022-164",
+      "ijcai2022-165",
+      "ijcai2022-166",
+      "ijcai2022-167",
+      "ijcai2022-168",
+      "ijcai2022-17",
+      "ijcai2022-170",
+      "ijcai2022-171",
+      "ijcai2022-172",
+      "ijcai2022-173",
+      "ijcai2022-174",
+      "ijcai2022-175",
+      "ijcai2022-176",
+      "ijcai2022-177",
+      "ijcai2022-178",
+      "ijcai2022-179",
+      "ijcai2022-18",
+      "ijcai2022-180",
+      "ijcai2022-181",
+      "ijcai2022-182",
+      "ijcai2022-183",
+      "ijcai2022-184",
+      "ijcai2022-185",
+      "ijcai2022-186",
+      "ijcai2022-187",
+      "ijcai2022-188",
+      "ijcai2022-189",
+      "ijcai2022-19",
+      "ijcai2022-190",
+      "ijcai2022-191",
+      "ijcai2022-192",
+      "ijcai2022-193",
+      "ijcai2022-194",
+      "ijcai2022-196",
+      "ijcai2022-198",
+      "ijcai2022-199",
+      "ijcai2022-2",
+      "ijcai2022-20",
+      "ijcai2022-200",
+      "ijcai2022-202",
+      "ijcai2022-203",
+      "ijcai2022-204",
+      "ijcai2022-205",
+      "ijcai2022-206",
+      "ijcai2022-207",
+      "ijcai2022-208",
+      "ijcai2022-209",
+      "ijcai2022-21",
+      "ijcai2022-210",
+      "ijcai2022-211",
+      "ijcai2022-212",
+      "ijcai2022-213",
+      "ijcai2022-214",
+      "ijcai2022-215",
+      "ijcai2022-216",
+      "ijcai2022-217",
+      "ijcai2022-218",
+      "ijcai2022-219",
+      "ijcai2022-22",
+      "ijcai2022-221",
+      "ijcai2022-222",
+      "ijcai2022-223",
+      "ijcai2022-224",
+      "ijcai2022-225",
+      "ijcai2022-226",
+      "ijcai2022-227",
+      "ijcai2022-228",
+      "ijcai2022-229",
+      "ijcai2022-23",
+      "ijcai2022-230",
+      "ijcai2022-231",
+      "ijcai2022-232",
+      "ijcai2022-233",
+      "ijcai2022-234",
+      "ijcai2022-235",
+      "ijcai2022-236",
+      "ijcai2022-237",
+      "ijcai2022-238",
+      "ijcai2022-239",
+      "ijcai2022-24",
+      "ijcai2022-240",
+      "ijcai2022-241",
+      "ijcai2022-242",
+      "ijcai2022-243",
+      "ijcai2022-244",
+      "ijcai2022-245",
+      "ijcai2022-246",
+      "ijcai2022-247",
+      "ijcai2022-248",
+      "ijcai2022-249",
+      "ijcai2022-25",
+      "ijcai2022-250",
+      "ijcai2022-251",
+      "ijcai2022-252",
+      "ijcai2022-253",
+      "ijcai2022-254",
+      "ijcai2022-255",
+      "ijcai2022-256",
+      "ijcai2022-257",
+      "ijcai2022-258",
+      "ijcai2022-259",
+      "ijcai2022-26",
+      "ijcai2022-260",
+      "ijcai2022-261",
+      "ijcai2022-262",
+      "ijcai2022-263",
+      "ijcai2022-264",
+      "ijcai2022-265",
+      "ijcai2022-266",
+      "ijcai2022-267",
+      "ijcai2022-268",
+      "ijcai2022-269",
+      "ijcai2022-27",
+      "ijcai2022-270",
+      "ijcai2022-271",
+      "ijcai2022-272",
+      "ijcai2022-273",
+      "ijcai2022-274",
+      "ijcai2022-275",
+      "ijcai2022-277",
+      "ijcai2022-278",
+      "ijcai2022-279",
+      "ijcai2022-28",
+      "ijcai2022-280",
+      "ijcai2022-281",
+      "ijcai2022-282",
+      "ijcai2022-283",
+      "ijcai2022-284",
+      "ijcai2022-285",
+      "ijcai2022-286",
+      "ijcai2022-287",
+      "ijcai2022-288",
+      "ijcai2022-29",
+      "ijcai2022-290",
+      "ijcai2022-291",
+      "ijcai2022-292",
+      "ijcai2022-293",
+      "ijcai2022-294",
+      "ijcai2022-295",
+      "ijcai2022-296",
+      "ijcai2022-297",
+      "ijcai2022-298",
+      "ijcai2022-299",
+      "ijcai2022-3",
+      "ijcai2022-30",
+      "ijcai2022-300",
+      "ijcai2022-301",
+      "ijcai2022-302",
+      "ijcai2022-303",
+      "ijcai2022-304",
+      "ijcai2022-305",
+      "ijcai2022-306",
+      "ijcai2022-307",
+      "ijcai2022-308",
+      "ijcai2022-309",
+      "ijcai2022-31",
+      "ijcai2022-310",
+      "ijcai2022-311",
+      "ijcai2022-312",
+      "ijcai2022-313",
+      "ijcai2022-314",
+      "ijcai2022-315",
+      "ijcai2022-316",
+      "ijcai2022-317",
+      "ijcai2022-318",
+      "ijcai2022-319",
+      "ijcai2022-32",
+      "ijcai2022-320",
+      "ijcai2022-321",
+      "ijcai2022-322",
+      "ijcai2022-323",
+      "ijcai2022-324",
+      "ijcai2022-325",
+      "ijcai2022-327",
+      "ijcai2022-328",
+      "ijcai2022-329",
+      "ijcai2022-33",
+      "ijcai2022-330",
+      "ijcai2022-331",
+      "ijcai2022-332",
+      "ijcai2022-333",
+      "ijcai2022-334",
+      "ijcai2022-335",
+      "ijcai2022-336",
+      "ijcai2022-337",
+      "ijcai2022-338",
+      "ijcai2022-339",
+      "ijcai2022-34",
+      "ijcai2022-340",
+      "ijcai2022-341",
+      "ijcai2022-343",
+      "ijcai2022-344",
+      "ijcai2022-345",
+      "ijcai2022-346",
+      "ijcai2022-347",
+      "ijcai2022-348",
+      "ijcai2022-349",
+      "ijcai2022-35",
+      "ijcai2022-350",
+      "ijcai2022-351",
+      "ijcai2022-352",
+      "ijcai2022-353",
+      "ijcai2022-354",
+      "ijcai2022-355",
+      "ijcai2022-356",
+      "ijcai2022-357",
+      "ijcai2022-358",
+      "ijcai2022-359",
+      "ijcai2022-36",
+      "ijcai2022-360",
+      "ijcai2022-361",
+      "ijcai2022-362",
+      "ijcai2022-363",
+      "ijcai2022-364",
+      "ijcai2022-365",
+      "ijcai2022-366",
+      "ijcai2022-367",
+      "ijcai2022-368",
+      "ijcai2022-369",
+      "ijcai2022-37",
+      "ijcai2022-370",
+      "ijcai2022-371",
+      "ijcai2022-372",
+      "ijcai2022-373",
+      "ijcai2022-374",
+      "ijcai2022-375",
+      "ijcai2022-376",
+      "ijcai2022-377",
+      "ijcai2022-378",
+      "ijcai2022-379",
+      "ijcai2022-38",
+      "ijcai2022-380",
+      "ijcai2022-381",
+      "ijcai2022-382",
+      "ijcai2022-383",
+      "ijcai2022-384",
+      "ijcai2022-385",
+      "ijcai2022-386",
+      "ijcai2022-387",
+      "ijcai2022-388",
+      "ijcai2022-389",
+      "ijcai2022-39",
+      "ijcai2022-390",
+      "ijcai2022-391",
+      "ijcai2022-392",
+      "ijcai2022-393",
+      "ijcai2022-394",
+      "ijcai2022-395",
+      "ijcai2022-396",
+      "ijcai2022-397",
+      "ijcai2022-398",
+      "ijcai2022-399",
+      "ijcai2022-4",
+      "ijcai2022-40",
+      "ijcai2022-400",
+      "ijcai2022-401",
+      "ijcai2022-402",
+      "ijcai2022-403",
+      "ijcai2022-404",
+      "ijcai2022-405",
+      "ijcai2022-406",
+      "ijcai2022-407",
+      "ijcai2022-408",
+      "ijcai2022-41",
+      "ijcai2022-410",
+      "ijcai2022-411",
+      "ijcai2022-412",
+      "ijcai2022-413",
+      "ijcai2022-414",
+      "ijcai2022-416",
+      "ijcai2022-417",
+      "ijcai2022-418",
+      "ijcai2022-419",
+      "ijcai2022-42",
+      "ijcai2022-420",
+      "ijcai2022-421",
+      "ijcai2022-422",
+      "ijcai2022-423",
+      "ijcai2022-424",
+      "ijcai2022-425",
+      "ijcai2022-427",
+      "ijcai2022-428",
+      "ijcai2022-429",
+      "ijcai2022-43",
+      "ijcai2022-430",
+      "ijcai2022-431",
+      "ijcai2022-432",
+      "ijcai2022-433",
+      "ijcai2022-434",
+      "ijcai2022-435",
+      "ijcai2022-436",
+      "ijcai2022-437",
+      "ijcai2022-438",
+      "ijcai2022-439",
+      "ijcai2022-44",
+      "ijcai2022-440",
+      "ijcai2022-441",
+      "ijcai2022-442",
+      "ijcai2022-443",
+      "ijcai2022-444",
+      "ijcai2022-445",
+      "ijcai2022-446",
+      "ijcai2022-447",
+      "ijcai2022-448",
+      "ijcai2022-449",
+      "ijcai2022-45",
+      "ijcai2022-450",
+      "ijcai2022-451",
+      "ijcai2022-452",
+      "ijcai2022-453",
+      "ijcai2022-454",
+      "ijcai2022-455",
+      "ijcai2022-456",
+      "ijcai2022-457",
+      "ijcai2022-458",
+      "ijcai2022-459",
+      "ijcai2022-46",
+      "ijcai2022-460",
+      "ijcai2022-461",
+      "ijcai2022-462",
+      "ijcai2022-463",
+      "ijcai2022-464",
+      "ijcai2022-465",
+      "ijcai2022-466",
+      "ijcai2022-467",
+      "ijcai2022-468",
+      "ijcai2022-469",
+      "ijcai2022-47",
+      "ijcai2022-470",
+      "ijcai2022-471",
+      "ijcai2022-472",
+      "ijcai2022-473",
+      "ijcai2022-474",
+      "ijcai2022-475",
+      "ijcai2022-476",
+      "ijcai2022-477",
+      "ijcai2022-478",
+      "ijcai2022-479",
+      "ijcai2022-48",
+      "ijcai2022-480",
+      "ijcai2022-481",
+      "ijcai2022-482",
+      "ijcai2022-483",
+      "ijcai2022-484",
+      "ijcai2022-485",
+      "ijcai2022-486",
+      "ijcai2022-487",
+      "ijcai2022-488",
+      "ijcai2022-489",
+      "ijcai2022-49",
+      "ijcai2022-490",
+      "ijcai2022-491",
+      "ijcai2022-492",
+      "ijcai2022-493",
+      "ijcai2022-494",
+      "ijcai2022-495",
+      "ijcai2022-496",
+      "ijcai2022-497",
+      "ijcai2022-498",
+      "ijcai2022-499",
+      "ijcai2022-5",
+      "ijcai2022-50",
+      "ijcai2022-500",
+      "ijcai2022-501",
+      "ijcai2022-502",
+      "ijcai2022-503",
+      "ijcai2022-504",
+      "ijcai2022-505",
+      "ijcai2022-506",
+      "ijcai2022-507",
+      "ijcai2022-508",
+      "ijcai2022-51",
+      "ijcai2022-510",
+      "ijcai2022-512",
+      "ijcai2022-513",
+      "ijcai2022-514",
+      "ijcai2022-515",
+      "ijcai2022-516",
+      "ijcai2022-517",
+      "ijcai2022-519",
+      "ijcai2022-52",
+      "ijcai2022-520",
+      "ijcai2022-521",
+      "ijcai2022-522",
+      "ijcai2022-523",
+      "ijcai2022-524",
+      "ijcai2022-525",
+      "ijcai2022-526",
+      "ijcai2022-527",
+      "ijcai2022-528",
+      "ijcai2022-529",
+      "ijcai2022-53",
+      "ijcai2022-530",
+      "ijcai2022-531",
+      "ijcai2022-532",
+      "ijcai2022-533",
+      "ijcai2022-534",
+      "ijcai2022-535",
+      "ijcai2022-538",
+      "ijcai2022-54",
+      "ijcai2022-540",
+      "ijcai2022-541",
+      "ijcai2022-542",
+      "ijcai2022-543",
+      "ijcai2022-545",
+      "ijcai2022-546",
+      "ijcai2022-547",
+      "ijcai2022-548",
+      "ijcai2022-549",
+      "ijcai2022-55",
+      "ijcai2022-550",
+      "ijcai2022-551",
+      "ijcai2022-552",
+      "ijcai2022-553",
+      "ijcai2022-554",
+      "ijcai2022-555",
+      "ijcai2022-556",
+      "ijcai2022-557",
+      "ijcai2022-558",
+      "ijcai2022-559",
+      "ijcai2022-56",
+      "ijcai2022-561",
+      "ijcai2022-562",
+      "ijcai2022-563",
+      "ijcai2022-564",
+      "ijcai2022-565",
+      "ijcai2022-566",
+      "ijcai2022-567",
+      "ijcai2022-568",
+      "ijcai2022-569",
+      "ijcai2022-57",
+      "ijcai2022-570",
+      "ijcai2022-571",
+      "ijcai2022-572",
+      "ijcai2022-573",
+      "ijcai2022-574",
+      "ijcai2022-575",
+      "ijcai2022-576",
+      "ijcai2022-577",
+      "ijcai2022-578",
+      "ijcai2022-579",
+      "ijcai2022-580",
+      "ijcai2022-581",
+      "ijcai2022-582",
+      "ijcai2022-583",
+      "ijcai2022-584",
+      "ijcai2022-585",
+      "ijcai2022-586",
+      "ijcai2022-587",
+      "ijcai2022-588",
+      "ijcai2022-589",
+      "ijcai2022-59",
+      "ijcai2022-590",
+      "ijcai2022-591",
+      "ijcai2022-593",
+      "ijcai2022-594",
+      "ijcai2022-595",
+      "ijcai2022-596",
+      "ijcai2022-597",
+      "ijcai2022-598",
+      "ijcai2022-599",
+      "ijcai2022-6",
+      "ijcai2022-60",
+      "ijcai2022-601",
+      "ijcai2022-602",
+      "ijcai2022-603",
+      "ijcai2022-604",
+      "ijcai2022-605",
+      "ijcai2022-606",
+      "ijcai2022-607",
+      "ijcai2022-608",
+      "ijcai2022-609",
+      "ijcai2022-61",
+      "ijcai2022-610",
+      "ijcai2022-611",
+      "ijcai2022-612",
+      "ijcai2022-613",
+      "ijcai2022-614",
+      "ijcai2022-615",
+      "ijcai2022-616",
+      "ijcai2022-617",
+      "ijcai2022-618",
+      "ijcai2022-619",
+      "ijcai2022-62",
+      "ijcai2022-620",
+      "ijcai2022-621",
+      "ijcai2022-622",
+      "ijcai2022-623",
+      "ijcai2022-624",
+      "ijcai2022-625",
+      "ijcai2022-626",
+      "ijcai2022-627",
+      "ijcai2022-628",
+      "ijcai2022-629",
+      "ijcai2022-63",
+      "ijcai2022-630",
+      "ijcai2022-631",
+      "ijcai2022-632",
+      "ijcai2022-633",
+      "ijcai2022-634",
+      "ijcai2022-635",
+      "ijcai2022-636",
+      "ijcai2022-637",
+      "ijcai2022-638",
+      "ijcai2022-639",
+      "ijcai2022-64",
+      "ijcai2022-640",
+      "ijcai2022-641",
+      "ijcai2022-642",
+      "ijcai2022-643",
+      "ijcai2022-644",
+      "ijcai2022-645",
+      "ijcai2022-646",
+      "ijcai2022-647",
+      "ijcai2022-648",
+      "ijcai2022-65",
+      "ijcai2022-650",
+      "ijcai2022-651",
+      "ijcai2022-652",
+      "ijcai2022-653",
+      "ijcai2022-654",
+      "ijcai2022-655",
+      "ijcai2022-656",
+      "ijcai2022-657",
+      "ijcai2022-658",
+      "ijcai2022-659",
+      "ijcai2022-66",
+      "ijcai2022-660",
+      "ijcai2022-661",
+      "ijcai2022-662",
+      "ijcai2022-663",
+      "ijcai2022-664",
+      "ijcai2022-665",
+      "ijcai2022-666",
+      "ijcai2022-667",
+      "ijcai2022-668",
+      "ijcai2022-669",
+      "ijcai2022-67",
+      "ijcai2022-670",
+      "ijcai2022-671",
+      "ijcai2022-672",
+      "ijcai2022-673",
+      "ijcai2022-674",
+      "ijcai2022-677",
+      "ijcai2022-678",
+      "ijcai2022-679",
+      "ijcai2022-68",
+      "ijcai2022-69",
+      "ijcai2022-7",
+      "ijcai2022-70",
+      "ijcai2022-71",
+      "ijcai2022-72",
+      "ijcai2022-73",
+      "ijcai2022-74",
+      "ijcai2022-75",
+      "ijcai2022-76",
+      "ijcai2022-77",
+      "ijcai2022-78",
+      "ijcai2022-79",
+      "ijcai2022-8",
+      "ijcai2022-80",
+      "ijcai2022-81",
+      "ijcai2022-82",
+      "ijcai2022-83",
+      "ijcai2022-84",
+      "ijcai2022-85",
+      "ijcai2022-86",
+      "ijcai2022-87",
+      "ijcai2022-88",
+      "ijcai2022-89",
+      "ijcai2022-9",
+      "ijcai2022-90",
+      "ijcai2022-91",
+      "ijcai2022-92",
+      "ijcai2022-93",
+      "ijcai2022-94",
+      "ijcai2022-95",
+      "ijcai2022-96",
+      "ijcai2022-97",
+      "ijcai2022-98",
+      "ijcai2022-99"
+    ],
+    "denominator": 678,
+    "abstracts_read": 678,
+    "final_decisions": 678,
+    "included": 33,
+    "excluded": 645,
+    "pending": 0,
+    "within_track_share_percent": 4.867256637168142,
+    "unique_reading_credit": [
+      0,
+      0
+    ],
+    "stage_summary": {
+      "scope": "IJCAI2022 Main-only reconciliation; not replacement global counters",
+      "started_venues": 1,
+      "started_editions": 1,
+      "started_tracks": 1,
+      "abstract_complete_tracks": 1,
+      "final_complete_tracks": 1,
+      "abstract_complete_editions": 0,
+      "final_complete_editions": 0,
+      "basis": "Distinct existing Main decision-bearing rows only.83 verified non-Main formal papers have no screening evidence;8 Early Career types unresolved. Enumerating those tracks adds no screening-start credit."
+    },
+    "whole_edition_formal_denominator": null,
+    "whole_edition_complete": false,
+    "unreviewed_nonmain_formal": 83,
+    "early_career_untyped": 8,
+    "no_new_coverage_rows": true,
+    "source": "https://www.ijcai.org/proceedings/2022/"
+  },
+  "stage_coverage": {
+    "definition": "Distinct existing progress track rows by recorded stage. Conference/edition counts are the coverage of these tracks, not claims that every track in those conferences or editions is complete.",
+    "predicates": {
+      "started": "unique_abstracts_reviewed > 0",
+      "abstract_complete": "abstract_review_complete is true",
+      "final_complete": "screening_complete is true"
+    },
+    "new_reading_credit": [
+      0,
+      0
+    ],
+    "started": {
+      "conferences": 11,
+      "editions": 43,
+      "tracks": 60,
+      "track_keys": [
+        [
+          "AAAI",
+          2020,
+          "All eligible full tracks"
+        ],
+        [
+          "AAAI",
+          2021,
+          "AI for Social Impact"
+        ],
+        [
+          "AAAI",
+          2021,
+          "Main"
+        ],
+        [
+          "AAAI",
+          2022,
+          "AI for Social Impact"
+        ],
+        [
+          "AAAI",
+          2022,
+          "Main"
+        ],
+        [
+          "AAAI",
+          2023,
+          "AI for Social Impact"
+        ],
+        [
+          "AAAI",
+          2023,
+          "Main"
+        ],
+        [
+          "AAAI",
+          2023,
+          "Safe and Robust AI"
+        ],
+        [
+          "AAAI",
+          2024,
+          "AI for Social Impact"
+        ],
+        [
+          "AAAI",
+          2024,
+          "Main"
+        ],
+        [
+          "ACL",
+          2020,
+          "Main"
+        ],
+        [
+          "ACL",
+          2021,
+          "Findings"
+        ],
+        [
+          "ACL",
+          2021,
+          "Main"
+        ],
+        [
+          "ACL",
+          2022,
+          "Findings"
+        ],
+        [
+          "ACL",
+          2022,
+          "Main"
+        ],
+        [
+          "ACL",
+          2023,
+          "Findings"
+        ],
+        [
+          "ACL",
+          2023,
+          "Main"
+        ],
+        [
+          "ACL",
+          2024,
+          "Findings"
+        ],
+        [
+          "ACL",
+          2024,
+          "Main"
+        ],
+        [
+          "ACL",
+          2025,
+          "Findings"
+        ],
+        [
+          "ACL",
+          2025,
+          "Main"
+        ],
+        [
+          "ACL",
+          2026,
+          "Main"
+        ],
+        [
+          "CVPR",
+          2020,
+          "Main"
+        ],
+        [
+          "CVPR",
+          2021,
+          "Main"
+        ],
+        [
+          "CVPR",
+          2022,
+          "Main"
+        ],
+        [
+          "CVPR",
+          2023,
+          "Main"
+        ],
+        [
+          "CVPR",
+          2024,
+          "Main"
+        ],
+        [
+          "CVPR",
+          2025,
+          "Main"
+        ],
+        [
+          "CVPR",
+          2026,
+          "Main"
+        ],
+        [
+          "ICCV",
+          2021,
+          "Main"
+        ],
+        [
+          "ICCV",
+          2023,
+          "Main"
+        ],
+        [
+          "ICCV",
+          2025,
+          "Main"
+        ],
+        [
+          "ICLR",
+          2026,
+          "Main"
+        ],
+        [
+          "ICML",
+          2020,
+          "Main"
+        ],
+        [
+          "ICML",
+          2021,
+          "Main"
+        ],
+        [
+          "ICML",
+          2022,
+          "Main"
+        ],
+        [
+          "ICML",
+          2023,
+          "Main"
+        ],
+        [
+          "ICML",
+          2024,
+          "Main"
+        ],
+        [
+          "ICML",
+          2025,
+          "Main"
+        ],
+        [
+          "ICML",
+          2026,
+          "Main"
+        ],
+        [
+          "IJCAI",
+          2020,
+          "Main"
+        ],
+        [
+          "IJCAI",
+          2021,
+          "Main"
+        ],
+        [
+          "IJCAI",
+          2022,
+          "Main"
+        ],
+        [
+          "IJCAI",
+          2023,
+          "AI for Good"
+        ],
+        [
+          "IJCAI",
+          2023,
+          "AI for Good - Projects"
+        ],
+        [
+          "IJCAI",
+          2023,
+          "Main"
+        ],
+        [
+          "IJCAI",
+          2024,
+          "Main"
+        ],
+        [
+          "IJCAI",
+          2025,
+          "AI and Social Good"
+        ],
+        [
+          "IJCAI",
+          2025,
+          "AI4Tech: AI Enabling Technologies"
+        ],
+        [
+          "IJCAI",
+          2025,
+          "Main"
+        ],
+        [
+          "KDD",
+          2020,
+          "Applied Data Science"
+        ],
+        [
+          "KDD",
+          2020,
+          "Research"
+        ],
+        [
+          "KDD",
+          2021,
+          "Applied Data Science"
+        ],
+        [
+          "KDD",
+          2021,
+          "Research"
+        ],
+        [
+          "NeurIPS",
+          2020,
+          "Main"
+        ],
+        [
+          "NeurIPS",
+          2024,
+          "Main"
+        ],
+        [
+          "NeurIPS",
+          2025,
+          "Datasets and Benchmarks"
+        ],
+        [
+          "NeurIPS",
+          2025,
+          "Main"
+        ],
+        [
+          "SIGIR",
+          2026,
+          "Main"
+        ],
+        [
+          "WWW",
+          2022,
+          "Main"
+        ]
+      ]
+    },
+    "abstract_complete": {
+      "conferences": 6,
+      "editions": 22,
+      "tracks": 34,
+      "track_keys": [
+        [
+          "AAAI",
+          2020,
+          "All eligible full tracks"
+        ],
+        [
+          "AAAI",
+          2021,
+          "AI for Social Impact"
+        ],
+        [
+          "AAAI",
+          2021,
+          "Main"
+        ],
+        [
+          "AAAI",
+          2022,
+          "AI for Social Impact"
+        ],
+        [
+          "AAAI",
+          2022,
+          "Main"
+        ],
+        [
+          "AAAI",
+          2023,
+          "AI for Social Impact"
+        ],
+        [
+          "AAAI",
+          2023,
+          "Safe and Robust AI"
+        ],
+        [
+          "AAAI",
+          2024,
+          "AI for Social Impact"
+        ],
+        [
+          "ACL",
+          2020,
+          "Main"
+        ],
+        [
+          "ACL",
+          2021,
+          "Findings"
+        ],
+        [
+          "ACL",
+          2021,
+          "Main"
+        ],
+        [
+          "ACL",
+          2022,
+          "Main"
+        ],
+        [
+          "ACL",
+          2023,
+          "Findings"
+        ],
+        [
+          "ACL",
+          2023,
+          "Main"
+        ],
+        [
+          "ACL",
+          2024,
+          "Findings"
+        ],
+        [
+          "ACL",
+          2024,
+          "Main"
+        ],
+        [
+          "ACL",
+          2025,
+          "Findings"
+        ],
+        [
+          "CVPR",
+          2020,
+          "Main"
+        ],
+        [
+          "CVPR",
+          2021,
+          "Main"
+        ],
+        [
+          "ICML",
+          2020,
+          "Main"
+        ],
+        [
+          "IJCAI",
+          2020,
+          "Main"
+        ],
+        [
+          "IJCAI",
+          2021,
+          "Main"
+        ],
+        [
+          "IJCAI",
+          2022,
+          "Main"
+        ],
+        [
+          "IJCAI",
+          2023,
+          "AI for Good"
+        ],
+        [
+          "IJCAI",
+          2023,
+          "AI for Good - Projects"
+        ],
+        [
+          "IJCAI",
+          2023,
+          "Main"
+        ],
+        [
+          "IJCAI",
+          2024,
+          "Main"
+        ],
+        [
+          "IJCAI",
+          2025,
+          "AI and Social Good"
+        ],
+        [
+          "IJCAI",
+          2025,
+          "AI4Tech: AI Enabling Technologies"
+        ],
+        [
+          "IJCAI",
+          2025,
+          "Main"
+        ],
+        [
+          "KDD",
+          2020,
+          "Applied Data Science"
+        ],
+        [
+          "KDD",
+          2020,
+          "Research"
+        ],
+        [
+          "KDD",
+          2021,
+          "Applied Data Science"
+        ],
+        [
+          "KDD",
+          2021,
+          "Research"
+        ]
+      ]
+    },
+    "final_complete": {
+      "conferences": 6,
+      "editions": 16,
+      "tracks": 18,
+      "track_keys": [
+        [
+          "AAAI",
+          2021,
+          "AI for Social Impact"
+        ],
+        [
+          "AAAI",
+          2022,
+          "AI for Social Impact"
+        ],
+        [
+          "AAAI",
+          2023,
+          "AI for Social Impact"
+        ],
+        [
+          "AAAI",
+          2023,
+          "Safe and Robust AI"
+        ],
+        [
+          "AAAI",
+          2024,
+          "AI for Social Impact"
+        ],
+        [
+          "ACL",
+          2021,
+          "Findings"
+        ],
+        [
+          "ACL",
+          2021,
+          "Main"
+        ],
+        [
+          "ACL",
+          2022,
+          "Main"
+        ],
+        [
+          "ACL",
+          2023,
+          "Main"
+        ],
+        [
+          "ACL",
+          2024,
+          "Main"
+        ],
+        [
+          "CVPR",
+          2020,
+          "Main"
+        ],
+        [
+          "CVPR",
+          2021,
+          "Main"
+        ],
+        [
+          "ICML",
+          2020,
+          "Main"
+        ],
+        [
+          "IJCAI",
+          2020,
+          "Main"
+        ],
+        [
+          "IJCAI",
+          2021,
+          "Main"
+        ],
+        [
+          "IJCAI",
+          2022,
+          "Main"
+        ],
+        [
+          "IJCAI",
+          2025,
+          "AI and Social Good"
+        ],
+        [
+          "KDD",
+          2020,
+          "Applied Data Science"
+        ]
+      ]
+    }
+  },
+  "biomedical6_20261022": {
+    "unique_included_ids": [
+      "icml2026-d602a8a1ce3f",
+      "icml2026-cbb7c8752a02",
+      "icml2026-5d85dab0184b",
+      "icml2026-1e029406cec8",
+      "icml2026-be539bcfc97c",
+      "icml2026-49be7fd315b6"
+    ],
+    "source_unique_reading_increment": [
+      6,
+      6
+    ],
+    "entire_paper_increment": 0,
+    "actual_reading_window_utc": "2026-10-22 05:15–05:17",
+    "already_reported_at_utc": "2026-10-22T05:28:00Z",
+    "repeat_hourly_reading_credit": 0,
+    "conference_stage_changes": [],
+    "institution_contributions": 6,
+    "pending_records_after": 131
+  },
+  "following5_hold1_20261022": {
+    "unique_paper_ids": [
+      "icml2026-9acbb5a9b4e8",
+      "icml2026-a82961700ed5",
+      "icml2026-a10b1d800860",
+      "icml2026-2d666da1373a",
+      "icml2026-15d63e11a01b"
+    ],
+    "unique_read_paper_ids": [
+      "icml2026-9acbb5a9b4e8",
+      "icml2026-a82961700ed5",
+      "icml2026-a10b1d800860",
+      "icml2026-2d666da1373a",
+      "icml2026-15d63e11a01b",
+      "icml2026-a45a15148513"
+    ],
+    "held_id": "icml2026-a45a15148513",
+    "unique_abstract_increment": 6,
+    "unique_focused_body_increment": 6,
+    "entire_paper_increment": 0,
+    "conference_stage_changes": [],
+    "queue_after": 132
+  },
+  "neurips2024_restored6_hold_20261022": {
+    "canonical_ids": [
+      "neurips2024-7479eecb5f2d",
+      "neurips2024-74854b9da564",
+      "neurips2024-9d13c1f21f90",
+      "neurips2024-5dd109687ef2",
+      "neurips2024-539d2d24045d",
+      "neurips2024-3752863551c5"
+    ],
+    "restored_old_candidate_count": 6,
+    "new_discovery_identity_delta": 0,
+    "public_card_delta": 0,
+    "materials_hold": 6,
+    "unique_reading_delta": [
+      6,
+      6
+    ],
+    "credited_hour_cutoff": "2026-10-22T06:28:00Z",
+    "next_hour_read_credit": 0,
+    "original_reading_timestamps_preserved": true,
+    "denominator_status": "inherited_unrevalidated",
+    "historical_denominator": 4034,
+    "batch_verified_formal_denominator": null,
+    "denominator_note": "Existing coverage index count4034 retained without new certification. This six-paper reading batch does not establish a complete formal Main full-paper denominator or prevalence. Scope matrix denominator remains unknown.",
+    "audit_source": "research_audit/neurips2024_restored6_hold_20261022/reading_revision_0638.json"
+  },
+  "next_biomedical6_20261022": {
+    "unique_paper_ids": [
+      "icml2026-b5ceed01d003",
+      "icml2026-d88f56b9c293",
+      "icml2026-335801f43f60",
+      "icml2026-d5449c927ec3",
+      "icml2026-1363a92b7a32",
+      "icml2026-20d7f3fff578"
+    ],
+    "unique_abstract_increment": 6,
+    "unique_focused_body_increment": 6,
+    "entire_paper_increment": 0,
+    "conference_stage_changes": [],
+    "queue_after": 138
+  },
+  "clinical6_20261022": {
+    "unique_paper_ids": [
+      "icml2026-eaebe23e04af",
+      "icml2026-baa35817cefd",
+      "icml2026-90a222f4342e",
+      "icml2026-8583488678ba",
+      "icml2026-41e01fcee2bf",
+      "icml2026-f48ed8bb3c5e"
+    ],
+    "unique_abstract_increment": 6,
+    "unique_focused_body_increment": 6,
+    "entire_paper_increment": 0,
+    "conference_stage_changes": [],
+    "queue_after": 138
+  },
+  "icml2025_biomedical6_20261022": {
+    "unique_paper_ids": [
+      "icml2025-e50389f47afe",
+      "icml2025-7149d8c7ea01",
+      "icml2025-7ff81ae90ea1",
+      "icml2025-f97e827a4286",
+      "icml2025-4f6f1fd54722",
+      "icml2025-7ba8bf7fbb11"
+    ],
+    "unique_abstract_increment": 6,
+    "unique_focused_body_increment": 6,
+    "entire_paper_increment": 0,
+    "conference_stage_changes": [],
+    "queue_after": 138,
+    "first_discovery_count": 0,
+    "new_public_inclusion_count": 6,
+    "scope_restoration_count": 0,
+    "material_hold_count": 0
+  },
+  "icml2024_three_20261022": {
+    "unique_paper_ids": [
+      "icml2024-26a2b6ef02c4",
+      "icml2024-58148ba8a118",
+      "icml2024-2c57c63464ce"
+    ],
+    "unique_abstract_increment": 3,
+    "unique_focused_body_increment": 3,
+    "entire_paper_increment": 0,
+    "conference_stage_changes": [],
+    "queue_after": 138,
+    "first_discovery_count": 0,
+    "new_public_inclusion_count": 3,
+    "scope_restoration_count": 0,
+    "material_hold_count": 0,
+    "historical_title_candidate_count": 3,
+    "historical_candidate_recovery_count": 3,
+    "previously_public_restoration_count": 0,
+    "historical_scope_exclusion_evidenced_count": 0,
+    "classification_note": "Three initial title-only pending candidates retain their historical canonical IDs, recovered into first public inclusion now. No previous public inclusion or scientifically adjudicated OUT is evidenced. Title inventory and candidate history do not earn reading credit."
+  },
+  "icml2024_next6_20261022": {
+    "unique_paper_ids": [
+      "icml2024-312ac29298c5",
+      "icml2024-52089b59ea41",
+      "icml2024-5c812298d50c",
+      "icml2024-79792d36aaeb",
+      "icml2024-e1198d6e82c1",
+      "icml2024-6e8b564c13ff"
+    ],
+    "unique_abstract_increment": 6,
+    "unique_focused_body_increment": 6,
+    "entire_paper_increment": 0,
+    "conference_stage_changes": [],
+    "queue_after": 138,
+    "first_discovery_count": 0,
+    "new_public_inclusion_count": 6,
+    "scope_restoration_count": 0,
+    "material_hold_count": 0,
+    "historical_title_candidate_count": 6,
+    "historical_candidate_recovery_count": 6,
+    "previously_public_restoration_count": 0,
+    "historical_scope_exclusion_evidenced_count": 0,
+    "classification_note": "Six initial title-only pending candidates retain their historical canonical IDs, recovered into first public inclusion now. No previous public inclusion or scientifically adjudicated OUT is evidenced. Title inventory and candidate history do not earn reading credit."
+  },
+  "icml2024_four_20261022": {
+    "unique_paper_ids": [
+      "icml2024-f1626d6962c6",
+      "icml2024-17b2281ffbee",
+      "icml2024-891d4c12a447",
+      "icml2024-849991508d9e"
+    ],
+    "unique_abstract_increment": 4,
+    "unique_focused_body_increment": 4,
+    "entire_paper_increment": 0,
+    "conference_stage_changes": [],
+    "queue_after": 138,
+    "first_discovery_count": 0,
+    "new_public_inclusion_count": 4,
+    "scope_restoration_count": 0,
+    "material_hold_count": 0
+  },
+  "icml2023_permission_correction_20261022": {
+    "permission_correction_ids": [
+      "icml2023-28129a935cd3",
+      "icml2023-01a379a26241",
+      "icml2023-e9faf3b40301",
+      "icml2023-da5361fe42db",
+      "icml2023-61f52c387de3",
+      "icml2023-08a7c7ebddcd"
+    ],
+    "new_material_hold_ids": [
+      "icml2023-240dfd7afd50",
+      "icml2023-b823a1151de3",
+      "icml2023-99744277c14e"
+    ],
+    "unique_abstract_increment": 3,
+    "unique_focused_body_increment": 3,
+    "entire_paper_increment": 0,
+    "conference_stage_changes": [],
+    "queue_after": 141,
+    "first_discoveries": 0,
+    "new_public_inclusions": 0
+  },
+  "icml2023_author_versions_icml2024_two_20261022": {
+    "new_public_ids": [
+      "icml2024-e2fc2ae5d52d",
+      "icml2024-9d2194c0fcb2"
+    ],
+    "author_version_correction_ids": [
+      "icml2023-28129a935cd3",
+      "icml2023-e9faf3b40301",
+      "icml2023-da5361fe42db"
+    ],
+    "continuing_permission_hold_ids": [
+      "icml2023-01a379a26241",
+      "icml2023-61f52c387de3",
+      "icml2023-08a7c7ebddcd"
+    ],
+    "direct_v281_delta": [
+      2,
+      -1,
+      -1,
+      -1
+    ],
+    "phaseB_unique_abstract_increment": 2,
+    "phaseB_unique_focused_body_increment": 2,
+    "conference_stage_changes": []
+  },
+  "icml2023_remaining16_permission_hold_20261022": {
+    "permission_hold_ids": [
+      "icml2023-81994180487e",
+      "icml2023-7d5ff035e7d8",
+      "icml2023-b70fe58f3956",
+      "icml2023-6118478ab8c7",
+      "icml2023-663027db6cae",
+      "icml2023-a917114841e8",
+      "icml2023-dc75e8ca21d2",
+      "icml2023-d2b504f98cd2",
+      "icml2023-c8af3ad3c28d",
+      "icml2023-3636fc85e00f",
+      "icml2023-26a525f80873",
+      "icml2023-5ef700885509",
+      "icml2023-a6ffd7b664c1",
+      "icml2023-490cf6a79a59",
+      "icml2023-6ab48adda2f9",
+      "icml2023-c56711b8fe41"
+    ],
+    "phaseC_delta": [
+      0,
+      -16,
+      -16,
+      -16
+    ],
+    "direct_v281_delta": [
+      2,
+      -17,
+      -17,
+      -17
+    ],
+    "new_unique_abstract_credit": 0,
+    "new_unique_body_credit": 0,
+    "conference_stage_changes": []
+  },
+  "icml2023_five_author_component_restorations_20261022": {
+    "baseline_version": 282,
+    "baseline_commit": "9eac95286b9c42af3a51e88029e743365052d0d5",
+    "at_utc": "2026-10-22T11:17:43.154738+00:00",
+    "before": [
+      1956,
+      1218,
+      1295,
+      1471
+    ],
+    "after": [
+      1956,
+      1223,
+      1300,
+      1476
+    ],
+    "delta": [
+      0,
+      5,
+      5,
+      5
+    ],
+    "old_card_material_completions": 5,
+    "new_papers": 0,
+    "first_discoveries": 0,
+    "unique_abstract_credit": 0,
+    "unique_focused_body_credit": 0,
+    "whole_paper_credit": 0,
+    "pending": 141,
+    "unique_reads": [
+      13144,
+      4283
+    ],
+    "old_partial_before": 738,
+    "old_partial_after": 733,
+    "ids": [
+      "icml2023-81994180487e",
+      "icml2023-7d5ff035e7d8",
+      "icml2023-3636fc85e00f",
+      "icml2023-a6ffd7b664c1",
+      "icml2023-6ab48adda2f9"
+    ],
+    "conference_stage_changes": [],
+    "published": false,
+    "source_note": "Exact licensed author-version components, not PMLR publisher originals. Formal authors, institutions, Paper/PDF links, top-level formal PDF hashes and resources remain unchanged."
+  },
+  "four_complete_20261022": {
+    "baseline_version": 283,
+    "baseline_commit": "50fe7560b1bff7745ac52db16440587b5055669b",
+    "at_utc": "2026-10-22T11:42:32.094580+00:00",
+    "before": [
+      1956,
+      1223,
+      1300,
+      1476
+    ],
+    "after": [
+      1960,
+      1227,
+      1304,
+      1480
+    ],
+    "delta": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "first_public_inclusions": 4,
+    "first_discoveries": 0,
+    "scope_restorations": 0,
+    "old_core_upgrades": 0,
+    "new_public_ids": [
+      "icml2026-479dea12617d",
+      "icml2026-14c430ee4e73",
+      "icml2026-e32e8ae67170",
+      "icml2023-99744277c14e"
+    ],
+    "pending_before": 141,
+    "pending_added_ids": [
+      "icml2026-9754f1a30393"
+    ],
+    "pending_added_delta": 1,
+    "pending_removed_ids": [
+      "icml2023-99744277c14e"
+    ],
+    "pending_removed_delta": -1,
+    "pending_after": 141,
+    "reading_before": [
+      13144,
+      4283
+    ],
+    "reading_after": [
+      13148,
+      4287
+    ],
+    "reading_source_delta": [
+      4,
+      4
+    ],
+    "reading_ids": [
+      "icml2026-479dea12617d",
+      "icml2026-14c430ee4e73",
+      "icml2026-e32e8ae67170",
+      "icml2026-9754f1a30393"
+    ],
+    "new_reading_in_1128_1228_window": [
+      0,
+      0
+    ],
+    "reading_timing_note": "All four reads completed before 11:28 UTC and were already reported then. This is persistence of reading evidence, not a new current-hour reading claim. Yang was already counted before 10:28 UTC and earns zero additional reading.",
+    "whole_paper_credit": 0,
+    "partial_before": 733,
+    "partial_after": 733,
+    "conference_stage_changes": [],
+    "published": false,
+    "publication_note": "Source and preparatory static artifact only; no official build, commit, save or deployment.",
+    "material_release": {
+      "id": "icml2023-99744277c14e",
+      "scope_restoration": false,
+      "unique_reading_delta": [
+        0,
+        0
+      ],
+      "source_kind": "licensed_author_pdf",
+      "version": "arXiv:2303.01569v1",
+      "prior_hold_history_preserved": true
+    }
+  },
+  "bevan_first_page_nc_hold_20261022": {
+    "id": "icml2022-fef4338f047a",
+    "at_utc": "2026-10-22T11:47:41.195687+00:00",
+    "reason": "First-page preview temporarily withheld: embedded ISIC 2020 image panels carry a CC BY-NC 4.0 condition, and compatibility of this catalogue use has not been confirmed. Original paper/PDF links remain available.",
+    "main_figure_preserved": true,
+    "main_figure_evidence": "Figure5/page6 is two AUC bar charts, visually verified by audit; not the eight NC clinical image panels from Figure1.",
+    "before_core": true,
+    "after_core": false,
+    "delta": [
+      0,
+      -1,
+      -1,
+      0
+    ],
+    "reading_delta": [
+      0,
+      0
+    ],
+    "scope_change": false,
+    "pending_change": 0
+  },
+  "icml2020_2022_legacy_material_correction_20261022": {
+    "baseline_version": 284,
+    "baseline_commit": "1c4200a30d50b4cf85dde920b035f0f0d59e321a",
+    "as_of_utc": "2026-10-22T12:33:49.788733+00:00",
+    "before": {
+      "records": 1960,
+      "core": 1226,
+      "pairs": 1303,
+      "licensed": 1480,
+      "partial": 734
+    },
+    "after": {
+      "records": 1960,
+      "core": 1125,
+      "pairs": 1202,
+      "licensed": 1378,
+      "partial": 835
+    },
+    "hold_ids": [
+      "ICML2020-chen20h",
+      "ICML2020-brennan20a",
+      "ICML2020-bao20b",
+      "ICML2020-alaa20b",
+      "ICML2020-cai20b",
+      "ICML2020-angermueller20a",
+      "ICML2020-bica20a",
+      "icml2020-810",
+      "icml2020-337",
+      "icml2020-535",
+      "icml2020-cuturi20a",
+      "icml2020-el-bouri20a",
+      "icml2020-fernandez20a",
+      "icml2020-ghassami20a",
+      "icml2020-gottesman20a",
+      "icml2020-gottipati20a",
+      "icml2020-grasshoff20a",
+      "icml2020-heckel20a",
+      "icml2020-heo20a",
+      "icml2020-horn20a",
+      "icml2020-jin20b",
+      "icml2020-kallus20a",
+      "icml2020-keeley20a",
+      "icml2020-kunin20a",
+      "icml2020-laforgue20a",
+      "icml2020-liang20c",
+      "icml2020-makar20a",
+      "icml2020-matsoukas20a",
+      "icml2020-monfared20a",
+      "icml2020-nguyen20a",
+      "icml2020-pakman20a",
+      "icml2020-quinn20a",
+      "icml2020-saeed20a",
+      "icml2020-saito20a",
+      "icml2020-shi20c",
+      "icml2020-tang20c",
+      "icml2020-tolooshams20a",
+      "icml2020-tong20a",
+      "icml2020-tsai20a",
+      "icml2020-wang20h",
+      "icml2020-wang20m",
+      "icml2020-wang20o",
+      "icml2020-wang20w",
+      "icml2020-wei20b",
+      "icml2020-williamson20a",
+      "icml2020-yang20e",
+      "icml2020-zhu20c",
+      "icml2020-zimmer20a",
+      "icml2020-zoltowski20a",
+      "icml2020-zhang20a",
+      "icml2021-4707e5d53537",
+      "icml2021-1ac25cbd15f8",
+      "icml2021-84f4f52181cc",
+      "icml2021-b7596f3c1f27",
+      "icml2021-e8d43e8fe305",
+      "icml2021-3362cb78051d",
+      "icml2021-51ace72e1192",
+      "icml2021-fc6f9080e686",
+      "icml2021-bertail21a",
+      "icml2021-bevilacqua21a",
+      "icml2021-cai21a",
+      "icml2021-cao21a",
+      "icml2021-catav21a",
+      "icml2021-caucheteux21a",
+      "icml2021-crabbe21a",
+      "icml2021-danks21a",
+      "icml2021-darestani21a",
+      "icml2021-dawkins21a",
+      "icml2021-henderson21a",
+      "icml2021-jarrett21a",
+      "icml2021-jha21b",
+      "icml2021-kelkar21a",
+      "icml2021-kenlay21a",
+      "icml2021-kim21h",
+      "icml2021-laturnus21a",
+      "icml2021-liang21c",
+      "icml2021-lin21d",
+      "icml2021-liu21g",
+      "icml2021-lu21e",
+      "icml2021-meirom21a",
+      "icml2021-morrill21b",
+      "icml2021-neto21a",
+      "icml2021-qin21b",
+      "icml2021-rao21a",
+      "icml2021-luo21a",
+      "icml2021-a8d20e0e9d03",
+      "icml2021-97b7911351a3",
+      "icml2021-audiffren21a",
+      "icml2022-ccbab5712939",
+      "icml2022-8839d79b0bf8",
+      "icml2022-b7cab5045ab4",
+      "icml2022-689bffed9d95",
+      "icml2022-f9d8b700edfa",
+      "icml2022-8942d18afa89",
+      "icml2022-5fdcea526418",
+      "icml2022-1e1a7e1dd920",
+      "icml2022-fef4338f047a",
+      "icml2022-e3ba38101acd",
+      "icml2022-e064e21b5c42",
+      "icml2022-3b4ab092cf88",
+      "icml2022-45b2c86c2919",
+      "icml2022-6e56b9e51f03"
+    ],
+    "new_component_holds": 305,
+    "new_papers": 0,
+    "new_unique_abstract_reads": 0,
+    "new_unique_focused_body_reads": 0,
+    "pending": 141,
+    "unique_reads": [
+      13148,
+      4287
+    ],
+    "stage_changes": 0,
+    "published": false,
+    "author_replacement_ids": [
+      "ICML2020-chan20a",
+      "icml2022-c55abbbe3411",
+      "icml2022-943c87a5b13d"
+    ],
+    "unpublished_intermediate_hold_restore_not_new_completion": [
+      "icml2022-c55abbbe3411",
+      "icml2022-943c87a5b13d"
+    ]
+  },
+  "cells_clocs_20261022": {
+    "baseline_version": 285,
+    "baseline_commit": "84b2ee6f86a76d5ddae705ab95506f83437fe977",
+    "at_utc": "2026-10-22T12:58:56.198264+00:00",
+    "before": {
+      "records": 1960,
+      "core": 1125,
+      "pairs": 1202,
+      "licensed": 1378,
+      "partial": 835
+    },
+    "after": {
+      "records": 1962,
+      "core": 1128,
+      "pairs": 1205,
+      "licensed": 1381,
+      "partial": 834
+    },
+    "new_public_ids": [
+      "icml2026-9e680848e012",
+      "icml2026-59a90184f495"
+    ],
+    "author_restoration_id": "icml2021-1ac25cbd15f8",
+    "first_discoveries": 0,
+    "new_public_inclusions": 2,
+    "source_reading_delta": [
+      2,
+      2
+    ],
+    "unique_before": [
+      13148,
+      4287
+    ],
+    "unique_after": [
+      13150,
+      4289
+    ],
+    "new_reads_1228_1328": [
+      0,
+      0
+    ],
+    "author_restoration_unique_credit": 0,
+    "entire_paper_credit": 0,
+    "pending": 141,
+    "stage_changes": 0,
+    "published": false,
+    "reading_completed_at_utc": [
+      "2026-10-22T12:25:22Z",
+      "2026-10-22T12:25:53.792786Z"
+    ]
+  },
+  "protein_performance_20261022": {
+    "baseline_version": 286,
+    "baseline_commit": "79afe0a3a6601e7f12f4561365da93d32ebd7d5f",
+    "at_utc": "2026-10-22T13:27:45.845660+00:00",
+    "before": {
+      "records": 1962,
+      "core": 1128,
+      "pairs": 1205,
+      "licensed": 1381,
+      "partial": 834
+    },
+    "after": {
+      "records": 1967,
+      "core": 1133,
+      "pairs": 1210,
+      "licensed": 1386,
+      "partial": 834
+    },
+    "new_public_ids": [
+      "icml2025-acd286f6683f",
+      "icml2025-4b3e9a08f325",
+      "icml2025-c3d3b3a058d2",
+      "icml2025-a3f8f259bdd5",
+      "icml2025-fd98200ba0b3"
+    ],
+    "pending_id": "icml2025-845922fc56fc",
+    "pending_before": 141,
+    "pending_after": 142,
+    "first_discoveries": 0,
+    "scope_restorations": 0,
+    "new_public_inclusions": 5,
+    "first_ever_public_status": "unproven; no assertion",
+    "source_reading_delta": [
+      1,
+      1
+    ],
+    "actual_reading_actions": [
+      6,
+      6
+    ],
+    "new_reads_1228_1328": [
+      6,
+      6
+    ],
+    "unique_before": [
+      13150,
+      4289
+    ],
+    "unique_after": [
+      13151,
+      4290
+    ],
+    "historical_completion_unresolved": 5,
+    "unique_credits_by_publisher_id": {
+      "song25e": 1,
+      "qiu25i": 0,
+      "meshchaninov25a": 0,
+      "widatalla25a": 0,
+      "palma25a": 0,
+      "wenteler25a": 0
+    },
+    "reading_events": [
+      {
+        "publisher_id": "song25e",
+        "completed_at_utc": "2026-10-22T13:06:28Z",
+        "principal_body_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "targeted_appendix_pages": [
+          22,
+          23
+        ],
+        "complete_original_abstract_read": true,
+        "whole_appendix_read": false
+      },
+      {
+        "publisher_id": "qiu25i",
+        "completed_at_utc": "2026-10-22T13:06:28Z",
+        "principal_body_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "targeted_appendix_pages": [
+          13
+        ],
+        "complete_original_abstract_read": true,
+        "whole_appendix_read": false
+      },
+      {
+        "publisher_id": "widatalla25a",
+        "completed_at_utc": "2026-10-22T13:09:31.317860+00:00",
+        "principal_body_pages": "Final PDF principal pages 1–9, focused methods and experimental results; references not claimed fully read.",
+        "targeted_appendix_pages": "Page15 dataset splits and pages24–26 fitness evaluation/sidechain metrics; not all appendices.",
+        "complete_original_abstract_read": true,
+        "whole_appendix_read": false
+      },
+      {
+        "publisher_id": "meshchaninov25a",
+        "completed_at_utc": "2026-10-22T13:09:31.317860+00:00",
+        "principal_body_pages": "Final PDF principal pages 1–9, focused methods and experimental results; references not claimed fully read.",
+        "targeted_appendix_pages": "Pages16–18 and20 (dataset/metric sections), later appendix snippets only; not all appendices.",
+        "complete_original_abstract_read": true,
+        "whole_appendix_read": false
+      },
+      {
+        "publisher_id": "wenteler25a",
+        "completed_at_utc": "2026-10-22T13:06:48.488560+00:00",
+        "principal_body_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "targeted_appendix_pages": [
+          13,
+          14,
+          23,
+          24
+        ],
+        "complete_original_abstract_read": true,
+        "whole_appendix_read": false
+      },
+      {
+        "publisher_id": "palma25a",
+        "completed_at_utc": "2026-10-22T13:06:48.488560+00:00",
+        "principal_body_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "targeted_appendix_pages": [
+          13,
+          21,
+          22
+        ],
+        "complete_original_abstract_read": true,
+        "whole_appendix_read": false
+      }
+    ],
+    "stage_changes": 0,
+    "published": false,
+    "app_before_sha256": "66fc935d437fdbed731ac38a59e439aed005d14409dd77af12ef7fd9f12a28a3",
+    "app_after_sha256": "6a4b3092cb821487b26cfe440b6b7f54a5d7b90dc1faf33705b4e54ee0ab3894"
+  },
+  "db_track_20261022": {
+    "baseline_version": 287,
+    "baseline_commit": "4071cd53bbe95c494836cc2ad384d7ed3358daf8",
+    "at_utc": "2026-10-22T14:21:29.055454+00:00",
+    "before": {
+      "records": 1967,
+      "core": 1133,
+      "pairs": 1210,
+      "licensed": 1386,
+      "partial": 834
+    },
+    "after": {
+      "records": 1969,
+      "core": 1135,
+      "pairs": 1212,
+      "licensed": 1388,
+      "partial": 834
+    },
+    "new_public_ids": [
+      "neurips2025-6490720ac177",
+      "neurips2025-86a4ea51ccac"
+    ],
+    "pending_ids": [
+      "neurips2025-12750d99d0fa",
+      "neurips2025-1ca47465a87b",
+      "neurips2025-5e0d42bf1eaa",
+      "neurips2025-5482008bd0d4"
+    ],
+    "pending_before": 142,
+    "pending_after": 146,
+    "actual_reading_actions": [
+      6,
+      6
+    ],
+    "source_reading_delta": [
+      6,
+      6
+    ],
+    "new_reads_1328_1428": [
+      6,
+      6
+    ],
+    "unique_before": [
+      13151,
+      4290
+    ],
+    "unique_after": [
+      13157,
+      4296
+    ],
+    "reading_events": [
+      {
+        "id": "neurips2025-12750d99d0fa",
+        "title": "DrVD-Bench: Do Vision-Language Models Reason Like Human Doctors in Medical Image Diagnosis?",
+        "abstract_actual_completed": true,
+        "focused_body_actual_completed": true,
+        "reading_start_utc": "2026-10-22T13:58:48Z",
+        "reading_end_utc": "2026-10-22T14:01:30Z",
+        "range": {
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "scope": "focused principal text and selected evidence, not all appendices"
+        },
+        "whole_appendix_read": false,
+        "duplicate_parent_and_worker_abstract_reads_counted_once": true,
+        "actual_abstract_action_credit": 1,
+        "actual_focused_body_action_credit": 1,
+        "unique_credit_basis": "No exact title/hash/current identity/historical345blob fields or arXiv/OpenReview alias hits; no prior completion in bounded1142 reading/scope/screen/decision records. This is an accessible-evidence lower-bound attribution, not proof of never being read elsewhere.",
+        "provisional_unique_abstract_credit": 1,
+        "provisional_unique_focused_body_credit": 1
+      },
+      {
+        "id": "neurips2025-1ca47465a87b",
+        "title": "CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs",
+        "abstract_actual_completed": true,
+        "focused_body_actual_completed": true,
+        "reading_start_utc": "2026-10-22T13:58:48Z",
+        "reading_end_utc": "2026-10-22T14:01:02Z",
+        "range": {
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            15
+          ],
+          "scope": "focused principal text and selected evidence, not all appendices"
+        },
+        "whole_appendix_read": false,
+        "duplicate_parent_and_worker_abstract_reads_counted_once": true,
+        "actual_abstract_action_credit": 1,
+        "actual_focused_body_action_credit": 1,
+        "unique_credit_basis": "No exact title/hash/current identity/historical345blob fields or arXiv/OpenReview alias hits; no prior completion in bounded1142 reading/scope/screen/decision records. This is an accessible-evidence lower-bound attribution, not proof of never being read elsewhere.",
+        "provisional_unique_abstract_credit": 1,
+        "provisional_unique_focused_body_credit": 1
+      },
+      {
+        "id": "neurips2025-5e0d42bf1eaa",
+        "title": "SMMILE: An Expert-Driven Benchmark for Multimodal Medical In-Context Learning",
+        "abstract_actual_completed": true,
+        "focused_body_actual_completed": true,
+        "reading_start_utc": "2026-10-22T13:58:48Z",
+        "reading_end_utc": "2026-10-22T14:01:02Z",
+        "range": {
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            28
+          ],
+          "scope": "focused principal text and selected evidence, not all appendices"
+        },
+        "whole_appendix_read": false,
+        "duplicate_parent_and_worker_abstract_reads_counted_once": true,
+        "actual_abstract_action_credit": 1,
+        "actual_focused_body_action_credit": 1,
+        "unique_credit_basis": "No exact title/hash/current identity/historical345blob fields or arXiv/OpenReview alias hits; no prior completion in bounded1142 reading/scope/screen/decision records. This is an accessible-evidence lower-bound attribution, not proof of never being read elsewhere.",
+        "provisional_unique_abstract_credit": 1,
+        "provisional_unique_focused_body_credit": 1
+      },
+      {
+        "id": "neurips2025-5482008bd0d4",
+        "title": "DecoyDB: A Dataset for Graph Contrastive Learning in Protein-Ligand Binding Affinity Prediction",
+        "abstract_actual_completed": true,
+        "focused_body_actual_completed": true,
+        "reading_start_utc": "2026-10-22T13:58:29Z",
+        "reading_end_utc": "2026-10-22T13:58:53Z",
+        "range": "Complete PDF abstract and principal text pages 1–10; no appendix full read",
+        "whole_appendix_read": false,
+        "duplicate_parent_and_worker_abstract_reads_counted_once": true,
+        "actual_abstract_action_credit": 1,
+        "actual_focused_body_action_credit": 1,
+        "unique_credit_basis": "No exact title/hash/current identity/historical345blob fields or arXiv/OpenReview alias hits; no prior completion in bounded1142 reading/scope/screen/decision records. This is an accessible-evidence lower-bound attribution, not proof of never being read elsewhere.",
+        "provisional_unique_abstract_credit": 1,
+        "provisional_unique_focused_body_credit": 1
+      },
+      {
+        "id": "neurips2025-6490720ac177",
+        "title": "Towards Precision Protein-Ligand Affinity Prediction Benchmark: A Complete and Modification-Aware DAVIS Dataset",
+        "abstract_actual_completed": true,
+        "focused_body_actual_completed": true,
+        "reading_start_utc": "2026-10-22T13:58:53Z",
+        "reading_end_utc": "2026-10-22T13:59:36Z",
+        "range": "Complete PDF abstract, principal sections 1–6 pages 1–10, focused Appendix H pages 21–22; not whole appendix",
+        "whole_appendix_read": false,
+        "duplicate_parent_and_worker_abstract_reads_counted_once": true,
+        "actual_abstract_action_credit": 1,
+        "actual_focused_body_action_credit": 1,
+        "unique_credit_basis": "No exact title/hash/current identity/historical345blob fields or arXiv/OpenReview alias hits; no prior completion in bounded1142 reading/scope/screen/decision records. This is an accessible-evidence lower-bound attribution, not proof of never being read elsewhere.",
+        "provisional_unique_abstract_credit": 1,
+        "provisional_unique_focused_body_credit": 1
+      },
+      {
+        "id": "neurips2025-86a4ea51ccac",
+        "title": "PRING: Rethinking Protein-Protein Interaction Prediction from Pairs to Graphs",
+        "abstract_actual_completed": true,
+        "focused_body_actual_completed": true,
+        "reading_start_utc": "2026-10-22T13:59:13Z",
+        "reading_end_utc": "2026-10-22T13:59:36Z",
+        "range": "Complete PDF abstract; sections 3–4 methods/experiments pages 4–10 plus conclusion page 11 and Appendix B page 27; no full appendix read",
+        "whole_appendix_read": false,
+        "duplicate_parent_and_worker_abstract_reads_counted_once": true,
+        "actual_abstract_action_credit": 1,
+        "actual_focused_body_action_credit": 1,
+        "unique_credit_basis": "No exact title/hash/current identity/historical345blob fields or arXiv/OpenReview alias hits; no prior completion in bounded1142 reading/scope/screen/decision records. This is an accessible-evidence lower-bound attribution, not proof of never being read elsewhere.",
+        "provisional_unique_abstract_credit": 1,
+        "provisional_unique_focused_body_credit": 1
+      }
+    ],
+    "first_discoveries": 0,
+    "scope_restorations": 0,
+    "first_ever_public_status": "unproven; no assertion",
+    "published": false,
+    "track_coverage_expansion": true,
+    "reading_basis": "Six complete abstracts and six focused principal-body reads; no whole-appendix claim. The 497-entry metadata inventory is not abstract screening completion. Six scientific IN: two public profiles and four material HOLDs. Unique lower-bound credit uses 345 historical identity-field blobs and a bounded 1142-file prior-reading audit with no alias/completion hit; not proof of never-before reading. Prior aggregate totals are inherited registration, not a new historical certification; prior ACL per-ID manifest gap remains unresolved."
+  },
+  "clinical_drug_20261022": {
+    "accepted_at_utc": "2026-10-22T15:36:39.605486+00:00",
+    "baseline_version": 290,
+    "baseline_commit": "c853c9459bf4be3a861c4774cf8ae4d42bc28998",
+    "new_public_ids": [
+      "icml2026-8dca79ef1691",
+      "icml2026-7739e7022db5",
+      "icml2026-558d8c4060bf",
+      "icml2026-5af3fa109029",
+      "icml2026-6e087b3c9938"
+    ],
+    "scientific_out_ids": [
+      "icml2026-b0210d589be0"
+    ],
+    "scientific_out_publisher_ids": [
+      "gatzner26a"
+    ],
+    "before": {
+      "records": 1976,
+      "core": 1142,
+      "pairs": 1219,
+      "licensed": 1395,
+      "partial": 834
+    },
+    "after": {
+      "records": 1981,
+      "core": 1147,
+      "pairs": 1224,
+      "licensed": 1400,
+      "partial": 834
+    },
+    "pending_before": 145,
+    "pending_after": 145,
+    "source_reading_delta": [
+      6,
+      6
+    ],
+    "unique_before": [
+      13163,
+      4302
+    ],
+    "unique_after": [
+      13169,
+      4308
+    ],
+    "new_reads_after_1528": [
+      0,
+      0
+    ],
+    "already_reported_hour_utc": "2026-10-22 14:28–15:28",
+    "whole_paper_increment": 0,
+    "stage_changes": [],
+    "published": false,
+    "excluded_aggregate_note": "Historical excluded_candidates61 is preserved; this scientific OUT is tracked separately, not silently conflated with historic partial aggregate."
+  },
+  "further_six_20261022": {
+    "accepted_at_utc": "2026-10-22T16:07:58.221772+00:00",
+    "baseline_version": 291,
+    "baseline_commit": "fffd6e569ef84817ef036603935da7067c093b33",
+    "new_public_ids": [
+      "icml2026-489a77c09a3d",
+      "icml2026-730bafff98ed",
+      "icml2026-15b80e9e604c",
+      "icml2026-636dd69c47b5",
+      "icml2026-4a490bd844d0",
+      "icml2026-2af0581aee3d"
+    ],
+    "scientific_out_ids": [],
+    "scientific_out_publisher_ids": [],
+    "before": {
+      "records": 1981,
+      "core": 1147,
+      "pairs": 1224,
+      "licensed": 1400,
+      "partial": 834
+    },
+    "after": {
+      "records": 1987,
+      "core": 1153,
+      "pairs": 1230,
+      "licensed": 1406,
+      "partial": 834
+    },
+    "pending_before": 145,
+    "pending_after": 145,
+    "source_reading_delta": [
+      6,
+      6
+    ],
+    "unique_before": [
+      13169,
+      4308
+    ],
+    "unique_after": [
+      13175,
+      4314
+    ],
+    "new_reads_after_1528": [
+      6,
+      6
+    ],
+    "whole_paper_increment": 0,
+    "stage_changes": [],
+    "published": false,
+    "excluded_aggregate_note": "Historical excluded aggregate and prior separate scientific OUT remain unchanged; this batch has no OUT or HOLD."
+  },
+  "compass_20261022": {
+    "accepted_at_utc": "2026-10-22T16:30:36.725838+00:00",
+    "baseline_version": 292,
+    "baseline_commit": "180796480a52b521f56aebd0abe2e753a47d7337",
+    "new_public_ids": [
+      "iclr2026-uBy4TCgGiT"
+    ],
+    "before": {
+      "records": 1987,
+      "core": 1153,
+      "pairs": 1230,
+      "licensed": 1406,
+      "partial": 834
+    },
+    "after": {
+      "records": 1988,
+      "core": 1154,
+      "pairs": 1231,
+      "licensed": 1407,
+      "partial": 834
+    },
+    "pending_before": 145,
+    "pending_after": 145,
+    "source_reading_delta": [
+      6,
+      4
+    ],
+    "unique_before": [
+      13175,
+      4314
+    ],
+    "unique_after": [
+      13181,
+      4318
+    ],
+    "new_reading_at_integration": [
+      0,
+      0
+    ],
+    "accounting": "Backfill original 16:09–16:14 events already counted in user 16:28 report; no double counting.",
+    "whole_paper_increment": 0,
+    "stage_changes": [],
+    "published": false,
+    "material_hold_count": 3,
+    "incomplete_study_count": 2,
+    "scientific_out_count": 0
+  },
+  "next_medical_six_20261022": {
+    "accepted_at_utc": "2026-10-22T16:56:44.735770+00:00",
+    "baseline_version": 293,
+    "baseline_commit": "2861b994a3d9e16e10d40b2caf9fa741cc873623",
+    "new_public_ids": [
+      "icml2026-e1b8b9319634",
+      "icml2026-60a527ab8286",
+      "icml2026-a9fcf81bbc69",
+      "icml2026-7324f19736df",
+      "icml2026-592f363c82ba",
+      "icml2026-e8617adaad1a"
+    ],
+    "scientific_out_ids": [],
+    "scientific_out_publisher_ids": [],
+    "before": {
+      "records": 1988,
+      "core": 1154,
+      "pairs": 1231,
+      "licensed": 1407,
+      "partial": 834
+    },
+    "after": {
+      "records": 1994,
+      "core": 1160,
+      "pairs": 1237,
+      "licensed": 1413,
+      "partial": 834
+    },
+    "pending_before": 145,
+    "pending_after": 145,
+    "source_reading_delta": [
+      6,
+      6
+    ],
+    "new_reading_at_integration": [
+      0,
+      0
+    ],
+    "unique_before": [
+      13181,
+      4318
+    ],
+    "unique_after": [
+      13187,
+      4324
+    ],
+    "new_reads_after_1628": [
+      6,
+      6
+    ],
+    "whole_paper_increment": 0,
+    "stage_changes": [],
+    "published": false,
+    "excluded_aggregate_note": "Historical excluded aggregate and prior separate scientific OUT remain unchanged; this batch has no OUT or HOLD."
+  },
+  "acl_drvd_20261022": {
+    "accepted_at_utc": "2026-10-22T17:19:00Z",
+    "baseline_version": 294,
+    "baseline_commit": "65b24a3e65799d77aaa5ab4a9545bf7839b90184",
+    "new_public_ids": [
+      "2026.acl-long.17",
+      "2026.acl-long.743",
+      "2026.acl-long.1073",
+      "2026.acl-long.1140",
+      "2026.acl-long.1200",
+      "2026.acl-long.1517",
+      "neurips2025-12750d99d0fa"
+    ],
+    "new_unique_read_ids": [
+      "2026.acl-long.17",
+      "2026.acl-long.743",
+      "2026.acl-long.1073",
+      "2026.acl-long.1140",
+      "2026.acl-long.1200",
+      "2026.acl-long.1517"
+    ],
+    "promotion_ids": [
+      "neurips2025-12750d99d0fa"
+    ],
+    "before": {
+      "records": 1994,
+      "core": 1160,
+      "pairs": 1237,
+      "licensed": 1413,
+      "partial": 834
+    },
+    "after": {
+      "records": 2001,
+      "core": 1167,
+      "pairs": 1244,
+      "licensed": 1420,
+      "partial": 834
+    },
+    "pending_before": 145,
+    "pending_after": 144,
+    "source_reading_delta": [
+      6,
+      6
+    ],
+    "promotion_reading_delta": [
+      0,
+      0
+    ],
+    "new_reading_at_integration": [
+      0,
+      0
+    ],
+    "unique_before": [
+      13187,
+      4324
+    ],
+    "unique_after": [
+      13193,
+      4330
+    ],
+    "whole_paper_increment": 0,
+    "stage_changes": {
+      "before": {
+        "definition": "Distinct existing progress track rows by recorded stage. Conference/edition counts are the coverage of these tracks, not claims that every track in those conferences or editions is complete.",
+        "predicates": {
+          "started": "unique_abstracts_reviewed > 0",
+          "abstract_complete": "abstract_review_complete is true",
+          "final_complete": "screening_complete is true"
+        },
+        "new_reading_credit": [
+          0,
+          0
+        ],
+        "started": {
+          "conferences": 11,
+          "editions": 42,
+          "tracks": 59,
+          "track_keys": [
+            [
+              "AAAI",
+              2020,
+              "All eligible full tracks"
+            ],
+            [
+              "AAAI",
+              2021,
+              "AI for Social Impact"
+            ],
+            [
+              "AAAI",
+              2021,
+              "Main"
+            ],
+            [
+              "AAAI",
+              2022,
+              "AI for Social Impact"
+            ],
+            [
+              "AAAI",
+              2022,
+              "Main"
+            ],
+            [
+              "AAAI",
+              2023,
+              "AI for Social Impact"
+            ],
+            [
+              "AAAI",
+              2023,
+              "Main"
+            ],
+            [
+              "AAAI",
+              2023,
+              "Safe and Robust AI"
+            ],
+            [
+              "AAAI",
+              2024,
+              "AI for Social Impact"
+            ],
+            [
+              "AAAI",
+              2024,
+              "Main"
+            ],
+            [
+              "ACL",
+              2020,
+              "Main"
+            ],
+            [
+              "ACL",
+              2021,
+              "Findings"
+            ],
+            [
+              "ACL",
+              2021,
+              "Main"
+            ],
+            [
+              "ACL",
+              2022,
+              "Findings"
+            ],
+            [
+              "ACL",
+              2022,
+              "Main"
+            ],
+            [
+              "ACL",
+              2023,
+              "Findings"
+            ],
+            [
+              "ACL",
+              2023,
+              "Main"
+            ],
+            [
+              "ACL",
+              2024,
+              "Findings"
+            ],
+            [
+              "ACL",
+              2024,
+              "Main"
+            ],
+            [
+              "ACL",
+              2025,
+              "Findings"
+            ],
+            [
+              "ACL",
+              2025,
+              "Main"
+            ],
+            [
+              "CVPR",
+              2020,
+              "Main"
+            ],
+            [
+              "CVPR",
+              2021,
+              "Main"
+            ],
+            [
+              "CVPR",
+              2022,
+              "Main"
+            ],
+            [
+              "CVPR",
+              2023,
+              "Main"
+            ],
+            [
+              "CVPR",
+              2024,
+              "Main"
+            ],
+            [
+              "CVPR",
+              2025,
+              "Main"
+            ],
+            [
+              "CVPR",
+              2026,
+              "Main"
+            ],
+            [
+              "ICCV",
+              2021,
+              "Main"
+            ],
+            [
+              "ICCV",
+              2023,
+              "Main"
+            ],
+            [
+              "ICCV",
+              2025,
+              "Main"
+            ],
+            [
+              "ICLR",
+              2026,
+              "Main"
+            ],
+            [
+              "ICML",
+              2020,
+              "Main"
+            ],
+            [
+              "ICML",
+              2021,
+              "Main"
+            ],
+            [
+              "ICML",
+              2022,
+              "Main"
+            ],
+            [
+              "ICML",
+              2023,
+              "Main"
+            ],
+            [
+              "ICML",
+              2024,
+              "Main"
+            ],
+            [
+              "ICML",
+              2025,
+              "Main"
+            ],
+            [
+              "ICML",
+              2026,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2020,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2021,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2022,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2023,
+              "AI for Good"
+            ],
+            [
+              "IJCAI",
+              2023,
+              "AI for Good - Projects"
+            ],
+            [
+              "IJCAI",
+              2023,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2024,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2025,
+              "AI and Social Good"
+            ],
+            [
+              "IJCAI",
+              2025,
+              "AI4Tech: AI Enabling Technologies"
+            ],
+            [
+              "IJCAI",
+              2025,
+              "Main"
+            ],
+            [
+              "KDD",
+              2020,
+              "Applied Data Science"
+            ],
+            [
+              "KDD",
+              2020,
+              "Research"
+            ],
+            [
+              "KDD",
+              2021,
+              "Applied Data Science"
+            ],
+            [
+              "KDD",
+              2021,
+              "Research"
+            ],
+            [
+              "NeurIPS",
+              2020,
+              "Main"
+            ],
+            [
+              "NeurIPS",
+              2024,
+              "Main"
+            ],
+            [
+              "NeurIPS",
+              2025,
+              "Datasets and Benchmarks"
+            ],
+            [
+              "NeurIPS",
+              2025,
+              "Main"
+            ],
+            [
+              "SIGIR",
+              2026,
+              "Main"
+            ],
+            [
+              "WWW",
+              2022,
+              "Main"
+            ]
+          ]
+        },
+        "abstract_complete": {
+          "conferences": 6,
+          "editions": 22,
+          "tracks": 34,
+          "track_keys": [
+            [
+              "AAAI",
+              2020,
+              "All eligible full tracks"
+            ],
+            [
+              "AAAI",
+              2021,
+              "AI for Social Impact"
+            ],
+            [
+              "AAAI",
+              2021,
+              "Main"
+            ],
+            [
+              "AAAI",
+              2022,
+              "AI for Social Impact"
+            ],
+            [
+              "AAAI",
+              2022,
+              "Main"
+            ],
+            [
+              "AAAI",
+              2023,
+              "AI for Social Impact"
+            ],
+            [
+              "AAAI",
+              2023,
+              "Safe and Robust AI"
+            ],
+            [
+              "AAAI",
+              2024,
+              "AI for Social Impact"
+            ],
+            [
+              "ACL",
+              2020,
+              "Main"
+            ],
+            [
+              "ACL",
+              2021,
+              "Findings"
+            ],
+            [
+              "ACL",
+              2021,
+              "Main"
+            ],
+            [
+              "ACL",
+              2022,
+              "Main"
+            ],
+            [
+              "ACL",
+              2023,
+              "Findings"
+            ],
+            [
+              "ACL",
+              2023,
+              "Main"
+            ],
+            [
+              "ACL",
+              2024,
+              "Findings"
+            ],
+            [
+              "ACL",
+              2024,
+              "Main"
+            ],
+            [
+              "ACL",
+              2025,
+              "Findings"
+            ],
+            [
+              "CVPR",
+              2020,
+              "Main"
+            ],
+            [
+              "CVPR",
+              2021,
+              "Main"
+            ],
+            [
+              "ICML",
+              2020,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2020,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2021,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2022,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2023,
+              "AI for Good"
+            ],
+            [
+              "IJCAI",
+              2023,
+              "AI for Good - Projects"
+            ],
+            [
+              "IJCAI",
+              2023,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2024,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2025,
+              "AI and Social Good"
+            ],
+            [
+              "IJCAI",
+              2025,
+              "AI4Tech: AI Enabling Technologies"
+            ],
+            [
+              "IJCAI",
+              2025,
+              "Main"
+            ],
+            [
+              "KDD",
+              2020,
+              "Applied Data Science"
+            ],
+            [
+              "KDD",
+              2020,
+              "Research"
+            ],
+            [
+              "KDD",
+              2021,
+              "Applied Data Science"
+            ],
+            [
+              "KDD",
+              2021,
+              "Research"
+            ]
+          ]
+        },
+        "final_complete": {
+          "conferences": 6,
+          "editions": 16,
+          "tracks": 18,
+          "track_keys": [
+            [
+              "AAAI",
+              2021,
+              "AI for Social Impact"
+            ],
+            [
+              "AAAI",
+              2022,
+              "AI for Social Impact"
+            ],
+            [
+              "AAAI",
+              2023,
+              "AI for Social Impact"
+            ],
+            [
+              "AAAI",
+              2023,
+              "Safe and Robust AI"
+            ],
+            [
+              "AAAI",
+              2024,
+              "AI for Social Impact"
+            ],
+            [
+              "ACL",
+              2021,
+              "Findings"
+            ],
+            [
+              "ACL",
+              2021,
+              "Main"
+            ],
+            [
+              "ACL",
+              2022,
+              "Main"
+            ],
+            [
+              "ACL",
+              2023,
+              "Main"
+            ],
+            [
+              "ACL",
+              2024,
+              "Main"
+            ],
+            [
+              "CVPR",
+              2020,
+              "Main"
+            ],
+            [
+              "CVPR",
+              2021,
+              "Main"
+            ],
+            [
+              "ICML",
+              2020,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2020,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2021,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2022,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2025,
+              "AI and Social Good"
+            ],
+            [
+              "KDD",
+              2020,
+              "Applied Data Science"
+            ]
+          ]
+        }
+      },
+      "after": {
+        "definition": "Distinct existing progress track rows by recorded stage. Conference/edition counts are the coverage of these tracks, not claims that every track in those conferences or editions is complete.",
+        "predicates": {
+          "started": "unique_abstracts_reviewed > 0",
+          "abstract_complete": "abstract_review_complete is true",
+          "final_complete": "screening_complete is true"
+        },
+        "new_reading_credit": [
+          0,
+          0
+        ],
+        "started": {
+          "conferences": 11,
+          "editions": 43,
+          "tracks": 60,
+          "track_keys": [
+            [
+              "AAAI",
+              2020,
+              "All eligible full tracks"
+            ],
+            [
+              "AAAI",
+              2021,
+              "AI for Social Impact"
+            ],
+            [
+              "AAAI",
+              2021,
+              "Main"
+            ],
+            [
+              "AAAI",
+              2022,
+              "AI for Social Impact"
+            ],
+            [
+              "AAAI",
+              2022,
+              "Main"
+            ],
+            [
+              "AAAI",
+              2023,
+              "AI for Social Impact"
+            ],
+            [
+              "AAAI",
+              2023,
+              "Main"
+            ],
+            [
+              "AAAI",
+              2023,
+              "Safe and Robust AI"
+            ],
+            [
+              "AAAI",
+              2024,
+              "AI for Social Impact"
+            ],
+            [
+              "AAAI",
+              2024,
+              "Main"
+            ],
+            [
+              "ACL",
+              2020,
+              "Main"
+            ],
+            [
+              "ACL",
+              2021,
+              "Findings"
+            ],
+            [
+              "ACL",
+              2021,
+              "Main"
+            ],
+            [
+              "ACL",
+              2022,
+              "Findings"
+            ],
+            [
+              "ACL",
+              2022,
+              "Main"
+            ],
+            [
+              "ACL",
+              2023,
+              "Findings"
+            ],
+            [
+              "ACL",
+              2023,
+              "Main"
+            ],
+            [
+              "ACL",
+              2024,
+              "Findings"
+            ],
+            [
+              "ACL",
+              2024,
+              "Main"
+            ],
+            [
+              "ACL",
+              2025,
+              "Findings"
+            ],
+            [
+              "ACL",
+              2025,
+              "Main"
+            ],
+            [
+              "ACL",
+              2026,
+              "Main"
+            ],
+            [
+              "CVPR",
+              2020,
+              "Main"
+            ],
+            [
+              "CVPR",
+              2021,
+              "Main"
+            ],
+            [
+              "CVPR",
+              2022,
+              "Main"
+            ],
+            [
+              "CVPR",
+              2023,
+              "Main"
+            ],
+            [
+              "CVPR",
+              2024,
+              "Main"
+            ],
+            [
+              "CVPR",
+              2025,
+              "Main"
+            ],
+            [
+              "CVPR",
+              2026,
+              "Main"
+            ],
+            [
+              "ICCV",
+              2021,
+              "Main"
+            ],
+            [
+              "ICCV",
+              2023,
+              "Main"
+            ],
+            [
+              "ICCV",
+              2025,
+              "Main"
+            ],
+            [
+              "ICLR",
+              2026,
+              "Main"
+            ],
+            [
+              "ICML",
+              2020,
+              "Main"
+            ],
+            [
+              "ICML",
+              2021,
+              "Main"
+            ],
+            [
+              "ICML",
+              2022,
+              "Main"
+            ],
+            [
+              "ICML",
+              2023,
+              "Main"
+            ],
+            [
+              "ICML",
+              2024,
+              "Main"
+            ],
+            [
+              "ICML",
+              2025,
+              "Main"
+            ],
+            [
+              "ICML",
+              2026,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2020,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2021,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2022,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2023,
+              "AI for Good"
+            ],
+            [
+              "IJCAI",
+              2023,
+              "AI for Good - Projects"
+            ],
+            [
+              "IJCAI",
+              2023,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2024,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2025,
+              "AI and Social Good"
+            ],
+            [
+              "IJCAI",
+              2025,
+              "AI4Tech: AI Enabling Technologies"
+            ],
+            [
+              "IJCAI",
+              2025,
+              "Main"
+            ],
+            [
+              "KDD",
+              2020,
+              "Applied Data Science"
+            ],
+            [
+              "KDD",
+              2020,
+              "Research"
+            ],
+            [
+              "KDD",
+              2021,
+              "Applied Data Science"
+            ],
+            [
+              "KDD",
+              2021,
+              "Research"
+            ],
+            [
+              "NeurIPS",
+              2020,
+              "Main"
+            ],
+            [
+              "NeurIPS",
+              2024,
+              "Main"
+            ],
+            [
+              "NeurIPS",
+              2025,
+              "Datasets and Benchmarks"
+            ],
+            [
+              "NeurIPS",
+              2025,
+              "Main"
+            ],
+            [
+              "SIGIR",
+              2026,
+              "Main"
+            ],
+            [
+              "WWW",
+              2022,
+              "Main"
+            ]
+          ]
+        },
+        "abstract_complete": {
+          "conferences": 6,
+          "editions": 22,
+          "tracks": 34,
+          "track_keys": [
+            [
+              "AAAI",
+              2020,
+              "All eligible full tracks"
+            ],
+            [
+              "AAAI",
+              2021,
+              "AI for Social Impact"
+            ],
+            [
+              "AAAI",
+              2021,
+              "Main"
+            ],
+            [
+              "AAAI",
+              2022,
+              "AI for Social Impact"
+            ],
+            [
+              "AAAI",
+              2022,
+              "Main"
+            ],
+            [
+              "AAAI",
+              2023,
+              "AI for Social Impact"
+            ],
+            [
+              "AAAI",
+              2023,
+              "Safe and Robust AI"
+            ],
+            [
+              "AAAI",
+              2024,
+              "AI for Social Impact"
+            ],
+            [
+              "ACL",
+              2020,
+              "Main"
+            ],
+            [
+              "ACL",
+              2021,
+              "Findings"
+            ],
+            [
+              "ACL",
+              2021,
+              "Main"
+            ],
+            [
+              "ACL",
+              2022,
+              "Main"
+            ],
+            [
+              "ACL",
+              2023,
+              "Findings"
+            ],
+            [
+              "ACL",
+              2023,
+              "Main"
+            ],
+            [
+              "ACL",
+              2024,
+              "Findings"
+            ],
+            [
+              "ACL",
+              2024,
+              "Main"
+            ],
+            [
+              "ACL",
+              2025,
+              "Findings"
+            ],
+            [
+              "CVPR",
+              2020,
+              "Main"
+            ],
+            [
+              "CVPR",
+              2021,
+              "Main"
+            ],
+            [
+              "ICML",
+              2020,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2020,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2021,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2022,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2023,
+              "AI for Good"
+            ],
+            [
+              "IJCAI",
+              2023,
+              "AI for Good - Projects"
+            ],
+            [
+              "IJCAI",
+              2023,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2024,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2025,
+              "AI and Social Good"
+            ],
+            [
+              "IJCAI",
+              2025,
+              "AI4Tech: AI Enabling Technologies"
+            ],
+            [
+              "IJCAI",
+              2025,
+              "Main"
+            ],
+            [
+              "KDD",
+              2020,
+              "Applied Data Science"
+            ],
+            [
+              "KDD",
+              2020,
+              "Research"
+            ],
+            [
+              "KDD",
+              2021,
+              "Applied Data Science"
+            ],
+            [
+              "KDD",
+              2021,
+              "Research"
+            ]
+          ]
+        },
+        "final_complete": {
+          "conferences": 6,
+          "editions": 16,
+          "tracks": 18,
+          "track_keys": [
+            [
+              "AAAI",
+              2021,
+              "AI for Social Impact"
+            ],
+            [
+              "AAAI",
+              2022,
+              "AI for Social Impact"
+            ],
+            [
+              "AAAI",
+              2023,
+              "AI for Social Impact"
+            ],
+            [
+              "AAAI",
+              2023,
+              "Safe and Robust AI"
+            ],
+            [
+              "AAAI",
+              2024,
+              "AI for Social Impact"
+            ],
+            [
+              "ACL",
+              2021,
+              "Findings"
+            ],
+            [
+              "ACL",
+              2021,
+              "Main"
+            ],
+            [
+              "ACL",
+              2022,
+              "Main"
+            ],
+            [
+              "ACL",
+              2023,
+              "Main"
+            ],
+            [
+              "ACL",
+              2024,
+              "Main"
+            ],
+            [
+              "CVPR",
+              2020,
+              "Main"
+            ],
+            [
+              "CVPR",
+              2021,
+              "Main"
+            ],
+            [
+              "ICML",
+              2020,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2020,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2021,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2022,
+              "Main"
+            ],
+            [
+              "IJCAI",
+              2025,
+              "AI and Social Good"
+            ],
+            [
+              "KDD",
+              2020,
+              "Applied Data Science"
+            ]
+          ]
+        }
+      },
+      "added_started_track_keys": [
+        [
+          "ACL",
+          2026,
+          "Main"
+        ]
+      ],
+      "new_scope_rows": 0,
+      "new_denominator": 0,
+      "public_editions_before": 40,
+      "public_editions_after": 41
+    },
+    "published": false
+  },
+  "acl_screen_completion_20261022": {
+    "baseline_commit": "4411a88642ae51921e6a84062a935505f651f3a8",
+    "baseline_version": 295,
+    "accepted_at_utc": "2026-10-22T17:54:47Z",
+    "before": {
+      "records": 2001,
+      "core": 1167,
+      "pairs": 1244,
+      "licensed": 1420,
+      "partial": 834
+    },
+    "after": {
+      "records": 2004,
+      "core": 1170,
+      "pairs": 1247,
+      "licensed": 1425,
+      "partial": 834
+    },
+    "pending_before": 144,
+    "pending_after": 143,
+    "new_public_ids": [
+      "2026.acl-long.58",
+      "2026.acl-long.61",
+      "2026.acl-long.81"
+    ],
+    "abstract_only_completion_ids": [
+      "neurips2020-9671b13a1ea7",
+      "neurips2020-0c41cf8a9144"
+    ],
+    "source_reading_delta": [
+      99,
+      48
+    ],
+    "unique_before": [
+      13193,
+      4330
+    ],
+    "unique_after": [
+      13292,
+      4378
+    ],
+    "new_reading_at_integration": [
+      0,
+      0
+    ],
+    "core_insertion_reading_credit": [
+      0,
+      0
+    ],
+    "adjudication_rereviews": 3,
+    "pending_rereviews": 6,
+    "old_pending_scientific_exclusions": [
+      "aaai2024-28143"
+    ],
+    "whole_paper_increment": 0,
+    "acl_track_reading": [
+      105,
+      54
+    ],
+    "acl_final_decisions": {
+      "OUT": 96,
+      "IN": 9,
+      "unresolved": 0
+    },
+    "public_editions": 41,
+    "stage_changes": false,
+    "whole_track_complete": false,
+    "published": false
+  }
+}

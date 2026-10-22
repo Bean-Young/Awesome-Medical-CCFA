@@ -1,0 +1,1378 @@
+{
+  "version_status": "FROZEN_SOURCE_ALL_GATES_PASS_NOT_PUBLISHED",
+  "baseline_commit": "4411a88642ae51921e6a84062a935505f651f3a8",
+  "new_core_profiles": [
+    {
+      "id": "2026.acl-long.58",
+      "title": "RespiraMFM: A Multimodal Foundation Model with Contrastive Audio-Language Alignment for Respiratory Disease Identification",
+      "source_url": "https://aclanthology.org/2026.acl-long.58/",
+      "new_reading_credit": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "2026.acl-long.61",
+      "title": "Is EEG-to-Text Feasible in Real-World Scenarios? An In-Depth Analysis Using a Neuropsychology-Inspired Benchmark",
+      "source_url": "https://aclanthology.org/2026.acl-long.61/",
+      "new_reading_credit": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "2026.acl-long.81",
+      "title": "Act as you think: Reinforcing Consistent Reasoning in Medical Visual Question Answering",
+      "source_url": "https://aclanthology.org/2026.acl-long.81/",
+      "new_reading_credit": [
+        0,
+        0
+      ]
+    }
+  ],
+  "existing_abstract_only_updates": [
+    {
+      "id": "neurips2020-9671b13a1ea7",
+      "title": "What went wrong and when? Instance-wise feature importance for time-series black-box models",
+      "license_scope": "CC0 arXiv API descriptive metadata only; manuscript images remain HOLD",
+      "new_reading_credit": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "neurips2020-0c41cf8a9144",
+      "title": "ICAM: Interpretable Classification via Disentangled Representations and Feature Attribution Mapping",
+      "license_scope": "CC0 arXiv API descriptive metadata only; manuscript images remain HOLD",
+      "new_reading_credit": [
+        0,
+        0
+      ]
+    }
+  ],
+  "screening_decisions_first100": [
+    {
+      "id": "2026.acl-long.1",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.2",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.3",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.4",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.5",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.6",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.7",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.8",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.9",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.10",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.11",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.12",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.13",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.14",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.15",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.16",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.17",
+      "decision": "IN"
+    },
+    {
+      "id": "2026.acl-long.18",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.19",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.20",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.21",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.22",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.23",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.24",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.25",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.26",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.27",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.28",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.29",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.30",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.31",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.32",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.33",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.34",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.35",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.36",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.37",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.38",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.39",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.40",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.41",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.42",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.43",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.44",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.45",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.46",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.47",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.48",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.49",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.50",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.51",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.52",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.53",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.54",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.55",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.56",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.57",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.58",
+      "decision": "IN"
+    },
+    {
+      "id": "2026.acl-long.59",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.60",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.61",
+      "decision": "IN"
+    },
+    {
+      "id": "2026.acl-long.62",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.63",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.64",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.65",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.66",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.67",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.68",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.69",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.70",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.71",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.72",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.73",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.74",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.75",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.76",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.77",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.78",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.79",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.80",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.81",
+      "decision": "IN"
+    },
+    {
+      "id": "2026.acl-long.82",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.83",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.84",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.85",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.86",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.87",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.88",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.89",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.90",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.91",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.92",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.93",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.94",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.95",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.96",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.97",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.98",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.99",
+      "decision": "OUT"
+    },
+    {
+      "id": "2026.acl-long.100",
+      "decision": "OUT"
+    }
+  ],
+  "superseded_decisions": [
+    {
+      "id": "2026.acl-long.11",
+      "old": "unresolved",
+      "new": "OUT"
+    },
+    {
+      "id": "2026.acl-long.27",
+      "old": "unresolved",
+      "new": "OUT"
+    },
+    {
+      "id": "2026.acl-long.29",
+      "old": "candidate IN",
+      "new": "OUT"
+    },
+    {
+      "id": "aaai2024-28143",
+      "old": "pending",
+      "new": "OUT"
+    }
+  ],
+  "unchanged_other_pending_count": 138,
+  "pending_reason_only_updates": [
+    "aaai2023-26442",
+    "KDD2020-3403055",
+    "KDD2020-3403187",
+    "KDD2020-3403182",
+    "KDD2020-3403234"
+  ],
+  "remaining_pending_count": 143,
+  "remaining_hold_records": [
+    {
+      "id": "neurips2020-5a72a1a1f037",
+      "title": "Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction",
+      "venue": "NeurIPS",
+      "year": 2020
+    },
+    {
+      "id": "neurips2020-065040fef363",
+      "title": "Learning abstract structure for drawing by efficient motor program induction",
+      "venue": "NeurIPS",
+      "year": 2020
+    },
+    {
+      "id": "neurips2020-6161d93e657d",
+      "title": "A simple normative network approximates local non-Hebbian learning in the cortex",
+      "venue": "NeurIPS",
+      "year": 2020
+    },
+    {
+      "id": "aaai2023-26442",
+      "title": "Identification and Estimation of the Probabilities of Potential Outcome Types Using Covariate Information in Studies with Non-compliance",
+      "venue": "AAAI",
+      "year": 2023
+    },
+    {
+      "id": "KDD2020-3403210",
+      "title": "A Geometric Approach to Predicting Bounds of Downstream Model Performance",
+      "venue": "KDD",
+      "year": 2020
+    },
+    {
+      "id": "KDD2020-3403055",
+      "title": "Attention and Memory-Augmented Networks for Dual-View Sequential Learning",
+      "venue": "KDD",
+      "year": 2020
+    },
+    {
+      "id": "KDD2020-3403187",
+      "title": "Catalysis Clustering With GAN By Incorporating Domain Knowledge",
+      "venue": "KDD",
+      "year": 2020
+    },
+    {
+      "id": "KDD2020-3403174",
+      "title": "Data Compression as a Comprehensive Framework for Graph Drawing and Representation Learning",
+      "venue": "KDD",
+      "year": 2020
+    },
+    {
+      "id": "KDD2020-3403061",
+      "title": "Efficient Algorithm for the b-Matching Graph",
+      "venue": "KDD",
+      "year": 2020
+    },
+    {
+      "id": "KDD2020-3403271",
+      "title": "Fast RobustSTL: Efficient and Robust Seasonal-Trend Decomposition for Time Series with Complex Patterns",
+      "venue": "KDD",
+      "year": 2020
+    },
+    {
+      "id": "KDD2020-3403098",
+      "title": "Feature-Induced Manifold Disambiguation for Multi-View Partial Multi-label Learning",
+      "venue": "KDD",
+      "year": 2020
+    },
+    {
+      "id": "KDD2020-3403094",
+      "title": "Geodesic Forests",
+      "venue": "KDD",
+      "year": 2020
+    },
+    {
+      "id": "KDD2020-3403220",
+      "title": "Heidegger: Interpretable Temporal Causal Discovery",
+      "venue": "KDD",
+      "year": 2020
+    },
+    {
+      "id": "KDD2020-3403169",
+      "title": "HGCN: A Heterogeneous Graph Convolutional Network-Based Deep Learning Model Toward Collective Classification",
+      "venue": "KDD",
+      "year": 2020
+    },
+    {
+      "id": "KDD2020-3403182",
+      "title": "HGMF: Heterogeneous Graph-based Fusion for Multimodal Data with Incompleteness",
+      "venue": "KDD",
+      "year": 2020
+    },
+    {
+      "id": "KDD2020-3403045",
+      "title": "Higher-order Clustering in Complex Heterogeneous Networks",
+      "venue": "KDD",
+      "year": 2020
+    },
+    {
+      "id": "KDD2020-3403164",
+      "title": "Matrix Profile XXI: A Geometric Approach to Time Series Chains Improves Robustness",
+      "venue": "KDD",
+      "year": 2020
+    },
+    {
+      "id": "KDD2020-3403099",
+      "title": "MinSearch: An Efficient Algorithm for Similarity Search under Edit Distance",
+      "venue": "KDD",
+      "year": 2020
+    },
+    {
+      "id": "KDD2020-3403234",
+      "title": "Multimodal Learning with Incomplete Modalities by Knowledge Distillation",
+      "venue": "KDD",
+      "year": 2020
+    },
+    {
+      "id": "KDD2020-3403141",
+      "title": "NetTrans: Neural Cross-Network Transformation",
+      "venue": "KDD",
+      "year": 2020
+    },
+    {
+      "id": "KDD2020-3403154",
+      "title": "SEAL: Learning Heuristics for Community Detection with Generative Adversarial Networks",
+      "venue": "KDD",
+      "year": 2020
+    },
+    {
+      "id": "KDD2020-3403167",
+      "title": "Semi-Supervised Multi-Label Learning from Crowds via Deep Sequential Generative Model",
+      "venue": "KDD",
+      "year": 2020
+    },
+    {
+      "id": "KDD2020-3403236",
+      "title": "TinyGNN: Learning Efficient Graph Neural Networks",
+      "venue": "KDD",
+      "year": 2020
+    },
+    {
+      "id": "KDD2020-3403079",
+      "title": "TranSlider: Transfer Ensemble Learning from Exploitation to Exploration",
+      "venue": "KDD",
+      "year": 2020
+    },
+    {
+      "id": "KDD2020-3403052",
+      "title": "Truth Discovery against Strategic Sybil Attack in Crowdsourcing",
+      "venue": "KDD",
+      "year": 2020
+    },
+    {
+      "id": "KDD2021-3467313",
+      "title": "Partial Label Dimensionality Reduction via Confidence-Based Dependence Maximization",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467395",
+      "title": "Uplift Modeling with Generalization Guarantees",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467365",
+      "title": "On Breaking Truss-Based Communities",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467445",
+      "title": "PAR-GAN: Improving the Generalization of Generative Adversarial Networks Against Membership Inference Attacks",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467346",
+      "title": "Interpreting Internal Activation Patterns in Deep Temporal Neural Networks by Finding Prototypes",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467257",
+      "title": "Graph Similarity Description: How Are These Graphs Similar?",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467336",
+      "title": "Sylvester Tensor Equation for Multi-Way Association",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467283",
+      "title": "When Comparing to Ground Truth is Wrong: On Evaluating GNN Explanation Methods",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467327",
+      "title": "Gaussian Process with Graph Convolutional Kernel for Relational Learning",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467318",
+      "title": "Multiple-Instance Learning from Similar and Dissimilar Bags",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467348",
+      "title": "Differentiable Pattern Set Mining",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467332",
+      "title": "Unsupervised Graph Alignment with Wasserstein Distance Discriminator",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467232",
+      "title": "Towards Computing a Near-Maximum Weighted Independent Set on Massive Graphs",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467369",
+      "title": "Metric Learning via Penalized Optimization",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467253",
+      "title": "A Hyper-surface Arrangement Model of Ranking Distributions",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467446",
+      "title": "A Color-blind 3-Approximation for Chromatic Correlation Clustering and Improved Heuristics",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467356",
+      "title": "Fast Rotation Kernel Density Estimation over Data Streams",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467441",
+      "title": "Online Additive Quantization",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467429",
+      "title": "HGK-GNN: Heterogeneous Graph Kernel based Graph Neural Networks",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467248",
+      "title": "Dynamic Hawkes Processes for Discovering Time-evolving Communities' States behind Diffusion Processes",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467225",
+      "title": "Deep Clustering based Fair Outlier Detection",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467278",
+      "title": "Probabilistic Gradient Boosting Machines for Large-Scale Probabilistic Regression",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467287",
+      "title": "A Stagewise Hyperparameter Scheduler to Improve Generalization",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467412",
+      "title": "Norm Adjusted Proximity Graph for Fast Inner Product Retrieval",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467341",
+      "title": "Forecasting Interaction Order on Temporal Graphs",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467444",
+      "title": "Defending Privacy Against More Knowledgeable Membership Inference Attackers",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467284",
+      "title": "Performance-Adaptive Sampling Strategy Towards Fast and Accurate Graph Neural Networks",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467294",
+      "title": "A Novel Multi-View Clustering Method for Unknown Mapping Relationships Between Cross-View Samples",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467329",
+      "title": "Multi-Task Learning via Generalized Tensor Trace Norm",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467288",
+      "title": "Temporal Biased Streaming Submodular Optimization",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467219",
+      "title": "Accelerating Set Intersections over Graphs by Reducing-Merging",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467063",
+      "title": "Quantifying and Addressing Ranking Disparity in Human-Powered Data Acquisition",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467082",
+      "title": "MPCSL - A Modular Pipeline for Causal Structure Learning",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "KDD2021-3467076",
+      "title": "Bootstrapping for Batch Active Sampling",
+      "venue": "KDD",
+      "year": 2021
+    },
+    {
+      "id": "ijcai2023-396",
+      "title": "Graph Propagation Transformer for Graph Representation Learning",
+      "venue": "IJCAI",
+      "year": 2023
+    },
+    {
+      "id": "2025.findings-acl.27",
+      "title": "Utilizing Semantic Textual Similarity for Clinical Survey Data Feature Selection",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.53",
+      "title": "scRAG: Hybrid Retrieval-Augmented Generation for LLM-based Cross-Tissue Single-Cell Annotation",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.118",
+      "title": "Adaptive-VP: A Framework for LLM-Based Virtual Patients that Adapts to Trainees’ Dialogue to Facilitate Nurse Communication Training",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.184",
+      "title": "Large Language Models in Bioinformatics: A Survey",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.196",
+      "title": "GRNFormer: A Biologically-Guided Framework for Integrating Gene Regulatory Networks into RNA Foundation Models",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.350",
+      "title": "Can We Trust AI Doctors? A Survey of Medical Hallucination in Large Language and Large Vision-Language Models",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.374",
+      "title": "A General Knowledge Injection Framework for ICD Coding",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.400",
+      "title": "FRAME: Feedback-Refined Agent Methodology for Enhancing Medical Research Insights",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.481",
+      "title": "MultiMSD: A Corpus for Multilingual Medical Text Simplification from Online Medical References",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.505",
+      "title": "Structure-adaptive Adversarial Contrastive Learning for Multi-Domain Fake News Detection",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.508",
+      "title": "MMXU: A Multi-Modal and Multi-X-ray Understanding Dataset for Disease Progression",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.516",
+      "title": "Enhancing Automatic Term Extraction with Large Language Models via Syntactic Retrieval",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.518",
+      "title": "EMPEC: A Comprehensive Benchmark for Evaluating Large Language Models Across Diverse Healthcare Professions",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.521",
+      "title": "SpeechT-RAG: Reliable Depression Detection in LLMs with Retrieval-Augmented Generation Using Speech Timing Information",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.539",
+      "title": "A Survey of LLM-based Agents in Medicine: How far are we from Baymax?",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.549",
+      "title": "Towards Conditioning Clinical Text Generation for User Control",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.626",
+      "title": "Towards Adapting Open-Source Large Language Models for Expert-Level Clinical Note Generation",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.668",
+      "title": "BioHopR: A Benchmark for Multi-Hop, Multi-Answer Reasoning in Biomedical Domain",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.680",
+      "title": "RL-Guider: Leveraging Historical Decisions and Feedback for Drug Editing with Large Language Models",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.685",
+      "title": "Spatial Coordinates as a Cell Language: A Multi-Sentence Framework for Imaging Mass Cytometry Analysis",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.707",
+      "title": "Eeyore: Realistic Depression Simulation via Expert-in-the-Loop Supervised and Preference Optimization",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.708",
+      "title": "Lost in Translation: Benchmarking Commercial Machine Translation Models for Dyslexic-Style Text",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.727",
+      "title": "GLiM: Integrating Graph Transformer and LLM for Document-Level Biomedical Relation Extraction with Incomplete Labeling",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.729",
+      "title": "Sleepless Nights, Sugary Days: Creating Synthetic Users with Health Conditions for Realistic Coaching Agent Interactions",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.732",
+      "title": "Prediction-Augmented Generation for Automatic Diagnosis Tasks",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.740",
+      "title": "CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.749",
+      "title": "MEIT: Multimodal Electrocardiogram Instruction Tuning on Large Language Models for Report Generation",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.751",
+      "title": "Towards Medical Complex Reasoning with LLMs through Medical Verifiable Problems",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.757",
+      "title": "Exploring LLM Annotation for Adaptation of Clinical Information Extraction Models under Data-sharing Restrictions",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.759",
+      "title": "RecordTwin: Towards Creating Safe Synthetic Clinical Corpora",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.767",
+      "title": "NarGINA: Towards Accurate and Interpretable Children’s Narrative Ability Assessment via Narrative Graphs",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.775",
+      "title": "The Effectiveness of Uncased Tokeniziaion for Clinical Notes",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.826",
+      "title": "Generalizable Cross-Lingual Cognitive Distortion Detection with Standardized Annotations and Multi-Task Learning",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.843",
+      "title": "Can Medical Vision-Language Pre-training Succeed with Purely Synthetic Data?",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.845",
+      "title": "Argus: Benchmarking and Enhancing Vision-Language Models for 3D Radiology Report Generation",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.857",
+      "title": "ASTRID - An Automated and Scalable TRIaD for the Evaluation of RAG-based Clinical Question Answering Systems",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.864",
+      "title": "The Anatomy of Evidence: An Investigation Into Explainable ICD Coding",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.886",
+      "title": "EMRs2CSP : Mining Clinical Status Pathway from Electronic Medical Records",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.888",
+      "title": "Libra: Leveraging Temporal Images for Biomedical Radiology Analysis",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.899",
+      "title": "AskQE: Question Answering as Automatic Evaluation for Machine Translation",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.907",
+      "title": "JEBS: A Fine-grained Biomedical Lexical Simplification Task",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.909",
+      "title": "Look & Mark: Leveraging Radiologist Eye Fixations and Bounding boxes in Multimodal Large Language Models for Chest X-ray Report Generation",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.918",
+      "title": "Sign2Vis: Automated Data Visualization from Sign Language",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.967",
+      "title": "MedCite: Can Language Models Generate Verifiable Text for Medicine?",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.971",
+      "title": "Systematic Evaluation of Auto-Encoding and Large Language Model Representations for Capturing Author States and Traits",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.981",
+      "title": "Worse than Random? An Embarrassingly Simple Probing Evaluation of Large Multimodal Models in Medical VQA",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.1033",
+      "title": "ProMind-LLM: Proactive Mental Health Care via Causal Reasoning with Sensor Data",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.1050",
+      "title": "EMGLLM: Data-to-Text Alignment for Electromyogram Diagnosis Generation with Medical Numerical Data Encoding",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.1069",
+      "title": "Exploring the Role of Mental Health Conversational Agents in Training Medical Students and Professionals: A Systematic Literature Review",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.1103",
+      "title": "Natural Language Processing in Support of Evidence-based Medicine: A Scoping Review",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.1119",
+      "title": "Does Rationale Quality Matter? Enhancing Mental Disorder Detection via Selective Reasoning Distillation",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.1121",
+      "title": "CliniDial: A Naturally Occurring Multimodal Dialogue Dataset for Team Reflection in Action During Clinical Operation",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.1157",
+      "title": "SignMusketeers: An Efficient Multi-Stream Approach for Sign Language Translation at Scale",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.1159",
+      "title": "MEDEC: A Benchmark for Medical Error Detection and Correction in Clinical Notes",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.1179",
+      "title": "Evaluation of LLMs in Medical Text Summarization: The Role of Vocabulary Adaptation in High OOV Settings",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.1181",
+      "title": "Predicting Depression in Screening Interviews from Interactive Multi-Theme Collaboration",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.1192",
+      "title": "AnnaAgent: Dynamic Evolution Agent System with Multi-Session Memory for Realistic Seeker Simulation",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.1235",
+      "title": "KaFT: Knowledge-aware Fine-tuning for Boosting LLMs’ Domain-specific Question-Answering Performance",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.1255",
+      "title": "Automated main concept generation for narrative discourse assessment in aphasia",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.1278",
+      "title": "MAGI: Multi-Agent Guided Interview for Psychiatric Assessment",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.1283",
+      "title": "A Fully Generative Motivational Interviewing Counsellor Chatbot for Moving Smokers Towards the Decision to Quit",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.1292",
+      "title": "From Conversation to Automation: Leveraging LLMs for Problem-Solving Therapy Analysis",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.1298",
+      "title": "MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.1313",
+      "title": "DiaLLMs: EHR-Enhanced Clinical Conversational System for Clinical Test Recommendation and Diagnosis Prediction",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.1320",
+      "title": "Enhancing Medical Dialogue Generation through Knowledge Refinement and Dynamic Prompt Adjustment",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.1323",
+      "title": "Just Put a Human in the Loop? Investigating LLM-Assisted Annotation for Subjective Tasks",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.1332",
+      "title": "Can You Share Your Story? Modeling Clients’ Metacognition and Openness for LLM Therapist Evaluation",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.1358",
+      "title": "IntentionESC: An Intention-Centered Framework for Enhancing Emotional Support in Dialogue Systems",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2025.findings-acl.1360",
+      "title": "CSTRL: Context-Driven Sequential Transfer Learning for Abstractive Radiology Report Summarization",
+      "venue": "ACL",
+      "year": 2025
+    },
+    {
+      "id": "2020.acl-main.137",
+      "title": "In Layman’s Terms: Semi-Open Relation Extraction from Scientific Texts",
+      "venue": "ACL",
+      "year": 2020
+    },
+    {
+      "id": "icml2026-a45a15148513",
+      "title": "Token-Sparse Medical Multimodal Reasoning via Dual-Stream Reinforcement Learning",
+      "venue": "ICML",
+      "year": 2026
+    },
+    {
+      "id": "neurips2024-7479eecb5f2d",
+      "title": "Multi-Scale Representation Learning for Protein Fitness Prediction",
+      "venue": "NeurIPS",
+      "year": 2024
+    },
+    {
+      "id": "neurips2024-74854b9da564",
+      "title": "Learning Complete Protein Representation by Dynamically Coupling of Sequence and Structure",
+      "venue": "NeurIPS",
+      "year": 2024
+    },
+    {
+      "id": "neurips2024-9d13c1f21f90",
+      "title": "ProtGO: Function-Guided Protein Modeling for Unified Representation Learning",
+      "venue": "NeurIPS",
+      "year": 2024
+    },
+    {
+      "id": "neurips2024-5dd109687ef2",
+      "title": "Training Compute-Optimal Protein Language Models",
+      "venue": "NeurIPS",
+      "year": 2024
+    },
+    {
+      "id": "neurips2024-539d2d24045d",
+      "title": "ProSST: Protein Language Modeling with Quantized Structure and Disentangled Attention",
+      "venue": "NeurIPS",
+      "year": 2024
+    },
+    {
+      "id": "neurips2024-3752863551c5",
+      "title": "Generating Highly Designable Proteins with Geometric Algebra Flow Matching",
+      "venue": "NeurIPS",
+      "year": 2024
+    },
+    {
+      "id": "icml2023-240dfd7afd50",
+      "title": "A Kernelized Stein Discrepancy for Biological Sequences",
+      "venue": "ICML",
+      "year": 2023
+    },
+    {
+      "id": "icml2023-b823a1151de3",
+      "title": "Bidirectional Learning for Offline Model-based Biological Sequence Design",
+      "venue": "ICML",
+      "year": 2023
+    },
+    {
+      "id": "icml2026-9754f1a30393",
+      "title": "LDARNet: DNA Adaptive Representation Network with Learnable Tokenization for Genomic Modeling",
+      "venue": "ICML",
+      "year": 2026
+    },
+    {
+      "id": "neurips2025-1ca47465a87b",
+      "title": "CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs",
+      "venue": "NeurIPS",
+      "year": 2025
+    },
+    {
+      "id": "neurips2025-5e0d42bf1eaa",
+      "title": "SMMILE: An Expert-Driven Benchmark for Multimodal Medical In-Context Learning",
+      "venue": "NeurIPS",
+      "year": 2025
+    },
+    {
+      "id": "neurips2025-5482008bd0d4",
+      "title": "DecoyDB: A Dataset for Graph Contrastive Learning in Protein-Ligand Binding Affinity Prediction",
+      "venue": "NeurIPS",
+      "year": 2025
+    }
+  ],
+  "unique_reading_delta": [
+    99,
+    48
+  ],
+  "unique_reading_totals": [
+    13292,
+    4378
+  ],
+  "integration_extra_reading_credit": [
+    0,
+    0
+  ],
+  "whole_track_completion": false,
+  "acl2026_main_denominator": 2222,
+  "acl2026_reading_totals": [
+    105,
+    54
+  ],
+  "acl2026_scientific_decisions": {
+    "IN": 9,
+    "OUT": 96,
+    "unresolved_among_read": 0
+  },
+  "unreviewed_acl2026_main_count": 2117,
+  "later_101_200_work_included": false,
+  "counts": {
+    "records": 2004,
+    "core": 1170,
+    "pairs": 1247,
+    "licensed": 1425,
+    "partial": 834
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "icml2025-65cbf5a4f072": {
+    "affiliations": [
+      "University of Delaware",
+      "Memorial Sloan Kettering Cancer Center"
+    ],
+    "affiliations_source": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/ma25k/ma25k.pdf",
+    "affiliations_status": "Verified from the original paper first page",
+    "summary": "Connects tumor predictions to clinical concepts and localized visual evidence through a rationale-annotated dataset and concept-aware training.",
+    "summary_method": "Original paraphrase after reading the official abstract",
+    "summary_source": "https://proceedings.mlr.press/v267/ma25k.html",
+    "medical_relevance_review": "abstract_semantically_reviewed",
+    "main_figure": {
+      "path": "assets/main-figures/icml2025-65cbf5a4f072.webp",
+      "label": "Figure 1",
+      "source_url": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/ma25k/ma25k.pdf",
+      "page": 1,
+      "status": "figure_1_crop_visually_checked"
+    }
+  },
+  "CVPR2025-1955": {
+    "affiliations": [
+      "Beihang University",
+      "Southwest University",
+      "Peng Cheng Laboratory"
+    ],
+    "affiliations_source": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xi_3D_Dental_Model_Segmentation_with_Geometrical_Boundary_Preserving_CVPR_2025_paper.pdf",
+    "affiliations_status": "Verified from the original paper first page",
+    "summary": "Combines boundary-preserving mesh sampling with rendered-image features to better separate teeth from gums in 3D intraoral scans.",
+    "summary_method": "Original paraphrase after reading the official abstract",
+    "summary_source": "https://openaccess.thecvf.com/content/CVPR2025/html/Xi_3D_Dental_Model_Segmentation_with_Geometrical_Boundary_Preserving_CVPR_2025_paper.html",
+    "medical_relevance_review": "abstract_semantically_reviewed",
+    "main_figure": {
+      "path": "assets/main-figures/CVPR2025-1955.webp",
+      "label": "Figure 1",
+      "source_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xi_3D_Dental_Model_Segmentation_with_Geometrical_Boundary_Preserving_CVPR_2025_paper.pdf",
+      "page": 1,
+      "status": "figure_1_crop_visually_checked"
+    }
+  },
+  "2025.acl-long.950": {
+    "affiliations": [
+      "Microsoft Healthcare & Life Sciences",
+      "Microsoft Research Montreal",
+      "Mila / Universite de Montreal",
+      "University Hospital Essen"
+    ],
+    "affiliations_source": "https://aclanthology.org/2025.acl-long.950.pdf",
+    "affiliations_status": "Verified from the original paper first page",
+    "summary": "Builds compact clinical language models by merging domain-specialized experts and aligning them with synthetic instructions across medical NLP tasks.",
+    "summary_method": "Original paraphrase after reading the official abstract",
+    "summary_source": "https://aclanthology.org/2025.acl-long.950/",
+    "medical_relevance_review": "abstract_semantically_reviewed",
+    "main_figure": {
+      "path": "assets/main-figures/2025.acl-long.950.webp",
+      "label": "Figure 1",
+      "source_url": "https://aclanthology.org/2025.acl-long.950.pdf",
+      "page": 1,
+      "status": "figure_1_crop_visually_checked"
+    }
+  },
+  "CVPR2025-2434": {
+    "affiliations": [
+      "Beijing University of Posts and Telecommunications",
+      "University of Science and Technology of China",
+      "Beijing Ketai Industrial Intelligence"
+    ],
+    "affiliations_source": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_A_Semantic_Knowledge_Complementarity_based_Decoupling_Framework_for_Semi-supervised_Class-imbalanced_CVPR_2025_paper.pdf",
+    "affiliations_status": "Verified from the original paper first page",
+    "summary": "Separates encoder and decoder training and improves pseudo-label supervision to reduce small-organ under-segmentation when labeled data are scarce.",
+    "summary_method": "Original paraphrase after reading the official abstract",
+    "summary_source": "https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_A_Semantic_Knowledge_Complementarity_based_Decoupling_Framework_for_Semi-supervised_Class-imbalanced_CVPR_2025_paper.html",
+    "medical_relevance_review": "abstract_semantically_reviewed",
+    "main_figure": {
+      "path": "assets/main-figures/CVPR2025-2434.webp",
+      "label": "Figure 1",
+      "source_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_A_Semantic_Knowledge_Complementarity_based_Decoupling_Framework_for_Semi-supervised_Class-imbalanced_CVPR_2025_paper.pdf",
+      "page": 1,
+      "status": "figure_1_crop_visually_checked"
+    }
+  },
+  "2025.acl-long.26": {
+    "affiliations": [
+      "Tencent Jarvis Lab",
+      "Hong Kong University of Science and Technology",
+      "Peking University",
+      "Great Bay University",
+      "Westlake University"
+    ],
+    "affiliations_source": "https://aclanthology.org/2025.acl-long.26.pdf",
+    "affiliations_status": "Verified from the original paper first page",
+    "summary": "Reviews how language-model tokenization, pretraining and adaptation are used to build foundation models for single-cell biological analysis.",
+    "summary_method": "Original paraphrase after reading the official abstract",
+    "summary_source": "https://aclanthology.org/2025.acl-long.26/",
+    "medical_relevance_review": "abstract_semantically_reviewed",
+    "main_figure": {
+      "path": "assets/main-figures/2025.acl-long.26.webp",
+      "label": "Figure 1",
+      "source_url": "https://aclanthology.org/2025.acl-long.26.pdf",
+      "page": 2,
+      "status": "figure_1_crop_visually_checked"
+    }
+  },
+  "CVPR2025-1345": {
+    "affiliations": [
+      "California Institute of Technology"
+    ],
+    "affiliations_source": "https://openaccess.thecvf.com/content/CVPR2025/papers/Jatyani_A_Unified_Model_for_Compressed_Sensing_MRI_Across_Undersampling_Patterns_CVPR_2025_paper.pdf",
+    "affiliations_status": "Verified from the original paper first page",
+    "summary": "Uses neural operators in image and measurement spaces to reconstruct MRI scans across changing sampling patterns and image resolutions.",
+    "summary_method": "Original paraphrase after reading the official abstract",
+    "summary_source": "https://openaccess.thecvf.com/content/CVPR2025/html/Jatyani_A_Unified_Model_for_Compressed_Sensing_MRI_Across_Undersampling_Patterns_CVPR_2025_paper.html",
+    "medical_relevance_review": "abstract_semantically_reviewed",
+    "main_figure": {
+      "path": "assets/main-figures/CVPR2025-1345.webp",
+      "label": "Figure 1",
+      "source_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Jatyani_A_Unified_Model_for_Compressed_Sensing_MRI_Across_Undersampling_Patterns_CVPR_2025_paper.pdf",
+      "page": 2,
+      "status": "figure_1_crop_visually_checked"
+    }
+  },
+  "ICCV2025-538": {
+    "affiliations": [
+      "Shaanxi University of Science and Technology",
+      "Beijing University of Posts and Telecommunications",
+      "Northwestern Polytechnical University",
+      "Southwest Jiaotong University",
+      "Brunel University of London"
+    ],
+    "affiliations_source": "https://openaccess.thecvf.com/content/ICCV2025/papers/Lei_Adaptive_Learning_of_High-Value_Regions_for_Semi-Supervised_Medical_Image_Segmentation_ICCV_2025_paper.pdf",
+    "affiliations_status": "Verified from the original paper first page",
+    "summary": "Assigns different learning strategies to uncertain segmentation regions according to prediction reliability and disagreement between two networks.",
+    "summary_method": "Original paraphrase after reading the official abstract",
+    "summary_source": "https://openaccess.thecvf.com/content/ICCV2025/html/Lei_Adaptive_Learning_of_High-Value_Regions_for_Semi-Supervised_Medical_Image_Segmentation_ICCV_2025_paper.html",
+    "medical_relevance_review": "abstract_semantically_reviewed",
+    "main_figure": {
+      "path": "assets/main-figures/ICCV2025-538.webp",
+      "label": "Figure 1",
+      "source_url": "https://openaccess.thecvf.com/content/ICCV2025/papers/Lei_Adaptive_Learning_of_High-Value_Regions_for_Semi-Supervised_Medical_Image_Segmentation_ICCV_2025_paper.pdf",
+      "page": 1,
+      "status": "figure_1_crop_visually_checked"
+    }
+  },
+  "icml2025-455934c60b11": {
+    "affiliations": [
+      "University of Oxford",
+      "University of Basel",
+      "Isomorphic Labs",
+      "Exscientia",
+      "Epsilogen Ltd."
+    ],
+    "affiliations_source": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/towers25a/towers25a.pdf",
+    "affiliations_status": "Verified from the original paper first page",
+    "summary": "Optimizes antibodies against simulated viral adaptation, aiming both to resist future variants and to steer which variants emerge.",
+    "summary_method": "Original paraphrase after reading the official abstract",
+    "summary_source": "https://proceedings.mlr.press/v267/towers25a.html",
+    "medical_relevance_review": "abstract_semantically_reviewed",
+    "main_figure": {
+      "path": "assets/main-figures/icml2025-455934c60b11.webp",
+      "label": "Figure 1",
+      "source_url": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/towers25a/towers25a.pdf",
+      "page": 1,
+      "status": "figure_1_crop_visually_checked"
+    }
+  },
+  "CVPR2025-212": {
+    "affiliations": [
+      "Shanghai AI Laboratory",
+      "Zhejiang University",
+      "University of British Columbia"
+    ],
+    "affiliations_source": "https://openaccess.thecvf.com/content/CVPR2025/papers/Jiang_Advancing_Generalizable_Tumor_Segmentation_with_Anomaly-Aware_Open-Vocabulary_Attention_Maps_and_CVPR_2025_paper.pdf",
+    "affiliations_status": "Verified from the original paper first page",
+    "summary": "Extracts anomaly cues from frozen medical diffusion models and pseudo-healthy reconstructions for tumor segmentation beyond the training categories.",
+    "summary_method": "Original paraphrase after reading the official abstract",
+    "summary_source": "https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_Advancing_Generalizable_Tumor_Segmentation_with_Anomaly-Aware_Open-Vocabulary_Attention_Maps_and_CVPR_2025_paper.html",
+    "medical_relevance_review": "abstract_semantically_reviewed",
+    "main_figure": {
+      "path": "assets/main-figures/CVPR2025-212.webp",
+      "label": "Figure 1",
+      "source_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Jiang_Advancing_Generalizable_Tumor_Segmentation_with_Anomaly-Aware_Open-Vocabulary_Attention_Maps_and_CVPR_2025_paper.pdf",
+      "page": 2,
+      "status": "figure_1_crop_visually_checked"
+    }
+  },
+  "2025.acl-long.1386": {
+    "affiliations": [
+      "University of Edinburgh",
+      "University College London",
+      "University of Glasgow"
+    ],
+    "affiliations_source": "https://aclanthology.org/2025.acl-long.1386.pdf",
+    "affiliations_status": "Verified from the original paper first page",
+    "summary": "Introduces an annotated discharge-summary corpus for detecting adverse events in older patients, including negation and complex overlapping entities.",
+    "summary_method": "Original paraphrase after reading the official abstract",
+    "summary_source": "https://aclanthology.org/2025.acl-long.1386/",
+    "medical_relevance_review": "abstract_semantically_reviewed",
+    "main_figure": {
+      "path": "assets/main-figures/2025.acl-long.1386.webp",
+      "label": "Figure 1",
+      "source_url": "https://aclanthology.org/2025.acl-long.1386.pdf",
+      "page": 1,
+      "status": "figure_1_crop_visually_checked"
+    }
+  },
+  "CVPR2025-1821": {
+    "affiliations": [
+      "Yonsei University",
+      "Korea Institute of Science and Technology"
+    ],
+    "affiliations_source": "https://openaccess.thecvf.com/content/CVPR2025/papers/Joo_AeSPa__Attention-guided_Self-supervised_Parallel_Imaging_for_MRI_Reconstruction_CVPR_2025_paper.pdf",
+    "affiliations_status": "Verified from the original paper first page",
+    "summary": "Reconstructs MRI from a single undersampled scan using attention-guided k-space constraints, changing masks and improved coil-sensitivity estimation.",
+    "summary_method": "Original paraphrase after reading the official abstract",
+    "summary_source": "https://openaccess.thecvf.com/content/CVPR2025/html/Joo_AeSPa__Attention-guided_Self-supervised_Parallel_Imaging_for_MRI_Reconstruction_CVPR_2025_paper.html",
+    "medical_relevance_review": "abstract_semantically_reviewed",
+    "main_figure": {
+      "path": "assets/main-figures/CVPR2025-1821.webp",
+      "label": "Figure 1",
+      "source_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Joo_AeSPa__Attention-guided_Self-supervised_Parallel_Imaging_for_MRI_Reconstruction_CVPR_2025_paper.pdf",
+      "page": 1,
+      "status": "figure_1_crop_visually_checked"
+    }
+  },
+  "icml2025-e7458fa09ac6": {
+    "affiliations": [
+      "Mila - Quebec AI Institute",
+      "Amazon"
+    ],
+    "affiliations_source": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/chen25y/chen25y.pdf",
+    "affiliations_status": "Verified from the original paper first page",
+    "summary": "Alternates guided antibody-structure generation and sequence refinement, using mutually trained affinity predictors to improve candidate binding strength.",
+    "summary_method": "Original paraphrase after reading the official abstract",
+    "summary_source": "https://proceedings.mlr.press/v267/chen25y.html",
+    "medical_relevance_review": "abstract_semantically_reviewed",
+    "main_figure": {
+      "path": "assets/main-figures/icml2025-e7458fa09ac6.webp",
+      "label": "Figure 1",
+      "source_url": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/chen25y/chen25y.pdf",
+      "page": 2,
+      "status": "figure_1_crop_visually_checked"
+    }
+  }
+}

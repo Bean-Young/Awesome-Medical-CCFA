@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "purpose": "Current bounded identity-level study-balance adjudications, not an irreversible blacklist or a change of scope.",
+  "supersession_rule": "A later explicitly accepted source-backed adjudication may replace an entry. Preserve this exact prior entry and its evidence in a new durable audit before replacement, and record the superseding batch and rationale. No automatic override by stale enrichment or collector input.",
+  "decisions": [
+    {
+      "id": "ijcai2022-416",
+      "title": "Bootstrapping Informative Graph Augmentation via A Meta Learning Approach",
+      "venue": "IJCAI",
+      "year": 2022,
+      "track": "Main",
+      "decision": "exclude",
+      "confidence": "moderate",
+      "reason": "Substantial biological and molecular experiments are genuine, including dedicated OGB molecular-property results. Nevertheless, the main comparison, component ablation and sensitivity study deliberately give biological and social tasks co-primary evidential roles in cross-domain representation quality. The actual study does not establish biomedical primacy. This is not exclusion for a generic title/method, an absence of biomedical results, or a requirement for biomedical exclusivity or clinical validation.",
+      "reopen_condition": "Reopen if primary documentation changes the interpretation of the principal experiments by establishing a biomedical-primary research purpose rather than co-primary cross-domain evaluation.",
+      "source": "https://www.ijcai.org/proceedings/2022/416",
+      "pdf_url": "https://www.ijcai.org/proceedings/2022/0416.pdf",
+      "decision_batch": "scope_correction2_20261022",
+      "decided_at_utc": "2026-10-22T05:22:15.845122+00:00",
+      "supersedes_prior_include_or_hold": true,
+      "policy_change": false,
+      "scientific_flaw_allegation": false,
+      "unique_abstract_credit": 0,
+      "unique_focused_body_credit": 0
+    },
+    {
+      "id": "ijcai2022-658",
+      "title": "Completeness and Diversity in Depth-First Proof-Number Search with Applications to Retrosynthesis",
+      "venue": "IJCAI",
+      "year": 2022,
+      "track": "Main",
+      "decision": "exclude",
+      "confidence": "moderate",
+      "reason": "The actual application evaluates chemical-route feasibility, diversity and search completeness, without establishing biomedical or medicinal primacy of the principal study. Both the 40 public synthetic-accessibility benchmark molecules and the 20 Bayer-supplied drug-like molecules have drug-like provenance; no non-drug-versus-drug split is inferred. Provenance alone does not establish biomedical primacy. Computational retrosynthesis can qualify when its actual research is biomedical-primary; clinical or wet-lab validation is not required.",
+      "reopen_condition": "Reopen if primary documentation ties the 2022 target selection and principal experiment to a medicinal discovery or other biomedical-primary objective. Do not import experiments from a later expanded paper.",
+      "source": "https://www.ijcai.org/proceedings/2022/658",
+      "pdf_url": "https://www.ijcai.org/proceedings/2022/0658.pdf",
+      "decision_batch": "scope_correction2_20261022",
+      "decided_at_utc": "2026-10-22T05:22:15.845122+00:00",
+      "supersedes_prior_include_or_hold": true,
+      "policy_change": false,
+      "scientific_flaw_allegation": false,
+      "unique_abstract_credit": 0,
+      "unique_focused_body_credit": 0
+    }
+  ]
+}

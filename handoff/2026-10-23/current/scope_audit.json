@@ -1,0 +1,599 @@
+[
+  {
+    "id": "neurips2020-52dbc0748d4b",
+    "decision": "exclude",
+    "reason": "General dynamical systems study; patient ECG is one application alongside electricity, geysers and neural spiking.",
+    "source": "https://papers.nips.cc/paper_files/paper/2020/hash/021bbc7ee20b71134d53e20206bd6feb-Abstract.html"
+  },
+  {
+    "id": "neurips2020-5a72a1a1f037",
+    "decision": "pending",
+    "reason": "Mixed general knowledge graphs and drug interactions; inspect experiment allocation before deciding which is primary.",
+    "source": "https://papers.nips.cc/paper_files/paper/2020/hash/0663a4ddceacb40b095eda264a85f15c-Abstract.html"
+  },
+  {
+    "id": "neurips2020-9671b13a1ea7",
+    "decision": "include",
+    "reason": "Abstract specifies synthetic methodological validation and real-world clinical data; empirical application is clinical despite general explanation method.",
+    "source": "https://papers.nips.cc/paper_files/paper/2020/hash/08fa43588c2571ade19bc0fa5936e028-Abstract.html"
+  },
+  {
+    "id": "neurips2025-04016a01b5c7",
+    "decision": "include",
+    "reason": "Protein structure debiasing and inverse folding are biomedical-only research under the expanded scope.",
+    "source": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/54a1495b06c4ee2f07184afb9a37abda-Abstract-Conference.html"
+  },
+  {
+    "id": "neurips2025-03caba00cf03",
+    "decision": "exclude",
+    "reason": "The primary research is a general statistical estimator of local distributional effects under imperfect compliance, not a health-services study. Oregon emergency-department use is a real, substantive but illustrative replication supporting practical relevance, while the central methodological and experimental questions are generic efficiency, RMSE and coverage.",
+    "source": "https://proceedings.neurips.cc/paper_files/paper/2025/file/62fe03e97f70b2d004d684d707d990eb-Paper-Conference.pdf"
+  },
+  {
+    "id": "neurips2025-037d107f8963",
+    "decision": "include",
+    "reason": "The study exclusively models brain structural and functional connectivity on neuroimaging datasets; biomedical neuroscience is in scope.",
+    "source": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/2e098001625a8b8f22bf6c1aef09c4e5-Abstract-Conference.html"
+  },
+  {
+    "id": "neurips2025-02f40d092269",
+    "decision": "exclude",
+    "reason": "ChA-MAEViT studies general multi-channel vision with missing channels. Cellular microscopy is substantial, but satellite classification, cloud segmentation and remote-sensing model analyses are coequal main research lines, so biomedical research is not the primary actual emphasis.",
+    "source": "https://proceedings.neurips.cc/paper_files/paper/2025/file/11c0318fc7b0315fa9542449b1c9ba32-Paper-Conference.pdf"
+  },
+  {
+    "id": "neurips2025-043544ebaccd",
+    "decision": "include",
+    "reason": "Abstract establishes primary medical or therapeutic objective and domain-specific evaluation.",
+    "source": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/4f347493f34e4a88fecf6783dbaabfb9-Abstract-Conference.html"
+  },
+  {
+    "id": "neurips2025-0433f6326eb8",
+    "decision": "exclude",
+    "reason": "General graph learning and diverse graph benchmarks with human connectomes as an additional application.",
+    "source": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/a7ca0195a6b7f16ca23aecd0b92c8a6a-Abstract-Conference.html"
+  },
+  {
+    "id": "neurips2025-080aa10122f6",
+    "decision": "exclude",
+    "reason": "The primary actual study is general stochastic visual segmentation, with curvilinear pavement-crack modeling driving the motivating diagnosis, highlighted novelty and component evaluation. LIDC lung-nodule uncertainty is a genuine but parallel validation, not the predominant research focus.",
+    "source": "https://proceedings.neurips.cc/paper_files/paper/2025/file/79ee64e62fd3ee763961ce3d6aed4971-Paper-Conference.pdf"
+  },
+  {
+    "id": "neurips2025-042e25181eb3",
+    "decision": "exclude",
+    "reason": "General distribution transport, latent image translation and diverse examples; cellular dynamics is ancillary.",
+    "source": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/85c82b727ee28e6b6acaa73803a7a811-Abstract-Conference.html"
+  },
+  {
+    "id": "neurips2025-077ce41026ca",
+    "decision": "include",
+    "reason": "Abstract establishes primary medical or therapeutic objective and domain-specific evaluation.",
+    "source": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/0f3b62a67900418cbb8583839129ffc6-Abstract-Conference.html"
+  },
+  {
+    "id": "neurips2025-02728c6264e4",
+    "decision": "include",
+    "reason": "Abstract establishes primary medical or therapeutic objective and domain-specific evaluation.",
+    "source": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/8cf2d1a2fef23281af0f50d1a04dfd7c-Abstract-Conference.html"
+  },
+  {
+    "id": "neurips2025-0700090f62d5",
+    "decision": "include",
+    "reason": "All listed experiments use brain imaging or EEG; primary disease-relevant brain connectivity generation across ADNI, ABIDE and OASIS-3.",
+    "source": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/5616112a0120c15bf7d47a6bccc21bc3-Abstract-Conference.html"
+  },
+  {
+    "id": "neurips2025-07987bb00290",
+    "decision": "include",
+    "reason": "Abstract establishes primary medical or therapeutic objective and domain-specific evaluation.",
+    "source": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/2d5e30cc59c46aebe9d35a73ff41d32b-Abstract-Conference.html"
+  },
+  {
+    "id": "neurips2025-04fab596f70a",
+    "decision": "include",
+    "reason": "The study exclusively evaluates continual EEG decoding; biomedical neuroscience does not require a disease endpoint.",
+    "source": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/e09a895d25a6444b6bb4b565465e02f0-Abstract-Conference.html"
+  },
+  {
+    "id": "neurips2025-027c821585dc",
+    "decision": "include",
+    "reason": "Abstract establishes primary medical or therapeutic objective and domain-specific evaluation.",
+    "source": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/24c8d2fe8520746f0084174b75b93ebe-Abstract-Conference.html"
+  },
+  {
+    "id": "neurips2025-0176c7793ae1",
+    "decision": "include",
+    "reason": "The research targets protein foundation models and biological sequence generation; protein-only research is included.",
+    "source": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/41b6674c28a9b93ec8d22a53ca25bc3b-Abstract-Conference.html"
+  },
+  {
+    "id": "neurips2025-07381a19e886",
+    "decision": "include",
+    "reason": "Abstract establishes primary medical or therapeutic objective and domain-specific evaluation.",
+    "source": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/b46bc1449205888e1883f692aff1a252-Abstract-Conference.html"
+  },
+  {
+    "id": "neurips2020-065040fef363",
+    "decision": "pending",
+    "reason": "Reassessed under tightened biomedical boundary. Introduction pp. 1–2 explicitly centers human acquisition of structured prior knowledge; behavioral modeling is substantive, not merely an image benchmark comparison. However, the healthy-adult drawing study establishes computational cognitive principles without biological neural mechanisms, physiological measurements or health outcomes. Biomedical eligibility remains unresolved; held outside eligible count.",
+    "source": "https://proceedings.neurips.cc/paper_files/paper/2020/file/1c104b9c0accfca52ef21728eaf01453-Paper.pdf"
+  },
+  {
+    "id": "neurips2020-0e5a77c6c6a6",
+    "decision": "exclude",
+    "reason": "Substantive biological learning hypothesis derives three-factor Hebbian updates under synaptic constraints. However, its empirical program is entirely MNIST, Fashion-MNIST, Kuzushiji-MNIST and CIFAR10 classification. Excluded under the clarified natural-image-led boundary; biological motivation and theoretical content are acknowledged.",
+    "source": "https://papers.nips.cc/paper/2020/file/517f24c02e620d5a4dac1db388664a63-Paper.pdf"
+  },
+  {
+    "id": "neurips2020-366808043808",
+    "decision": "exclude",
+    "reason": "Substantive cortical-learning hypothesis combines attentional feedback and reward-modulated plasticity. Its inspected empirical program evaluates MNIST, CIFAR and Tiny ImageNet classification, without neural-system simulation outcomes beyond learning-rule performance. Excluded under the clarified image-led boundary while preserving biological theoretical content.",
+    "source": "https://papers.nips.cc/paper_files/paper/2020/file/1abb1e1ea5f481b589da52303b091cbb-Paper.pdf"
+  },
+  {
+    "id": "neurips2020-6161d93e657d",
+    "decision": "include",
+    "reason": "Include in scope as basic computational neuroscience: a substantial primary contribution derives and interprets a specific pyramidal/interneuron cortical plasticity mechanism and compares it to neuroscience evidence. The method also has generic optimization claims, but those do not erase the independent biological mechanism analysis. Dataset count or the absence of new physiological observations is not the deciding rule. Keep publication completeness separate from this resolved scope judgment. Scope decision only; publication is on HOLD for missing reusable original abstract and image rights, and the record remains in pending_candidates.",
+    "source": "https://papers.nips.cc/paper/2020/file/5133aa1d673894d5a05b9d83809b9dbe-Paper.pdf"
+  },
+  {
+    "id": "icml2025-65cbf5a4f072",
+    "decision": "include",
+    "reason": "Tumor detection and segmentation justified with clinical concepts and radiologist-evaluated localized evidence are the research objective.",
+    "source": "https://proceedings.mlr.press/v267/ma25k.html",
+    "sources": [
+      "https://proceedings.mlr.press/v267/ma25k.html"
+    ]
+  },
+  {
+    "id": "CVPR2025-1955",
+    "decision": "include",
+    "reason": "Targets separation of teeth and gingiva in intraoral scans; dental anatomy segmentation defines the task and boundary-specific design.",
+    "source": "https://openaccess.thecvf.com/content/CVPR2025/html/Xi_3D_Dental_Model_Segmentation_with_Geometrical_Boundary_Preserving_CVPR_2025_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content/CVPR2025/html/Xi_3D_Dental_Model_Segmentation_with_Geometrical_Boundary_Preserving_CVPR_2025_paper.html"
+    ]
+  },
+  {
+    "id": "2025.acl-long.950",
+    "decision": "include",
+    "reason": "Adapts small models for clinical deployment and explicitly evaluates medical entities, radiology reporting, and ICD-10 coding.",
+    "source": "https://aclanthology.org/2025.acl-long.950/",
+    "sources": [
+      "https://aclanthology.org/2025.acl-long.950/"
+    ]
+  },
+  {
+    "id": "CVPR2025-2434",
+    "decision": "include",
+    "reason": "Targets small-organ undersegmentation and scarce annotation in clinical organ segmentation, rather than testing an unrelated general model on medical data.",
+    "source": "https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_A_Semantic_Knowledge_Complementarity_based_Decoupling_Framework_for_Semi-supervised_Class-imbalanced_CVPR_2025_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_A_Semantic_Knowledge_Complementarity_based_Decoupling_Framework_for_Semi-supervised_Class-imbalanced_CVPR_2025_paper.html"
+    ]
+  },
+  {
+    "id": "2025.acl-long.26",
+    "decision": "include",
+    "reason": "A survey exclusively of foundation models for single-cell biology qualifies under the expanded biomedical scope.",
+    "source": "https://aclanthology.org/2025.acl-long.26/",
+    "sources": [
+      "https://aclanthology.org/2025.acl-long.26/"
+    ]
+  },
+  {
+    "id": "CVPR2025-1345",
+    "decision": "include",
+    "reason": "MRI reconstruction across acquisition patterns and resolutions is the central technical task; this is medical acquisition/reconstruction research.",
+    "source": "https://openaccess.thecvf.com/content/CVPR2025/html/Jatyani_A_Unified_Model_for_Compressed_Sensing_MRI_Across_Undersampling_Patterns_CVPR_2025_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content/CVPR2025/html/Jatyani_A_Unified_Model_for_Compressed_Sensing_MRI_Across_Undersampling_Patterns_CVPR_2025_paper.html"
+    ]
+  },
+  {
+    "id": "ICCV2025-538",
+    "decision": "include",
+    "reason": "Semi-supervised medical segmentation under scarce anatomical annotations is the central task; proposed region-selection learning is evaluated as a solution to that problem.",
+    "source": "https://openaccess.thecvf.com/content/ICCV2025/html/Lei_Adaptive_Learning_of_High-Value_Regions_for_Semi-Supervised_Medical_Image_Segmentation_ICCV_2025_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content/ICCV2025/html/Lei_Adaptive_Learning_of_High-Value_Regions_for_Semi-Supervised_Medical_Image_Segmentation_ICCV_2025_paper.html"
+    ]
+  },
+  {
+    "id": "icml2025-455934c60b11",
+    "decision": "include",
+    "reason": "Explicitly develops antiviral antibody therapies that remain effective against evolving viral strains and shape viral evolution. Therapeutic design is central, not an incidental protein benchmark.",
+    "source": "https://proceedings.mlr.press/v267/towers25a.html",
+    "sources": [
+      "https://proceedings.mlr.press/v267/towers25a.html"
+    ]
+  },
+  {
+    "id": "CVPR2025-212",
+    "decision": "include",
+    "reason": "Generalizable tumor segmentation across anatomical sites and unseen tumor categories is the central objective.",
+    "source": "https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_Advancing_Generalizable_Tumor_Segmentation_with_Anomaly-Aware_Open-Vocabulary_Attention_Maps_and_CVPR_2025_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_Advancing_Generalizable_Tumor_Segmentation_with_Anomaly-Aware_Open-Vocabulary_Attention_Maps_and_CVPR_2025_paper.html"
+    ]
+  },
+  {
+    "id": "2025.acl-long.1386",
+    "decision": "include",
+    "reason": "Introduces clinical adverse-event extraction and annotation from older patients discharge summaries, targeting clinically significant events and nuanced clinical attributes.",
+    "source": "https://aclanthology.org/2025.acl-long.1386/",
+    "sources": [
+      "https://aclanthology.org/2025.acl-long.1386/"
+    ]
+  },
+  {
+    "id": "CVPR2025-1821",
+    "decision": "include",
+    "reason": "Scan-specific undersampled MRI reconstruction without fully sampled references is the central problem and drives the acquisition-aware design.",
+    "source": "https://openaccess.thecvf.com/content/CVPR2025/html/Joo_AeSPa__Attention-guided_Self-supervised_Parallel_Imaging_for_MRI_Reconstruction_CVPR_2025_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content/CVPR2025/html/Joo_AeSPa__Attention-guided_Self-supervised_Parallel_Imaging_for_MRI_Reconstruction_CVPR_2025_paper.html"
+    ]
+  },
+  {
+    "id": "icml2025-e7458fa09ac6",
+    "decision": "include",
+    "reason": "Targets antibody affinity maturation for therapeutic-antibody development. Original PDF introduction explicitly frames in-silico mutation optimization as replacing costly in-vitro maturation during therapeutic development; qualifies as therapeutic discovery rather than generic protein prediction.",
+    "source": "https://proceedings.mlr.press/v267/chen25y.html",
+    "sources": [
+      "https://proceedings.mlr.press/v267/chen25y.html",
+      "https://raw.githubusercontent.com/mlresearch/v267/main/assets/chen25y/chen25y.pdf"
+    ]
+  },
+  {
+    "id": "CVPR2020-47",
+    "decision": "include",
+    "reason": "Synthesizes dynamic medical volumes to reduce radiation/acquisition burden while retaining anatomical motion information.",
+    "source": "https://openaccess.thecvf.com/content_CVPR_2020/html/Guo_A_Spatiotemporal_Volumetric_Interpolation_Network_for_4D_Dynamic_Medical_Image_CVPR_2020_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content_CVPR_2020/html/Guo_A_Spatiotemporal_Volumetric_Interpolation_Network_for_4D_Dynamic_Medical_Image_CVPR_2020_paper.html"
+    ]
+  },
+  {
+    "id": "CVPR2020-168",
+    "decision": "include",
+    "reason": "Incremental retinal disease classification and retention of disease-related attributes are central; the additional ImageNet experiment does not make medical data an incidental benchmark. Retinal disease expansion is the main evaluation; ImageNet is an additional transferability test.",
+    "source": "https://openaccess.thecvf.com/content_CVPR_2020/html/Meng_ADINet_Attribute_Driven_Incremental_Network_for_Retinal_Image_Classification_CVPR_2020_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content_CVPR_2020/html/Meng_ADINet_Attribute_Driven_Incremental_Network_for_Retinal_Image_Classification_CVPR_2020_paper.html"
+    ]
+  },
+  {
+    "id": "CVPR2020-22",
+    "decision": "include",
+    "reason": "Architecture search is developed for 3D medical segmentation and evaluated across organ/tumor segmentation tasks; medical volumetric segmentation defines the research problem.",
+    "source": "https://openaccess.thecvf.com/content_CVPR_2020/html/Yu_C2FNAS_Coarse-to-Fine_Neural_Architecture_Search_for_3D_Medical_Image_Segmentation_CVPR_2020_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content_CVPR_2020/html/Yu_C2FNAS_Coarse-to-Fine_Neural_Architecture_Search_for_3D_Medical_Image_Segmentation_CVPR_2020_paper.html"
+    ]
+  },
+  {
+    "id": "CVPR2020-306",
+    "decision": "include",
+    "reason": "Automated coronary artery anatomical labeling from clinical CT is the central task.",
+    "source": "https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_CPR-GCN_Conditional_Partial-Residual_Graph_Convolutional_Network_in_Automated_Anatomical_Labeling_CVPR_2020_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_CPR-GCN_Conditional_Partial-Residual_Graph_Convolutional_Network_in_Automated_Anatomical_Labeling_CVPR_2020_paper.html"
+    ]
+  },
+  {
+    "id": "CVPR2020-434",
+    "decision": "include",
+    "reason": "Mammographic mass detection and cross-view anatomical correspondence for suspicious breast findings define the model and evaluation.",
+    "source": "https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Cross-View_Correspondence_Reasoning_Based_on_Bipartite_Graph_Convolutional_Network_for_CVPR_2020_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Cross-View_Correspondence_Reasoning_Based_on_Bipartite_Graph_Convolutional_Network_for_CVPR_2020_paper.html"
+    ]
+  },
+  {
+    "id": "CVPR2020-66",
+    "decision": "include",
+    "reason": "Targets segmentation of vessels and ducts in CT with low contrast and tubular anatomy; clinical imaging structures drive the geometry-aware method.",
+    "source": "https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Deep_Distance_Transform_for_Tubular_Structure_Segmentation_in_CT_Scans_CVPR_2020_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Deep_Distance_Transform_for_Tubular_Structure_Segmentation_in_CT_Scans_CVPR_2020_paper.html"
+    ]
+  },
+  {
+    "id": "CVPR2020-104",
+    "decision": "include",
+    "reason": "The abstract and introduction explicitly target medical image registration, anatomical shape analysis and motion correction, with diffeomorphic constraints motivated by brain, lung and fetal deformation. Synthetic 2D tests supplement the medical registration task.",
+    "source": "https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_DeepFLASH_An_Efficient_Network_for_Learning-Based_Medical_Image_Registration_CVPR_2020_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_DeepFLASH_An_Efficient_Network_for_Learning-Based_Medical_Image_Registration_CVPR_2020_paper.html",
+      "https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_DeepFLASH_An_Efficient_Network_for_Learning-Based_Medical_Image_Registration_CVPR_2020_paper.pdf"
+    ]
+  },
+  {
+    "id": "CVPR2020-242",
+    "decision": "include",
+    "reason": "Accelerated multi-protocol MRI reconstruction with a complementary T1 prior is the central objective.",
+    "source": "https://openaccess.thecvf.com/content_CVPR_2020/html/Zhou_DuDoRNet_Learning_a_Dual-Domain_Recurrent_Network_for_Fast_MRI_Reconstruction_CVPR_2020_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content_CVPR_2020/html/Zhou_DuDoRNet_Learning_a_Dual-Domain_Recurrent_Network_for_Fast_MRI_Reconstruction_CVPR_2020_paper.html"
+    ]
+  },
+  {
+    "id": "CVPR2020-315",
+    "decision": "include",
+    "reason": "Patient-specific adaptation for cardiac motion estimation in MRI defines the problem and evaluation.",
+    "source": "https://openaccess.thecvf.com/content_CVPR_2020/html/Yu_FOAL_Fast_Online_Adaptive_Learning_for_Cardiac_Motion_Estimation_CVPR_2020_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content_CVPR_2020/html/Yu_FOAL_Fast_Online_Adaptive_Learning_for_Cardiac_Motion_Estimation_CVPR_2020_paper.html"
+    ]
+  },
+  {
+    "id": "CVPR2020-81",
+    "decision": "include",
+    "reason": "Develops semi-supervised detection specifically around 3D lung-nodule CT and scarce medical annotations.",
+    "source": "https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_FocalMix_Semi-Supervised_Learning_for_3D_Medical_Image_Detection_CVPR_2020_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_FocalMix_Semi-Supervised_Learning_for_3D_Medical_Image_Detection_CVPR_2020_paper.html"
+    ]
+  },
+  {
+    "id": "CVPR2020-1153",
+    "decision": "include",
+    "reason": "Multi-coil undersampled MRI reconstruction integrating GRAPPA acquisition physics is the central task.",
+    "source": "https://openaccess.thecvf.com/content_CVPR_2020/html/Sriram_GrappaNet_Combining_Parallel_Imaging_With_Deep_Learning_for_Multi-Coil_MRI_CVPR_2020_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content_CVPR_2020/html/Sriram_GrappaNet_Combining_Parallel_Imaging_With_Deep_Learning_for_Multi-Coil_MRI_CVPR_2020_paper.html"
+    ]
+  },
+  {
+    "id": "CVPR2020-866",
+    "decision": "include",
+    "reason": "Interactive refinement of 3D anatomical medical segmentation with clinician hints is the central workflow.",
+    "source": "https://openaccess.thecvf.com/content_CVPR_2020/html/Liao_Iteratively-Refined_Interactive_3D_Medical_Image_Segmentation_With_Multi-Agent_Reinforcement_Learning_CVPR_2020_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content_CVPR_2020/html/Liao_Iteratively-Refined_Interactive_3D_Medical_Image_Segmentation_With_Multi-Agent_Reinforcement_Learning_CVPR_2020_paper.html"
+    ]
+  },
+  {
+    "id": "CVPR2020-566",
+    "decision": "include",
+    "reason": "One-shot anatomical medical segmentation via atlas-to-scan label transfer defines the objective.",
+    "source": "https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_LT-Net_Label_Transfer_by_Learning_Reversible_Voxel-Wise_Correspondence_for_One-Shot_CVPR_2020_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_LT-Net_Label_Transfer_by_Learning_Reversible_Voxel-Wise_Correspondence_for_One-Shot_CVPR_2020_paper.html"
+    ]
+  },
+  {
+    "id": "CVPR2020-475",
+    "decision": "include",
+    "reason": "Malignant-lymphoma subtype classification from histopathology is the central diagnostic task, including comparisons with pathologists.",
+    "source": "https://openaccess.thecvf.com/content_CVPR_2020/html/Hashimoto_Multi-scale_Domain-adversarial_Multiple-instance_CNN_for_Cancer_Subtype_Classification_with_Unannotated_CVPR_2020_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content_CVPR_2020/html/Hashimoto_Multi-scale_Domain-adversarial_Multiple-instance_CNN_for_Cancer_Subtype_Classification_with_Unannotated_CVPR_2020_paper.html"
+    ]
+  },
+  {
+    "id": "CVPR2020-259",
+    "decision": "include",
+    "reason": "Organ-at-risk segmentation for head-and-neck cancer radiotherapy planning directly targets treatment planning.",
+    "source": "https://openaccess.thecvf.com/content_CVPR_2020/html/Guo_Organ_at_Risk_Segmentation_for_Head_and_Neck_Cancer_Using_CVPR_2020_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content_CVPR_2020/html/Guo_Organ_at_Risk_Segmentation_for_Head_and_Neck_Cancer_Using_CVPR_2020_paper.html"
+    ]
+  },
+  {
+    "id": "CVPR2020-950",
+    "decision": "include",
+    "reason": "Pathological retinal fluid segmentation in OCT drives anatomy-aware augmentation and evaluation.",
+    "source": "https://openaccess.thecvf.com/content_CVPR_2020/html/Mahapatra_Pathological_Retinal_Region_Segmentation_From_OCT_Images_Using_Geometric_Relation_CVPR_2020_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content_CVPR_2020/html/Mahapatra_Pathological_Retinal_Region_Segmentation_From_OCT_Images_Using_Geometric_Relation_CVPR_2020_paper.html"
+    ]
+  },
+  {
+    "id": "CVPR2020-208",
+    "decision": "include",
+    "reason": "Prediction of lymph-node metastasis from colorectal histopathology is the central diagnostic/prognostic target.",
+    "source": "https://openaccess.thecvf.com/content_CVPR_2020/html/Zhao_Predicting_Lymph_Node_Metastasis_Using_Histopathological_Images_Based_on_Multiple_CVPR_2020_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content_CVPR_2020/html/Zhao_Predicting_Lymph_Node_Metastasis_Using_Histopathological_Images_Based_on_Multiple_CVPR_2020_paper.html"
+    ]
+  },
+  {
+    "id": "CVPR2020-596",
+    "decision": "include",
+    "reason": "Medical CT slice synthesis targets anisotropic acquisition and anatomical volume reconstruction, not generic image upscaling merely tested on scans.",
+    "source": "https://openaccess.thecvf.com/content_CVPR_2020/html/Peng_SAINT_Spatially_Aware_Interpolation_NeTwork_for_Medical_Slice_Synthesis_CVPR_2020_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content_CVPR_2020/html/Peng_SAINT_Spatially_Aware_Interpolation_NeTwork_for_Medical_Slice_Synthesis_CVPR_2020_paper.html"
+    ]
+  },
+  {
+    "id": "CVPR2020-105",
+    "decision": "include",
+    "reason": "Ambiguous anatomical boundaries and specialist shape knowledge in medical segmentation are the explicit research problems.",
+    "source": "https://openaccess.thecvf.com/content_CVPR_2020/html/Lee_Structure_Boundary_Preserving_Segmentation_for_Medical_Image_With_Ambiguous_Boundary_CVPR_2020_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content_CVPR_2020/html/Lee_Structure_Boundary_Preserving_Segmentation_for_Medical_Image_With_Ambiguous_Boundary_CVPR_2020_paper.html"
+    ]
+  },
+  {
+    "id": "CVPR2020-1120",
+    "decision": "include",
+    "reason": "Full-paper introduction and contribution statement explicitly target medical data-access restrictions and multi-hospital training without sharing raw patient scans. Synthetic images support medical segmentation; health deployment is central despite the reusable GAN formulation.",
+    "source": "https://openaccess.thecvf.com/content_CVPR_2020/html/Chang_Synthetic_Learning_Learn_From_Distributed_Asynchronized_Discriminator_GAN_Without_Sharing_CVPR_2020_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content_CVPR_2020/html/Chang_Synthetic_Learning_Learn_From_Distributed_Asynchronized_Discriminator_GAN_Without_Sharing_CVPR_2020_paper.html",
+      "https://openaccess.thecvf.com/content_CVPR_2020/papers/Chang_Synthetic_Learning_Learn_From_Distributed_Asynchronized_Discriminator_GAN_Without_Sharing_CVPR_2020_paper.pdf"
+    ]
+  },
+  {
+    "id": "CVPR2020-58",
+    "decision": "include",
+    "reason": "Abstract explicitly identifies lesion appearance shifts across gastroscopy/enteroscopy datasets and develops transfer modules for endoscopic lesion segmentation. Additional nonmedical evaluations do not erase the central medical objective. Full-text experimental section 4.2 centers medical endoscopy performance and ablations (Tables 1–2); section 4.3 adds GTA/SYNTHIA-to-Cityscapes comparisons. Medical problem formulation, dedicated medical evaluation and medical ablations support predominantly medical classification rather than incidental medical testing.",
+    "source": "https://openaccess.thecvf.com/content_CVPR_2020/html/Dong_What_Can_Be_Transferred_Unsupervised_Domain_Adaptation_for_Endoscopic_Lesions_CVPR_2020_paper.html",
+    "sources": [
+      "https://openaccess.thecvf.com/content_CVPR_2020/html/Dong_What_Can_Be_Transferred_Unsupervised_Domain_Adaptation_for_Endoscopic_Lesions_CVPR_2020_paper.html",
+      "https://arxiv.org/abs/2004.11500"
+    ]
+  },
+  {
+    "id": "2021.acl-long.122",
+    "decision": "exclude",
+    "reason": "Exclude under primary actual medical/biomedical research criterion. The pandemic motivation and corpus domain are real, but the paper actually studies generic linguistic representation, annotation quality and parser accuracy. This is not exclusion for generic architecture, lack of clinical outcomes, or absence of wet-lab data; it is the substantive research objective and interpretation of every empirical endpoint.",
+    "source": "https://aclanthology.org/2021.acl-long.122.pdf",
+    "evidence": [
+      {
+        "locator": "§1 pp.1540–1541",
+        "finding": "COVID-19 infodemic and coronavirus reporting motivate a general source-linked event-certainty representation. The proposed contributions are a modal-dependency corpus, annotation consistency and a joint parser, not a public-health information assessment."
+      },
+      {
+        "locator": "§§2.1–2.5 pp.1542–1544",
+        "finding": "Labels are general epistemic strength and polarity; annotations identify events, conceivers and dependency relations. Corpus samples 353 coronavirus-news articles from eleven general news providers. All events are annotated, without a medical-event or health-claim truth task."
+      },
+      {
+        "locator": "§3.2 p.1546 and Table6 p.1547",
+        "finding": "Joint versus pipeline models are evaluated on event extraction, conceiver extraction and labeled dependency attachment, with gold or automatic mentions. Experiments establish a linguistic structural-prediction improvement, not disease/health inference or medical-claim verification."
+      },
+      {
+        "locator": "§3.3 pp.1546–1547 and Table7",
+        "finding": "Deeper error analysis compares crowdworkers and system against an expert annotator on same-sentence versus cross-sentence source attachment. The interpretation is linguistic dependency distance, not medical content or public-health misinformation."
+      },
+      {
+        "locator": "§5 p.1547",
+        "finding": "Future work explicitly reserves large-scale factuality assessment of news events. The executed work is parsing and annotation, with medical-news content serving as the corpus domain."
+      }
+    ],
+    "reviewed_sections": [
+      "Introduction pp.1540–1541",
+      "Annotation design and evaluation §§2.1–2.5 pp.1542–1544",
+      "Neural parsing and actual experiments §§3.1–3.3 pp.1545–1547",
+      "Conclusion §5 p.1547"
+    ],
+    "old_rereview_count": 1,
+    "new_unique_abstract_credit": 0,
+    "new_unique_body_credit": 0,
+    "reviewed_at": "2026-10-21T22:01:13.745732+00:00"
+  },
+  {
+    "id": "2020.acl-main.330",
+    "decision": "pending",
+    "reason": "Preserve HOLD. There is a central actual health-QA arm, but the mixed parenting/health resource and generic cross-task empirical interpretation do not unambiguously establish medical/biomedical primacy or permit safe incidental exclusion. Missing per-topic scores, clinical-correctness assessment and sample proportions are evidentiary limitations, not required eligibility tests. No category-count or dataset-count vote is used.",
+    "source": "https://aclanthology.org/2020.acl-main.330.pdf",
+    "evidence": [
+      {
+        "locator": "§1 pp.3586–3587 and §4 pp.3590–3591",
+        "finding": "Central methodological motivation is a cross-task jointly labeled corpus allowing additional supervision without additional input data. Maternal/infant forum questions supply the common input and labels."
+      },
+      {
+        "locator": "§3.2 p.3589 and Table7 p.3592",
+        "finding": "Health-domain question answering is an explicitly defined central task, with retrieval/generation baselines and a full evaluation table. This is genuine health-domain work, not merely a medical dataset name."
+      },
+      {
+        "locator": "Table2 p.3589 and §§3.1–3.3",
+        "finding": "The same released resource includes health care, child allergy, pregnancy, infertility and vaccination alongside early education, family education and kindergarten. Classification, QA and question summarization use this mixed maternal/childcare domain."
+      },
+      {
+        "locator": "Tables6–8 pp.3592–3593 and §5.2",
+        "finding": "Actual analyses interpret model capacity, topic/age classification difficulty, retrieval versus generation, multitask improvement and news-versus-forum summarization genre. They do not isolate the substantive weight of medical content in the mixed resource."
+      }
+    ],
+    "reviewed_sections": [
+      "Introduction pp.3586–3587",
+      "Dataset §§3.1–3.3 pp.3588–3590",
+      "Multi-task learning §4 pp.3590–3591",
+      "Experimental settings/results §§5.1–5.2 pp.3591–3593",
+      "Discussion and conclusion §§6–7 pp.3593–3594"
+    ],
+    "old_rereview_count": 1,
+    "new_unique_abstract_credit": 0,
+    "new_unique_body_credit": 0,
+    "reviewed_at": "2026-10-21T22:01:13.745732+00:00"
+  },
+  {
+    "id": "icml2026-12775f865e43",
+    "decision": "include",
+    "reason": "Primary object is protein conformational dynamics; architecture conditions on protein sequences and temperatures and experiments test folding, equilibrium conformations and cryptic binding pockets. Inclusion does not depend on disease naming or dataset-count voting.",
+    "source": "https://proceedings.mlr.press/v306/antoniadis26a.html",
+    "sources": [
+      "https://proceedings.mlr.press/v306/antoniadis26a.html",
+      "https://raw.githubusercontent.com/mlresearch/v306/main/assets/antoniadis26a/antoniadis26a.pdf"
+    ],
+    "checked_at_utc": "2026-10-22T02:50:54.123234+00:00"
+  },
+  {
+    "id": "icml2026-9959d6ba3357",
+    "decision": "include",
+    "reason": "The central method learns all-atom protein representations for structural biology, with protein binding affinity, mutational stability, NMR chemical shifts and fold classification as primary biological applications, rather than an incidental biomedical benchmark.",
+    "source": "https://proceedings.mlr.press/v306/chen26ct.html",
+    "sources": [
+      "https://proceedings.mlr.press/v306/chen26ct.html",
+      "https://raw.githubusercontent.com/mlresearch/v306/main/assets/chen26ct/chen26ct.pdf"
+    ],
+    "checked_at_utc": "2026-10-22T02:50:54.123234+00:00"
+  },
+  {
+    "id": "icml2026-ba94f040ea9d",
+    "decision": "include",
+    "reason": "The central problem, model and experiments concern time-course single-cell gene expression, cellular differentiation and reprogramming, rather than an incidental biomedical benchmark.",
+    "source": "https://proceedings.mlr.press/v306/balik26a.html",
+    "sources": [
+      "https://proceedings.mlr.press/v306/balik26a.html",
+      "https://raw.githubusercontent.com/mlresearch/v306/main/assets/balik26a/balik26a.pdf"
+    ],
+    "checked_at_utc": "2026-10-22T02:50:54.123234+00:00"
+  },
+  {
+    "id": "icml2021-audiffren21a",
+    "decision": "include",
+    "reason": "Dedicated basic human-perception/psychophysics methodology is the primary actual research object across problem formulation, method and evaluation. The experiments are simulated, but simulation is not itself an exclusion criterion. The generic bandit/optimization machinery does not turn this dedicated psychometric research into incidental biomedical evaluation. Include as basic neuroscience methods with an explicit synthetic-only validation caveat, not as clinically validated assessment.",
+    "source": "https://proceedings.mlr.press/v139/audiffren21a/audiffren21a.pdf"
+  },
+  {
+    "id": "icml2021-shi21b",
+    "decision": "exclude",
+    "reason": "Exclude at the computational-chemistry boundary: the main scientific claims and implemented objectives concern generic molecular geometry and quantum physicochemical properties, not investigation of a biological system or a predominantly biomedical experimental program. GEOM-Drugs is real evidence of relevance to future drug workflows, but the dataset name and potential usefulness are not enough to establish biomedical primacy. This is not a rule that proteins/genes/cells need disease endpoints and is not a dataset-count vote.",
+    "source": "https://proceedings.mlr.press/v139/shi21b/shi21b.pdf"
+  },
+  {
+    "id": "ijcai2022-416",
+    "title": "Bootstrapping Informative Graph Augmentation via A Meta Learning Approach",
+    "venue": "IJCAI",
+    "year": 2022,
+    "track": "Main",
+    "decision": "exclude",
+    "confidence": "moderate",
+    "reason": "Substantial biological and molecular experiments are genuine, including dedicated OGB molecular-property results. Nevertheless, the main comparison, component ablation and sensitivity study deliberately give biological and social tasks co-primary evidential roles in cross-domain representation quality. The actual study does not establish biomedical primacy. This is not exclusion for a generic title/method, an absence of biomedical results, or a requirement for biomedical exclusivity or clinical validation.",
+    "reopen_condition": "Reopen if primary documentation changes the interpretation of the principal experiments by establishing a biomedical-primary research purpose rather than co-primary cross-domain evaluation.",
+    "source": "https://www.ijcai.org/proceedings/2022/416",
+    "pdf_url": "https://www.ijcai.org/proceedings/2022/0416.pdf",
+    "decision_batch": "scope_correction2_20261022",
+    "decided_at_utc": "2026-10-22T05:22:15.845122+00:00",
+    "supersedes_prior_include_or_hold": true,
+    "policy_change": false,
+    "scientific_flaw_allegation": false,
+    "unique_abstract_credit": 0,
+    "unique_focused_body_credit": 0
+  },
+  {
+    "id": "ijcai2022-658",
+    "title": "Completeness and Diversity in Depth-First Proof-Number Search with Applications to Retrosynthesis",
+    "venue": "IJCAI",
+    "year": 2022,
+    "track": "Main",
+    "decision": "exclude",
+    "confidence": "moderate",
+    "reason": "The actual application evaluates chemical-route feasibility, diversity and search completeness, without establishing biomedical or medicinal primacy of the principal study. Both the 40 public synthetic-accessibility benchmark molecules and the 20 Bayer-supplied drug-like molecules have drug-like provenance; no non-drug-versus-drug split is inferred. Provenance alone does not establish biomedical primacy. Computational retrosynthesis can qualify when its actual research is biomedical-primary; clinical or wet-lab validation is not required.",
+    "reopen_condition": "Reopen if primary documentation ties the 2022 target selection and principal experiment to a medicinal discovery or other biomedical-primary objective. Do not import experiments from a later expanded paper.",
+    "source": "https://www.ijcai.org/proceedings/2022/658",
+    "pdf_url": "https://www.ijcai.org/proceedings/2022/0658.pdf",
+    "decision_batch": "scope_correction2_20261022",
+    "decided_at_utc": "2026-10-22T05:22:15.845122+00:00",
+    "supersedes_prior_include_or_hold": true,
+    "policy_change": false,
+    "scientific_flaw_allegation": false,
+    "unique_abstract_credit": 0,
+    "unique_focused_body_credit": 0
+  }
+]

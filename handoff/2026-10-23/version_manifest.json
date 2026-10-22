@@ -1,0 +1,66 @@
+{
+  "export_date_utc": "2026-10-22",
+  "last_confirmed_public": {
+    "version": "v295",
+    "source_commit": "4411a88642ae51921e6a84062a935505f651f3a8",
+    "included": 2001,
+    "core": 1167,
+    "pairs": 1244,
+    "licensed_abstracts": 1420,
+    "partial": 834,
+    "pending": 144,
+    "abstract_reads": 13193,
+    "body_reads": 4330
+  },
+  "frozen_source_snapshot": {
+    "status": "FROZEN_VALIDATED_NOT_YET_CONFIRMED_PUBLISHED",
+    "included": 2004,
+    "core": 1170,
+    "pairs": 1247,
+    "licensed_abstracts": 1425,
+    "partial": 834,
+    "pending": 143,
+    "media_assets": 2513,
+    "abstract_reads": 13292,
+    "body_reads": 4378,
+    "data_sha256": {
+      "coverage.json": "882d063130b75e69512dc587f720ba8d766e18ccb3632f125e6a97e009edda43",
+      "curated_metadata.json": "8bf87823ba03d209ce2d34eaf3e3156a9893a79d4ffd4b54ed74f2e2a6348380",
+      "scope_audit.json": "7c2f6186fac2878c4a59954bbad1deb484f04f88b58b8bb9704f6a7f533e5b4d",
+      "snapshot.json": "5c8c6e852668b2e9a3cf6f4143afed32476d3ffa02acb7d6e9d25e29188d834f",
+      "scope_adjudications.json": "d881617606fe09cb84ed51e7e27901786ad879cc156478a09f6bb867aed6d2c8",
+      "scope.json": "c25636d9794400e66853cee6583d06c8472bdebec329f254911ae1b94064fef0",
+      "progress.json": "ca47c3d6de56404d660679b6259ce096f6a7fbea39bc6753f5f90f48227cccda",
+      "topic_taxonomy.json": "cd4a7155d99795bded616e04ab1efe43659715547edae3b9823d625625870d7e",
+      "recovery_checkpoint.json": "8d832a81ae149af09b2ec5ac52622ae7dbee4bc2ef37c0cb4dc06dcad7a36c20",
+      "pending_candidates.json": "468f24ff5de7c1980e59420a76a4f7401388d9c70cb605f377bfeae764901f90",
+      "papers.json": "33c55434ac26e7e73ab7c00179ae1aaf88bd60a6bfaf53706870b70a082d4dee",
+      "current_audit_progress.json": "780e6c55bdc72c21798010b950a5b1da76179a7093821d67f5c4ea3bc4024d1b"
+    }
+  },
+  "unmerged_delta": {
+    "acl_long_2026_range": "101–200",
+    "completed_abstracts": 100,
+    "out": 46,
+    "body_needed": 54,
+    "new_body_reads": 0,
+    "new_admissions": 0
+  },
+  "working_totals": {
+    "abstract_reads": 13392,
+    "body_reads": 4378
+  },
+  "hosting": {
+    "project_id": "appgprj_6ad09e9e8fd88191ace7d0a6410b345e",
+    "audience": "public",
+    "url": "https://awesome-medical-ccfa.grandowlet6.chatgpt.site",
+    "authentication_transferred": false
+  },
+  "github": {
+    "url": "https://github.com/Bean-Young/Awesome-Medical-CCFA",
+    "synchronization": "Root will reconcile actual handoff upload receipt; repository app source not assumed current"
+  },
+  "omitted_fields": "All full original abstracts omitted conservatively, even where current source may permit reproduction. Rights evidence and source links retained.",
+  "history_complete": false,
+  "delivery_stage": "Current snapshot and unmerged batch ready; historical ledger export in progress"
+}
