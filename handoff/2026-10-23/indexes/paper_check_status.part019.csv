@@ -1,0 +1,1215 @@
+canonical_id,title,venue,year,track,explicit_complete_abstract,focused_body_evidence,scientific_decision_recorded,decisions,event_count
+neurips2025-a6645a01939c,Time-uniform and Asymptotic Confidence Sequence of Quantile under Local Differential Privacy,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a66caa1703fe,Fractional Diffusion Bridge Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a66f53ebf172,Technical Debt in In-Context Learning: Diminishing Efficiency in Long Context,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a674f9732047,The $\varphi$ Curve: The Shape of Generalization through the Lens of Norm-based Capacity Control,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a6805b5564bd,Revisiting Orbital Minimization Method for Neural Operator Decomposition,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a68120d2eb2f,Unveiling Chain of Step Reasoning for Vision-Language Models with Fine-grained Rewards,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a6837c1dd021,Checklists Are Better Than Reward Models For Aligning Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a686ddca183f,Differentially Private Federated Low Rank Adaptation Beyond Fixed-Matrix,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a6a6891cf1df,Imagined Autocurricula,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a6a90bcc2aa4,Beyond Modality Collapse: Representation Blending for Multimodal Dataset Distillation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a6ab94e907d2,VR-Drive: Viewpoint-Robust End-to-End Driving with Feed-Forward 3D Gaussian Splatting,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a6b3466b787d,HPSERec: A Hierarchical Partitioning and Stepwise Enhancement Framework for Long-tailed Sequential Recommendation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a6b64e06886a,HM3: Hierarchical Multi-Objective Model Merging for Pretrained Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a6bd9cbda87b,Rewind-to-Delete: Certified Machine Unlearning for Nonconvex Functions,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a6c7515ac435,Transformers for Mixed-type Event Sequences,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a6df53f08261,Improving Model-Based Reinforcement Learning by Converging to Flatter Minima,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a6e072cfc127,How Many Domains Suffice for Domain Generalization? A Tight Characterization via the Domain Shattering Dimension,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a6e2bd60017c,Bandit Guided Submodular Curriculum for Adaptive Subset Selection,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a6e3dac86d06,Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a6ffe4ec7aaa,Understanding Adam Requires Better Rotation Dependent Assumptions,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a70522d11232,Optimal Regret of Bandits under Differential Privacy,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a741b3864dbe,SimSort: A Data-Driven Framework for Spike Sorting by Large-Scale Electrophysiology Simulation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a74ba7efe81b,Skrull: Towards Efficient Long Context Fine-tuning through Dynamic Data Scheduling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a751eb81265d,REOrdering Patches Improves Vision Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a76653a4209b,Disentangling misreporting from genuine adaptation in strategic settings: a causal approach,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a76ed4a8ef52,More Than Generation: Unifying Generation and Depth Estimation via Text-to-Image Diffusion Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a77dfb75d40b,"A Latent Multilayer Graphical Model For Complex, Interdependent Systems",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a789f19f6454,Low-degree evidence for computational transition of recovery rate in stochastic block model,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a79054a9da91,OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a793ef048356,InstanceAssemble: Layout-Aware Image Generation via Instance Assembling Attention,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a797c2d2e0c1,Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a7bc7d298e4b,"Memory Decoder: A Pretrained, Plug-and-Play Memory for Large Language Models",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a7bfdee9544c,ViSpec: Accelerating Vision-Language Models with Vision-Aware Speculative Decoding,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a7ca0195a6b7,Explore In-Context Message Passing Operator for Graph Neural Networks in A Mean Field Game,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a7d80c990c77,From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a7efd7734bb2,STree: Speculative Tree Decoding for Hybrid State Space Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a7f530e11fa1,Causal Head Gating: A Framework for Interpreting Roles of Attention Heads in Transformers,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a80ebbb4ec9e,Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a80ed64454ca,Uncertainty-Calibrated Prediction of Randomly-Timed Biomarker Trajectories with Conformal Bands,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a81a1eabfb6c,Orthogonal Contrastive Learning for Multi-Representation fMRI Analysis,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a8215dfaaf28,From stability of Langevin diffusion to convergence of proximal MCMC for non-log-concave sampling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a821bd31e934,Pairwise Optimal Transports for Training All-to-All Flow-Based Condition Transfer Model,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a82a2601648d,Sample complexity of data-driven tuning of model hyperparameters in neural networks with structured parameter-dependent dual function,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a82b0c6d19e4,Adam Reduces a Unique Form of Sharpness: Theoretical Insights Near the Minimizer Manifold,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a831bd2b1bf8,Quantifying and Alleviating Co-Adaptation in Sparse-View 3D Gaussian Splatting,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a845c35c5794,Hybrid-Collaborative Augmentation and Contrastive Sample Adaptive-Differential Awareness for Robust Attributed Graph Clustering,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a845fdc3f877,Atomic Diffusion Models for Small Molecule Structure Elucidation from NMR Spectra,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a84953147312,Motion4D: Learning 3D-Consistent Motion and Semantics for 4D Scene Understanding,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a86441358d4b,SAINT: Sequence-Aware Integration for Spatial Transcriptomics Multi-View Clustering,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a86d17b6cd70,Thresholds for sensitive optimality and Blackwell optimality in stochastic games,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a86f9983dee6,Wonder Wins Ways: Curiosity-Driven Exploration through Multi-Agent Contextual Calibration,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a8c893712cb7,On Logic-based Self-Explainable Graph Neural Networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a8e18adf6489,Walking the Tightrope: Autonomous Disentangling Beneficial and Detrimental Drifts in Non-Stationary Custom-Tuning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a8f123480ede,Multi-head Transformers Provably Learn Symbolic Multi-step Reasoning via Gradient Descent,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a9077da44185,Luminance-Aware Statistical Quantization: Unsupervised Hierarchical Learning for Illumination Enhancement,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a911e543a954,SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a9168f1c54e5,SEC-bench: Automated Benchmarking of LLM Agents on Real-World Software Security Tasks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a917c1d57088,LittleBit: Ultra Low-Bit Quantization via Latent Factorization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a91bfac82c40,Belief-Calibrated Multi-Agent Consensus Seeking for Complex NLP Tasks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a920ad9a3786,Dual-Comb Ghost Imaging with Transformer-Based Reconstruction for Optical Fiber Endomicroscopy,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a924b7178e59,Tracing Back the Malicious Clients in Poisoning Attacks to Federated Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a92519f525c0,Flow Matching Neural Processes,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a92ee7e49a25,GRIT: Teaching MLLMs to Think with Images,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a9401a4f93a4,Differentially Private High-dimensional Variable Selection via Integer Programming,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a9456f2962b3,Non-convex entropic mean-field optimization via Best Response flow,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a94a8800a4b0,MAPLE: Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a9531a3e64e6,Exponential Convergence Guarantees for Iterative Markovian Fitting,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a9619dd0f0d5,MLE-STAR: Machine Learning Engineering Agent via Search and Targeted Refinement,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a96d4fda3017,Foundations of Top-$k$ Decoding for Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a978bdfeb195,Hybrid Re-matching for Continual Learning with Parameter-Efficient Tuning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a982938f457e,Diffusing DeBias: Synthetic Bias Amplification for Model Debiasing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a98687476af6,Automatic Synthetic Data and Fine-grained Adaptive Feature Alignment for Composed Person Retrieval,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a996037f92d4,LASeR: Learning to Adaptively Select Reward Models with Multi-Arm Bandits,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a99b85989b23,From Programs to Poses: Factored Real-World Scene Generation via Learned Program Libraries,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a99cbe298888,SimpleStrat: Diversifying Language Model Generation with Stratification,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a99f732df9b6,Critical Batch Size Revisited: A Simple Empirical Approach to Large-Batch Language Model Training,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a9a053cf2057,Seeds of Structure: Patch PCA Reveals Universal Compositional Cues in Diffusion Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a9a3c5df7036,Trajectory Bellman Residual Minimization: A Simple Value-Based Method for LLM Reasoning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a9ca37927d67,Interpretable Next-token Prediction via the Generalized Induction Head,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a9cae5b74cfc,Angular Constraint Embedding via SpherePair Loss for Constrained Clustering,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a9d419ef12fb,Unlocking SLM Potential for Data Analysis Code Generation via Non-Parametric Knowledge Distillation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a9d5c33e3844,Learning to Reason under Off-Policy Guidance,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a9ed43fa31dc,Second-Order Convergence in Private Stochastic Non-Convex Optimization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-a9eef2d4f04e,SPOT: Scalable Policy Optimization with Trees for Markov Decision Processes,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aa02c593423b,Safety Depth in Large Language Models: A Markov Chain Perspective,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aa1b1a959c80,Real-World Reinforcement Learning of Active Perception Behaviors,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aa1d8cf866c4,TADA: Improved Diffusion Sampling with Training-free Augmented DynAmics,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aa31eee8f235,DEGauss: Defending Against Malicious 3D Editing for Gaussian Splatting,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aa3e67220ca4,Low-Rank Head Avatar Personalization with Registers,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aa4a4f2b571c,Reasoning Beyond Points: A Visual Introspective Approach for Few-Shot 3D Segmentation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aa4bee5e2720,Spectral Graph Coarsening Using Inner Product Preservation and the Grassmann Manifold,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aa5642fb7d78,Is Limited Participant Diversity Impeding EEG-based Machine Learning?,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aa5756f819eb,Aligning Transformers with Continuous Feedback via Energy Rank Alignment,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aa5c083f9d38,The Promise of RL for Autoregressive Image Editing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aa5f5e6eb6f6,Benford’s Curse: Tracing Digit Bias to Numerical Hallucination in LLMs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aa776a81c3ad,Interactive Anomaly Detection for Articulated Objects via Motion Anticipation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aa95d031f5e1,Noise Injection Reveals Hidden Capabilities of Sandbagging Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aa963ac25659,TAMI: Taming Heterogeneity in Temporal Interactions for Temporal Graph Link Prediction,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aab3003c922e,Nearly Dimension-Independent Convergence of Mean-Field Black-Box Variational Inference,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aac47a65339d,Synthetic-powered predictive inference,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aacca7b6a20d,Thinking in Character: Advancing Role-Playing Agents with Role-Aware Reasoning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aad5e2a48386,Antidistillation Sampling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aadaedf7fc27,SuperCLIP: CLIP with Simple Classification Supervision,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aae27ae30e30,Improving Task-Specific Multimodal Sentiment Analysis with General MLLMs via Prompting,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aaeb63529629,Selftok-Zero: Reinforcement Learning for Visual Generation via Discrete and Autoregressive Visual Tokens,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aaec5deedd87,FedIGL: Federated Invariant Graph Learning for Non-IID Graphs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aaf85454c218,Sign-In to the Lottery: Reparameterizing Sparse Training,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aaf93e15b347,Subgraph Federated Learning via Spectral Methods,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ab062c628187,STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ab1c54209ef9,Balanced Conic Rectified Flow,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ab378fb084f3,CALM: Culturally Self-Aware Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ab3b2b8d2bb4,LLM Meeting Decision Trees on Tabular Data,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ab407a4df687,Safely Learning Controlled Stochastic Dynamics,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ab49f5e61ead,The Atlas of In-Context Learning: How Attention Heads Shape In-Context Retrieval Augmentation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ab4ccdc1fd3d,Each Complexity Deserves a Pruning Policy,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ab6022d3d669,TopoPoint: Enhance Topology Reasoning via Endpoint Detection in Autonomous Driving,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ab6eba9a8530,PLMTrajRec: A Scalable and Generalizable Trajectory Recovery Method with Pre-trained Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ab88937bac4d,ProfiX: Improving Profile-Guided Optimization in Compilers with Graph Neural Networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ab96f6d04380,ControlFusion: A Controllable Image Fusion Network with Language-Vision Degradation Prompts,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ab989891ac2a,Dense Associative Memory with Epanechnikov Energy,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aba03e6f25de,The Flood Complex: Large-Scale Persistent Homology on Millions of Points,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aba2ac76b4b5,High-dimensional neuronal activity from low-dimensional latent dynamics: a solvable model,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-abb22b1e4b4a,In-Context Learning Strategies Emerge Rationally,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-abccc325c84d,Vad-R1: Towards Video Anomaly Reasoning via Perception-to-Cognition Chain-of-Thought,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-abcd225747ec,Keep It on a Leash: Controllable Pseudo-label Generation Towards Realistic Long-Tailed Semi-Supervised Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-abdc8c031aa6,BrainODE: Neural Shape Dynamics for Age- and Disease-aware Brain Trajectories,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-abe731f5242e,Sparc3D: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-abf0ea3ae33d,Uncertainty Estimation by Flexible Evidential Deep Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-abf731c2993f,T2SMark: Balancing Robustness and Diversity in Noise-as-Watermark for Diffusion Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ac04e54e0a2d,Generalization Guarantees for Learning Score-Based Branch-and-Cut Policies in Integer Programming,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ac12d0596191,Max Entropy Moment Kalman Filter for Polynomial Systems with Arbitrary Noise,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ac1af21780d2,LeapFactual: Reliable Visual Counterfactual Explanation Using Conditional Flow Matching,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ac22a9988f38,"Statistical Analysis of the Sinkhorn Iterations for Two-Sample Schr\""{o}dinger Bridge Estimation",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ac242082287e,Magical: Medical Lay Language Generation via Semantic Invariance and Layperson-tailored Adaptation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ac3cea0be817,SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ac4a4fbfee22,Learning Juntas under Markov Random Fields,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ac58b418745b,HALO: Hadamard-Assisted Lower-Precision Optimization for LLMs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ac643478c07b,Identifying interactions across brain areas while accounting for individual-neuron dynamics with a Transformer-based variational autoencoder,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ac6ab84809ce,SANSA: Unleashing the Hidden Semantics in SAM2 for Few-Shot Segmentation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ac6de776b8de,Parallel Scaling Law for Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ac895e51849b,SAVVY: Spatial Awareness via Audio-Visual LLMs through Seeing and Hearing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ac918a952505,OpenHype: Hyperbolic Embeddings for Hierarchical Open-Vocabulary Radiance Fields,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-acb1891d79e6,NPN: Non-Linear Projections of the Null-Space for Imaging Inverse Problems,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-acb3e20075b0,Quantum Speedups for Minimax Optimization and Beyond,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-acb5222b7910,SDPGO: Efficient Self-Distillation Training Meets Proximal Gradient Optimization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-acb94e709f02,VideoChat-R1.5: Visual Test-Time Scaling to Reinforce Multimodal Reasoning by Iterative Perception,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-acfb7849f339,Finite-Time Bounds for Average-Reward Fitted Q-Iteration,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-acfb8a98d2af,Efficient and Generalizable Mixed-Precision Quantization via Topological Entropy,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ad060c652cd5,"Knowledge-based Visual Question Answer with Multimodal Processing, Retrieval and Filtering",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ad06e23fe0c3,RL Tango: Reinforcing Generator and Verifier Together for Language Reasoning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ad0876770682,Design-Based Bandits Under Network Interference: Trade-Off Between Regret and Statistical Inference,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ad184b4e0962,How Data Mixing Shapes In-Context Learning: Asymptotic Equivalence for Transformers with MLPs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ad217e0c7fec,On the VC dimension of deep group convolutional neural networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ad2f57116d62,Twilight: Adaptive Attention Sparsity with Hierarchical Top-$p$  Pruning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ad313f2a0ed7,Collaborative and Confidential Junction Trees for Hybrid Bayesian Networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ad354d14271a,GoalLadder: Incremental Goal Discovery with Vision-Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ad444db72317,SyncHuman: Synchronizing 2D and 3D Generative Models for Single-view Human Reconstruction,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ad48f017e6c3,LLM-DAMVC: A Large Language Model Assisted Dynamic Agent for Multi-View Clustering,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ad52da7034c7,Emergent Risk Awareness in Rational Agents under Resource Constraints,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ad52f9c2b232,AliO: Output Alignment Matters in Long-Term Time Series Forecasting,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ad557daf1552,Gradient Descent as Loss Landscape Navigation: a Normative Framework for Deriving Learning Rules,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ad6363efb7af,Conditioning Matters:  Training Diffusion Policies is Faster Than You Think,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ad7c21456da0,InfiGFusion: Graph-on-Logits Distillation via Efficient Gromov-Wasserstein for Model Fusion,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ad7e42e7b1f6,LoRATv2: Enabling Low-Cost Temporal Modeling in One-Stream Trackers,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ad922aa85d40,FedSVD: Adaptive Orthogonalization for Private Federated Learning with LoRA,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ad98e9f43a5d,Knowledge Distillation Detection for Open-weights Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ada418ae9b66,FHGS: Feature-Homogenized Gaussian Splatting,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-adb02256990e,DictPFL: Efficient and Private Federated Learning on Encrypted Gradients,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-adb57f49f50b,Quasi-Self-Concordant Optimization with $\ell_{\infty}$ Lewis Weights,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-adbea136219b,Learning non-equilibrium diffusions with Schrödinger bridges: from exactly solvable to simulation-free,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-adc8f8b701b0,Redundancy-Aware Test-Time Graph Out-of-Distribution Detection,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-add2278ac6d4,SPARKE: Scalable Prompt-Aware Diversity and Novelty Guidance in Diffusion Models via RKE Score,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ade039c1db03,Visual Diversity and Region-aware Prompt Learning for Zero-shot HOI Detection,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-adedc33539ea,ComRank: Ranking Loss for Multi-Label Complementary Label Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-adf17e7346b6,Robust Federated Finetuning of LLMs via Alternating Optimization of LoRA,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ae03bdef2761,WebThinker: Empowering Large Reasoning Models with Deep Research Capability,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ae0f838dc285,Physics-informed Reduced Order Modeling of Time-dependent PDEs via Differentiable Solvers,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ae2d6feb584b,Error Broadcast and Decorrelation as a Potential Artificial and Natural Learning Mechanism,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ae3e173398d6,Combinatorial Ski Rental Problem: Robust and Learning-Augmented Algorithms,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ae3ebc8b02ff,MIND: Material Interface Generation from UDFs for Non-Manifold Surface Reconstruction,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ae46ab496a23,Tight Lower Bounds and Improved Convergence in Performative Prediction,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ae484111f7a8,Learning Dense Hand Contact Estimation from Imbalanced Data,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ae67b1eda6e6,Motion Matters: Compact Gaussian Streaming for Free-Viewpoint Video Reconstruction,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ae6c3f14de6f,"Convergence of Clipped SGD on Convex $(L_0,L_1)$-Smooth Functions",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ae6c7dbd9429,"Attention Mechanism, Max-Affine Partition, and Universal Approximation",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ae6c81a39079,Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ae795b0f26b9,Block-Biased Mamba for Long-Range Sequence Processing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ae90d88755e0,Leaving No OOD Instance Behind: Instance-Level OOD Fine-Tuning for Anomaly Segmentation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ae9f1d3b89a8,Predictable Scale (Part II) --- Farseer: A Refined Scaling Law in LLMs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aea8bdc42d8b,Language Ranker: A Lightweight Ranking framework for LLM Decoding,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aeae2c860cbe,Fira: Can We Achieve Full-rank Training of LLMs Under Low-rank Constraint?,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aeaf9b454f46,OptiTree: Hierarchical Thoughts Generation with Tree Search for LLM Optimization Modeling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aec5e2847c5a,CodeCrash: Exposing LLM Fragility to Misleading Natural Language in Code Reasoning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aec7c15af9de,Token-Level Self-Play with Importance-Aware Guidance for Large Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-aee5298251a4,Towards Pre-trained Graph Condensation via Optimal Transport,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-af008ae1c030,TensorRL-QAS: Reinforcement learning with tensor networks for improved quantum architecture search,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-af02e21b3fa2,MobileODE: An Extra Lightweight Network,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-af043aee9cb1,WebDancer: Towards Autonomous Information Seeking Agency,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-af076c3bdbf9,STARFlow: Scaling Latent Normalizing Flows for High-resolution Image Synthesis,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-af2df67c0d2f,Why Popular MOEAs Are Popular: Proven Advantages in Approximating the Pareto Front,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-af536fa4312b,A Near-Optimal Algorithm for Decentralized Convex-Concave Finite-Sum Minimax Optimization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-af66ac99716a,DEXTER: Diffusion-Guided EXplanations with TExtual Reasoning for Vision Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-af752cfbdcc6,Fully Spiking Neural Networks for Unified Frame-Event Object Tracking,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-af79bcbd1d22,Bridging the gap to real-world language-grounded visual concept learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-af7cc9e2366b,Multiresolution Analysis and Statistical Thresholding on Dynamic Networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-af800ac69aea,Order-Level Attention Similarity Across Language Models: A Latent Commonality,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-af80ce1011eb,Learning to Condition: A Neural Heuristic for Scalable MPE Inference,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-af835bd1b5b6,Exploiting the Asymmetric Uncertainty Structure of Pre-trained VLMs on the Unit Hypersphere,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-af88968c8499,Improving Retrieval-Augmented Generation through Multi-Agent Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-af9c083d5d6b,Optimizing Distributional Geometry Alignment with Optimal Transport for Generative Dataset Distillation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-afb27164624b,On the Mechanisms of Weak-to-Strong Generalization: A Theoretical Perspective,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-afb4b8163299,Probing Equivariance and Symmetry Breaking in Convolutional Networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-afbe068bd046,Compositional Monte Carlo Tree Diffusion for Extendable Planning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-afe1aa79e5ee,Prior-Guided Flow Matching for Target-Aware Molecule Design with Learnable Atom Number,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b00692865928,Curly Flow Matching for Learning Non-gradient Field Dynamics,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b00efe6d4dbf,Mitigating Instability in High Residual Adaptive Sampling for PINNs via Langevin Dynamics,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b01687247f69,Find your Needle: Small Object Image Retrieval via Multi-Object Attention Optimization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b0223cad0e73,Angular Steering: Behavior Control via Rotation in Activation Space,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b0313c2f4501,Optimal Minimum Width for the Universal Approximation of Continuously Differentiable Functions by Deep Narrow MLPs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b0323c5f6b91,Optimism Without Regularization: Constant Regret in Zero-Sum Games,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b03289925195,Reasoning Planning for Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b03b9ec80fc5,Dyn-O: Building Structured World Models with  Object-Centric Representations,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b0435b5fc7ca,Discretization-free Multicalibration through Loss Minimization over Tree Ensembles,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b048dd19ba6d,Constrained Linear Thompson Sampling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b0499a1aecf0,"UniMotion: A Unified Motion Framework for Simulation, Prediction and Planning",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b05616c9f202,Learning Without Augmenting: Unsupervised Time Series Representation Learning via Frame Projections,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b05bffeb1ef9,ComPO: Preference Alignment via Comparison Oracles,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b07052dc9c64,Theory-Driven Label-Specific Representation for Incomplete Multi-View Multi-Label Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b07091c16719,Memory-Efficient Training with In-Place FFT Implementation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b078eaadc927,MesaTask: Towards Task-Driven Tabletop Scene Generation via 3D Spatial Reasoning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b0832cc57899,Brain Harmony: A Multimodal Foundation Model Unifying Morphology and Function into 1D Tokens,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b0916c29bc32,Counterfactual Reasoning for Steerable Pluralistic Value Alignment of Large Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b0a844fbfd7f,TPP-SD: Accelerating Transformer Point Process Sampling with Speculative Decoding,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b0ac83bdaf39,DreamPRM: Domain-reweighted Process Reward Model for Multimodal Reasoning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b0bc711f4872,VIPAMIN: Visual Prompt Initialization via Embedding Selection and Subspace Expansion,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b0c9f9714abf,Empowering Decision Trees via Shape Function Branching,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b0dfbc465fa4,Brain-tuning Improves Generalizability and Efficiency of Brain Alignment in Speech Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b0dfe8236981,Balancing Performance and Costs in Best Arm Identification,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b0e7cfb91109,Multi-modal contrastive learning adapts to intrinsic dimensions of shared latent variables,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b115c688cbc8,FaCT: Faithful Concept Traces for Explaining Neural Network Decisions,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b144c7c9d0c0,Mind the Gap: Removing the Discretization Gap in Differentiable Logic Gate Networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b14cf0a01f7a,V2V: Scaling Event-Based Vision through Efficient Video-to-Voxel Simulation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b1762f00cbbc,"MotionBind: Multi-Modal Human Motion Alignment for Retrieval, Recognition, and Generation",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b1a81aa84530,EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b1be87ef779a,Statistical Inference under Performativity,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b1cd72276fef,Bridging Theory and Practice in Link Representation with Graph Neural Networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b1d4973f5d21,VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b1e7f61f40d6,Robustifying Learning-Augmented Caching Efficiently without Compromising 1-Consistency,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b1ea3f93167c,Reinforcement Learning for Reasoning in Large Language Models with One Training Example,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b1f140eeee24,Reaction Prediction via Interaction Modeling of Symmetric Difference Shingle Sets,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b1f1d31f1eef,Diffusion Models and the Manifold Hypothesis: Log-Domain Smoothing is Geometry Adaptive,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b213d8707405,Decomposing motor units through elimination for real-time intention driven assistive neurotechnology,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b216ce49d808,Adv-SSL: Adversarial Self-Supervised Representation Learning with Theoretical Guarantees,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b238324b309d,MIRAGE: Assessing Hallucination in Multimodal Reasoning Chains of MLLM,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b2438954d8c3,Efficient Hybrid Language Model Compression through Group-Aware SSM Pruning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b251e7ae1513,ADPretrain: Advancing Industrial Anomaly Detection via Anomaly Representation Pretraining,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b25222d2d405,Slow Transition to Low-Dimensional Chaos in Heavy-Tailed Recurrent Neural Networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b2647998bc95,Crucible: Quantifying the Potential of Control Algorithms through LLM Agents,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b26dfe705b54,Less Greedy Equivalence Search,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b273c97f005d,BrainEC-LLM: Brain Effective Connectivity Estimation by Multiscale Mixing LLM,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b284a0813b6a,Impartial Selection with Predictions,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b284aad9fb5c,HiPoNet: A Multi-View Simplicial Complex Network for High Dimensional Point-Cloud and Single-Cell data,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b28ae1166e10,OrdShap: Feature Position Importance for Sequential Black-Box Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b28ca52a4388,RAD: Towards Trustworthy Retrieval-Augmented Multi-modal Clinical Diagnosis,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b295b3a94070,FALQON: Accelerating LoRA Fine-tuning with Low-Bit Floating-Point Arithmetic,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b29ec434e049,Diffusion Transformers for Imputation: Statistical Efficiency and Uncertainty Quantification,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b2a2bd5d5051,On Agnostic PAC Learning in the Small Error Regime,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b2b502c3629b,Thought Communication in Multiagent Collaboration,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b2b781badeeb,Gemstones: A Model Suite for Multi-Faceted Scaling Laws,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b2c39fe6ce83,Lua-LLM: Learning Unstructured-Sparsity Allocation for Large Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b2c4b7d34b3d,What are you sinking? A geometric approach on attention sink,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b2c6e638a6bf,Convergence Rates of Constrained Expected Improvement,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b2e63e36c57e,FastVID: Dynamic Density Pruning for Fast Video Large Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b2f3e855bd11,DiCo: Revitalizing ConvNets for Scalable and Efficient Diffusion Modeling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b2fa07e58da2,Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b2fe1ee8d936,NeedleInATable: Exploring Long-Context Capability of Large Language Models towards Long-Structured Tables,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b2fea79b1137,Emergent Temporal Correspondences from Video Diffusion Transformers,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b31c332c4ceb,Keeping an Eye on LLM Unlearning: The Hidden Risk and Remedy,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b32512b0f77f,Bayesian Optimization with Preference Exploration using a Monotonic Neural Network Ensemble,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b32ea35df355,Analogy-based Multi-Turn Jailbreak against Large Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b33286edd860,OpenVLThinker: Complex Vision-Language Reasoning via Iterative SFT-RL Cycles,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b33ad9d46ab2,Deliberation on Priors: Trustworthy Reasoning of Large Language Models on Knowledge Graphs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b34efa1182a3,ElliCE: Efficient and Provably Robust Algorithmic Recourse via the Rashomon Sets,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b3587341cdcb,The Burden of Interactive Alignment with Inconsistent Preferences,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b3732a13897c,SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b394adff2132,From Euler to AI: Unifying Formulas for Mathematical Constants,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b395e7bd5eaf,Activation-Guided Consensus Merging for Large Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b396d8821d3a,Adaptive Divergence Regularized Policy Optimization for Fine-tuning Generative Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b39cef2ef905,R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large Model Token Routing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b3bec3f5ad96,VITRIX-UniViTAR: Unified Vision Transformer with Native Resolution,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b3bfae1e280d,Escaping saddle points without Lipschitz smoothness: the power of nonlinear preconditioning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b3c2854d9e94,Gradient-Guided Epsilon Constraint Method for Online Continual Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b3c63039a28b,NoisyGRPO: Incentivizing Multimodal CoT Reasoning via Noise Injection and Bayesian Estimation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b3ee701cea48,ForceFM: Enhancing Protein-Ligand Predictions through Force-Guided Flow Matching,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b408053531ce,Self supervised learning for in vivo localization of microelectrode arrays using raw local field potential,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b42fb82fc3ff,Act Only When It Pays: Efficient Reinforcement Learning for LLM Reasoning via Selective Rollouts,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b43221a35ef2,Transition Matching: Scalable and Flexible Generative Modeling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b432bc78522b,Logic-in-Frames: Dynamic Keyframe Search via Visual Semantic-Logical Verification for Long Video Understanding,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b43a0e8a35b1,Local Learning for Covariate Selection in Nonparametric Causal Effect Estimation with Latent Variables,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b44ae9013601,DNAEdit: Direct Noise Alignment for Text-Guided Rectified Flow Editing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b45279ac82cb,SiriuS: Self-improving Multi-agent Systems via Bootstrapped Reasoning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b4689a8e6ac0,CellCLIP - Learning Perturbation Effects in Cell Painting via Text-Guided Contrastive Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b46a0ccf6526,\(\varepsilon\)-Optimally Solving Two-Player Zero-Sum POSGs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b46bc1449205,The Omni-Expert: A Computationally Efficient Approach to Achieve a Mixture of Experts in a Single Expert Model,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b47c58a2c394,Bridging Time and Linguistics: LLMs as Time Series Analyzer through Symbolization and Segmentation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b48405307576,The Future Unmarked: Watermark Removal in AI-Generated Images via Next-Frame Prediction,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b48af36b850c,Streaming Stochastic Submodular Maximization with On-Demand User Requests,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b4a804ef8f13,Uncertainty-Aware Multi-Objective Reinforcement Learning-Guided Diffusion Models for 3D De Novo Molecular Design,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b4c5bb69e445,Implicit-ARAP: Efficient Handle-Guided Neural Field Deformation via Local Patch Meshing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b4e49c75933c,Generative Perception of Shape and Material from Differential Motion,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b4f9b8097503,Efficient Knowledge Transfer in Federated Recommendation for Joint Venture Ecosystem,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b52b07a239a7,Robust Minimax Boosting with Performance Guarantees,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b52ffc1e3ab1,Stochastic Shortest Path with Sparse Adversarial Costs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b534e0754338,Theoretical Guarantees for the Retention of Strict Nash Equilibria by Coevolutionary Algorithms,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b54a93090407,Decoding Causal Structure: End-to-End Mediation Pathways Inference,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b56d827a2b84,Towards a Golden Classifier-Free Guidance Path via Foresight Fixed Point Iterations,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b577903d061f,Succeed or Learn Slowly: Sample Efficient Off-Policy Reinforcement Learning for Mobile App Control,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b57ec011a4a1,Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b5dc49f44db2,Semi-off-Policy Reinforcement Learning for Vision-Language Slow-Thinking Reasoning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b5ee4715ef8e,Scalable Fingerprinting of Large Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b5f78a17a94d,Power Lines: Scaling laws for weight decay and batch size in LLM pre-training,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b61094e0bf5e,KINDLE: Knowledge-Guided Distillation for Prior-Free Gene Regulatory Network Inference,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b610aefa3de4,Building 3D Representations and Generating Motions From a Single Image via Video-Generation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b62038599eb6,Universal Causal Inference in a Topos,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b637af7745d3,MoESD: Unveil Speculative Decoding's Potential for Accelerating Sparse MoE,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b63a24a1832b,RLVR-World: Training World Models with Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b6425ecad28e,When Worse is Better: Navigating the Compression Generation Trade-off In Visual Tokenization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b64e41cada40,"EUGens: Efficient, Unified and General Dense Layers",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b66d8cbb01ac,Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b676cbd80be7,Corporate Needs You to Find the Difference: Revisiting Submodular and Supermodular Ratio Optimization Problems,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b67d9d07faf0,Informed Correctors for Discrete Diffusion Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b690b88de1cd,HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b6ae90f159bb,Semantic and Visual Crop-Guided Diffusion Models for Heterogeneous Tissue Synthesis in Histopathology,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b6d0df730c59,Controllable 3D Molecular Generation for Structure-Based Drug Design Through Bayesian Flow Networks and Gradient Integration,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b6e67ae29063,GRIFFIN: Effective Token Alignment for Faster Speculative Decoding,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b6e928d867dc,SSIMBaD: Sigma Scaling with SSIM-Guided Balanced Diffusion for AnimeFace Colorization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b6e9d6f4f342,Regularized least squares learning with heavy-tailed noise is minimax optimal,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b6edb87876be,Language‑Bias‑Resilient Visual Question Answering via Adaptive Multi‑Margin Collaborative Debiasing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b6fa3ed9624c,Distil-E2D: Distilling Image-to-Depth Priors for Event-Based Monocular Depth Estimation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b71169b4db54,Causal Spatio-Temporal Prediction: An Effective and Efficient Multi-Modal Approach,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b71cfefae469,Learning Urban Climate Dynamics via Physics-Guided Urban Surface–Atmosphere Interactions,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b7254c649e55,LayerIF: Estimating Layer Quality for Large Language Models using Influence Functions,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b734c30b9c95,OmniResponse: Online Multimodal Conversational Response Generation in Dyadic Interactions,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b7383744ec8a,EvaLearn: Quantifying the Learning Capability and Efficiency of LLMs via Sequential Problem Solving,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b73a656e75c6,Hadamard Test is Sufficient for Efficient Quantum Gradient Estimation with Lie Algebraic Symmetries,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b74391e2cc31,The Computational Complexity of Counting Linear Regions in ReLU Neural Networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b75c000c500b,Functional Virtual Adversarial Training for Semi-Supervised Time Series Classification,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b76105b94a8c,Generative RLHF-V: Learning Principles from Multi-modal Human Preference,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b7685e50e035,Variational Task Vector Composition,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b783c44ba9ad,UniPixel: Unified Object Referring and Segmentation for Pixel-Level Visual Reasoning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b7870bd43b2d,Causal Sufficiency and Necessity Improves Chain-of-Thought Reasoning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b78adc1c1558,On Group Sufficiency Under Label Bias,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b78fef5ae694,C-NAV: Towards Self-Evolving Continual Object Navigation in Open World,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b795fcfe48f3,Learning to Think: Information-Theoretic Reinforcement Fine-Tuning for LLMs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b7971d31a7d5,KVFlow: Efficient Prefix Caching for Accelerating LLM-Based Multi-Agent Workflows,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b7a55b1fa8f2,Bi-Level Knowledge Transfer for Multi-Task Multi-Agent Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b7aa34d2d24f,Wavy Transformer,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b7aea253ab34,SuffixDecoding: Extreme Speculative Decoding for Emerging AI Applications,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b7c43d4a79de,Robust Hallucination Detection in LLMs via Adaptive Token Selection,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b7d9fad0adaa,Inverse Optimization Latent Variable Models for Learning Costs Applied to Route Problems,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b7de1556bc4b,FAPEX: Fractional Amplitude-Phase Expressor for Robust Cross-Subject Seizure Prediction,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b7e104e2a264,Discrete Spatial Diffusion: Intensity-Preserving Diffusion Modeling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b7e80990ff62,Pan-LUT: Efficient Pan-sharpening via Learnable Look-Up Tables,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b7ed46bd87cd,PAROAttention: Pattern-Aware ReOrdering for Efficient Sparse and Quantized Attention in Visual Generation Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b8013bbc0333,Inferring stochastic dynamics with growth from cross-sectional data,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b8026fe01f5f,The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b81d5608b425,Unveiling the Compositional Ability Gap in Vision-Language Reasoning Model,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b8330f5b70b3,S$^2$M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b83514e453ff,ReMA: Learning to Meta-Think for LLMs with Multi-agent Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b8358a00e5b8,UniDomain: Pretraining a Unified PDDL Domain from Real-World Demonstrations for Generalizable Robot Task Planning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b837547467ea,SkyLadder: Better and Faster Pretraining via Context Window Scheduling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b84cbefc3beb,CaliGCL: Calibrated Graph Contrastive Learning via Partitioned Similarity and Consistency Discrimination,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b862a40b6177,ASGO: Adaptive Structured Gradient Optimization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b86a195e70f2,Transformers Provably Learn Chain-of-Thought Reasoning with Length Generalization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b889aef8f520,Benign Overfitting in Single-Head Attention,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b8a28baaa25c,Guided Diffusion Sampling on Function Spaces with Applications to PDEs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b8b34328ae68,ECO: Evolving Core Knowledge for Efficient Transfer,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b8e2046160a5,Learning-Augmented Algorithms for $k$-median via Online Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b8e9869fa827,Generation as Search Operator for Test-Time Scaling of Diffusion-based Combinatorial Optimization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b8f21f324ff2,Discrete Neural Flow Samplers with Locally Equivariant Transformer,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b8fa5a23461c,Statistical Analysis of an Adversarial Bayesian Weak Supervision Method,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b8fc784104e7,Rethinking Neural Combinatorial Optimization for Vehicle Routing Problems with Different Constraint Tightness Degrees,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b914837ae7d2,Generalizable Hand-Object Modeling from Monocular RGB Images via 3D Gaussians,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b9155a40314b,ENMA: Tokenwise Autoregression for Continuous Neural PDE Operators,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b91cc0a242e6,Reframing Gaussian Splatting Densification with Complexity-Density Consistency of Primitives,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b92e7eb345fb,Better NTK Conditioning: A Free Lunch from (ReLU) Nonlinear Activation in Wide Neural Networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b94310e1c7ec,Enhancing LLM Planning for Robotics Manipulation through Hierarchical Procedural Knowledge Graphs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b94925a92f22,BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b94ab4933fea,Through the River: Understanding the Benefit of Schedule-Free Methods for Language Model Training,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b9501301a7a0,Detecting High-Stakes Interactions with Activation Probes,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b9523d484af6,LLM-PySC2: Starcraft II learning environment for Large Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b95c7e24501f,SE-GUI: Enhancing Visual Grounding for GUI Agents via Self-Evolutionary Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b95cb2d3f647,Composing Linear Layers from Irreducibles,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b96ce7d38339,ArchCAD-400K: A Large-Scale CAD drawings Dataset and New Baseline for Panoptic Symbol Spotting,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b977f77d80bd,Correlated Low-Rank Adaptation for ConvNets,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b97bc7daac28,Reconciling Geospatial Prediction and Retrieval via Sparse Representations,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b98d5883da07,Depth-Bounds for Neural Networks via the Braid Arrangement,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b9a17133e394,"Minimax-Optimal Univariate Function Selection in Sparse Additive Models: Rates, Adaptation, and the Estimation-Selection Gap",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b9a4d7b88a41,Universal Visuo-Tactile Video Understanding for Embodied Interaction,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b9b228d28770,"PolyJuice Makes It Real: Black-Box, Universal Red Teaming for Synthetic Image Detectors",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b9e472cd579c,Zero-Shot Blind-Spot Image Denoising via Cross-Scale Non-Local Pixel Refilling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b9e88ae0308c,A Statistical Theory of Contrastive Learning via Approximate Sufficient Statistics,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b9ecf4d84999,Unsupervised Trajectory Optimization for 3D Registration in Serial Section Electron Microscopy using Neural ODEs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b9f14874e61f,Improved Robust Estimation for Erdős-Rényi Graphs: The Sparse Regime and Optimal Breakdown Point,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b9f2c7f6cc69,PRSformer: Disease Prediction from Million-Scale Individual Genotypes,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-b9f4e43603a2,Adjusted Count Quantification Learning on Graphs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ba0dd55207ef,Streaming Federated Learning with Markovian Data,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ba1293b663dd,Ultrametric Cluster Hierarchies: I Want ‘em All!,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ba1d33849b96,FlowRefiner: A Robust Traffic Classification Framework against Label Noise,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ba3354bcfeae,PixPerfect: Seamless Latent Diffusion Local Editing with Discriminative Pixel-Space Refinement,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ba5c33f0d4fd,From Synapses to Dynamics: Obtaining Function from Structure in a Connectome Constrained Model of the Head Direction Circuit,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ba73bd67982d,On the creation of narrow AI: hierarchy and nonlocality of neural network skills,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ba90e56a74fd,Where and How to Perturb: On the Design of Perturbation Guidance in Diffusion and Flow Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ba92705991cf,LD-RoViS: Training-free Robust Video Steganography for Deterministic Latent Diffusion Model,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ba92c896779f,On the sample complexity of semi-supervised multi-objective learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ba942323c447,PBR-SR: Mesh PBR Texture Super Resolution from 2D Image Priors,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-baaa7b5b5bba,A Unified Solution to Video Fusion: From Multi-Frame Learning to Benchmarking,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bac4d92b3f6d,Gradient Variance Reveals Failure Modes in Flow-Based Generative Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-baca5eb9e789,ALTER: All-in-One Layer Pruning and Temporal Expert Routing for Efficient Diffusion Generation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bad017025b58,Blindfolded Experts Generalize Better:  Insights from Robotic Manipulation and Videogames,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-baf0fab890ed,Attention! Your Vision Language Model Could Be Maliciously Manipulated,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bb0f9af6a488,RLGF: Reinforcement Learning with Geometric Feedback for Autonomous Driving Video Generation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bb1eb100a213,Towards General Continuous Memory for Vision-Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bb203e938836,Regret-Optimal Q-Learning with Low Cost for Single-Agent and Federated Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bb363e99bcaa,Learning to Generate Human-Human-Object Interactions from Textual Descriptions,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bb423c5a8bb6,Adaptive 3D Reconstruction via Diffusion Priors and Forward Curvature-Matching Likelihood Updates,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bb63841e1ad1,Asymptotically exact variational flows via involutive MCMC kernels,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bb7105a5b3ca,Quantifying Cross-Modality Memorization in Vision-Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bb71b5567ee9,CoVoMix2: Advancing Zero-Shot Dialogue Generation with Fully Non-Autoregressive Flow Matching,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bb74d3d956cc,Infinite Neural Operators: Gaussian processes on functions,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bb88dfbebcb2,Topology-aware Graph Diffusion Model with Persistent Homology,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bb97e9a7c811,Policy Compatible Skill Incremental Learning via Lazy Learning Interface,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bb992de895e8,Uni-MuMER: Unified Multi-Task Fine-Tuning of Vision-Language Model for Handwritten Mathematical Expression Recognition,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bb9cd22f3d10,From Kolmogorov to Cauchy: Shallow XNet Surpasses KANs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bbba680acd28,DyG-Mamba: Continuous State Space Modeling on Dynamic Graphs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bbbd6d915cb9,A unified framework for establishing the universal approximation of transformer-type architectures,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bbc2d0cb01bf,Visual Instruction Bottleneck Tuning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bbdd7f4acc74,MemEIC: A Step Toward Continual and Compositional Knowledge Editing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bbdd9525c5ec,Tool-Augmented Spatiotemporal Reasoning for Streamlining Video Question Answering Task,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bbe04d329d53,UniTok: a Unified Tokenizer for Visual Generation and Understanding,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bbe0acd1ad5c,Watch and Listen: Understanding Audio-Visual-Speech Moments with Multimodal LLM,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bbeafbaa60ee,From Dormant to Deleted: Tamper-Resistant Unlearning Through Weight-Space Regularization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bbf14702780d,Toward Artificial Palpation: Representation Learning of Touch on Soft Bodies,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bbf23e81b0ad,UMA: A Family of Universal Models for Atoms,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bc07ad89a8a3,Bridging the Gap Between Cross-Domain Theory and Practical Application: A Case Study on Molecular Dissolution,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bc09efb501c8,Enhancing Tactile-based Reinforcement Learning for Robotic Control,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bc14bd40e118,Preference Learning with Lie Detectors can Induce Honesty or Evasion,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bc1d640f841f,Scaling Laws for Optimal Data Mixtures,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bc1e2f742565,Rethinking Multimodal Learning from the Perspective of Mitigating Classification Ability Disproportion,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bc222e8153a4,Learning to Watermark: A Selective Watermarking Framework for Large Language Models via Multi-Objective Optimization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bc24200f4ed9,Silencer: From Discovery to Mitigation of Self-Bias in LLM-as-Benchmark-Generator,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bc3b87855af0,AutoToM: Scaling Model-based Mental Inference via Automated Agent Modeling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bc43bf4c31d5,Learnable Burst-Encodable Time-of-Flight Imaging for High-Fidelity Long-Distance Depth Sensing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bc46f5d72f43,Adaptive Riemannian ADMM for Nonsmooth Optimization: Optimal Complexity without Smoothing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bc5d08497a00,Simple and Optimal Sublinear Algorithms for Mean Estimation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bc5d44c37a9c,Novel Exploration via Orthogonality,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bc634a1a1203,Feedback-Aware MCTS for Goal-Oriented Information Seeking,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bc65ab11abfb,VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bc688efcf83b,Differentiable Constraint-Based Causal Discovery,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bc6a1f968f8b,Pro3D-Editor: A Progressive-Views Perspective for Consistent and Precise 3D Editing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bc75254bc4b8,FACT: Mitigating Inconsistent Hallucinations in LLMs via Fact-Driven Alternating Code-Text Training,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bc766279695d,Cyclic Counterfactuals under Shift–Scale Interventions,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bc94f2e93a8b,ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bc97207e3979,OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bcad07d4bfab,Remarkable Robustness of LLMs: Stages of Inference?,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bcb890c29f41,Multimodal 3D Genome Pre-training,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bcc865a26110,Schrödinger Bridge Matching for Tree-Structured Costs and Entropic Wasserstein Barycentres,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bcc97a47e54a,Taming generative video models for zero-shot optical flow extraction,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bcd3c132bb19,Diffusion-Based Hierarchical Graph Neural Networks for Simulating Nonlinear Solid Mechanics,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bcdaaa1aec3a,VeriThinker: Learning to Verify Makes Reasoning Model Efficient,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bce2501dd4ed,Conformal Linguistic Calibration: Trading-off between Factuality and Specificity,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bcf5b917751e,Depth-Supervised Fusion Network for Seamless-Free Image Stitching,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bcf808e69542,Normalize Filters! Classical Wisdom for Deep Vision,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bcfcf7232cb7,Unlocker: Disentangle the Deadlock of Learning between Label-noisy and Long-tailed Data,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bcfdaf04b54a,PMQ-VE: Progressive Multi-Frame Quantization for Video Enhancement,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bd0870ff3e5f,Optimal community detection in dense bipartite graphs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bd127877149d,SAFEx: Analyzing Vulnerabilities of MoE-Based LLMs via Stable Safety-critical Expert Identification,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bd18189308a4,Zero-Shot Trajectory Planning for Signal Temporal Logic Tasks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bd31bfd4caa8,GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bd3d106d8e97,"Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bd52e86ac018,Private Hyperparameter Tuning with Ex-Post Guarantee,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bd58c2ce8bcd,Pretraining a Shared Q-Network for Data-Efficient Offline Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bd5c3c51db72,No-Regret Learning Under Adversarial Resource Constraints: A Spending Plan Is All You Need!,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bd6673d95a2a,On Epistemic Uncertainty of Visual Tokens for Object Hallucinations in Large Vision-Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bd79f2aa0e6e,DUAL: Learning Diverse Kernels for Aggregated Two-sample and Independence Testing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bd8284e53b6d,Faster Fixed-Point Methods for Multichain MDPs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bda74ccd3b7d,Evolutionary Reasoning Does Not Arise in Standard Usage of Protein Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bda88ed2892f,A Signed Graph Approach to Understanding and Mitigating Oversmoothing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bda970bcd6d1,NEP: Autoregressive Image Editing via Next Editing Token Prediction,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bdb30687f1c2,From Likelihood to Fitness: Improving Variant Effect Prediction in Protein and Genome Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bdcd9f6327db,Hyperparameter Transfer Enables Consistent Gains of Matrix-Preconditioned Optimizers Across Scales,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bdcdf38389d7,Can MLLMs Absorb Math Reasoning Abilities from LLMs as Free Lunch?,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bdcefa38404c,A Hierarchy of Graphical Models for Counterfactual Inferences,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bdd4cb9ca5cf,GeoCAD: Local Geometry-Controllable CAD Generation with Large Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bde1c75d7d89,ProSpero: Active Learning for Robust Protein Design Beyond Wild-Type Neighborhoods,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bdff657cb935,Towards Robust Zero-Shot Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-be134d48940c,PCA++: How Uniformity Induces Robustness to Background Noise in Contrastive Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-be187f9b0c9f,Learning to Generalize: An Information Perspective on Neural Processes,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-be237e1ec14b,Learning Diffusion Models with Flexible Representation Guidance,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-be36e50757bf,Consistent Supervised-Unsupervised Alignment for Generalized Category Discovery,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-be3a581a2ecf,CoUn: Empowering Machine Unlearning via Contrastive Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-be3e865f449b,Learning “Partner-Aware” Collaborators in Multi-Party Collaboration,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-be41269a9fe2,GeoRemover: Removing Objects and Their Causal Visual Artifacts,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-be4cb3237d23,Data-Adaptive Exposure Thresholds under Network Interference,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-be6035df5e67,Beyond Node-Centric Modeling: Sketching Signed Networks with Simplicial Complexes,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-be6047b64b8e,Object-centric binding in Contrastive Language-Image Pretraining,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-be690ea16f00,TTRL: Test-Time Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-be76ca290f1b,Time-Evolving Dynamical System for Learning Latent Representations of Mouse Visual Neural Activity,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-be7b70477c8f,Second-order Optimization under Heavy-Tailed Noise: Hessian Clipping and Sample Complexity Limits,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-be7bc8aa3869,From Human Attention to Diagnosis: Semantic Patch-Level Integration of Vision-Language Models in Medical Imaging,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-be86db1a7a29,Neural MJD: Neural Non-Stationary Merton Jump Diffusion for Time Series Prediction,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-be8987a75afe,Metis: A Foundation Speech Generation Model with Masked Generative Pre-training,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-be91eb86eb74,Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bea94fe9c557,VCM: Vision Concept Modeling with Adaptive Vision Token Compression via Instruction Fine-Tuning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-beb290ec1426,A Reliable Cryptographic Framework for Empirical Machine Unlearning Evaluation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-beb667eee2fe,RadarQA: Multi-modal Quality Analysis of Weather Radar Forecasts,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bebbb4732621,Do Automatic Factuality Metrics Measure Factuality? A Critical Evaluation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-becc00fe2e0a,Linearization Explains Fine-Tuning in Large Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-becf96dcee66,Probing Neural Combinatorial Optimization Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bedc61a9936a,Dynamic View Synthesis as an Inverse Problem,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bee8c2bc757f,Distributional Adversarial Attacks and Training in Deep Hedging,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bef2af7a1199,Noise Matters: Optimizing Matching Noise for Diffusion Classifiers,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bef4c645dd07,Sketched Gaussian Mechanism for Private Federated Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-befcd0172545,Enhancing the Outcome Reward-based RL Training of MLLMs with Self-Consistency Sampling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bf05b8d4361c,Shape it Up! Restoring LLM Safety during Finetuning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bf121b033db3,ViDAR: Video Diffusion-Aware 4D Reconstruction From Monocular Inputs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bf235a1d6780,Reinforcement Learning Finetunes Small Subnetworks in Large Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bf2a5ce85aea,LayerCraft: Enhancing Text-to-Image Generation with CoT Reasoning and Layered Object Integration,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bf2c36a94644,Temporal Smoothness-Aware Rate-Distortion Optimized 4D Gaussian Splatting,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bf331c87e29f,An Iterative Algorithm for Differentially Private $k$-PCA with Adaptive Noise,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bf511c2d1eb9,Faithful Dynamic Imitation Learning from Human Intervention with Dynamic Regret Minimization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bf649dbcf4ea,Gaze Beyond the Frame: Forecasting Egocentric 3D Visual Span,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bf6849169bb0,AANet: Virtual Screening under Structural Uncertainty via Alignment and Aggregation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bf6939f9058a,StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bf9b7879998f,On the $O(\frac{\sqrt{d}}{K^{1/4}})$ Convergence Rate of AdamW Measured by $\ell_1$ Norm,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bfa0d4d182de,LeMiCa: Lexicographic Minimax Path Caching for Efficient Diffusion-Based Video Generation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bfa4264b8f5b,Improving Target Sound Extraction via Disentangled Codec Representations with Privileged Knowledge Distillation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bfa7d650ddfd,Self-Assembling Graph Perceptrons,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bfab6c120092,CAGE: Continuity-Aware edGE Network Unlocks Robust Floorplan Reconstruction,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bfb18774dec5,Structured Initialization for Vision Transformers,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bfc02f1f412e,PC-Net: Weakly Supervised Compositional Moment Retrieval via Proposal-Centric Network,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bfe27c959fda,Multimodal Disease Progression Modeling via Spatiotemporal Disentanglement and Multiscale Alignment,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bfe799839877,Retrosynthesis Planning via Worst-path Policy Optimisation in Tree-structured MDPs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-bff09ce4b210,Scalable and adaptive prediction bands with kernel sum-of-squares,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c0159f3dffb2,Failure by Interference: Language Models Make Balanced Parentheses Errors  When Faulty Mechanisms Overshadow Sound Ones,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c017e92288b5,OmniTry: Virtual Try-On Anything without Masks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c023f4ec4c56,"A faster training algorithm for regression trees with linear leaves, and an analysis of its complexity",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c03a2610bca2,Adaptive Kernel Design for Bayesian Optimization Is a Piece of CAKE with LLMs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c03b51b0d53f,Sequence Modeling with Spectral Mean Flows,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c03c2e3e2ad8,Metric Automata Theory: A Unifying Theory of RNNs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c06c87bd00bb,Make Information Diffusion Explainable: LLM-based Causal Framework for Diffusion Prediction,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c0738aa38761,The Underappreciated Power of Vision Models for Graph Structural Understanding,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c07bc8b520aa,Rectifying Soft-Label Entangled Bias in Long-Tailed Dataset Distillation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c07d71ff0bc0,Principled Data Augmentation for Learning to Solve Quadratic Programming Problems,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c0867e14c33f,Sparta Alignment: Collectively Aligning Multiple Language Models through Combat,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c089f19038fb,Efficient Spectral Control of Partially Observed Linear Dynamical Systems,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c09c1ea27ad5,"Omni-DNA: A Genomic Model Supporting Sequence Understanding, Long-context, and Textual Annotation",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c0b65a9e13b9,Towards Syn-to-Real IQA: A Novel Perspective on Reshaping Synthetic Data Distributions,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c0d7b7a75dc4,FSI-Edit: Frequency and Stochasticity Injection for Flexible Diffusion-Based Image Editing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c0ebffad509a,Self-supervised Blending Structural Context of Visual Molecules for Robust Drug Interaction Prediction,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c0f721d329c1,Uni-RL: Unifying Online and Offline RL via Implicit Value Regularization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c11eb820f7b9,LabelAny3D: Label Any Object 3D in the Wild,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c129741a2451,Distilling LLM Prior to Flow Model for Generalizable Agent’s Imagination in Object Goal Navigation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c132c0217657,GD$^2$: Robust Graph Learning under Label Noise via Dual-View Prediction Discrepancy,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c1397359f98b,Accelerating Parallel Diffusion Model Serving with Residual Compression,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c13b1fc8720c,A multiscale analysis of mean-field transformers in the moderate interaction regime,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c13ba9a39b50,Staggered Environment Resets Improve Massively Parallel On-Policy Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c142c1469922,SceneDesigner: Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c1501f836c75,RiverMamba: A State Space Model for Global River Discharge and Flood Forecasting,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c1715562b222,The Boundaries of Fair AI in Medical Image Prognosis: A Causal Perspective,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c173f0a08572,CLAWS:Creativity detection for LLM-generated solutions using Attention Window of Sections,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c17f3035898a,QBasicVSR: Temporal Awareness Adaptation Quantization for Video Super-Resolution,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c1a2da8d493d,Teaching Transformers to Solve Combinatorial Problems through Efficient Trial & Error,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c1ba41c69483,Unleashing the Power of One-Step Diffusion based Image Super-Resolution via a Large-Scale Diffusion Discriminator,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c1d479825925,Strategic Classification with Non-Linear Classifiers,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c1e6da1f619f,Q3R: Quadratic Reweighted Rank Regularizer for Effective Low-Rank Training,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c20447998d6c,Model Merging in Pre-training of Large Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c208972612ed,Transstratal Adversarial Attack: Compromising Multi-Layered Defenses in Text-to-Image Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c209cd57e13f,Generating Full-field Evolution of Physical Dynamics from Irregular Sparse Observations,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c20ac0df6c21,DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c217d1238853,KVLink: Accelerating Large Language Models via Efficient KV Cache Reuse,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c226d7bd4d9a,Learning to Integrate Diffusion ODEs by Averaging the Derivatives,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c23ccf9eedf8,Domain Adaptive Hashing Retrieval via VLM Assisted Pseudo-Labeling and Dual Space Adaptation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c248154176c0,Treatment Effect Estimation for Optimal Decision-Making,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c25fe7eb6d6c,Hierarchical Fine-grained Preference Optimization for Physically Plausible Video Generation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c2626ef6cdaa,Rotary Masked Autoencoders are Versatile Learners,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c273d135fed2,Semi-supervised Graph Anomaly Detection via Robust Homophily Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c276c3303c07,macOSWorld: A Multilingual Interactive Benchmark for GUI Agents,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c2891461cb31,Scaling Image Geo-Localization to Continent Level,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c290dcfbb071,Bootstrap Off-policy with World Model,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c2915bc5961e,Raw2Drive: Reinforcement Learning with Aligned World Models for End-to-End Autonomous Driving (in CARLA v2),NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c2ad28981782,IBGS: Image-Based Gaussian Splatting,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c2bd92426092,Finite-Time Analysis of Stochastic Nonconvex Nonsmooth  Optimization on the Riemannian Manifolds,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c2c4c24889d8,Scalable Valuation of Human Feedback through Provably Robust Model Alignment,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c2cd7fa98591,FlowPrune: Accelerating Attention Flow Calculation by Pruning Flow Network,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c2d550cf3b2e,Heavy-Ball Momentum Method in Continuous Time and Discretization Error Analysis,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c3010e98dc44,Online Time Series Forecasting with Theoretical Guarantees,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c3070c338855,Hankel Singular Value Regularization for Highly Compressible State Space Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c32be49c09ee,Deep learning for continuous-time stochastic control with jumps,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c34057f0cfb6,SPMDM: Enhancing Masked Diffusion Models through Simplifying Sampling Path,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c34ddd05eb08,Unraveling Metameric Dilemma for Spectral Reconstruction: A High-Fidelity Approach via Semi-Supervised Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c3532dd633e6,VL-SAM-V2: Open-World Object Detection with General and Specific Query Fusion,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c355566ce402,Omnidirectional 3D Scene Reconstruction from Single Image,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c376f801570b,Free-Lunch Color-Texture Disentanglement for Stylized Image Generation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c37b07a300a2,Image Super-Resolution with Guarantees via Conformalized Generative Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c3aa90d5d91f,Representation-Level Counterfactual Calibration for Debiased Zero-Shot Recognition,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c3b3c5f9297a,From Forecasting to Planning: Policy World Model for Collaborative State-Action Prediction,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c3b88408bb20,Lost in Latent Space: An Empirical Study of Latent Diffusion Models for Physics Emulation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c3c6abe644d1,Distances for Markov chains from sample streams,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c3cfa9fbfb6d,Leveraging semantic similarity for experimentation with AI-generated treatments,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c3dd836513a9,Rethinking Tokenized Graph Transformers  for Node Classification,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c3e969ea2054,ReCon-GS: Continuum-Preserved Gaussian Streaming for Fast and Compact Reconstruction of Dynamic Scenes,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c3f6cde4de83,Online Learning of Pure States is as Hard as Mixed States,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c3fabe297251,Contrastive Self-Supervised Learning As Neural Manifold Packing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c402501846f9,Recurrent Memory for Online Interdomain Gaussian Processes,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c40d1e40dd12,Disentangled Representation Learning via Modular Compositional Bias,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c40daf14d7a6,AugGen: Synthetic Augmentation using Diffusion Models Can Improve Recognition,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c42501f67236,AngleRoCL: Angle-Robust Concept Learning for Physically View-Invariant Adversarial Patches,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c43b987f23fd,Set Smoothness Unlocks Clarke Hyper-stationarity in Bilevel Optimization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c440061f56f0,Smooth Sailing: Lipschitz-Driven Uncertainty Quantification for Spatial Associations,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c44abd6c1300,Automaton Constrained Q-Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c4861cc81b76,Better Tokens for Better 3D: Advancing Vision-Language Modeling in 3D Medical Imaging,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c4889bd7f7ce,Long-tailed Recognition with Model Rebalancing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c493d23af931,DIFFSSR: Stereo Image Super-resolution Using Differential Transformer,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c498a8ede0ab,Greedy Algorithms for Structured Bandits: A Sharp Characterization of Asymptotic Success / Failure,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c4b652b7e228,Unifying Reconstruction and Density Estimation via Invertible Contraction Mapping in One-Class Classification,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c4ca524e4aee,Exploring and Exploiting Model Uncertainty in Bayesian Optimization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c4de749a4bd8,Vocabulary In-Context Learning in Transformers: Benefits of Positional Encoding,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c4edc5113b4f,TAPIP3D: Tracking Any Point in Persistent 3D Geometry,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c4f129179494,How Particle System Theory Enhances Hypergraph Message Passing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c50f8180ef34,Non-Singularity of the Gradient Descent Map for Neural Networks with Piecewise Analytic Activations,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c518f504ad58,Hallucination at a Glance: Controlled Visual Edits and Fine-Grained Multimodal Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c52d0836624a,Consistency Conditions for Differentiable Surrogate Losses,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c5433ab4056c,TimeXL: Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c55e6792923c,Learning Neural Exposure Fields for View Synthesis,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c56069f6be51,DyMoDreamer: World Modeling with Dynamic Modulation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c565514eb8cf,Generative Pre-trained Autoregressive Diffusion Transformer,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c573258c38d0,HoliTom: Holistic Token Merging for Fast Video Large Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c57812dee8ac,SQLens: An End-to-End Framework for Error Detection and Correction in Text-to-SQL,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c57b3718381c,A Closer Look at TabPFN v2: Understanding Its Strengths and Extending Its Capabilities,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c57bacb5ea62,How Benchmark Prediction from Fewer Data Misses the Mark,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c586c9b6231c,Iterative Self-Incentivization Empowers Large Language Models as Agentic Searchers,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c5a274a09c49,Reducing the Probability of Undesirable Outputs in Language Models Using Probabilistic Inference,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c5c12c9f3442,Fading to Grow: Growing Preference Ratios via Preference Fading Discrete Diffusion for Recommendation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c5e32a616299,Struct2D: A Perception-Guided Framework for Spatial Reasoning in MLLMs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c5ecef120f05,An Improved Algorithm for Adversarial Linear Contextual Bandits via Reduction,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c6048c68a5e3,Optimized Minimal 3D Gaussian Splatting,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c60bd92a0180,Neurosymbolic Diffusion Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c655b04ace81,How Ensembles of Distilled Policies Improve Generalisation in Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c66a9db14926,Discovering Important Experts for Mixture-of-Experts Models Pruning Through a Theoretical Perspective,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c66e1fcc9691,Training-Free Safe Denoisers for Safe Use of Diffusion Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c676042ee324,Training Language Models to Generate Quality Code with Program Analysis Feedback,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c6a4fc50b10e,Ditch the Denoiser: Emergence of Noise Robustness in Self-Supervised Learning from Data Curriculum,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c6b2921f24f8,PLD: A Choice-Theoretic List-Wise Knowledge Distillation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c6b508249ffd,Analyzing Similarity Metrics for Data Selection for Language Model Pretraining,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c6c682ba9bd8,TimePerceiver: An Encoder-Decoder Framework for Generalized Time-Series Forecasting,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c6de943558fe,Return of ChebNet: Understanding and Improving an Overlooked GNN on Long Range Tasks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c6eadcc507ed,Generalized Linear Mode Connectivity for Transformers,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c6f83c27a222,CroPe: Cross-Modal Semantic Compensation Adaptation for All Adverse Scene Understanding,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c701c19234bb,PUATE: Efficient ATE Estimation from Treated (Positive) and Unlabeled Units,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c70bc769d617,Learning Cocoercive Conservative Denoisers via Helmholtz Decomposition for Poisson Imaging Inverse Problems,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c710d6b4507e,Analytic Energy-Guided Policy Optimization for Offline Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c717858997b6,DeepHalo: A Neural Choice Model with Controllable Context Effects,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c74429a93083,Beyond Higher Rank: Token-wise Input-Output Projections for Efficient Low-Rank Adaptation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c7448ae132a0,Treasure Hunt: Real-time Targeting of the Long Tail using Training-Time Markers,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c745bfa5b505,GTR-Loc: Geospatial Text Regularization Assisted Outdoor LiDAR Localization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c7649eeb93d2,Geometric Imbalance in Semi-Supervised Node Classification,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c7722541ce9a,AdvEDM: Fine-grained Adversarial Attack against VLM-based Embodied Agents,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c7793beb7f32,SRSR: Enhancing Semantic Accuracy in Real-World Image Super-Resolution with Spatially Re-Focused Text-Conditioning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c78f639424b8,DeCaFlow: A deconfounding causal generative model,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c7ae6e9659f0,Solving Inverse Problems with FLAIR,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c7af751b5e0a,VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c7b5a35ea98b,EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c7de4d780407,ZeCO: Zero-Communication Overhead Sequence Parallelism for Linear Attention,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c7e4746c7341,A Closer Look at Graph Transformers: Cross-Aggregation and Beyond,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c7f812431607,A Principle of Targeted Intervention for Multi-Agent Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c8033b6ed6da,"REPA Works Until It Doesn’t: Early-Stopped, Holistic Alignment Supercharges Diffusion Training",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c80873f61350,DynaPipe: Dynamic Layer Redistribution for Efficient Serving of LLMs with Pipeline Parallelism,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c81ef831a8fa,Robust and Diverse Multi-Agent Learning via Rational Policy Gradient,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c828f33af3c3,Once Upon an Input: Reasoning via Per-Instance Program Synthesis,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c82ad2a73009,Normalization in Attention Dynamics,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c83c8fd6f6a7,Turning Sand to Gold: Recycling Data to Bridge On-Policy and Off-Policy Learning via Causal Bound,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c85aaa3996e1,Securing the Language of Life: Inheritable Watermarks from DNA Language Models to Proteins,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c868aa7437dc,TreeSplat: Mergeable Tree for Deformable Gaussian Splatting,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c878e34a1b20,Efficient Training-Free Online Routing for High-Volume Multi-LLM Serving,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c87c05d73d61,On the Robustness of Verbal Confidence of LLMs in Adversarial Attacks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c87da7d6ba0f,GenIR: Generative Visual Feedback for Mental Image Retrieval,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c889a4f0323d,Enhanced Cyclic Coordinate Descent Methods for Elastic Net Penalized Linear Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c88d0c9bea62,Venus-MAXWELL: Efficient Learning of Protein-Mutation Stability Landscapes using Protein Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c88f029bcf6d,Dynamic Configuration for Cutting Plane Separators via Reinforcement Learning on Incremental Graph,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c89bab872964,Hybrid Boundary Physics-Informed Neural Networks for Solving Navier-Stokes Equations with Complex Boundary,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c8a0832712ff,"URLs Help, Topics Guide: Understanding Metadata Utility in LLM Training",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c8aefe45deba,Normalized Attention Guidance: Universal Negative Guidance for Diffusion Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c8afe13ccbad,World Models as Reference Trajectories for Rapid Motor Adaptation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c8d606e3fd96,MokA: Multimodal Low-Rank Adaptation for MLLMs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c8db30c6f024,FlowNet: Modeling Dynamic Spatio-Temporal Systems via Flow Propagation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c8e5ccdcd98d,Vision Transformers with Self-Distilled Registers,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c8ec1867837f,Rethinking Verification for LLM Code Generation: From Generation to Testing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c8f6c08f23dd,Martingale Score: An Unsupervised Metric for Bayesian Rationality in LLM Reasoning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c8fa61687c7a,Unifying and Enhancing Graph Transformers via a Hierarchical Mask Framework,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c9028f7874df,CogVLA: Cognition-Aligned Vision-Language-Action Models via Instruction-Driven Routing & Sparsification,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c91150664755,Exploiting Vocabulary Frequency Imbalance in Language Model Pre-training,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c917d8b9e014,Don't be lazy: CompleteP enables compute-efficient deep transformers,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c91f7bda6760,Graph-Based Attention for Differentiable MaxSAT Solving,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c92373e12f4b,Physics-informed Value Learner for Offline Goal-Conditioned Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c93c59a7d8c3,Mechanism Design via the Interim Relaxation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c93cd0283dee,Machine Unlearning in 3D Generation: A Perspective-Coherent Acceleration Framework,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c94d79c4037c,Learning to cluster neuronal function,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c95c9a9ecabd,MPS-Prover: Advancing Stepwise Theorem Proving by Multi-Perspective Search and Data Curation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c95dc519123f,TimeWak: Temporal Chained-Hashing Watermark for Time Series Data,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c9658e8c2087,CrossAD: Time Series Anomaly Detection with Cross-scale Associations and Cross-window Modeling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c9694bf4f9bf,Walking the Schrödinger Bridge: A Direct Trajectory for Text-to-3D Generation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c971ffd78687,Task-Specific Data Selection for Instruction Tuning via Monosemantic Neuronal Activations,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c972859a984a,WMCopier: Forging Invisible Watermarks on Arbitrary Images,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c98305444e86,Transfer Learning for Benign Overfitting in High-Dimensional Linear Regression,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c9867d5a2265,Feature-Based Instance Neighbor Discovery: Advanced Stable Test-Time Adaptation in Dynamic World,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c9874ab9105b,HumanCrafter: Synergizing Generalizable Human Reconstruction and Semantic 3D Segmentation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c98987c5ec4f,Guard Me If You Know Me: Protecting Specific Face-Identity from Deepfakes,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c98b9ecf85ff,MANGO: Multimodal Attention-based Normalizing Flow Approach to Fusion Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c98ef086dc70,Degrees of Freedom for Linear Attention: Distilling Softmax Attention with Optimal Feature Efficiency,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c991f77d9faa,Explainable Reinforcement Learning from Human Feedback to Improve Alignment,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c9a177f06ecd,Confounding Robust Deep Reinforcement Learning: A Causal Approach,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c9b551a2e195,Linear Mixture Distributionally Robust Markov Decision Processes,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c9c54ac0dd5e,SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c9ca5441813f,Part-Aware Bottom-Up Group Reasoning for Fine-Grained Social Interaction Detection,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c9d9659d1d96,Advancing Wasserstein Convergence Analysis of Score-Based Models: Insights from Discretization and Second-Order Acceleration,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c9da56addea9,L$^2$M: Mutual Information Scaling Law for Long-Context Language Modeling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c9fd326fd03e,Online Learning in the Repeated Mediated Newsvendor Problem,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-c9ffae6711fb,AttentionPredictor: Temporal Patterns Matter for KV Cache Compression,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ca03ccaf61b6,PoGDiff: Product-of-Gaussians Diffusion Models for Imbalanced Text-to-Image Generation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ca0a348ce13a,DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ca1c61a02f45,Siegel Neural Networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ca40ae229489,Just One Layer Norm Guarantees Stable Extrapolation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ca43ec7dfe66,SIFusion: A Unified Fusion Framework for Multi-granularity Arctic Sea Ice Forecasting,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ca44b233a4aa,CoT-lized Diffusion: Let's Reinforce T2I Generation Step-by-step,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ca4f6e86453e,Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ca5cfc233a6a,FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ca6403397d60,PyraMotion: Attentional Pyramid-Structured Motion Integration for Co-Speech 3D Gesture Synthesis,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ca70528fb11d,Information-Theoretic Reward Decomposition for Generalizable RLHF,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-caa934a507a9,MMaDA: Multimodal Large Diffusion Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-caabce23491e,State Size Independent Statistical Error Bound for Discrete Diffusion Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cabf61149843,Lost in Transmission: When and Why LLMs Fail to Reason Globally,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-caef5f5e658a,InfiniPot-V: Memory-Constrained KV Cache Compression for Streaming Video Understanding,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cb22704ebc9b,Role-aware Multi-agent Reinforcement Learning for Coordinated Emergency Traffic Control,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cb43f46154e7,Edit Flows: Variable Length Discrete Flow Matching with Sequence-Level Edit Operations,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cb574f092013,LLM Layers Immediately Correct Each Other,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cb628330172c,On Traceability in $\ell_p$ Stochastic Convex Optimization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cb7943be26bb,VLMs can Aggregate Scattered Training Patches,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cb7b55efe349,Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cb7baa005c23,SPC: Evolving Self-Play Critic via Adversarial Games for LLM Reasoning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cb84702381c8,ZigzagPointMamba: Spatial-Semantic Mamba for Point Cloud Understanding,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cba5f2c37ed6,Hawk: Leveraging Spatial Context for Faster Autoregressive Text-to-Image Generation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cbae8efcc23a,Enhancing Deep Batch Active Learning for Regression with Imperfect Data Guided Selection,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cbbbd7db0a67,Performative Validity of Recourse Explanations,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cbc1ad2066f0,MixSignGraph: A Sign Sequence is Worth Mixed Graphs of Nodes,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cbc4ab80cd77,Integral Imprecise Probability Metrics,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cbd25a911232,Measuring the Faithfulness of Thinking Drafts in Large Reasoning Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cbd8d60b8720,Redefining Experts: Interpretable Decomposition of Language Models for Toxicity Mitigation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cbed27fa7f3b,Adaptive Re-calibration Learning for Balanced Multimodal Intention Recognition,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cbf552bd72c0,Modeling Cell Dynamics and Interactions with Unbalanced Mean Field Schrödinger Bridge,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cbf883a74495,Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cbfa01fae787,Single-Teacher View Augmentation: Boosting Knowledge Distillation via Angular Diversity,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cc0f00fd7c87,CORE: Collaborative Optimization with Reinforcement Learning and Evolutionary Algorithm for Floorplanning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cc2730d5873b,Deciphering the Extremes: A Novel Approach for Pathological Long-tailed Recognition in Scientific Discovery,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cc428c83959d,Enhancing Graph Classification Robustness with Singular Pooling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cc44bf651235,SHF: Symmetrical Hierarchical Forest with Pretrained Vision Transformer Encoder for High-Resolution Medical Segmentation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cc7611bdba09,Reasoning Path Compression: Compressing Generation Trajectories for Efficient LLM Reasoning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cc7ae529e945,OpenCUA: Open Foundations for Computer-Use Agents,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cc7c9c8e4a84,Generalization or Hallucination? Understanding Out-of-Context Reasoning in Transformers,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cc83e9732000,Imagine360: Immersive 360 Video Generation from Perspective Anchor,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cc84bfabe638,GLID$^2$E: A Gradient-Free Lightweight Fine-tune Approach for Discrete Biological Sequence Design,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cc92809cd8df,Exploring the Limits of Vision-Language-Action Manipulation in Cross-task Generalization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cca569b38ec3,Recurrent Self-Attention Dynamics: An Energy-Agnostic Perspective from Jacobians,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ccba10dd4e80,Two-Steps Diffusion Policy for Robotic Manipulation via Genetic Denoising,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ccdc61934e4a,Vocabulary-Guided Gait Recognition,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ccdfe117c672,MPMAvatar: Learning 3D Gaussian Avatars with Accurate and Robust Physics-Based Dynamics,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cce7576bf51b,Data-Free Model Extraction for Black-box Recommender Systems via Graph Convolutions,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cce812f67a01,Estimating Interventional Distributions with Uncertain Causal Graphs through Meta-Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ccf308ecd365,Doodle to Detect: A Goofy but Powerful Approach to Skeleton-based Hand Gesture Recognition,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ccf4d0389754,PreFM: Online Audio-Visual Event Parsing via Predictive Future Modeling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cd04ec5aebfb,LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cd08b0700a0a,Increasing the Utility of Synthetic Images through Chamfer Guidance,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cd091a4d8e97,"Dense SAE Latents Are Features, Not Bugs",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cd18539787d9,LLMs Encode Harmfulness and Refusal Separately,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cd2b3c429c8a,SceneWeaver: All-in-One 3D Scene Synthesis with an Extensible and Self-Reflective Agent,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cd35688daf01,"Bridging Critical Gaps in Convergent Learning: How Representational Alignment Evolves Across Layers, Training, and Distribution Shifts",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cd51b67dcb19,AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cd5c450b7b3a,Dynamical Low-Rank Compression of Neural Networks with Robustness under Adversarial Attacks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cd88d62a2063,GOATex: Geometry & Occlusion-Aware Texturing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cd8cf4d4019e,Directed-Tokens: A Robust Multi-Modality Alignment Approach to Large Language-Vision Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cd95c576f58d,Procurement Auctions with Predictions: Improved Frugality for Facility Location,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cd97da5366de,Distributionally Robust Performative Optimization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cda57fa0f0ea,Causality Meets the Table: Debiasing LLMs for Faithful TableQA via Front-Door Intervention,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cdaac2a02c4f,Revisiting Agnostic Boosting,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cdb1f1b572b6,ROVER: Recursive Reasoning Over Videos with Vision-Language Models for Embodied Tasks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cdc099a583d7,Online Optimization for Offline Safe Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cdcfd67988fe,Two Experts Are All You Need for Steering Thinking: Reinforcing Cognitive Effort in MoE Reasoning Models Without Additional Training,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cdd30bf15e29,FedRW: Efficient Privacy-Preserving Data Reweighting for Enhancing Federated Learning of Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cdd63c6c813a,SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cde43c5d6980,Reparameterized LLM Training via Orthogonal Equivalence Transformation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cde63e648cd5,Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ce1a7774429d,Robust Graph Condensation via Classification Complexity Mitigation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ce37ba67dd12,Conformal Prediction Beyond the Horizon: Distribution-Free Inference for Policy Evaluation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ce3e23a21281,TranSUN: A Preemptive Paradigm to Eradicate Retransformation Bias Intrinsically from Regression Models in Recommender Systems,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ce406fcba640,Controlled Visual Hallucination via Thalamus-Driven Decoupling Network for Domain Adaptation of Black-Box Predictors,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ce46df2baa9d,First Attentions Last: Better Exploiting First Attentions for Efficient Parallel Training,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ce5b4f79f475,Truth over Tricks: Measuring and Mitigating Shortcut Learning in Misinformation Detection,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ce5f18eba5e5,Learning Personalized Ad Impact via Contextual Reinforcement Learning under Delayed Rewards,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ce6326ac4794,E-BATS: Efficient Backpropagation-Free Test-Time Adaptation for Speech Foundation Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ce7dfc19702c,Buffer layers for Test-Time Adaptation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ce982f32f045,Individual Fairness In Strategic Classification,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cea04322465a,The Best Instruction-Tuning Data are Those That Fit,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cea5bc68b890,Think before Recommendation: Autonomous Reasoning-enhanced Recommender,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ceaa137fce91,Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ceb7f3cc876a,Why Diffusion Models Don’t Memorize:  The Role of Implicit Dynamical Regularization in Training,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cec445dfc292,Improving planning and MBRL with temporally-extended actions,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ced63a669e5f,ZeroPatcher: Training-free Sampler for Video Inpainting and Editing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cede701f0007,TrackingWorld: World-centric Monocular 3D Tracking of Almost All Pixels,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cef8f771a55c,Towards a Geometric Understanding of Tensor Learning via the t-Product,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cefd66867df5,CrossSpectra: Exploiting Cross-Layer Smoothness for Parameter-Efficient Fine-Tuning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cf10920ac985,DSCS: Fast CPDAG-Based Verification of Collapsible Submodels in High-Dimensional Bayesian Networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cf1213a76c2e,SCoT: Unifying Consistency Models and Rectified Flows via Straight-Consistent Trajectories,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cf21f05f8377,Reading Recognition in the Wild,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cf326db23842,Improving Model Representation and Reducing KV Cache via Skip Connections with First Value Heads,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cf38eb154902,Automated Detection of Visual Attribute Reliance with a Self-Reflective Agent,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cf42f133f355,The Hawthorne Effect in Reasoning Models: Evaluating and Steering Test Awareness,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cf68c8b43e69,Learning to Rank for In-Context Example Retrieval,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cf789130f427,Computational Efficiency under Covariate Shift in Kernel Ridge Regression,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cf7ba8b1cbb9,Deno-IF: Unsupervised Noisy Visible and Infrared Image Fusion Method,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cf7e5d6d0757,Distributed mediation analysis with  communication efficiency,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cf8b2205e39f,Turbocharging Gaussian Process Inference with Approximate Sketch-and-Project,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cfbce54e59ad,CSPCL: Category Semantic Prior Contrastive Learning for Deformable DETR-Based Prohibited Item Detectors,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cfc1924c62e7,Differentially Private Quantiles with Smaller Error,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cfcb1905d4ac,Towards Robust Parameter-Efficient Fine-Tuning for Federated Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-cff98e0b76e0,Planning and Learning in Average Risk-aware MDPs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d01bda31bbcd,Nearly-Linear Time and Massively Parallel Algorithms for $k$-anonymity,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d01db5cd2555,Enhancing Consistency of Flow-Based Image Editing through Kalman Control,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d029c97ee0db,EAP-GP: Mitigating Saturation Effect in Gradient-based Automated Circuit Identification,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d02c86073580,Learning conformational ensembles of proteins based on backbone geometry,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d033407a1a4b,X-Mahalanobis: Transformer Feature Mixing for Reliable OOD Detection,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d037fd021c9a,Efficiently Scaling LLM Reasoning Programs with Certaindex,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d067d16e3e5f,Enhancing GUI Agent with Uncertainty-Aware Self-Trained Evaluator,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d077bc9ea82a,SECA: Semantically Equivalent and Coherent Attacks for Eliciting LLM Hallucinations,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d079de28c5e3,Hyper-Modality Enhancement for Multimodal Sentiment Analysis with Missing Modalities,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d0c3841867db,FEAT: Free energy Estimators with Adaptive Transport,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d0cf89927acd,Intervene-All-Paths: Unified Mitigation of LVLM Hallucinations across Alignment Formats,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d104ffc39c50,Enhancing Privacy in Multimodal Federated Learning with Information Theory,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d10d6b28d74c,Targeted Maximum Likelihood Learning: An Optimization Perspective,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d112d75ec34f,Rethinking the Role of Verbatim Memorization in LLM Privacy,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d13e06dc04dc,Simulation-Based Inference for Adaptive Experiments,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d1422213c9f2,JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d147787263b9,HiMoLE: Towards OOD-Robust LoRA via Hierarchical Mixture of Experts,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d147f24cac1b,Temporal-Difference Variational Continual Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d17477a5ff8b,SOMBRL: Scalable and Optimistic Model-Based RL,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d18d944ad8c7,SPFL: Sequential updates with Parallel aggregation for Enhanced Federated Learning under Category and Domain Shifts,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d194e6b365e2,WKV-sharing embraced random shuffle RWKV high-order modeling for pan-sharpening,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d1bfaf1bbefb,"Edit Less, Achieve More: Dynamic Sparse Neuron Masking for Lifelong Knowledge Editing in LLMs",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d1c1f61023dc,OMiSO: Adaptive optimization of state-dependent brain stimulation to shape neural population states,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d1d7398c1444,InstructHOI: Context-Aware Instruction for Multi-Modal Reasoning in Human-Object Interaction Detection,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d1e2165d5238,Beyond $\tilde{O}(\sqrt{T})$ Constraint Violation for Online Convex Optimization with Adversarial Constraints,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d1e2f808a518,HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d1ebc73cd4c8,PlanU: Large Language Model Reasoning through Planning under Uncertainty,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d1fa90140315,OmniSegmentor: A Flexible Multi-Modal Learning Framework for Semantic Segmentation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d202099e9d67,Understanding and Enhancing Mask-Based Pretraining towards Universal Representations,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d20e3c35bedb,Time Reversal Symmetry for Efficient Robotic Manipulations in Deep Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d24189d251aa,DOTA: Distributional Test-time Adaptation of Vision-Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d242dafdb2c5,Stabilizing LTI Systems under Partial Observability: Sample Complexity and Fundamental Limits,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d2511dfb731f,Vanish into Thin Air: Cross-prompt Universal Adversarial Attacks for SAM2,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d25ed2a375a3,Metropolis-Hastings Sampling for 3D Gaussian Reconstruction,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d26d1923ce22,Approximation theory for 1-Lipschitz ResNets,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d2706f914985,LaX: Boosting Low-Rank Training of Foundation Models via Latent Crossing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d274ea8b3c7f,FP64 is All You Need: Rethinking Failure Modes in Physics-Informed Neural Networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d2781f7df882,Event-Driven Dynamic Scene Depth Completion,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d27af2bebeab,From Softmax to Score: Transformers Can Effectively Implement In-Context Denoising Steps,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d285ab51e167,Temporal Chain of Thought: Long-Video Understanding by Thinking in Frames,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d2875f6d6784,CAMO: Convergence-Aware Multi-Fidelity Bayesian Optimization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d29921d60622,Joint Modeling of fMRI and EEG Imaging Using Ordinary Differential Equation-Based Hypergraph Neural Networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d2a7441f07da,ORIGAMISPACE: Benchmarking Multimodal LLMs in Multi-Step Spatial Reasoning with Mathematical Constraints,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d2c530dc6ae9,Scalable Neural Incentive Design with Parameterized Mean-Field Approximation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d2cc447db9e5,State Space Prompting via Gathering and Spreading Spatio-Temporal Information for Video Understanding,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d2d4f6858cc2,Efficient Data Selection at Scale via Influence Distillation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d2eb69b5b07d,Dependency Parsing is More Parameter-Efficient with Normalization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d2f2ca2c305e,Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d3248f63ad76,OPMapper: Enhancing Open-Vocabulary Semantic Segmentation with Multi-Guidance Information,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d32abef446ea,SPOT-Trip: Dual-Preference Driven Out-of-Town Trip Recommendation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d33b177b6942,Improving Evolutionary Multi-View Classification via Eliminating Individual Fitness Bias,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d33e36e28613,On Fairness of Unified Multimodal Large Language Model for Image Generation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d344cc77e474,Understand Before You Generate: Self-Guided Training for Autoregressive Image Generation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d346609ec2fe,Assignments for Congestion-Averse Agents: Seeking Competitive and Envy-Free Solutions,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d34f0c1158c1,QiMeng-MuPa: Mutual-Supervised Learning for Sequential-to-Parallel Code Translation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d384ee6e65b5,NaDRO: Leveraging Dual-Reward Strategies for LLMs Training on Noisy Data,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d38512ba4121,GAM-Agent: Game-Theoretic and Uncertainty-Aware Collaboration for Complex Visual Reasoning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d38653cdaa8e,Co-Evolving LLM Coder and Unit Tester via Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d386bc732b0b,Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d38c12d57b45,SharpZO: Hybrid Sharpness-Aware Vision Language Model Prompt Tuning via Forward-Only Passes,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d399b67fa017,Nonlinear Laplacians: Tunable principal component analysis under directional prior information,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d39fb2054215,Do Neural Networks Need Gradient Descent to Generalize? A Theoretical Study,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d3a07e8ec405,MINGLE: Mixture of Null-Space Gated Low-Rank Experts for Test-Time Continual Model Merging,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d3e0aaa57c0d,Layer-Wise Modality Decomposition for Interpretable Multimodal Sensor Fusion,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d3f39e51f5f6,Trajectory Graph Learning: Aligning with Long Trajectories in Reinforcement Learning Without Reward Design,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d40d7cbe7210,DartQuant: Efficient Rotational Distribution Calibration for LLM Quantization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d41ddb5e702f,Sequentially Auditing Differential Privacy,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d450dceeacd6,Rethinking Scale-Aware Temporal Encoding for Event-based Object Detection,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d4557f8bbe5f,CG-SSL: Concept-Guided Self-Supervised Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d46662aa53e7,CAML: Collaborative Auxiliary Modality Learning for Multi-Agent Systems,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d4857f724cc1,Recurrent Attention-based Token Selection for Efficient Streaming Video-LLMs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d4b6ccf3acd6,Orientation-anchored Hyper-Gaussian for 4D Reconstruction from Casual Videos,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d4bdeed749a4,Geometry of Decision Making in Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d4c9b0e61d23,Disentangling Latent Shifts of In-Context Learning with Weak Supervision,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d4c9ec185372,Manipulating 3D Molecules in a Fixed-Dimensional E(3)-Equivariant Latent Space,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d4e6eda2f797,Purifying Approximate Differential Privacy with Randomized Post-processing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d4ecde5d18d3,HiFlow: Training-free High-Resolution Image Generation with Flow-Aligned Guidance,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d4ee9e805cc9,Learning (Approximately) Equivariant Networks via Constrained Optimization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d4fe4d3d284e,Self-Supervised Selective-Guided Diffusion Model for Old-Photo Face Restoration,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d505e61195e6,K-DeCore: Facilitating Knowledge Transfer in Continual Structured Knowledge Reasoning via Knowledge Decoupling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d51397f67732,Scaling Laws for Gradient Descent and Sign Descent for Linear Bigram Models under Zipf’s Law,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d51ab0fc62fe,Towards Interpretability Without Sacrifice: Faithful Dense Layer Decomposition with Mixture of Decoders,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d51ce6040fe3,EvoBrain: Dynamic Multi-Channel EEG Graph Modeling for Time-Evolving Brain Networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d51ceadaf09a,Least squares variational inference,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d52d2281babd,Optimizing the Unknown: Black Box Bayesian Optimization with Energy-Based Model and Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d531364f1771,UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d5470483dd38,Towards General Modality Translation with Contrastive and Predictive Latent Diffusion Bridge,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d5495bbd1891,Active Seriation: Efficient Ordering Recovery with Statistical Guarantees,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d54ed4b9abe9,TANDEM: Bi-Level Data Mixture Optimization with Twin Networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d551343f85fc,Variational Inference with  Mixtures of Isotropic Gaussians,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d551ee47a016,HyPINO: Multi-Physics Neural Operators via HyperPINNs and the Method of Manufactured Solutions,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d55b8d2f6f6e,MVSMamba: Multi-View Stereo with State Space Model,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d55f39791f04,Obliviator Reveals the Cost of Nonlinear Guardedness in Concept Erasure,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d56296582d31,Self-Supervised Discovery of Neural Circuits in Spatially Patterned Neural Responses with Graph Neural Networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d56b84c06326,DP-LLM: Runtime Model Adaptation with Dynamic Layer-wise Precision Assignment,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d59b4ae66461,Safe and Stable Control via Lyapunov-Guided Diffusion Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d5a8e37f38a0,Problem-Parameter-Free Decentralized Bilevel Optimization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d5aacfaffff6,SONAR: Long-Range Graph Propagation Through Information Waves,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d5aed68fde8e,RUAGO: Effective and Practical Retain-Free Unlearning via Adversarial Attack and OOD Generator,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d5bda93cd36f,Split Gibbs Discrete Diffusion Posterior Sampling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d5c0f9585592,Noisy Multi-Label Learning through Co-Occurrence-Aware Diffusion,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d5dc9ff23fac,Credal Prediction based on Relative Likelihood,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d5f34e7e70d8,Neural Tangent Knowledge Distillation for Optical Convolutional Networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d607a260b3bc,PlayerOne: Egocentric World Simulator,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d60b6b7f0ba6,Truthful Aggregation of LLMs with an Application to Online Advertising,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d611d06e3207,Class-wise Balancing Data Replay for Federated Class-Incremental Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d616a353c711,A Multimodal BiMamba Network with Test-Time Adaptation for Emotion Recognition Based on Physiological Signals,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d61819e9b4a6,GMV: A Unified and Efficient Graph Multi-View Learning Framework,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d62e65cfdba2,Steering Generative Models with Experimental Data for Protein Fitness Optimization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d6359156e0e3,Guiding LLM Decision-Making with Fairness Reward Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d6383e764341,PRESCRIBE: Predicting Single-Cell Responses with Bayesian Estimation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d63cf0622eed,DISC: Dynamic Decomposition Improves LLM Inference Scaling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d64526146976,PDPO: Parametric Density Path Optimization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d6484394c4cb,Diffusion Tree Sampling: Scalable inference‑time alignment of diffusion models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d64efbf45d8a,Efficient and Near-Optimal Algorithm for Contextual Dueling Bandits with Offline Regression Oracles,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d6520fa7f71d,RrED: Black-box Unsupervised Domain Adaptation via Rectifying-reasoning Errors of Diffusion,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d695f1d2b37d,AlignVLM: Bridging Vision and Language Latent Spaces for Multimodal Document Understanding,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d6a067911dc2,Smooth Regularization for Efficient Video Recognition,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d6a5f470d777,Near-Optimal Regret-Queue Length Tradeoff in Online Learning for Two-Sided Markets,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d6adf82fa531,Active Measurement: Efficient Estimation at Scale,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d6b452383b07,Efficient Kernelized Learning in Polyhedral Games beyond Full Information: From Colonel Blotto to Congestion Games,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d6c06b4cab13,On the Value of Cross-Modal Misalignment in Multimodal Representation Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d6c71e8beb41,Performative Risk Control: Calibrating Models for Reliable Deployment under Performativity,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d6d26053b977,What is Your Data Worth to GPT? LLM-Scale Data Valuation with Influence Functions,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d6db7eb6245e,"Minimum Width for Deep, Narrow MLP: A Diffeomorphism Approach",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d6f034bb216b,FACE: A General Framework for Mapping Collaborative Filtering Embeddings into LLM Tokens,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d6f7e8076b5d,Sparse Image Synthesis via Joint Latent and RoI Flow,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d6f8517fceec,DETree: DEtecting Human-AI Collaborative Texts via Tree-Structured Hierarchical Representation Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d7152995e5e9,Vicinity-Guided Discriminative Latent Diffusion for Privacy-Preserving Domain Adaptation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d71a4a6c796c,Pay Attention to Small Weights,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d72269b36933,Near-Exponential Savings for Population Mean Estimation with Active Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d724085728f4,Semantic Surgery: Zero-Shot Concept Erasure in Diffusion Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d738aefead85,"Latent Zoning Network: A Unified Principle for Generative Modeling, Representation Learning, and Classification",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d74e5955386f,Strategic Hypothesis Testing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d74fb06615ba,Mask Image Watermarking,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d77402f07113,DON’T NEED RETRAINING: A Mixture of DETR and Vision Foundation Models for Cross-Domain Few-Shot Object Detection,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d77b990246d5,Exploration via Feature Perturbation in Contextual Bandits,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d78ca2195982,GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d79ac139911d,Align Your Flow: Scaling Continuous-Time Flow Map Distillation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d7a2222b8d41,A Theory for Worst-Case vs. Average-Case Guarantees for LLMs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d7ad6951ce4f,Incentivizing Desirable Effort Profiles in Strategic Classification: The Role of Causality and Uncertainty,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d7b0baefb84b,Neptune-X: Active X-to-Maritime Generation for Universal Maritime Object Detection,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d7b211b67afd,MASTER: Enhancing Large Language Model via Multi-Agent Simulated Teaching,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d7b351608d82,How Different from the Past? Spatio-Temporal Time Series Forecasting with Self-Supervised Deviation Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d7b3cef7c31b,What Do Latent Action Models Actually Learn?,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d7c23d4cf0b1,DEAL: Diffusion Evolution Adversarial Learning for Sim-to-Real Transfer,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d7ce06e9293c,Learning quadratic neural networks in high dimensions: SGD dynamics and scaling laws,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d7d0a3e9479e,Robust Regression of General ReLUs with Queries,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d7e587081033,Modelling the control of offline processing with reinforcement learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d7e7ab160ebc,DuoGPT: Training-free Dual Sparsity through Activation-aware Pruning in LLMs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d7efa12e98f5,Decreasing Entropic Regularization Averaged Gradient for Semi-Discrete Optimal Transport,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d8029bd38eed,Creativity or Brute Force? Using Brainteasers as a Window into the Problem-Solving Abilities of Large Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d807e7678ba3,ConTextTab: A Semantics-Aware Tabular In-Context Learner,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d80f533473c2,"Adjacent Words, Divergent Intents: Jailbreaking Large Language Models via Task Concurrency",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d8132dfb60cc,ToxicTextCLIP: Text-Based Poisoning and Backdoor Attacks on CLIP Pre-training,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d82c24b7a423,Efficient Pre-Training of LLMs via Topology-Aware Communication Alignment on More Than 9600 GPUs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d835e25415cf,Collapsing Taylor Mode Automatic Differentiation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d850b7e0cdc7,Towards the Resistance of Neural Network Fingerprinting to Fine-tuning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d8557df79c38,Non-Asymptotic Guarantees for Average-Reward Q-Learning with Adaptive Stepsizes,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d85a66edadd4,SUMO: Subspace-Aware Moment-Orthogonalization for Accelerating Memory-Efficient LLM Training,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d877ea0dd78b,Remasking Discrete Diffusion Models with Inference-Time Scaling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d8892ad16f16,Token Embeddings Violate the Manifold Hypothesis,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d896636c2cbf,Word-Level Emotional Expression Control in Zero-Shot Text-to-Speech Synthesis,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d899eabc6c8f,Stochastic Regret Guarantees for Online Zeroth- and First-Order Bilevel Optimization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d8a12fde9e72,TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d8aaa1eaa23e,DePass: Unified Feature Attributing by Simple Decomposed Forward Pass,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d8ace30c68b0,Accelerated Vertical Federated Adversarial Learning through Decoupling Layer-Wise Dependencies,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d8af9a23bf25,Domain-RAG: Retrieval-Guided Compositional Image Generation for Cross-Domain Few-Shot Object Detection,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d8b69a226ec6,Execution Guided Line-by-Line Code Generation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d8bb4be0e26f,VTON-VLLM: Aligning Virtual Try-On Models with Human Preferences,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d8c033d42ae5,EGGS: Exchangeable 2D/3D Gaussian Splatting for Geometry-Appearance Balanced Novel View Synthesis,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d8c74c912f35,A Gradient Guided Diffusion Framework for Chance Constrained Programming,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d8e80772c27b,Open-World Drone Active Tracking with Goal-Centered Rewards,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d8f9cd02831d,From Experts to a Generalist: Toward General Whole-Body Control for Humanoid Robots,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d8fd66773e75,MIDAS: Misalignment-based Data Augmentation Strategy for Imbalanced Multimodal Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d925bda407ad,In-Context Fully Decentralized Cooperative Multi-Agent Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d92d3aec6a48,Linearly Constrained Diffusion Implicit Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d938b739ac25,Counterfactual Identifiability via Dynamic Optimal Transport,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d94b46ec30ad,Adaptive Surrogate Gradients for Sequential Reinforcement Learning in Spiking Neural Networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d95564314a9c,Generalization Bounds for Rank-sparse Neural Networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d96fcc07d623,Learning Chern Numbers of Multiband Topological Insulators with Gauge Equivariant Neural Networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d9a12369739e,PanoWan: Lifting Diffusion Video Generation Models to 360$^\circ$ with Latitude/Longitude-aware Mechanisms,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d9a7358e7778,CoLT: The conditional localization test for assessing the accuracy of neural posterior estimates,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d9af4d6ac714,Convergence Rates for Gradient Descent on the Edge of Stability for Overparametrised Least Squares,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d9c7980ea41c,EVODiff: Entropy-aware Variance Optimized Diffusion Inference,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d9cb74783847,Semantic-guided Diverse Decoding for Large Language Model,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d9e183439191,Asymmetric Dual Self-Distillation for 3D Self-Supervised Representation Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d9e358750091,Learning Counterfactual Outcomes Under Rank Preservation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d9e42b4d7163,Rebalancing Return Coverage for Conditional Sequence Modeling in Offline Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d9e56606b1bd,Bounds on the computational complexity of neurons due to dendritic morphology,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-d9f8b5abc8e0,CAT: Circular-Convolutional Attention for Sub-Quadratic Transformers,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-da19d18dfc54,VADTree: Explainable Training-Free Video Anomaly Detection via Hierarchical Granularity-Aware Tree,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-da339ea9d0bc,Private Evolution Converges,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-da3a6154db2e,Non-Uniform Multiclass Learning with Bandit Feedback,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-da47bfaf3f3a,"Seeing Sound, Hearing Sight: Uncovering Modality Bias and Conflict of AI models in Sound Localization",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-da4dffbe0ea5,Volume Transmission Implements Context Factorization to Target Online Credit Assignment and Enable Compositional Generalization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-da75d2bbf862,Orientation Matters: Making 3D Generative Models Orientation-Aligned,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-da7d7341051b,Zero-shot World Models via Search in Memory,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-da813258fb4d,"Neural Rule Lists: Learning Discretizations, Rules, and Order in One Go",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-da8a39bc39ae,DAWP: A framework for global observation forecasting via Data Assimilation and Weather Prediction in satellite observation space,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-da8abfd15388,Replicable Online Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-da9390db30d0,Learning Robust Spectral Dynamics  for Temporal Domain Generalization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-daa098aa8e1f,$i$MIND: Insightful Multi-subject Invariant Neural Decoding,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-daafafb5cf02,Cooperative Retrieval-Augmented Generation for Question Answering: Mutual Information Exchange and Ranking by Contrasting Layers,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dabfbf500318,"Small Batch Size Training for Language Models: When Vanilla SGD Works, and Why Gradient Accumulation is Wasteful",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dac97477cb20,Don’t Let It Fade: Preserving Edits in Diffusion Language Models via Token Timestep Allocation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dad4248e0695,Pin the Tail on the Model: Blindfolded Repair of User-Flagged Failures in Text-to-Image Services,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dae6d72c190a,Temperature is All You Need for Generalization in Langevin Dynamics and other Markov Processes,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-db0870f8817c,Uncertainty Quantification with the Empirical Neural Tangent Kernel,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-db0ee27cb50d,dKV-Cache: The Cache for Diffusion Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-db174d373133,Rectified CFG++ for Flow Based Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-db1d5c635765,FANS: A Flatness-Aware Network Structure for Generalization in Offline Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-db251964772b,Causally Reliable Concept Bottleneck Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-db2808c312de,ROSE: Remove Objects with Side Effects in Videos,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-db2cbf43a349,Týr-the-Pruner: Structural Pruning LLMs via Global Sparsity Distribution Optimization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-db48d94a4270,Enhancing Vision-Language Model Reliability with Uncertainty-Guided Dropout Decoding,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-db536238c7c6,Towards Generalizable 3D Human Pose Estimation via Ensembles on Flat Loss Landscapes,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-db5e34020dab,Hierarchical Retrieval: The Geometry and a Pretrain-Finetune Recipe,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-db6ccc979860,Robust Policy Expansion for Offline-to-Online RL under Diverse Data Corruption,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-db78531a4cc2,Searching Efficient Semantic Segmentation Architectures via Dynamic Path Selection,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-db79b6c50430,PoLAR: Polar-Decomposed Low-Rank Adapter Representation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-db7c4a8a0c1b,DiffLiG: Diffusion-enhanced Liquid Graph with Attention Propagation for Grid-to-Station Precipitation Correction,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-db86e1a6a618,ICLScan: Detecting Backdoors in Black-Box Large Language Models via Targeted In-context Illumination,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dbb5b038bb6f,Few-Shot Knowledge Distillation of LLMs With Counterfactual Explanations,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dbb98528c987,The Non-Linear Representation Dilemma: Is Causal Abstraction Enough for Mechanistic Interpretability?,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dbff0d048c93,Neural Attention Search,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dc16950e510b,Reinforcement learning for one-shot DAG scheduling with comparability identification and dense reward,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dc2ccde7ee43,AgentBreeder: Mitigating the AI Safety Risks of Multi-Agent Scaffolds via Self-Improvement,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dc2e744f0e3f,Spatially-aware Weights Tokenization for NeRF-Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dc300c4d75b9,Adaptive Frontier Exploration on Graphs with Applications to Network-Based Disease Testing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dc35c593e61f,Single-pass Adaptive Image Tokenization for Minimum Program Search,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dc3be1574e0f,Event-Guided Consistent Video Enhancement with Modality-Adaptive Diffusion Pipeline,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dc5506359842,Quantifying Task-relevant Similarities in Representations Using Decision Variable Correlations,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dc62cd4ec77f,Copresheaf Topological Neural Networks: A Generalized Deep Learning Framework,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dc63026c7419,Adaptive Quantization in Generative Flow Networks for Probabilistic Sequential Prediction,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dc709714c52b,The Price of Opportunity Fairness in Matroid Allocation Problems,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dc8f650f21f1,Hierarchical Optimization via LLM-Guided Objective Evolution for Mobility-on-Demand Systems,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dc8fe7925e37,Temporal Representation Alignment: Successor Features Enable Emergent Compositionality in Robot Instruction Following,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dc96134e169d,Agnostic Continuous-Time Online Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dca63f2650fe,Brain-Inspired fMRI-to-Text Decoding via Incremental and Wrap-Up Language Modeling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dcad3425f5c8,From Pixels to Views: Learning Angular-Aware and Physics-Consistent Representations for Light Field Microscopy,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dcb91f43033b,RIGNO: A Graph-based Framework For Robust And Accurate Operator Learning For PDEs On Arbitrary Domains,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dcc0ac74ac8b,A Fair Federated Learning Method for Handling Client Participation Probability Inconsistencies in Heterogeneous Environments,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dcd93ef21e22,One Token Embedding Is Enough to Deadlock Your Large Reasoning Model,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dce0ad3bd498,Stepsize anything: A unified learning rate schedule for budgeted-iteration training,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dce5d66bf88b,Advancing Machine-Generated Text Detection from an Easy to Hard Supervision Perspective,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dce7d0eb0233,Lie Detector: Unified Backdoor Detection via Cross-Examination Framework,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dcf75ae771b2,THD-BAR: Topology Hierarchical Derived Brain Autoregressive Modeling for EEG Generic Representations,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dcfc25c8ff3e,SQS: Enhancing Sparse Perception Models via Query-based Splatting in Autonomous Driving,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dd0151081b1e,Towards Doctor-Like Reasoning: Medical RAG Fusing Knowledge with Patient Analogy through Textual Gradients,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dd1577afd396,UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dd16e008534d,Quantifying Elicitation of Latent Capabilities in Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dd1fef536655,Contrastive Consolidation of Top-Down Modulations Achieves Sparsely Supervised Continual Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dd35bb9efff0,Reward Reasoning Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dd37fdb24a4e,"Rethinking Circuit Completeness in Language Models: AND, OR, and ADDER Gates",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dd391150be8c,OOD-Barrier: Build a Middle-Barrier for Open-Set Single-Image Test Time Adaptation via Vision Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dd3b8eb80d00,Memory-Integrated Reconfigurable Adapters: A Unified Framework for Settings with Multiple Tasks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dd3c889922df,Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dd49e00b6a37,X-Field: A Physically Informed Representation for 3D X-ray Reconstruction,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dd4e79c2228c,Data Fusion for Partial Identification of Causal Effects,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dd540e1c8d26,Red-Teaming Text-to-Image Systems by Rule-based Preference Modeling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dd73f39426a0,Masked Gated Linear Unit,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dd7dde414b41,VASA-3D: Lifelike Audio-Driven Gaussian Head Avatars from a Single Image,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dd96a5717f18,Automated Model Discovery via Multi-modal & Multi-step Pipeline,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dd9c5ce8803e,NeurIPT: Foundation Model for Neural Interfaces,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ddaec864ba43,Win Fast or Lose Slow: Balancing Speed and Accuracy in Latency-Sensitive Decisions of LLMs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ddb69cd6e3fe,DPA: A one-stop metric to measure bias amplification in classification datasets,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ddbbcd937d63,Rescaled Influence Functions: Accurate Data Attribution in High Dimension,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ddbd6cf3149b,Pose Splatter: A 3D Gaussian Splatting Model for Quantifying Animal Pose and Appearance,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ddbd83ac1ad2,Grounded Reinforcement Learning for Visual Reasoning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ddc20f403d0d,Feature-aware Modulation for Learning from Temporal Tabular Data,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ddccbf163520,On Evaluating LLM Alignment by Evaluating LLMs as Judges,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ddd50f29fa47,Reasoning Models Hallucinate More: Factuality-Aware Reinforcement Learning for Large Reasoning Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ddd7eae51dcd,Unified Scaling Laws for Compressed Representations,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dde040998d82,Preference-based Reinforcement Learning beyond Pairwise Comparisons: Benefits of Multiple Options,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ddf43af256e1,Test-Time Spectrum-Aware Latent Steering for Zero-Shot Generalization in Vision-Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-de04896f011b,Towards Graph Foundation Models: Training on Knowledge Graphs Enables Transferability to General Graphs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-de18052eb17c,A Theoretical Framework for Grokking: Interpolation followed by Riemannian Norm Minimisation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-de2ad3ed44ee,Thinkless: LLM Learns When to Think,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-de2bc3eed995,Rethinking Joint Maximum Mean Discrepancy for Visual Domain Adaptation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-de37d92651d2,Unleashing Foundation Vision Models: Adaptive Transfer for Diverse Data-Limited Scientific Domains,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-de3cb1ff9aec,The Power of Iterative Filtering for Supervised Learning with (Heavy) Contamination,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-de3cb41a04a5,Learning to Solve Complex Problems via Dataset Decomposition,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-de4c2179a4ab,A Geometry-Aware Metric for Mode Collapse in Time Series Generative Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-de72a54c3d39,ReAgent-V: A Reward-Driven Multi-Agent Framework for Video Understanding,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-de8e1aebdb1e,Accelerating RL for LLM Reasoning with Optimal Advantage Regression,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dea9b4b6f55a,Differentiable Sparsity via $D$-Gating: Simple and Versatile Structured Penalization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-debdbf60e8c4,Optimal and Provable Calibration in High-Dimensional Binary Classification: Angular Calibration and Platt Scaling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dec3bc959e64,Regional Explanations: Bridging Local and Global Variable Importance,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dec884800bd9,Stochastically Dominant Peer Prediction,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-deca2fc07817,Uncoupled and Convergent Learning in Monotone Games under Bandit Feedback,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-ded49449e923,ORIGEN: Zero-Shot 3D Orientation Grounding in Text-to-Image Generation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dee4c334b00c,Feed-Forward Bullet-Time Reconstruction of Dynamic Scenes from Monocular Videos,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dee8f820d86a,"With Limited Data for Multimodal Alignment, Let the STRUCTURE Guide You",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-deeb4d6bdb58,"Equivariant Eikonal Neural Networks: Grid-Free, Scalable Travel-Time Prediction on Homogeneous Spaces",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-def682d57535,zip2zip: Inference-Time Adaptive Tokenization via Online Compression,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-df04a35d907e,Differential Privacy on Fully Dynamic Streams,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-df15617fd6d6,Finite-Sample Analysis of Policy Evaluation for Robust Average Reward Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-df2034a516cb,Quantization Error Propagation: Revisiting Layer-Wise Post-Training Quantization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-df2460acb8e9,Omnipresent Yet Overlooked: Heat Kernels in Combinatorial Bayesian Optimization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-df2d51e1d3e8,Mitigating Intra- and Inter-modal Forgetting in Continual Learning of Unified Multimodal Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-df30b1caf39e,Zero-shot Denoising via Neural Compression: Theoretical and algorithmic framework,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-df311d51f4f1,Brain-Informed Fine-Tuning for Improved Multilingual Understanding in Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-df46fcdb724a,Imbalances in Neurosymbolic Learning: Characterization and Mitigating Strategies,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-df4ecbfc2630,Mechanistic Interpretability of RNNs emulating Hidden Markov Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-df4f6e43446b,"Track, Inpaint, Resplat: Subject-driven 3D and 4D Generation with Progressive Texture Infilling",NEURIPS,2025,conference,False,False,False,,1
+neurips2025-df55ee6e59f8,HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-df59090e9516,Optimal Mistake Bounds for Transductive Online Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-df59cc01c378,Two Heads are Better than One: Simulating Large Transformers with Small Ones,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-df66483458ea,Hadamax Encoding: Elevating Performance in Model-Free Atari,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-df7ac32d352d,Low Rank Gradients and Where to Find Them,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-df871dd955cc,UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-df8a1a6306c3,Pass@K Policy Optimization: Solving Harder Reinforcement Learning Problems,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-df94dea33496,From Contextual Combinatorial Semi-Bandits to Bandit List Classification: Improved Sample Complexity with Sparse Rewards,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dfb89b72be94,MI-TRQR: Mutual Information-Based Temporal Redundancy Quantification and Reduction for Energy-Efficient Spiking Neural Networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dfc310e81992,Faster Video Diffusion with Trainable Sparse Attention,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dfcf77638847,Fin3R: Fine-tuning Feed-forward 3D Reconstruction Models via Monocular Knowledge Distillation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dfd12fe50b18,Denoising Trajectory Biases for Zero-Shot AI-Generated Image Detection,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dff28796c79e,Improved Algorithms for Fair Matroid Submodular Maximization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dff464dd9e64,Object Concepts Emerge from Motion,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dff573cecb50,In-Context Learning of Stochastic Differential Equations with Foundation Inference Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-dffd1c523512,Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e00abbc48c69,metaTextGrad: Automatically optimizing language model optimizers,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e01d556690c0,Incentivizing Dual Process Thinking for Efficient Large Language Model Reasoning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e033b7666615,Learning Linear Attention in Polynomial Time,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e035dfb4daa3,Faster Algorithms for Structured John Ellipsoid Computation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e04561533160,Inference-time Alignment in Continuous Space,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e053a2ffa2a7,Fine-Tuning Discrete Diffusion Models with Policy Gradient Methods,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e067d57f9f11,VETA-DiT: Variance-Equalized and Temporally Adaptive Quantization for Efficient 4-bit Diffusion Transformers,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e068821c7cac,Offline Actor-Critic for Average Reward MDPs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e07ad202df86,Training-Free Test-Time Adaptation via Shape and Style Guidance for Vision-Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e096239a1f68,SpiderSolver: A Geometry-Aware Transformer for Solving PDEs on Complex Geometries,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e09a895d25a6,SPICED: A Synaptic Homeostasis-Inspired Framework for Unsupervised Continual EEG Decoding,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e0c256700465,FLOWING: Implicit Neural Flows for Structure-Preserving Morphing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e0d09183aea7,Shortcutting Pre-trained Flow Matching Diffusion Models is Almost Free Lunch,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e0d760e4495a,PRIMT: Preference-based Reinforcement Learning with Multimodal Feedback and Trajectory Synthesis from Foundation Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e0e25d425450,ForgerySleuth: Empowering Multimodal Large Language Models for Image Manipulation Detection,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e11afe29671b,EnzyControl: Adding Functional and Substrate-Specific Control for Enzyme Backbone Generation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e124f1547f7a,SplitFlow: Flow Decomposition for Inversion-Free Text-to-Image Editing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e150e6d0a1e5,Multimodal Negative Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e15b6539e6d6,Drag-and-Drop LLMs: Zero-Shot Prompt-to-Weights,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e16657b9f070,Causality-Induced Positional Encoding for Transformer-Based Representation Learning of Non-Sequential Features,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e185c7be6034,SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e18bc16dc2a8,Optimize Any Topology: A Foundation Model for Shape- and Resolution-Free Structural Topology Optimization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e19583fd7768,Weak-to-Strong Generalization under Distribution Shifts,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e19a65fd53b6,Conditional Diffusion Anomaly Modeling on Graphs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e19b6f65791e,AutoPartGen: Autoregressive 3D Part Generation and Discovery,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e1a1847e39a7,Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e1a8f3e897b2,Small Singular Values Matter: A Random Matrix Analysis of  Transformer Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e1af74bc0a8a,InstaInpaint: Instant 3D-Scene Inpainting with Masked Large Reconstruction Model,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e1b45fc5715c,HBLLM: Wavelet-Enhanced High-Fidelity 1-Bit Quantization for LLMs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e1b619a9e241,Effects of Dropout on Performance in Long-range Graph Learning Tasks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e1d40e928125,SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e1de63ec74f4,LOMIA: Label-Only Membership Inference Attacks against Pre-trained Large Vision-Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e1ea2520fbf9,DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e1fcd183ab33,Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e21633aaf7bb,Nonparametric Quantile Regression with ReLU-Activated Recurrent Neural Networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e21c92a16617,Curious Causality-Seeking Agents in Open-ended Worlds,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e23b1d49a1fe,SING: SDE Inference via Natural Gradients,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e23ea56888af,Shallow Diffuse: Robust and Invisible Watermarking through Low-Dim Subspaces in Diffusion Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e2470f02531c,Scaling Laws for Robust Comparison of Open Foundation Language-Vision Models and Datasets,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e249fa24c065,DISCO: DISCrete nOise for Conditional Control in Text-to-Image Diffusion Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e26502ce357c,Multi-Agent Reinforcement Learning with Communication-Constrained Priors,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e2bf9bac462f,Concept Incongruence: An Exploration of Time and Death in Role Playing,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e2c33c1753e1,SPARTAN: A Sparse Transformer World Model Attending to What Matters,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e2d228a74798,GradMetaNet: An Equivariant Architecture for Learning on Gradients,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e2e0a9004132,Adaptive Fission: Post-training Encoding for Low-latency Spike Neural Networks,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e2ed71839b2e,A CLT for Polynomial GNNs on Community-Based Graphs,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e2ee3cb9742a,DualCnst: Enhancing Zero-Shot Out-of-Distribution Detection via Text-Image Consistency in Vision-Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e2f7407b62f1,QiMeng-CodeV-R1: Reasoning-Enhanced Verilog Generation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e310f6b0aa99,When Lower-Order Terms Dominate: Adaptive Expert Algorithms for Heavy-Tailed Losses,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e3130a164f5c,DiffEye: Diffusion-Based Continuous Eye-Tracking Data Generation Conditioned on Natural Images,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e3137c6e046f,Neural B-frame Video Compression with Bi-directional Reference Harmonization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e315579374ab,The Fragile Truth of Saliency: Improving LLM Input Attribution via Attention Bias Optimization,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e31fc00e6acb,Architectural and Inferential Inductive Biases for Exchangeable Sequence Modeling,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e32310c3acb0,Learning World Models for Interactive Video Generation,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e323ebf7c91a,A Simple Linear Patch Revives Layer-Pruned Large Language Models,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e33b9cc87d38,On Learning Verifiers and Implications to Chain-of-Thought Reasoning,NEURIPS,2025,conference,False,False,False,,1
+neurips2025-e34d214dfb5b,scMRDR: A scalable and flexible framework for unpaired single-cell multi-omics data integration,NEURIPS,2025,conference,False,False,False,,1

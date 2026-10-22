@@ -1,0 +1,1294 @@
+canonical_id,title,venue,year,track,explicit_complete_abstract,focused_body_evidence,scientific_decision_recorded,decisions,event_count
+ijcai2025-385,Exploiting Text Semantics for Few and Zero Shot Node Classification  on Text-attributed Graph,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-386,Let’s Group: A Plug-and-Play SubGraph Learning Method for Memory-Efficient Spatio-Temporal Graph Modeling,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-387,Dual Encoder Contrastive Learning with Augmented Views for Graph Anomaly Detection,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-388,GBGC: Efficient and Adaptive Graph Coarsening via Granular-ball Computing,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-389,Flow-based Time-aware Causal Structure Learning for Sequential Recommendation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-39,Zero-Shot Machine Unlearning with Proxy Adversarial Data Generation ,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-390,Where and When: Predict Next POI and Its Explicit Timestamp in Sequential Recommendation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-391,DGraFormer: Dynamic Graph Learning Guided Multi-Scale Transformer for Multivariate Time Series Forecasting,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-392,Revealing Concept Shift in Spatio-Temporal Graphs via State Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-393,Universal Graph Self-Contrastive Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-394,CAN-ST: Clustering Adaptive Normalization for Spatio-temporal OOD Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-395,Towards Equilibrium: An Instantaneous Probe-and-Rebalance Multimodal Learning Approach,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-396,Coupling Category Alignment for Graph Domain Adaptation,IJCAI,2025,Main,True,False,True,include,4
+ijcai2025-397,A Prior-based Discrete Diffusion Model for Social Graph Generation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-398,Cost-Effective On-Device Sequential Recommendation with Spiking Neural Networks,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-399,A Centrality-based Graph Learning Framework,IJCAI,2025,Main,True,False,True,include,4
+ijcai2025-4,Optimal Distributed Training With Co-Adaptive Data Parallelism in  Heterogeneous Environments,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-40,Evaluating and Mitigating Linguistic Discrimination in Large Language Models: Perspectives on Safety Equity and Knowledge Equity,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-400,Spatio-temporal Prototype-based Hierarchical Learning for OD Demand Prediction,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-401,FreEformer: Frequency Enhanced Transformer for Multivariate Time Series Forecasting,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-402,Device-Cloud Collaborative Correction for On-Device Recommendation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-403,Towards Automatic Sampling of User Behaviors for Sequential Recommender Systems,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-404,AdaMixT: Adaptive Weighted Mixture of Multi-Scale Expert Transformers for Time Series Forecasting,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-405,GCTAM: Global and Contextual Truncated Affinity Combined Maximization Model For Unsupervised Graph Anomaly Detection,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-406,MEGAD: A Memory-Efficient Framework for Large-Scale Attributed Graph Anomaly Detection,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-407,Time-Frequency Disentanglement Boosted Pre-Training: A Universal Spatio-Temporal Modeling Framework,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-408,An End-to-End Simple Clustering Hierarchical Pooling Operation for Graph Learning Based on Top-K Node Selection,IJCAI,2025,,True,True,True,exclude,2
+ijcai2025-409,Generate or Re-Weight? A Mutual-Guidance Method for Class-Imbalanced Graphs,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-41,Cyclic Vision-Language Manipulator: Towards Reliable and Fine-Grained Image Interpretation for Automated  Report Generation,IJCAI,2025,,True,True,True,include,6
+ijcai2025-410,CoLA-Former: Graph Transformer Using Communal Linear Attention for Lightweight Sequential Recommendation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-411,TrajCogn: Leveraging LLMs for Cognizing Movement Patterns and Travel Purposes from Trajectories,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-412,Adversarial Propensity Weighting for Debiasing in Collaborative Filtering,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-413,Progressive Prefix-Memory Tuning for Complex Logical Query Answering on Knowledge Graphs,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-414,Cap-and-Penalize: Competitive Mechanisms for Multi-Phase Regularized Online Allocation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-415,Distance Preservation Games,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-416,Smart Contracts for Trustless Sampling of Correlated Equilibria,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-417,How to Resolve Envy by Adding Goods,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-418,Constrained Serial Dictatorships Can Be Fair,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-419,Settling the Complexity of Popularity in Additively Separable and Fractional Hedonic Games,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-42,Efficient Counterexample-Guided Fairness Verification and Repair of Neural Networks Using Satisfiability Modulo Convex Programming,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-420,"Multi-Organizational Scheduling: Individual Rationality, Optimality, and Complexity",IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-421,Maximin Share Guarantees for Few Agents with Subadditive Valuations,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-422,Decentralized Online Learning by Selfish Agents in Coalition Formation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-423,Inverse Game Theory: An Incenter-Based Approach,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-424,Not in My Backyard! Temporal Voting Over Public Chores,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-425,Participatory Budgeting Project Strength via Candidate Control,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-426,EFX Feasible Scheduling for Time-dependent Resources,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-427,Α Descent-based Method on the Duality Gap for Solving Zero-sum Games,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-428,Non-Obvious Manipulability in Additively Separable and Fractional Hedonic Games,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-429,Optimal Metric Distortion for Matching on the Line,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-43,OMS: One More Step Noise Searching to Enhance Membership Inference Attacks for Diffusion Models,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-430,Beyond Symmetry in Repeated Games with Restarts,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-431,Airdrop Games,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-432,Strategyproofness and Monotone Allocation of Auction  in Social Networks,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-433,More Efforts Towards Fixed-Parameter Approximability of Multiwinner Rules,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-434,The Proportional Veto Principle for Approval Ballots,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-435,Dividing Conflicting Items Fairly,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-436,Efficient Algorithms for Electing Successive Committees,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-437,Online Housing Market,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-438,Fair Submodular Maximization over a Knapsack Constraint,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-439,Logarithmic Approximations for Fair k-Set Selection,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-44,Automated Detection of Pre-training Text in Black-box LLMs,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-440,Approximately EFX and fPO Allocations for Bivalued Chores,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-441,Stackelberg vs. Nash in the Lottery Colonel Blotto Game,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-442,Viral Marketing and Convergence Properties in Generalised Voter Model,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-443,Asymptotic Analysis of Weighted Fair Division,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-444,Asymptotic Fair Division: Chores Are Easier Than Goods,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-445,Joint-Perturbation Simultaneous Pseudo-Gradient,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-446,Variety-Seeking Jump Games on Graphs,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-447,The Core of Approval-Based Committee Elections with Few Seats,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-448,Optimal Capacity Modification for Stable Matchings with Ties,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-449,Improved Approximation Ratio for Strategyproof Facility Location on a Cycle,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-45,On Integrating Logical Analysis of Data into Random Forests,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-450,Discrete Budget Aggregation: Truthfulness and Proportionality,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-451,Finding Possible Winners in Spatial Voting with Incomplete Information,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-452,Improved MMS Approximations for Few Agent Types,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-453,Probabilistic Analysis of Stable Matching in Large Markets with Siblings,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-454,A Little Subsidy Ensures MMS Allocation for Three Agents,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-455,Revisiting Proportional Allocation with Subsidy: Simplification and Improvements,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-456,Public Signaling in Markets with Information Asymmetry Using a Limited Number of Signals,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-457,Implicitly Aligning Humans and Autonomous Agents through Shared Task Abstractions,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-458,Binary Event-Driven Spiking Transformer,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-459,Credit Assignment and Fine-Tuning Enhanced Reinforcement Learning for Collaborative Spatial Crowdsourcing,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-46,Modality-Fair Preference Optimization for Trustworthy MLLM Alignment,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-460,Inference of Human-derived Specifications of Object Placement via Demonstration,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-461,ListenNet: A Lightweight Spatio-Temporal Enhancement Nested Network for Auditory Attention Detection,IJCAI,2025,Main,True,False,True,INCLUDE,4
+ijcai2025-462,Stochasticity-aware No-Reference Point Cloud Quality Assessment,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-463,Constrained Preferential Bayesian Optimization and Its Application in Banner Ad Design,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-464,Adaptive Gradient Learning for Spiking Neural Networks by Exploiting Membrane Potential Dynamics,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-465,MHANet: Multi-scale Hybrid Attention Network for Auditory Attention Detection,IJCAI,2025,Main,True,False,True,INCLUDE,4
+ijcai2025-466,ST-USleepNet: A Spatial-Temporal Coupling Prominence Network for Multi-Channel Sleep Staging,IJCAI,2025,Main,True,False,True,INCLUDE,4
+ijcai2025-467,Community-Aware Graph Transformer for Brain Disorder Identification,IJCAI,2025,Main,True,False,True,INCLUDE,4
+ijcai2025-468,ILIF: Temporal Inhibitory Leaky Integrate-and-Fire Neuron for Overactivation in Spiking Neural Networks,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-469,ID-RemovalNet: Identity Removal Network for EEG Privacy Protection with Enhancing Decoding Tasks,IJCAI,2025,Main,True,False,True,INCLUDE,4
+ijcai2025-47,Counterfactual Strategies for Markov Decision Processes,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-470,Do Mentioned Items Truly Matter? Enhancing Conversational Recommender Systems with Causal Intervention and Large Language Models,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-471,HLMTrans: A Sim-to-Real Transfer Framework for Spatial Crowdsourcing with Human-Guided Language Models,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-472,A Cross-Modal Densely Guided Knowledge Distillation Based on Modality Rebalancing Strategy for Enhanced Unimodal Emotion Recognition,IJCAI,2025,Main,True,False,True,INCLUDE,4
+ijcai2025-473,kgMBQA: Quality Knowledge Graph-driven Multimodal Blind Image Assessment,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-474,VideoHumanMIB: Unlocking Appearance Decoupling for Video Human Motion In-betweening,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-475,Adaptive Deep Learning from Crowds,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-476,Counterfactual Thinking Driven Emotion Regulation for Image Sentiment Recognition,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-477,ActiveHAI: Active Collection Based Human-AI Diagnosis with Limited Expert Predictions,IJCAI,2025,Main,True,False,True,INCLUDE,4
+ijcai2025-478,"Causal-aware Large Language Models: Enhancing Decision-Making Through Learning, Adapting and Acting",IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-479,A Non-Interventionist Approach to Causal Reasoning Based on Lewisian Counterfactuals,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-48,Enhancing Sampling Protocol for Point Cloud Classification Against Corruptions,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-480,Featured Argumentation Framework: Semantics and Complexity,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-481,Counterfactual Explanations Under Model Multiplicity and Their Use in Computational Argumentation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-482,Integrating Answer Set Programming and Large Language Models for Enhanced Structured Representation of Complex Knowledge in Natural Language,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-483,EnergyCompress: A General Case Base Learning Strategy,IJCAI,2025,,True,True,True,exclude,2
+ijcai2025-484,A Logic of General Attention Using Edge-Conditioned Event Models,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-485,A Datalog Rewriting Algorithm for Warded Ontologies,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-486,Initial Models and Serialisability in Abstract Dialectical Frameworks,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-487,Inconsistency Handling in DatalogMTL,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-488,On Independence and SCC-Recursiveness in Assumption-Based Argumentation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-489,A Structural Complexity Analysis of Hierarchical Task Network Planning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-49,Priority Guided Explanation for Knowledge Tracing with Dual Ranking and Similarity Consistency,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-490,A General Framework for Representing Controlled Natural Language Sentences and Translation to KR Formalisms,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-491,First-Order Coalition Logic,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-492,Parallel Belief Revision via Order Aggregation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-493,Parallel Belief Contraction via Order Aggregation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-494,Assessing the Exposure to Public Knowledge in Policy-Protected Description Logic Ontologies,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-495,A Logic-based Framework for Decoding Enthymemes in Argument Maps Involving Implicitness in Premises and Claims,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-496,Circuit-Aware d-DNNF Compilation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-497,A Sequent Calculus for Answer Set Entailment,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-498,On Temporal ASP with Eager Unfoldable Operators,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-499,Robustness in Single-Audience Value-based Abstract Argumentation: Complexity Results,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-5,Requirement Patterns for Engineering Multiagent Interaction Protocols,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-50,FADE: Towards Fairness-aware Data Generation for Domain Generalization via Classifier-Guided Score-based Diffusion Models,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-500,Facets in Argumentation: A Formal Approach to Argument Significance,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-501,Are Large Language Models Fluent in Declarative Process Mining?,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-502,Non-expansive Fuzzy ALC,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-503,On Middle Grounds for Preference Statements,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-504,Relational Decomposition for Program Synthesis,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-505,Human-Readable Neuro-Fuzzy Networks from Frequent Yet Discernible Patterns in Reward-Based Environments,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-506, Approximation Fixpoint Theory as a Unifying Framework for Fuzzy Logic Programming Semantics,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-507,Reasoning About Causal Knowledge in Nondeterministic Domains,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-508,A Fine-Grained Complexity View on Propositional Abduction - Algorithms and Lower Bounds,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-509,Improving Efficiency of Answer Set Planning with Rough Solutions from Large Language Models for Robotic Task Planning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-51,Neuron Similarity-Based Neural Network Verification via Abstraction and Refinement,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-510,Test-Time Adaptation on Recommender System with Data-Centric Graph Transformation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-511,On Definite Iterated Belief Revision with Belief Algebras,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-512,FS-KEN: Few-shot Knowledge Graph Reasoning by Adversarial Negative Enhancing,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-513,Responsibility Gap in Collective Decision Making,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-514,Combining MORL with Restraining Bolts to Learn Normative Behaviour,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-515,Rewarding Explainability in Drug Repurposing with Knowledge Graphs,IJCAI,2025,,True,True,False,,5
+ijcai2025-516,Instantiation-based Formalization of Logical Reasoning Tasks Using Language Models and Logical Solvers,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-517,Learning Probabilistic Temporal Logic Specifications for Stochastic Systems,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-518,A Game-Theoretic Perspective on Inconsistency Handling,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-519,Verifying Quantized Graph Neural Networks is PSPACE-complete,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-52,VeRecycle: Reclaiming Guarantees from Probabilistic Certificates for Stochastic Dynamical Systems after Change,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-520,Iterated Belief Change as Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-521,Generalized Safe Conditional Syntax Splitting of Belief Bases,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-522,Decomposing Inconsistencies: Marginal Contributions and Pooling Techniques,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-523,Witnesses for Answer Sets of Basic Logic Programs,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-524,Identifying Causal Mechanism Shifts Under Additive Models with Arbitrary Noise,IJCAI,2025,Main,True,False,True,INCLUDE,4
+ijcai2025-525,LLM4VKG: Leveraging Large Language Models  for Virtual Knowledge Graph Construction,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-526,Automated Strategy Invention for Confluence of Term Rewrite Systems,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-527,FGeo-HyperGNet: Geometric Problem Solving Integrating FormalGeo Symbolic System and Hypergraph Neural Network,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-528,Universal Backdoor Defense via Label Consistency in Vertical Federated Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-529,A Logic-Based Approach to Causal Discovery: Signal Temporal Logic Perspective,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-53,Towards Safer Pretraining: Analyzing and Filtering Harmful Content in Webscale Datasets for Responsible LLMs,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-530,CD^2: Constrained Dataset Distillation for Few-Shot Class-Incremental Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-531,Dirichlet Process-Based Robust Clustering Using the Median-of-Means Estimator,IJCAI,2025,,True,True,True,exclude,2
+ijcai2025-532,Causal View of Time Series Imputation: Some Identification Results on Missing Mechanism,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-533,Long-Term Individual Causal Effect Estimation via Identifiable Latent Representation Learning,IJCAI,2025,,True,True,True,exclude,2
+ijcai2025-534,Adversarial Training for Graph Convolutional Networks: Stability and Generalization Analysis,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-535,Grounding Methods for Neural-Symbolic AI,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-536,Where Does This Data Come From? Enhanced Source Inference Attacks in Federated Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-537,DERI: Cross-Modal ECG Representation Learning with Deep ECG-Report Interaction,IJCAI,2025,Main,True,False,True,INCLUDE,4
+ijcai2025-538,Variational Offline Multi-agent Skill Discovery,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-539,Disconfounding Fake News Video Explanation with Causal Inference,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-54,Fast Explanations via Policy Gradient-Optimized Explainer,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-540,Pixel-wise Divide and Conquer for Federated Vessel Segmentation,IJCAI,2025,Main,True,False,True,INCLUDE,4
+ijcai2025-541,Optimizing Personalized Federated Learning Through Adaptive Layer-Wise Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-542,Learning to Extrapolate and Adjust: Two-Stage Meta-Learning for Concept Drift in Online Time Series Forecasting,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-543,Multimodal Inference with Incremental Tabular Attributes,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-544,Neuromorphic Sequential Arena: A Benchmark for Neuromorphic Temporal Processing,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-545,Pseudo-Label Reconstruction for Partial Multi-Label Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-546,DO-CoLM: Dynamic 3D Conformation Relationships Capture with Self-Adaptive Ordering Molecular Relational Modeling in Language Models,IJCAI,2025,Main,True,False,True,INCLUDE,4
+ijcai2025-547,Multi-Objective Neural Bandits with Random Scalarization,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-548,A Hybrid Multi-Factor Network with Dynamic Sequence Modeling for Early Warning of Intraoperative Hypotension,IJCAI,2025,Main,True,False,True,INCLUDE,4
+ijcai2025-549,Automated Superscalar Processor Design by Learning Data Dependencies,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-55,CABIN: Debiasing Vision-Language Models Using Backdoor Adjustments,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-550,Fully Test-Time Adaptation for Feature Decrement in Tabular Data,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-551,GRAPE: Heterogeneous Graph Representation Learning for Genetic Perturbation with Coding and Non-Coding Biotype,IJCAI,2025,,False,True,False,,4
+ijcai2025-552,Maximum Entropy Softmax Policy Gradient via Entropy Advantage Estimation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-553,Language-Based Bayesian Optimization Research Assistant (BORA),IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-554,SPoRt - Safe Policy Ratio: Certified Training and Deployment of Task Policies in Model-Free RL,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-555,Interpretable DNFs,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-556,KIPPO: Koopman-Inspired Proximal Policy Optimization,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-557,A Fast Neural Architecture Search Method for Multi-Modal Classification via Knowledge Sharing,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-558,Learning from Logical Constraints with Lower- and Upper-Bound Arithmetic Circuits,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-559,FedDLAD: A Federated Learning Dual-Layer Anomaly Detection Framework for Enhancing Resilience Against Backdoor Attacks,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-56,Feint and Attack:  Jailbreaking and Protecting LLMs via Attention Distribution Modeling,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-560,Block Circulant Adapter for Large Language Models,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-561,Counterfactual Explanations for Continuous Action Reinforcement Learning,IJCAI,2025,Main,True,False,True,INCLUDE,4
+ijcai2025-562,A Methodological Framework for Measuring Spatial Labeling Similarity,IJCAI,2025,Main,True,False,True,INCLUDE,4
+ijcai2025-563,Continuous-Time Reward Machines,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-564,Multi-player Multi-armed Bandits with Delayed Feedback,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-565,One-step Label Shift Adaptation via Robust Weight Estimation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-566,Not All Layers of LLMs Are Necessary During Inference,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-567,Open-World Semi-Supervised Learning with Class Semantic Correlations,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-568,"Screening, Rectifying, and Re-Screening: A Unified Framework for Tuning Vision-Language Models with Noisy Labels",IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-569,HiTuner: Hierarchical Semantic Fusion Model Fine-Tuning on Text-Attributed Graphs,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-57,SAP: Privacy-Preserving Fine-Tuning on Language Models with Split-and-Privatize Framework,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-570,Federated Multi-view Graph Clustering with Incomplete Attribute Imputation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-571,Tensorial Multi-view Clustering with Deep Anchor Graph Projection,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-572,Optimal Transport on Categorical Data for Conterfactuals Using Compositional Data and Dirichlet Transport,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-573,Learn from Global Rather Than Local: Consistent Context-Aware Representation Learning for Multi-View Graph Clustering,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-574,Structure-Aware Handwritten Text Recognition via Graph-Enhanced Cross-Modal  Mutual Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-575,Graph Random Walk with Feature-Label Space Alignment: A Multi-Label Feature Selection Method,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-576,Noise-Resistant Label Reconstruction Feature Selection for Partial Multi-Label Learning ,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-577,Two-Stage Feature Generation with Transformer and Reinforcement Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-578,Dual-Agent Reinforcement Learning for Automated Feature Generation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-579,Decoupled Imbalanced Label Distribution Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-58,ASCENT-ViT: Attention-based Scale-aware Concept Learning Framework for Enhanced Alignment in Vision Transformers,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-580,T2S: High-resolution Time Series Generation with Text-to-Series Diffusion Models,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-581,LoD: Loss-difference OOD Detection by Intentionally Label-Noisifying Unlabeled Wild Data,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-582,WDMIR: Wavelet-Driven Multimodal Intent Recognition,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-583,Flexible Generalized Low-Rank Regularizer for Tensor RPCA,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-584,SpectralGap: Graph-Level Out-of-Distribution Detection via Laplacian Eigenvalue Gaps,IJCAI,2025,,True,True,True,HOLD,2
+ijcai2025-585,ADPFedGNN: Adaptive Decoupling Personalized Federated Graph Neural Network,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-586,Disentangling Multi-view Representations via Curriculum Learning with Learnable Prior,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-587,Towards Debiased Generalized Category Discovery,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-588,PNAct: Crafting Backdoor Attacks in Safe Reinforcement Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-589,Integrating Independent Layer-Wise Rank Selection with Low-Rank SVD Training for Model Compression: A Theory-Driven Approach,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-59,Unlocking the Potential of Lightweight Quantized Models for Deepfake Detection,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-590,Approximated Behavioral Metric-based State Projection for Federated Reinforcement Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-591,"Human-Imperceptible, Machine-Recognizable Images",IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-592,Incentivizing Safer Actions in Policy Optimization for Constrained Reinforcement Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-593,Q-Detection: A Quantum-Classical Hybrid Poisoning Attack Detection Method,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-594,Graph Embedded Contrastive Learning for Multi-View Clustering,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-595,Mamba-Based Graph Convolutional Networks: Tackling Over-smoothing with Selective State Space,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-596,An Inverse Optimization Approach to Contextual Inverse Optimization,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-597,FissionVAE: Federated Non-IID Image Generation with Latent Space and Decoder Decomposition,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-598,A Correlation Manifold Self-Attention Network for EEG Decoding,IJCAI,2025,Main,True,False,True,INCLUDE,4
+ijcai2025-599,Model-Based Closed-Loop Control Algorithm for Stochastic Partial Differential Equation Control,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-6,Responsibility Anticipation and Attribution in LTLf,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-60,MVP-CBM: Multi-layer Visual Preference-enhanced Concept Bottleneck Model for Explainable Medical Image Classification,IJCAI,2025,,True,True,True,include,6
+ijcai2025-600,Probabilistic Multimodal Learning with von Mises-Fisher Distributions,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-601,MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-602,FedBG: Proactively Mitigating Bias in Cross-Domain Graph Federated Learning Using Background Data,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-603,DONIS: Importance Sampling for Training Physics-Informed DeepONet,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-604,Going Beyond Consistency: Target-oriented Multi-view Graph Neural Network,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-605,Visual Perturbation and Adaptive Hard Negative Contrastive Learning for  Compositional Reasoning in Vision-Language Models,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-606,Differentiable Prompt Learning for Vision Language Models,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-607,Identifying Drivers of Predictive Aleatoric Uncertainty,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-608,Most General Explanations of Tree Ensembles,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-609,Learning to Explain: Towards Human-Aligned Explainability in Deep Reinforcement Learning via Attention Guidance,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-61,Indirect Online Preference Optimization via Reinforcement Learning,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-610,Heterogeneous Federated Learning with Scalable Server Mixture-of-Experts,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-611,Interactive Multimodal Learning via Flat Gradient Modification,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-612,FedCPD:Personalized Federated Learning with Prototype-Enhanced Representation and Memory Distillation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-613,A Multi-view Fusion Approach for Enhancing Speech Signals via Short-time Fractional Fourier Transform,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-614,Where and How to Enhance: Discovering Bit-Width Contribution for Mixed Precision Quantization,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-615,Modular Deep Reinforcement Learning for Multi-Workload Offloading in Edge Networks,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-616,StarFT: Robust Fine-tuning of Zero-shot Models via Spuriosity Alignment,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-617,Label Distribution Learning with Biased Annotations Assisted by Multi-Label Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-618,Linear Trading Position with Sparse Spectrum,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-619,CASA: CNN Autoencoder-based Score Attention for Efficient Multivariate Long-term Time-series Forecasting,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-62,AdvGrasp: Adversarial Attacks on Robotic Grasping from a Physical Perspective,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-620,Distilling A Universal Expert from Clustered Federated Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-621,CSAHFL:Clustered Semi-Asynchronous Hierarchical Federated Learning for Dual-layer Non-IID in Heterogeneous Edge Computing Networks,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-622,MiniMal: Hard-Label Adversarial Attack Against Static Malware Detection with Minimal Perturbation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-623,Leveraging Peer-Informed Label Consistency for Robust Graph Neural Networks with Noisy Labels,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-624,TsCA: On the Semantic Consistency Alignment via Conditional Transport for Compositional Zero-Shot Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-625,Efficient Differentiable Approximation of Generalized Low-rank Regularization,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-626,Transferable Relativistic Predictor: Mitigating Cross-Task Cold-Start Issue in NAS,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-627,Conditional Information Bottleneck-Based Multivariate Time Series Forecasting,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-628,FAST: A Lightweight Mechanism Unleashing Arbitrary Client Participation in Federated Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-629,Uncertainty-guided Graph Contrastive Learning from a Unified Perspective,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-63,fairGNN-WOD: Fair Graph Learning Without Complete Demographics,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-630,SIFAR: A Simple Faster Accelerated Variance-Reduced Gradient Method,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-631,Critical Node-aware Augmentation for Hypergraph Contrastive Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-632,View-Association-Guided Dynamic Multi-View Classification,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-633,Federated Domain Generalization with Decision Insight Matrix,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-634,A Primal-dual Perspective for Distributed TD-learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-635,RepObE: Representation Learning-Enhanced Obfuscation Encryption Modular Semantic Task Framework,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-636,Gradient-based Causal Feature Selection,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-637,Hybrid Local Causal Discovery,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-638,Identifying and Reusing Learnwares Across Different Label Spaces,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-639,Trajectory-Dependent Generalization Bounds for Pairwise Learning with φ-mixing Samples,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-64,Towards Fairness with Limited Demographics via Disentangled Learning,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-640,CFDONEval: A Comprehensive Evaluation of Operator-Learning Neural Network Models for Computational Fluid Dynamics,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-641,Consensus-Guided Incomplete Multi-view Clustering via Cross-view Affinities Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-642,Imagination-Limited Q-Learning for Offline Reinforcement Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-643,DUQ: Dual Uncertainty Quantification for Text-Video Retrieval,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-644,RTdetector: Deep Transformer Networks for Time Series Anomaly Detection Based on Reconstruction Trend,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-645,Optimal Policy Adaptation Under Covariate Shift,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-646,Generic Adversarial Attack Framework Against Vertical Federated Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-647,Enhancing Semantic Clarity: Discriminative and Fine-grained Information Mining for Remote Sensing Image-Text Retrieval,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-648,A Fast-Adaptive Cognitive Diagnosis Framework for Computerized Adaptive Testing Systems,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-649,A Neuro-Symbolic Framework for Sequence Classification with Relational and Temporal Knowledge,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-65,Weakly-supervised Audio Temporal Forgery Localization via Progressive Audio-language Co-learning Network,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-650,Multi-Omics Analysis for Cancer Subtype Inference via Unrolling Graph Smoothness Priors,IJCAI,2025,,True,True,False,,5
+ijcai2025-651,Prototype-guided Knowledge Propagation with Adaptive Learning for Lifelong Person Re-identification,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-652,Capturing Individuality and Commonality Between Anchor Graphs for Multi-View Clustering,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-653,Guiding LLM-based Smart Contract Generation with Finite State Machine,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-654,Find and Perceive: Tell Visual Change with Fine-Grained Comparison,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-655,BMIP: Bi-directional Modality Interaction Prompt Learning for VLM,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-656,RLBCD: Residual-guided Latent Brownian-bridge Co-Diffusion for Anatomical-to-Metabolic Image Synthesis,IJCAI,2025,Main,True,False,True,include,4
+ijcai2025-657,Expanding the Category of Classifiers with LLM Supervision,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-658,MCF-Spouse: A Multi-Label Causal Feature Selection Method with Optimal Spouses Discovery,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-659, Consistency-Aware Padding for Incomplete Multi-Modal Alignment Clustering Based on Self-Repellent Greedy Anchor Search,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-66,Explainable Graph Neural Networks via Structural Externalities,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-660,A-I-RAVEN and I-RAVEN-Mesh: Two New Benchmarks for Abstract Visual Reasoning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-661,Advancing Generalization Across a Variety of Abstract Visual Reasoning Tasks,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-662,NeSyA: Neurosymbolic Automata,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-663,Mitigating Over-Smoothing in Graph Neural Networks via Separation Coefficient-Guided Adaptive Graph Structure Adjustment,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-664,S-EPOA: Overcoming the Indistinguishability of Segments with Skill-Driven Preference-Based Reinforcement Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-665,A Case for Validation Buffer in Pessimistic Actor-Critic,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-666,Robult: Leveraging Redundancy and Modality-Specific Features for Robust Multimodal Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-667,Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformer,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-668,SALE-MLP: Structure Aware Latent Embeddings for GNN to Graph-free MLP Distillation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-669,Multi-granularity Knowledge Transfer for Continual Reinforcement Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-67,Parameterized Approximation Algorithm for Doubly Constrained Fair Clustering,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-670,Performance Guaranteed Poisoning Attacks in Federated Learning: A Sliding Mode Approach,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-671,LLM-TPF: Multiscale Temporal Periodicity-Semantic Fusion LLMs for Time Series Forecasting,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-672,Stability and Generalization for Stochastic (Compositional) Optimizations,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-673,Dynamic Higher-Order Relations and Event-Driven Temporal Modeling for Stock Price Forecasting,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-674,Fast Guaranteed Tensor Recovery with Adaptive Tensor Nuclear Norm,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-675,Beyond Low-rankness: Guaranteed Matrix Recovery via Modified Nuclear Norm,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-676,Heterophily-Aware Personalized PageRank for Node Classification,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-677,Federated Deconfounding and Debiasing Learning for Out-of-Distribution Generalization,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-678,MsRAG: Knowledge Augumented Image Captioning with Object-level Multi-source RAG,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-679,Exploring Transferable Homogenous Groups for Compositional Zero-Shot Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-68,Fine-grained Prompt Screening: Defending Against Backdoor Attack on Text-to-Image Diffusion Models,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-680,Optimizing Parameters of Quantum Circuits with Sparsity-Inducing Coordinate Descent,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-681,What Can We Learn From MIMO Graph Convolutions?,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-682,Breaking the Self-Evaluation Barrier: Reinforced Neuro-Symbolic Planning with Large Language Models,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-683,In-Context Meta LoRA Generation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-684,QuantileFormer: Probabilistic Time Series Forecasting with a Pattern-Mixture Decomposed VAE Transformer,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-685,HGEN: Heterogeneous Graph Ensemble Networks,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-686,MATCH: Modality-Calibrated Hypergraph Fusion Network for Conversational Emotion Recognition,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-687,Latte: Transfering LLMs' Latent-level Knowledge for Few-shot Tabular Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-688,GSDNet: Revisiting Incomplete Multimodality-Diffusion Emotion Recognition from the Perspective of Graph Spectrum,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-689,Metapath and Hypergraph Structure-based Multi-Channel Graph Contrastive Learning for Student Performance Prediction,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-69,FairSMOE: Mitigating Multi-Attribute Fairness Problem with Sparse Mixture-of-Experts,IJCAI,2025,,True,True,True,include,6
+ijcai2025-690,RotateKV: Accurate and Robust 2-Bit KV Cache Quantization for LLMs via Outlier-Aware Adaptive Rotations ,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-691,Recalling The Forgotten Class Memberships: Unlearned Models Can Be Noisy Labelers to Leak Privacy,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-692,FedAPA: Server-side Gradient-Based Adaptive Personalized Aggregation for Federated Learning on Heterogeneous Data,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-693,Connecting Giants: Synergistic Knowledge Transfer of Large Multimodal Models for Few-Shot Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-694,InstGAN: Instant Actor-Critic-Driven GAN for De Novo Molecule Generation and Property Optimization,IJCAI,2025,Main,True,False,True,include,4
+ijcai2025-695,Avoiding Undesired Future with Sequential Decisions,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-696,Rule-Guided Reinforcement Learning Policy Evaluation and Improvement,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-697,Enhancing Transferability of Audio Adversarial Example for Both Frequency- and Time-domain,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-698,Meta Label Correction with Generalization Regularizer,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-699,A Symmetric Relative-Error Loss Function for Intermittent Multiscale Signal Modelling,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-7,EF1 and EFX Orientations,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-70,GraphProt: Certified Black-Box Shielding Against Backdoored Graph Models,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-700,Diffuse&Refine: Intrinsic Knowledge Generation and Aggregation for Incremental Object Detection,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-701,Learning Robust Multi-view Representation Using Dual-masked VAEs,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-702,High-Fidelity Road Network Generation with Latent Diffusion Models,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-703,Dynamic Multiple High-order Correlations Fusion with Noise Filtering for Incomplete Multi-view Noisy-label Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-704,From Individual to Universal: Regularized Multi-view Joint  Representation for  Multi-view Subspace-Preserving Recovery,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-705,DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-706,FedCM: Client Clustering and Migration in Federated Learning via Gradient Path Similarity and Update Direction Deviation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-707,A Simple yet Effective Hypergraph Clustering Network,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-708,Efficient Multi-view Clustering via Reinforcement Contrastive Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-709,Enhanced Unsupervised Discriminant Dimensionality Reduction for Nonlinear Data,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-71,Rethinking Removal Attack and Fingerprinting Defense for Model Intellectual Property Protection: A Frequency Perspective,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-710,Fair Incomplete Multi-View Clustering via Distribution Alignment,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-711,Improving Generalization in Meta-Learning via Meta-Gradient Augmentation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-712,Towards Robust Incremental Learning Under Ambiguous Supervision,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-713,An Association-based Fusion Method for Speech Enhancement,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-714,MASTER: A Multi-granularity Invariant Structure Clustering Scheme for Multi-view Clustering,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-715,On the Discrimination and Consistency for Exemplar-Free Class Incremental Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-716,In-context Learning Demonstration Generation with Text Distillation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-717,Enhancing Counterfactual Estimation: A Focus on Temporal Treatments,IJCAI,2025,Main,True,False,True,include,4
+ijcai2025-718,Learn Multi-task Anchor: Joint View Imputation and Label Generation for Incomplete Multi-view Clustering,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-719,A Fast and Accurate ANN-SNN Conversion Algorithm with Negative Spikes,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-72,Causality-Inspired Disentanglement for Fair Graph Neural Networks,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-720,Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-721,AdaR: An Adaptive Gradient Method with Cyclical Restarting of Moment Estimations,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-722,All Roads Lead to Rome: Exploring Edge Distribution Shifts for Heterophilic Graph Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-723,BILE: An Effective Behavior-based Latent Exploration Scheme for Deep Reinforcement Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-724,Leveraging Personalized PageRank and Higher-Order Topological Structures for Heterophily Mitigation in Graph Neural Networks,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-725,From End-to-end to Step-by-step: Learning to Abstract via Abductive Reinforcement Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-726,SCNNs: Spike-based Coupling Neural Networks for Understanding Structural-Functional Relationships in the Human Brain,IJCAI,2025,Main,True,False,True,include,4
+ijcai2025-727,Curriculum Abductive Learning for Mitigating Reasoning Shortcuts,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-728,Evolvable Conditional Diffusion,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-729,Fast Second-Order Online Kernel Learning Through Incremental Matrix Sketching and Decomposition,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-73,DFCA: Disentangled Feature Contrastive Learning and Augmentation for Fairer Dermatological Diagnostics,IJCAI,2025,,True,True,True,include,6
+ijcai2025-730,Learning Advanced Self-Attention for Linear Transformers in the Singular Value Domain,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-731,Imputation-free Incomplete Multi-view Clustering via Knowledge Distillation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-732,Wave-driven Graph Neural Networks with Energy Dynamics for Over-smoothing Mitigation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-733,Zero-shot Federated Unlearning via Transforming from Data-Dependent to Personalized Model-Centric,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-734,General Incomplete Time Series Analysis via Patch Dropping Without Imputation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-735,Boosting Few-Shot Open-Set Object Detection via Prompt Learning and Robust Decision Boundary,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-736,Divide and Conquer: Coordinating Multiplex Mixture of Graph Learners to Handle Multi-Omics Analysis,IJCAI,2025,Main,True,False,True,include,4
+ijcai2025-737,LRGR: Self-Supervised Incomplete Multi-View Clustering via Local Refinement and Global Realignment,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-738,Granular-Ball-Induced Multiple Kernel K-Means,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-739,Efficient Quantum Approximate kNN Algorithm via Granular-Ball Computing,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-74,Why the Agent Made that Decision: Contrastive Explanation Learning for Reinforcement Learning,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-740,Relation-Augmented Dueling Bayesian Optimization via Preference Propagation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-741,Escaping Saddle Point Efficiently in Minimax and Bilevel Optimizations,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-742,Spatially Resolved Transcriptomics Data Clustering with Tailored Spatial-scale Modulation,IJCAI,2025,Main,True,False,True,include,4
+ijcai2025-743,Partial Label Clustering,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-744,DaringFed: A Dynamic Bayesian Persuasion Pricing for Online Federated Learning Under Two-sided Incomplete Information,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-745,Beyond Statistical Analysis: Multimodal Framework for Time Series Forecasting with LLM-Driven Temporal Pattern,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-746,On the Generalization of Feature Incremental Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-747,Continuous Diffusive Prediction Network for Multi-Station Weather Prediction,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-748,On the Learning with Augmented Class via Forests,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-749,TCDM: A Temporal Correlation-Empowered Diffusion Model for Time Series Forecasting,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-75,Keypoints as Dynamic Centroids for Unified Human Pose and Segmentation,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-750,Dynamic Anchor-based Ensemble Clustering via Hypergraph Reconstruction,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-751,"A Priori Estimation of the Approximation, Optimization and Generalization Errors of Random Neural Networks for Solving Partial Differential Equations",IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-752,Predicting Spectral Information for Self-Supervised Signal Classification,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-753,No Regret Reinforcement Learning Algorithms for Online Scheduling with Multi-Stage Tasks,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-754,Problem-dependent Regret for Lexicographic Multi-Armed Bandits with Adversarial Corruptions,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-755,Empowering Vision Transformers with Multi-Scale Causal Intervention for Long-Tailed Image Classification,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-756,Multi-view Clustering via Multi-granularity Ensemble,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-757,Decoupling and Reconstructing: A Multimodal Sentiment Analysis Framework Towards Robustness,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-758,Smoothed Online Convex Optimization with Delayed Feedback,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-759,From General Relation Patterns to Task-Specific Decision-Making in Continual Multi-Agent Coordination,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-76,Top-I2P: Explore Open-Domain Image-to-Point Cloud Registration Using Topology Relationship,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-760,Theoretical Insights into Fine-Tuning Attention Mechanism: Generalization and Optimization,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-761,Learning Heterogeneous Performance-Fairness Trade-offs in Federated Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-762,M4Bench: A Benchmark of Multi-domain Multi-granularity Multi-image Understanding for Multi-modal Large Language Models,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-763,"Run Like a Neural Network, Explain Like k-Nearest Neighbor",IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-764,ExpertDiff: Head-less Model Reprogramming with Diffusion Classifiers for Out-of-Distribution Generalization,IJCAI,2025,Main,True,False,True,include,4
+ijcai2025-765,Explaining Black-box Model Predictions via Two-level Nested Feature Attributions with Consistency Property,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-766,Boost Embodied AI Models with Robust Compression Boundary,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-767,Exploiting Label Skewness for Spiking Neural Networks in Federated Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-768,ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-769,Wrapped Partial Label Dimensionality Reduction via Dependence Maximization,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-77,LensNet: An End-to-End Learning Framework for Empirical Point Spread Function Modeling and Lensless Imaging Reconstruction,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-770,FedSaaS: Class-Consistency Federated Semantic Segmentation via Global Prototype Supervision and Local Adversarial Harmonization,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-771,A Multi-Granularity Clustering Approach for Federated Backdoor Defense with the Adam Optimizer,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-772,Collaborative Multi-LoRA Experts with Achievement-based Multi-Tasks Loss for Unified Multimodal Information Extraction,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-773,Multi-Task Curriculum Graph Contrastive Learning with Clustering Entropy Guidance,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-774,Accelerating Adversarial Training on Under-Utilized GPU,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-775,Rethinking Federated Graph Learning: A Data Condensation Perspective,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-776,On the Power of Optimism in Constrained Online Convex Optimization,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-777,Deduction with Induction: Combining Knowledge Discovery and Reasoning for Interpretable Deep Reinforcement Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-778,Conditional Denoising Meets Polynomial Modeling: A Flexible Decoupled Framework for Time Series Forecasting,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-779,Model Rake: A Defense Against Stealing Attacks in Split Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-78,Towards Region-Adaptive Feature Disentanglement and Enhancement for Small Object Detection,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-780,Aligning Contrastive Multiple Clusterings with User Interests,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-781,LEKA: LLM-Enhanced Knowledge Augmentation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-782,Dynamic and Adaptive Feature Generation with LLM,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-783,QiMeng-TensorOp: One-Line Prompt is Enough for High-Performance Tensor Operator Generation with Hardware Primitives,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-784,Federated Stochastic Bilevel Optimization with Fully First-Order Gradients,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-785,CRAFT: Time Series Forecasting with Cross-Future Behavior Awareness,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-786,Graph OOD Detection via Plug-and-Play Energy-based Evaluation and Propagation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-787,AdaptPFL: Unlocking Cross-Device Palmprint Recognition via Adaptive Personalized Federated Learning with Feature Decoupling,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-788,Efficient Diversity-based Experience Replay for Deep Reinforcement Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-789,Dual Robust Unbiased Multi-View Clustering for Incomplete and Unpaired Information,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-79,MCD-CLIP: Multi-view Chest Disease Diagnosis with Disentangled CLIP,IJCAI,2025,,True,True,True,include,6
+ijcai2025-790,DM-POSA: Enhancing Open-World Test-Time Adaptation with Dual-Mode Matching and Prompt-Based Open Set Adaptation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-791,Instance Relation Learning Network with Label Knowledge Propagation for Few-shot Multi-label Intent Detection,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-792,High-Confident Local Structure Guided Consensus Graph Learning For Incomplete Multi-view Clustering,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-793,PerfSeer: An Efficient and Accurate Deep Learning Models Performance Predictor,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-794,Negative Metric Learning for Graphs,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-795,ShortcutProbe: Probing Prediction Shortcuts for Learning Robust Models,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-796,A Dynamic Stiefel Graph Neural Network for Efficient Spatio-Temporal Time Series Forecasting,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-797,Dual-Balancing for Physics-Informed Neural Networks,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-798,Enhancing the Performance of Global Model by Improving the Adaptability of Local Models in Federated Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-799,Robustness to Spurious Correlations via Dynamic Knowledge Transfer,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-8,Multi-Agent Communication with Information Preserving Graph Contrastive Learning,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-80,Towards VLM-based Hybrid Explainable Prompt Enhancement for Zero-Shot Industrial Anomaly Detection,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-800,Self-Consistent Model-based Adaptation for Visual Reinforcement Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-801,Underground Diagnosis in 3D GPR Data by Learning in CuCoRes Model Space,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-802,Fault Diagnosis in REDNet Model Space,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-803,CADP: Towards Better Centralized Learning for Decentralized Execution in MARL,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-804,CGI: Identifying Conditional Generative Models with Example Images,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-805,Injecting Imbalance Sensitivity for Multi-Task Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-806,Towards Improved Risk Bounds for Transductive Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-807,Sample-Efficient Behavior Cloning Using General Domain Knowledge,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-808,Finite-Time Analysis of Heterogeneous Federated Temporal Difference Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-809,Dyn-D^2P: Dynamic Differentially Private Decentralized Learning with Provable Utility Guarantee,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-81,IterMeme: Expert-Guided Multimodal LLM for Interactive Meme Creation with Layout-Aware Generation,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-810,Robust Graph Contrastive Learning for Incomplete Multi-view Clustering,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-811,Strategy-Architecture Synergy: A Multi-View Graph Contrastive Paradigm for Consistent Representations,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-812,Inconsistency-Based Federated Active Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-813,Enhanced Graph Similarity Learning via Adaptive Multi-scale Feature Fusion,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-814,POLO: An LLM-Powered Project-Level Code Performance Optimization Framework,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-815,Dynamic Network Discovery via Infection Tracing,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-816,Logic Distillation: Learning from Code Function by Function for Decision-making Tasks,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-817,TSTAI: A Time-varying Brain Effective Connectivity Network Construction Method Combining with Brain Active Information,IJCAI,2025,Main,True,False,True,INCLUDE,6
+ijcai2025-818,FreqMoE: Dynamic Frequency Enhancement for Neural PDE Solvers,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-819,Minimizing Polarization and Disagreement in the Friedkin–Johnsen Model with Unknown Innate Opinions,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-82,A Medical Image Classification Network Based on Multi-View Consistent Momentum Contrastive Learning,IJCAI,2025,,True,True,True,include,6
+ijcai2025-820,State Feedback Enhanced Graph Differential Equations for Multivariate Time Series Forecasting,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-821,Advancing Community Detection with Graph Convolutional Neural Networks: Bridging Topological and Attributive Cohesion,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-822,Conditional Causal Representation Learning for Heterogeneous Single-cell RNA Data Integration and Prediction,IJCAI,2025,,False,True,False,,4
+ijcai2025-823,Contrastive Cross-Course Knowledge Tracing via  Concept Graph Guided Knowledge Transfer,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-824,RRG-Mamba: Efficient Radiology Report Generation with State Space Model,IJCAI,2025,Main,True,False,True,INCLUDE,6
+ijcai2025-825,CompLex: Music Theory Lexicon Constructed by Autonomous Agents for Automatic Music Generation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-826,Lazy Testing of Machine-Learning Models,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-827,M^2LLM: Multi-view Molecular Representation Learning with Large Language Models,IJCAI,2025,Main,True,False,True,INCLUDE,6
+ijcai2025-828,Bridging Local and Global Knowledge via Transformer in Board Games,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-829,APIMig: A Project-Level Cross-Multi-Version API Migration Framework Based on Evolution Knowledge Graph,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-83,The Devil is in Fine-tuning and Long-tailed Problems: A New Benchmark for Scene Text Detection,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-830,Contrastive Unlearning: A Contrastive Approach to Machine Unlearning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-831,Secure and Efficient Watermarking for Latent Diffusion Models in Model Distribution Scenarios,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-832,Diffusion Guided Propagation Augmentation for Popularity Prediction,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-833,DASS: A Dual-Branch Attention-based Framework for Trajectory Similarity Learning with Spatial and Semantic Fusion,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-834,AlphaGAT: A Two-Stage Learning Approach for Adaptive Portfolio Selection,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-835,RetroMoE: A Mixture-of-Experts Latent Translation Framework for Single-step Retrosynthesis,IJCAI,2025,,True,True,True,exclude,2
+ijcai2025-836,MTGIB-UNet: A Multi-Task Graph Information Bottleneck and Uncertainty Weighted Network for ADMET Prediction,IJCAI,2025,Main,True,False,True,INCLUDE,6
+ijcai2025-837,COGRASP: Co-Occurrence Graph Based Stock Price Forecasting,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-838,KnowMDD: Knowledge-guided Cross Contrastive Learning for Major Depressive Disorder Diagnosis,IJCAI,2025,Main,True,False,True,INCLUDE,6
+ijcai2025-839,PAMol: Pocket-Aware Drug Design Method with Hypergraph Representation of Protein Pocket Structure and Feature Fusion,IJCAI,2025,,True,True,False,,5
+ijcai2025-84,Instructing Text-to-Image Diffusion Models via Classifier-Guided Semantic Optimization,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-840,Enhancing Chemical Reaction and Retrosynthesis Prediction with Large Language Model and Dual-task Learning,IJCAI,2025,Main,True,False,True,INCLUDE,6
+ijcai2025-841,Towards Generalizable Neural Simulators: Addressing Distribution Shifts Induced by Environmental and Temporal Variations,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-842,Asset Pricing with Contrastive Adversarial Variational Bayes,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-843,Misclassification-driven Fingerprinting for DNNs Using Frequency-aware GANs,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-844,FBQuant: FeedBack Quantization for Large Language Models,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-845,Enhancing Multimodal Protein Function Prediction Through Dual-Branch Dynamic Selection with Reconstructive Pre-Training,IJCAI,2025,,True,True,False,,5
+ijcai2025-846,MA-RAG: Automating Role Engineering for RESTful APIs with Multi-Head Attention and Retrieval-Augmented Generation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-847,LPDetective: Dusting the LLM Chats for Prompt Template Abusers,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-848,Can We Translate Code Better with LLMs and Call Graph Analysis?,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-849,MMET: A Multi-Input and Multi-Scale Transformer for Efficient PDEs Solving,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-85,MonoMixer: Marrying Convolution and Vision Transformer for Efficient Self-Supervised Monocular Depth Estimation,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-850,Fine-Grained and Efficient Self-Unlearning with Layered Iteration,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-851,InnateCoder: Learning Programmatic Options with Foundation Models,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-852,Adaptive Wizard for Removing Cross-Tier Misconfigurations in Active Directory,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-853,Localizing Before Answering: A Benchmark for Grounded Medical Visual Question Answering,IJCAI,2025,,False,True,False,,4
+ijcai2025-854,Think Twice Before Adaptation: Improving Adaptability of DeepFake Detection via Online Test-Time Adaptation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-855,Solving Copyright Infringement on Short Video Platforms: Novel Datasets and an Audio Restoration Deep Learning Pipeline,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-856,Disentangled and Personalized Representation Learning for Next Point-of-Interest Recommendation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-857,Diffusion-aware Censored Gaussian Processes for Demand Modelling,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-858,BinMetric: A Comprehensive Binary Code Analysis Benchmark for Large Language Models,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-859,PDDFormer: Pairwise Distance Distribution Graph Transformer for Crystal Material Property Prediction,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-86,Multi-View Learning with Context-Guided Receptance for Image Denoising,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-860,MTPNet: Multi-Grained Target Perception for Unified Activity Cliff Prediction,IJCAI,2025,Main,True,False,True,INCLUDE,6
+ijcai2025-861,LogiCase: Effective Test Case Generation from Logical Description in Competitive Programming,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-862,PeSANet: Physics-encoded Spectral Attention Network for Simulating PDE-Governed Complex Systems,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-863,Robust Misinformation Detection by Visiting Potential Commonsense Conflict,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-864,Image-Enhanced Hybrid Encoding with Reinforced Contrastive Learning for Spatial Domain Identification in Spatial Transcriptomics,IJCAI,2025,Main,True,False,True,INCLUDE,6
+ijcai2025-865,ST-TAR: An Efficient Spatio-Temporal Learning Framework for Traffic Accident Risk Forecasting,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-866,TESTN: A Triad-Enhanced Spatio-Temporal Network for Multi-Temporal POI Relationship Inference,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-867,Advancing Embodied Agent Security: From Safety Benchmarks to Input Moderation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-868,Incorporating Legal Logic into Deep Learning: An Intelligent Approach to Probation Prediction,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-869,POMP: Pathology-omics Multimodal Pre-training Framework for Cancer Survival Prediction,IJCAI,2025,Main,True,False,True,INCLUDE,6
+ijcai2025-87,Inter3D: A Benchmark and Strong Baseline for Human-Interactive 3D Object Reconstruction,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-870,Attention-based Conditional Random Field for Financial Fraud Detection,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-871,ARMR: Adaptively Responsive Network for Medication Recommendation,IJCAI,2025,,True,True,False,,5
+ijcai2025-872,Electron Density-enhanced Molecular Geometry Learning,IJCAI,2025,,True,True,True,exclude,2
+ijcai2025-873,Toward Reliable Scientific Hypothesis Generation: Evaluating Truthfulness and Hallucination in Large Language Models,IJCAI,2025,Main,True,False,True,INCLUDE,6
+ijcai2025-874,EchoGPT: An Interactive Cardiac Function Assessment Model for Echocardiogram Videos,IJCAI,2025,,True,True,False,,5
+ijcai2025-875,scSiameseClu: A Siamese Clustering Framework for Interpreting Single-cell RNA Sequencing Data,IJCAI,2025,,False,True,False,,4
+ijcai2025-876,UltraModel: A Modeling Paradigm for Industrial Objects,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-877,Backdoor Attack on Vertical Federated Graph Neural Network Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-878,Endowing Interpretability for Neural Cognitive Diagnosis by Efficient Kolmogorov-Arnold Networks,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-879,KP-PINNs: Kernel Packet Accelerated Physics Informed Neural Networks,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-88,Egocentric Object-Interaction Anticipation with Retentive and Predictive Learning,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-880,MedualTime: A Dual-Adapter Language Model for Medical Time Series-Text Multimodal Learning,IJCAI,2025,,False,True,False,,4
+ijcai2025-881,Category-aware EEG Image Generation Based on Wavelet Transform and Contrast Semantic Loss,IJCAI,2025,Main,True,False,True,INCLUDE,6
+ijcai2025-882,Subgraph Information Bottleneck with Causal Dependency for Stable Molecular Relational Learning,IJCAI,2025,Main Track,False,True,True,include,5
+ijcai2025-883,Multimodal Inverse Attention Network with Intrinsic Discriminant Feature Exploitation for Fake News Detection,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-884,Sanitizing Backdoored Graph Neural Networks: A Multidimensional Approach,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-885,Physics-Assisted and Topology-Informed Deep Learning for Weather Prediction,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-886,MMGIA: Gradient Inversion Attack Against Multimodal Federated Learning via Intermodal Correlation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-887,"Simulate, Refine and Integrate: Strategy Synthesis for Efficient SMT Solving",IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-888, Enhancing Nighttime Semantic Segmentation with Visual-Linguistic Priors and Wavelet Transform,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-889,DenseSAM: Semantic Enhance SAM for Efficient Dense Object Segmentation,IJCAI,2025,Main,True,False,True,INCLUDE,6
+ijcai2025-89,Prompt-Aware Controllable Shadow Removal,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-890,DiffECG: Diffusion Model-Powered Label-Efficient and Personalized Arrhythmia Diagnosis,IJCAI,2025,Main,True,False,True,INCLUDE,6
+ijcai2025-891,Multimodal Fake News Detection: MFND Dataset and Shallow-Deep Multitask Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-892,Scalable Multi-Stage Influence Function for Large Language Models via Eigenvalue-Corrected Kronecker-Factored Parameterization,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-893,ChronoFact: Timeline-based Temporal Fact Verification,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-894,M3ANet: Multi-scale and Multi-Modal Alignment Network for Brain-Assisted Target Speaker Extraction,IJCAI,2025,Main,True,False,True,INCLUDE,6
+ijcai2025-895,SecV: LLM-based Secure Verilog Generation with Clue-Guided Exploration on Hardware-CWE Knowledge Graph,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-896,Learn to Think: Bootstrapping LLM Logic Through Graph Representation Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-897,Bridging Generative and Discriminative Learning: Few-Shot Relation Extraction via Two-Stage Knowledge-Guided Pre-training,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-898,Improving Prediction Certainty Estimation for Reliable Early Exiting via Null Space Projection,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-899,TreeKV: Smooth Key-Value Cache Compression with Tree Structures,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-9,Co-Learning of Strategy and Structure Achieves Full Cooperation in Complex Networks with Dynamical Linking,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-90,Categorical Attention: Fine-grained Language-guided Noise Filtering Network for Occluded Person Re-Identification,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-900,Efficient Dynamic Ensembling for Multiple LLM Experts,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-901,How to Mitigate Information Loss in Knowledge Graphs for GraphRAG: Leveraging Triple Context Restoration and Query-Driven Feedback,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-902,"Exploring the Trade-Offs: Quantization Methods, Task Difficulty, and Model Size in Large Language Models From Edge to Giant",IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-903,BridgeVoC: Neural Vocoder with Schrödinger Bridge,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-904,Learning Neural Vocoder from Range-Null Space Decomposition,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-905,Multi-modal Anchor Gated Transformer with Knowledge Distillation for Emotion Recognition in Conversation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-906,Can Retelling Have Adequate Information for Reasoning? An Enhancement Method for Imperfect Video Understanding with Large Language Model,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-907,Variational Multi-Modal Hypergraph Attention Network for Multi-Modal Relation Extraction,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-908,Multimodal Knowledge Retrieval-Augmented Iterative Alignment for Satellite Commonsense Conversation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-909,Can Large Models Teach Student Models to Solve Mathematical Problems Like Human Beings? A Reasoning Distillation Method via Multi-LoRA Interaction,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-91,HSRMamba: Contextual Spatial-Spectral State Space Model for Single Hyperspectral Image Super-Resolution,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-910,KnowRA: Knowledge Retrieval Augmented Method for Document-level Relation Extraction with Comprehensive Reasoning Abilities,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-911,"Contamination Budget: Trade-offs Between Breadth, Depth and Difficulty",IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-912,SepALM: Audio Language Models Are Error Correctors for Robust Speech Separation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-913,Accurate Sublayer Pruning for Large Language Models by Exploiting Latency and Tunability Information,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-914,T-T: Table Transformer for Tagging-based Aspect Sentiment Triplet Extraction,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-915,R2DQG: A Quality Meets Diversity Framework for Question Generation over Knowledge Bases,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-916,Knowledge Editing for Multi-Hop Question Answering Using Semantic Analysis,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-917,DFMU: Distribution-based Framework for Modeling Aleatoric Uncertainty in Multimodal Sentiment Analysis,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-918,Improving Consistency Identification in Task-oriented Dialogue Through Multi-Agent Collaboration,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-919,Enhancing User-Oriented Proactivity in Open-Domain Dialogues with Critic Guidance,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-92,DiffFERV: Diffusion-based Facial Editing of Real Videos,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-920,"MPPQ: Enhancing Post-Training Quantization for LLMs via Mixed Supervision, Proxy Rounding, and Pre-Searching",IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-921,Integration of Old and New Knowledge for Generalized Intent Discovery: A Consistency-driven Prototype-Prompting Framework,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-922,SetKE: Knowledge Editing for Knowledge Elements Overlap,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-923,Unveiling Maternity and Infant Care Conversations: A Chinese Dialogue Dataset for Enhanced Parenting Support,IJCAI,2025,Main,True,False,True,INCLUDE,6
+ijcai2025-924,ARPDL: Adaptive Relational Prior Distribution Loss as an Adapter for Document-Level Relation Extraction,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-925,Can We Verify Step by Step for Incorrect Answer Detection?,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-926,Beyond Fixed Length: Bucket Pre-training is All You Need,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-927,WenyanGPT: A Large Language Model for Classical Chinese Tasks,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-928,"D3: Diversity, Difficulty, and Dependability-Aware Data Selection for Sample-Efficient LLM Instruction Tuning",IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-929,Detecting Hallucination in Large Language Models Through Deep Internal Representation Analysis,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-93,Enhancing Mixture of Experts with Independent and Collaborative Learning for Long-Tail Visual Recognition,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-930,DGCPL: Dual Graph Distillation for Concept Prerequisite Relation Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-931,Token-Level Accept or Reject: A Micro Alignment Approach for Large Language Models,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-932,EDGE: Efficient Data Selection for LLM Agents via Guideline Effectiveness,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-933,Sentiment-enhanced Multi-hop Connected Graph Attention Network for Multimodal Aspect-Based Sentiment Analysis,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-934,EAVIT: Efficient and Accurate Human Value Identification From Text Data via LLMs,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-935,Learning Causally Disentangled Representations for Fair Personality Detection,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-936,Multi-Label Text Classification with Label Attention Aware  and Correlation Aware Contrastive Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-937,Dynamic Replanning for Improved Public Transport Routing,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-938,Sketch Decompositions for Classical Planning via Deep Reinforcement Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-939,LTLf+ and PPLTL+: Extending LTLf and PPLTL to Infinite Traces,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-94,MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-940,Handling Infinite Domain Parameters in Planning Through Best-First Search with Delayed Partial Expansions,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-941,Online Planning in MDPs with Stochastic Durative Actions,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-942,Rolling in Classical Planning with Conditional Effects and Constraints,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-943,Concurrent Planning and Execution Using Dispatch-Dependent Values,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-944,Solving MDPs with LTLf+ and PPLTL+ Temporal Objectives,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-945,Improvements to the Generate-and-Complete Approach to Conformant Planning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-946,Fast and Stronger Lower Bounds for Planar Euclidean Shortest Paths,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-947,Robust Finite-Memory Policy Gradients for Hidden-Model POMDPs,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-948,Interval Selection with Binary Predictions,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-949,Partially Observable Reference Policy Programming,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-95,AccCtr: Accelerating Training-Free Conditional Control For Diffusion Models,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-950,Optimal Planning to Coordinate Science Data Collection and Downlink for a Constellation of Agile Satellites with Limited Storage,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-951,Semi-Clairvoyant Scheduling of Speculative Decoding Requests to Minimize LLM Inference Latency,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-952,RobustHAR: Multi-scale Spatial-temporal Masked Self-supervised Pre-training for Robust Human Activity Recognition,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-953,Proactive Data-driven Scheduling of Business Processes,IJCAI,2025,Main,True,False,True,INCLUDE,6
+ijcai2025-954,EFormer: An Effective Edge-based Transformer for Vehicle Routing Problems,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-955,Preference-based Deep Reinforcement Learning for Historical Route Estimation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-956,An Approach to Quantify Plans Robustness in Real-world Applications,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-957,Abstraction Heuristics for Classical Planning Tasks with Conditional Effects,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-958,A Finite-State Controller Based Offline Solver for Deterministic POMDPs,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-959,GRAML: Goal Recognition As Metric Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-96,DIIN: Diffusion Iterative Implicit Networks for Arbitrary-scale Super-resolution,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-960,GATES: Cost-aware Dynamic Workflow Scheduling via Graph Attention Networks and Evolution Strategy,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-961,"Solving QNP and FOND+  with Generating, Testing and Forbidding",IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-962,What Makes You Special? Contrastive Heuristics Based on Qualified Dominance,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-963,Towards a Unified View of Social Laws with Instantaneous Actions,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-964,DGL: Dynamic Global-Local Information Aggregation for Scalable VRP Generalization with Self-Improvement Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-965,SRA-MCTS: Self-driven Reasoning Augmentation with Monte Carlo Tree Search for Code Generation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-966,NS4S: Neighborhood Search for Scheduling Problems Via Large Language Models,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-967,Computational Complexity of Planning for Recursive Primitive Task Networks: Selective Action Nullification with State Preservation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-968,Tree-of-AdEditor:  Heuristic Tree Reasoning for Automated Video Advertisement Editing with Large Language Model,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-969,BTPG: A Platform and Benchmark for Behavior Tree Planning in Everyday Service Robots,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-97,External Memory Matters: Generalizable Object-Action Memory for Retrieval-Augmented Long-Term Video Understanding,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-970,State Revisit and Re-explore: Bridging Sim-to-Real Gaps in Offline-and-Online Reinforcement Learning with An Imperfect Simulator,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-971,Risk-Aware Task Migration for Multiplex Unmanned Swarm Networks in Adversarial Environments,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-972,GCNT: Graph-Based Transformer Policies for Morphology-Agnostic Reinforcement Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-973,Beyond the Map: Learning to Navigate Unseen Urban Dynamics Using Diffusion-Guided Deep Reinforcement Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-974,Understanding Matters: Semantic-Structural Determined Visual Relocalization for Large Scenes,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-975,Imitation Learning via Focused Satisficing,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-976,Language-Conditioned Open-Vocabulary Mobile Manipulation with Pretrained Models,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-977,DiffusionIMU: Diffusion-Based Inertial Navigation with Iterative Motion Refinement,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-978,DisPIM: Distilling PreTrained Image Models for Generalizable Visuo-Motor Control,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-979,SDDiff: Boosting Radar Perception via Spatial-Doppler Diffusion,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-98,Diff-LMM: Diffusion Teacher-Guided Spatio-Temporal Perception  for Video Large Multimodal Models,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-980,Code-BT: A Code-Driven Approach to Behavior Tree Generation for Robot Tasks Planning with Large Language Models,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-981,DiffSQL: Leveraging Diffusion Model for Zero-Shot Self-Supervised Monocular Depth Estimation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-982,Proven Approximation Guarantees in Multi-Objective Optimization: SPEA2 Beats NSGA-II,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-983,Evolutionary Algorithms Are Significantly More Robust to Noise When They Ignore It,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-984,Speeding Up Hyper-Heuristics With Markov-Chain Operator Selection and the Only-Worsening Acceptance Operator,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-985,Theoretical Analysis of Evolutionary Algorithms with Quality Diversity for a Classical Path Planning Problem,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-986,The First Theoretical Approximation Guarantees for the Non-Dominated Sorting Genetic Algorithm III (NSGA-III),IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-987,Tight Runtime Guarantees From Understanding the Population Dynamics of the GSEMO Multi-Objective Evolutionary Algorithm,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-988,Scalable Speed-ups for the SMS-EMOA from a Simple Aging Strategy,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-989,Randomised Optimism via Competitive Co-Evolution for Matrix Games with Bandit Feedback,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-99,VidEvo: Evolving Video Editing through Exhaustive Temporal Modeling,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-990,A First Runtime Analysis of NSGA-III on a Many-Objective Multimodal Problem: Provable Exponential Speedup via Stochastic Population Update,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-991,LiBOG: Lifelong Learning for Black-Box Optimizer Generation,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-992,A Theoretical Perspective on Why Stochastic Population Update Needs an Archive in Evolutionary Multi-objective Optimization,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-993,X-KAN: Optimizing Local Kolmogorov-Arnold Networks via Evolutionary Rule-Based Machine Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-994,Reinforced In-Context Black-Box Optimization,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-995,Set-Based Retrograde Analysis: Precomputing the Solution to 28-card Bridge Double Dummy Deals,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-996,A Novel Local Search Algorithm for the Vertex Bisection Minimization Problem,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-997,NuMDS: An Efficient Local Search Algorithm for Minimum Dominating Set Problem,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-998,InfVC: An Inference-Enhanced Local Search Algorithm for the Minimum Vertex Cover Problem in Massive Graphs,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-999,Bidirectional Search while Ensuring Meet-In-The-Middle via Effective and Efficient-to-Compute Termination Conditions,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+kdd2020-3403043,Learning Effective Road Network Representation with Hierarchical Graph Neural Networks,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403044,Interpretability is a Kind of Safety: An Interpreter-based Ensemble for Adversary Defense,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403045,Higher-order Clustering in Complex Heterogeneous Networks,KDD,2020,Research,True,False,True,pending,4
+kdd2020-3403046,Preserving Dynamic Attention for Long-Term Spatial-Temporal Prediction,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403047,Learning to Extract Attribute Value from Product via Question Answering: A Multi-task Approach,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403048,Kernel Assisted Learning for Personalized Dose Finding,KDD,2020,Research,True,True,True,include,26
+kdd2020-3403049,Graph Structure Learning for Robust Graph Neural Networks,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403050,An Efficient Neighborhood-based Interaction Model for Recommendation on Heterogeneous Graph,KDD,2020,Research,True,False,True,exclude,3
+kdd2020-3403051,Directional Multivariate Ranking,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403052,Truth Discovery against Strategic Sybil Attack in Crowdsourcing,KDD,2020,Research,True,False,True,pending,5
+kdd2020-3403053,Partial Multi-Label Learning via Probabilistic Graph Matching Mechanism,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403054,Spectrum-Guided Adversarial Disparity Learning,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403055,Attention and Memory-Augmented Networks for Dual-View Sequential Learning,KDD,2020,Research,True,False,True,HOLD | pending,10
+kdd2020-3403056,Semantic Search in Millions of Equations,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403057,SSumM: Sparse Summarization of Massive Graphs,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403058,Rethinking Pruning for Accelerating Deep Inference At the Edge,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403059,Compositional Embeddings Using Complementary Partitions for Memory-Efficient Recommendation Systems,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403060,Structural Patterns and Generative Models of Real-world Hypergraphs,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403061,Efficient Algorithm for the b-Matching Graph,KDD,2020,Research,True,False,True,pending,4
+kdd2020-3403062,Isolation Distributional Kernel: A new tool for kernel based anomaly detection,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403063,NodeAug: Semi-Supervised Node Classification with Data Augmentation,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403064,An Embarrassingly Simple Approach for Trojan Attack in Deep Neural Networks,KDD,2020,Research,True,False,True,exclude,3
+kdd2020-3403065,Kronecker Attention Networks,KDD,2020,Research,True,True,True,exclude,2
+kdd2020-3403066,GRACE: Generating Concise and Informative Contrastive Sample to Explain Neural Network Model,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403067,Hierarchical Attention Propagation for Healthcare Representation Learning,KDD,2020,Research,True,True,True,include,7
+kdd2020-3403068,SCE: Scalable Newtork Embedding from Sparsest Cut,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403069,Local Community Detection in Multiple Networks,KDD,2020,Research,True,False,True,exclude | pending,4
+kdd2020-3403070,A Block Decomposition Algorithm for Sparse Optimization,KDD,2020,Research,True,True,True,exclude,3
+kdd2020-3403071,Adversarial Infidelity Learning for Model Interpretation,KDD,2020,Research,True,True,True,exclude,3
+kdd2020-3403072,Grounding Visual Concepts for Multimedia Event Detection and Multimedia Event Captioning in Zero-shot Setting,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403073,"How to count triangles, without seeing the whole graph",KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403074,Incremental Lossless Graph Summarization,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403075,From Online to Non-i.i.d. Batch Learning,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403076,Towards Deeper Graph Neural Networks,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403077,Laplacian Change Point Detection for Dynamic Graphs,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403078,Learning Transferrable Parameters for Long-tailed Sequential User Behavior Modeling,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403079,TranSlider: Transfer Ensemble Learning from Exploitation to Exploration,KDD,2020,Research,True,False,True,pending,5
+kdd2020-3403080,InFoRM: Individual Fairness on Graph Mining,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403081,Local Motif Clustering on Time-Evolving Graphs,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403082,A Data Driven Graph Generative Model for Temporal Interaction Networks,KDD,2020,Research,True,True,True,exclude,3
+kdd2020-3403083,Recurrent Networks for Guided Multi-Attention Classification,KDD,2020,Research,True,True,True,exclude,2
+kdd2020-3403084,Vulnerability vs. Reliability: Disentangled Adversarial Examples for Cross-Modal Learning,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403085,,KDD,2020,,True,True,True,include,26
+kdd2020-3403086,CAST: A Correlation-based Adaptive Spectral Clustering Algorithm on Multi-scale Data,KDD,2020,Research,True,True,True,exclude,2
+kdd2020-3403087,INPREM: An Interpretable and Trustworthy Predictive Model for Healthcare,KDD,2020,Research,True,False,True,include,7
+kdd2020-3403088,PolicyGNN: Aggregation Optimization for Graph Neural Networks,KDD,2020,Research,True,False,True,exclude | pending,3
+kdd2020-3403089,Malicious Attacks against Deep Reinforcement Learning Interpretations,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403091,Disentangled Self-Supervision in Sequential Recommenders,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403092,DETERRENT: Knowledge Guided Graph Attention Network for Detecting Healthcare Misinformation,KDD,2020,Research,True,False,True,include,7
+kdd2020-3403093,MultiImport: Inferring Node Importance in a Knowledge Graph from Multiple Input Signals,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403094,Geodesic Forests,KDD,2020,Research,True,False,True,pending,4
+kdd2020-3403095,Z-Miner: an efficient method for mining frequent arrangements of event intervals,KDD,2020,Research,True,False,True,exclude | pending,3
+kdd2020-3403096,Imputing Various Incomplete Attributes via Distance Likelihood Maximization,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403097,WeightGrad: Geo-Distributed Data Analysis Using Quantization for Faster Convergence and Better Accuracy,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403098,Feature-Induced Manifold Disambiguation for Multi-View Partial Multi-label Learning,KDD,2020,Research,True,False,True,pending,4
+kdd2020-3403099,MinSearch: An Efficient Algorithm for Similarity Search under Edit Distance,KDD,2020,Research,True,True,True,pending,6
+kdd2020-3403100,Mining large quasi-cliques with quality guarantees from vertex neighborhoods,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403101,Residual Correlation in Graph Neural Network Regression,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403102,Towards Fair Truth Discovery from Biased Crowdsourced Answers,KDD,2020,Research,True,False,True,exclude | pending,3
+kdd2020-3403103,AutoShuffleNet: Learning Permutation Matrices via an Exact Lipschitz Continuous Penalty in Deep Convolutional Neural Networks,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403104,,KDD,2020,,True,True,True,include,26
+kdd2020-3403105,Parallel DNN Inference Framework Leveraging a Compact RISC-V ISA-based Multi-core System,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403106,Missing Value Imputation for Mixed Data via Gaussian Copula,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403107,HiTANet: Hierarchical Time-Aware Attention Networks for Risk Prediction on Electronic Health Records,KDD,2020,Research,True,False,True,include,7
+kdd2020-3403108,"Personalized PageRank to a Target Node, Revisited",KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403109,Edge-consensus Learning: Deep Learning on P2P Networks with Nonhomogeneous Data,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403110,Deep Learning of High-Order Interactions for Protein Interface Prediction,KDD,2020,Research,True,True,True,include,26
+kdd2020-3403113,MAMO: Memory-Augmented Meta-Optimization for Cold-start Recommendation,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403114,Finding Effective Geo-social Group for Impromptu Activities with Diverse Demands,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403115,Representing Temporal Attributes for Schema Matching,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403116,Estimating Properties of Social Networks via Random Walk considering Private Nodes,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403117,ASGN: An Active Semi-supervised  Graph Neural Network for Molecular Property Prediction,KDD,2020,Research,True,True,True,exclude,3
+kdd2020-3403118,Connecting the Dots:  Multivariate Time Series Forecasting with Graph Neural Networks,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403119,Learning Opinion Dynamics From Social Traces,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403120,Enterprise Cooperation and Competition Analysis with Sign-Oriented Preference Network,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403121,BLOB: A Probabilistic Model for Recommendation that Combines Organic and Bandit Signals,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403122,AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403123,COMPOSE: Cross-Modal Pseudo-Siamese Network for Patient Trial Matching,KDD,2020,Research,True,True,True,include,30
+kdd2020-3403124,Discovering Succinct Pattern Sets Expressing Co-Occurrence and Mutual Exclusivity,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403125,TIPRDC: Task-Independent Privacy-Respecting Data Crowdsourcing Framework for Deep Learning with Anonymized Intermediate Representations,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403126,AutoGrow: Automatic Layer Growing in Deep Convolutional Networks,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403127,Curb-GAN: Conditional Urban Traffic Estimation through Spatio-Temporal Generative Adversarial Networks,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403128,Incremental Mobile User Profiling:  Reinforcement Learning with Spatial Knowledge Graph for Modeling Event Streams,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403129,Identifying Sepsis Subphenotypes via Time-Aware Multi-Modal Auto-Encoder,KDD,2020,Research,True,False,True,include,7
+kdd2020-3403130,A causal look at statistical definitions of discrimination,KDD,2020,Research,True,False,True,exclude,3
+kdd2020-3403131,Targeted Data-driven Regularization for Out-of-Distribution Generalization,KDD,2020,Research,True,False,True,exclude | pending,3
+kdd2020-3403132,Neural Dynamics on Complex Networks,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403133,Grammatically Recognizing Images with Tree Convolution,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403134,Generic Outlier Detection in Multi-Armed Bandit,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403135,Robust Spammer Detection by Nash Reinforcement Learning,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403136,Mining Persistent Activity in Continually Evolving Networks,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403137,Towards Automated Neural Interaction Discovering for Click-Through Rate Prediction,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403138,High-Dimensional Similarity Search with Quantum-Assisted Variational Autoencoder,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403139,Off-policy Bandits with Deficient Support,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403140,Adaptive Graph Encoder for Attributed Graph Embedding,KDD,2020,Research,True,True,True,exclude,3
+kdd2020-3403141,NetTrans: Neural Cross-Network Transformation,KDD,2020,Research,True,False,True,pending,5
+kdd2020-3403142,Redundancy-Free Computation for Graph Neural Networks,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403143,Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403144,Sliding Sketches: A Framework using Time Zones for Data Stream Processing in Sliding Windows,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403145,STEAM: Self-Supervised Taxonomy Expansion via Path-Based Multi-View Co-Training,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403147,Probabilistic Metric Learning with Adaptive Margin for Top-K Recommendation,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403148,Re-identification Attack to Privacy-Preserving Data Analysis with Noisy Sample-Mean,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403149,BOND: Bert-Assisted Open-Domain Named Entity Recognition with Distant Supervision,KDD,2020,Research,True,True,True,exclude,2
+kdd2020-3403150,Graph Structural-topic Neural Network,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403151,Correlation Networks for Extreme Multi-label Text Classification,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403152,Predicting Temporal Sets with Deep Neural Networks,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403153,FreeDOM: A Transferable Neural Architecture for Structured Information Extraction on Web Documents,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403154,SEAL: Learning Heuristics for Community Detection with Generative Adversarial Networks,KDD,2020,Research,True,False,True,pending,5
+kdd2020-3403164,Matrix Profile XXI: A Geometric Approach to Time Series Chains Improves Robustness,KDD,2020,Research,True,False,True,pending,5
+kdd2020-3403165,Retrospective Loss: Looking Back to Improve Training of Deep Neural Networks,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403166,Average Sensitivity of Spectral Clustering,KDD,2020,Research,True,True,True,exclude,2
+kdd2020-3403167,Semi-Supervised Multi-Label Learning from Crowds via Deep Sequential Generative Model,KDD,2020,Research,True,False,True,pending,5
+kdd2020-3403168,GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403169,HGCN: A Heterogeneous Graph Convolutional Network-Based Deep Learning Model Toward Collective Classification,KDD,2020,Research,True,False,True,pending,4
+kdd2020-3403170,Handling Information Loss of Graph Neural Networks for Session-based Recommendation,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403171,Ultrafast Local Outlier Detection from a Data Stream with Stationary Region Skipping,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403172,LayoutLM: Pre-training of Text and Layout for Document Image Understanding,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403173,Block Model Guided Unsupervised Feature Selection,KDD,2020,Research,True,True,True,exclude,2
+kdd2020-3403174,Data Compression as a Comprehensive Framework for Graph Drawing and Representation Learning,KDD,2020,Research,True,False,True,pending,4
+kdd2020-3403175,Joint Policy-Value Learning for Recommendation,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403176,FedFast: Going Beyond Average for Faster Training of Federated Recommender Systems,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403177,AM-GCN: Adaptive Multi-channel Graph Convolutional Networks,KDD,2020,Research,True,True,True,exclude,3
+kdd2020-3403178,Discovering Approximate Functional Dependencies using Smoothed Mutual Information,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403179,Competitive Analysis for Points of Interest,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403180,HOPS: Probabilistic Subtree Mining for Small and Large Graphs,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403181,The NodeHopper: Enabling low latency ranking with constraints via a fast dual solver,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403182,HGMF: Heterogeneous Graph-based Fusion for Multimodal Data with Incompleteness,KDD,2020,Research,True,False,True,HOLD | pending,8
+kdd2020-3403183,ST-SiameseNet: Spatio-Temporal Siamese Networks for Human Mobility Signature Identification,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403184,A Novel Deep Learning Model by Stacking Conditional Restricted Boltzmann Machine and Deep Neural Network,KDD,2020,Research,True,True,True,include,8
+kdd2020-3403185,InfiniteWalk: Deep Network Embeddings as Laplacian Embeddings with a Nonlinearity,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403186,xGAIL: Explainable Generative Adversarial Imitation Learning for Explainable Human Decision Analysis,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403187,Catalysis Clustering With GAN By Incorporating Domain Knowledge,KDD,2020,Research,True,False,True,HOLD | pending,8
+kdd2020-3403188,Prediction and Profiling of Audience Competition for Online Television Series,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403189,Multi-class Data Description for Out-of-distribution Detection,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403190,In and Out: Optimizing Overall Interaction in Probabilistic Graphs under Clustering Constraints,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403191,Recurrent Halting Chain for Early Multi-label Classification,KDD,2020,Research,True,True,True,exclude,2
+kdd2020-3403192,Minimal Variance Sampling with Provable Guarantees for Fast Training of Graph Neural Networks,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403193,Discovering Functional Dependencies from Mixed-Type Data,KDD,2020,Research,True,True,True,exclude,2
+kdd2020-3403194,Attackability Characterization of Adversarial Evasion Attack on Discrete Data,KDD,2020,Research,True,True,True,exclude,3
+kdd2020-3403195,The Spectral Zoo of Networks: Embedding and Visualizing Networks with Spectral Moments,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403196,Unsupervised Differentiable Multi-aspect Network Embedding,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403197,AutoML Pipeline Selection: Efficiently Navigating the Combinatorial Space,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403198,Towards physics-informed deep learning for turbulent flow prediction,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403199,Evaluating Fairness using Permutation Tests,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403200,Leveraging Model Inherent Variable Importance for Stable Online Feature Selection,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403201,Multi-level Graph Convolutional Networks for Cross-platform Anchor Link Prediction,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403202,Evaluating Conversational Recommender Systems via User Simulation,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403203,Measuring Model Complexity of Neural Networks with Curve Activation Functions,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403204,Diverse Rule Sets,KDD,2020,Research,True,True,True,exclude,2
+kdd2020-3403205,Vamsa: Automated Provenance Tracking in Data Science Scripts,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403206,,KDD,2020,,True,True,True,include,11
+kdd2020-3403207,Meta-learning on Heterogeneous Information Networks for Cold-start Recommendation,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403208,WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403209,Dynamic Knowledge Graph based Multi-Event Forecasting,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403210,A Geometric Approach to Predicting Bounds of Downstream Model Performance,KDD,2020,Research,True,False,True,pending,5
+kdd2020-3403211,Context-to-Session Matching: Utilizing Whole Session for Response Selection in Information-Seeking Dialogue Systems,KDD,2020,Research,True,True,True,exclude,2
+kdd2020-3403212,,KDD,2020,,True,False,True,include,26
+kdd2020-3403213,LogPar: Logistic PARAFAC2 Factorization for Temporal Binary Data with Missing Values,KDD,2020,Research,True,True,True,include,7
+kdd2020-3403214,RECORD: Resource Constrained Semi-Supervised Learning under Distribution Shift,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403215,Statistically Significant Pattern Mining with Ordinal Utility,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403217,Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403218,Understanding Negative Sampling in Graph Representation Learning,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403219,Aligning Superhuman AI with Human Behavior: Chess as a Model System,KDD,2020,Research,True,False,True,exclude,3
+kdd2020-3403220,Heidegger: Interpretable Temporal Causal Discovery,KDD,2020,Research,True,False,True,pending,4
+kdd2020-3403221,Interpretable Deep Graph Generation with Node-edge Co-disentanglement,KDD,2020,Research,True,True,True,include | pending,8
+kdd2020-3403222,Minimizing Localized Ratio Cut Objectives in Hypergraphs,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403223,Reciptor: An Effective Pretrained Model for Recipe Representation Learning,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403224,Hyperbolic Distance Matrices,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403225,RayS: A Ray Searching Method for Hard-label Adversarial Attack,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403226,On Sampled Metrics for Item Recommendation,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403227,ALO-NMF: Accelerated Locality-Optimized Non-negative Matrix Factorization,KDD,2020,Research,True,True,True,exclude,3
+kdd2020-3403228,Multi-Source Deep Domain Adaptation with Weak Supervision for Time-Series Sensor Data,KDD,2020,Research,True,True,True,exclude,2
+kdd2020-3403229,Counterfactual Evaluation of Slate Recommendations with Sequential Reward Interactions,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403230,TAdaNet: Task-Adaptive Network for Graph-Enriched Meta-Learning,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403231,Unsupervised Paraphrasing via Deep Reinforcement Learning,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403232,CICLAD: A Fast and Memory-efficient Closed Itemset Miner for Streams,KDD,2020,Research,True,True,True,exclude,2
+kdd2020-3403233,Graph Attention Networks over Edge  Content-Based Channels,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403234,Multimodal Learning with Incomplete Modalities by Knowledge Distillation,KDD,2020,Research,True,False,True,HOLD | pending,9
+kdd2020-3403235,Estimating the Percolation Centrality of Large Networks through Pseudo-dimension Theory,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403236,TinyGNN: Learning Efficient Graph Neural Networks,KDD,2020,Research,True,False,True,pending,5
+kdd2020-3403237,GPT-GNN: Generative Pre-Training of Graph Neural Networks,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403238,Parameterized Correlation Clustering in Hypergraphs and Bipartite Graphs,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403239,Prioritized Restreaming Algorithms for Balanced Graph Partitioning,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403240,A Non-Iterative Quantile Change Detection Method in Mixture Model with Heavy-Tailed Components,KDD,2020,Research,True,True,True,exclude,3
+kdd2020-3403241,AdvMind: Inferring Adversary Intent of Black-Box Attacks,KDD,2020,Research,True,True,True,exclude,3
+kdd2020-3403242,Hierarchical Topic Mining via Joint Spherical Tree and Text Embedding,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403243,Combinatorial Black-Box Optimization with Expert Advice,KDD,2020,Research,True,True,True,exclude,2
+kdd2020-3403244,CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring,KDD,2020,Research,True,True,True,exclude,2
+kdd2020-3403245,Treatment Policy Learning in Multiobjective Settings with Fully Observed Outcomes,KDD,2020,Research,True,False,True,include,29
+kdd2020-3403246,List-wise Fairness Criterion for Point Processes,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403247,,KDD,2020,,True,True,True,include,26
+kdd2020-3403248,Hypergraph Clustering Based on PageRank,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403249,DeepSinger: Singing Voice Synthesis with Data Mined From the Web,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403250,Scaling choice models of relational social data,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403251,Deep Exogenous and Endogenous Influence Combination for Social Chatter Intensity Prediction,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403252,Geography-Aware Sequential Location Recommendation,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403253,Dual Channel Hypergraph Collaborative Filtering,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403254,A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks,KDD,2020,Research,True,False,True,exclude,3
+kdd2020-3403255,Learning Based Distributed Tracking,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403256,Tight Sensitivity Bounds For Smaller Coresets,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403257,GHashing: Semantic Graph Hashing for Approximate Similarity Search in Graph Databases,KDD,2020,Research,True,True,True,exclude | pending,4
+kdd2020-3403258,Interactive Path Reasoning on Graph for Conversational Recommendation,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403259,Algorithmic Aspects of Temporal Betweenness,KDD,2020,Research,True,True,True,exclude,3
+kdd2020-3403260,Non-Linear Mining of Social Activities in Tensor Streams,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403261,DeepLine: AutoML Tool for Pipelines Generation using Deep Reinforcement Learning and Hierarchical Actions Filtering,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403262,On Sampling Top-K Recommendation Evaluation,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403263,Algorithmic Decision Making with Conditional Fairness,KDD,2020,Research,True,True,True,exclude,3
+kdd2020-3403264,Semi-supervised Collaborative Filtering by Text-enhanced Domain Adaptation,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403265,Rich Information is Affordable: A Systematic Performance Analysis of Second-order Optimization Using K-FAC,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403266,Voronoi Graph Traversal in High Dimensions with Applications to Topological Data Analysis and Piecewise Linear Interpolation,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403267,MCRapper: Monte-Carlo Rademacher Averages for Poset Families and Approximate Pattern Mining,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403268,REA: Robust Cross-lingual Entity Alignment Between Knowledge Graphs,KDD,2020,Research,True,False,True,exclude,2
+kdd2020-3403269,Stable Learning via Differentiated Variable Decorrelation,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403270,Learning Stable Graphs from Heterogeneous Confounded Environments,KDD,2020,Research,True,True,True,exclude | pending,3
+kdd2020-3403271,Fast RobustSTL: Efficient and Robust Seasonal-Trend Decomposition for Time Series with Complex Patterns,KDD,2020,Research,True,False,True,pending,4
+kdd2020-3403272,CurvaNet: Geometric Deep Learning based on Multi-scale Directional Curvature for 3D Shape Analysis,KDD,2020,Research,True,False,True,exclude | pending,3
+kdd2020-3403273,Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data,KDD,2020,Research,True,False,True,exclude,3
+kdd2020-3403274,Octet: Online Catalog Taxonomy Enrichment with Self-Supervision,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403275,TIMME: Twitter Ideology-detection via Multi-task Multi-relational Embedding,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403276,"Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps",KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403277,Sub-Matrix Factorization for Real-Time Vote Prediction,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403278,Temporal-Contextual Recommendation in Real-Time,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403279,OptMatch: Optimized Matchmaking via Modeling the High-Order Interactions on the Arena,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403280,PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403281,"Polestar: An Intelligent, Efficient and National-Wide Public Transportation Routing Engine",KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403282,Context-Aware Attentive Knowledge Tracing,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403283,Improving Movement Predictions of Traffic Actors in Bird's-Eye View Models using GANs and Differentiable Trajectory Rasterizatio,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403284,M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403285,Attribute-based Propensity for Unbiased Learning in Recommender Systems: Algorithm and Case Studies,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403286,Predicting Individual Treatment Effects of Large-scale Team Competitions in a Ride-sharing Economy,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403287,Cellular Network Radio Propagation Modeling with Deep Convolutional Neural Networks,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403288,Neural Input Search for Large Scale Recommendation Models,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403289,Easy Perturbation EEG Algorithm for Spectral Importance (easyPEASI): A simple method to identify important spectral features of EEG in deep learning models,KDD,2020,Applied Data Science,True,False,True,include,7
+kdd2020-3403290,Building Continuous Integration Services for Machine Learning,KDD,2020,Applied Data Science,True,True,True,exclude,2
+kdd2020-3403291,Learning to Cluster Documents into Workspaces Using Large Scale Activity Logs,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403292,What is that Building? An End-to-end System for Building Recognition from Streetside Images,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403293,MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403294,HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403295,Hubble: an Industrial System for Audience Expansion in Mobile Marketing,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403296,Scaling Graph Neural Networks with Approximate PageRank,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403297,Combo-Attention Network for Baidu Video Advertising,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403298,Federated Doubly Stochastic Kernel Learning for  Vertically Partitioned Data,KDD,2020,Applied Data Science,True,True,True,exclude | pending,3
+kdd2020-3403299,To Tune or Not to Tune? In Search of Optimal Configurations for Data Analytics,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403300,Reconstruction and Decomposition of High-Dimensional Landscapes via Unsupervised Learning,KDD,2020,Applied Data Science,True,False,True,include,7
+kdd2020-3403301,Map Generation from Large Scale Incomplete and Inaccurate Data Labels,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403302,Grale: Designing Networks for Graph Learning,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403303,Automatic Validation of Textual Attribute Values in ECommerce Catalog by Learning with Limited Labeled Data,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403304,CLARA: Confidence of Labels and Raters,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403305,Embedding-based Retrieval in Facebook Search,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403306,LUMOS: A library for diagnosing metric regressions for web-scale applications,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403307,Order Fulfillment Cycle Time Estimation for On-Demand Food Delivery,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403308,Calendar Graph Neural Networks for Modeling Time Structures in Spatiotemporal User Behaviors,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403309,Privileged Features Distillation at Taobao Recommendations,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403310,Cracking Tabular Presentation Diversity for Automatic Cross-Checking over Numerical Facts,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403311,GrokNet: Unified Computer Vision Model Trunk and Embeddings For Commerce,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403312,Learning instrument invariant characteristics for generating high-resolution global coral reef maps,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403313,Causal Meta-Mediation Analysis Inferring Dose-Response Function From Summary Statistics of Many Randomized Experiments,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403314,AutoFIS: Automatic Feature Interaction Selection in Factorization Models for Click-Through Rate Prediction,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403315,City Metro Network Expansion with Reinforcement Learning,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403316,Game Action Modeling for Fine Grained Analyses of Player Behavior in Multi-player Card Games (Rummy as case study),KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403317,Cascade-LSTM: A Tree-Structured Neural Classifier for Detecting Misinformation Cascades,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403318,Personalized Prefix Embedding for POI Auto-Completion in the Search Engine of Baidu Maps,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403319,Category-Specific CNN for Visual-aware CTR Prediction at JD.com,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403320,ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403321,Faster Secure Data Mining via Distributed Homomorphic Encryption,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403322,Contagious Chain Risk Rating for Networked-guarantee Loans,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403323,AutoKnow: Self-Driving Knowledge Collection for Products of Thousands of Types,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403324,Personalized Image Retrieval with Sparse Graph Representation Learning,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403325,Comprehensive Information Integration Modeling Framework for Video Titling,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403326,Acoustic Measures for Real-Time Voice Coaching,KDD,2020,Applied Data Science,True,False,True,exclude,3
+kdd2020-3403327,Geodemographic Influence Maximization,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403328,A Self-Evolving Mutually-Operative Recurrent Network-based Model for Online Tool Condition Monitoring in Delay Scenario,KDD,2020,Applied Data Science,True,False,True,exclude,3
+kdd2020-3403329,Maximizing Cumulative User Engagement in Sequential Recommendation: An Online Optimization Perspective,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403330,Domain Specific Knowledge Graphs as a Service to the Public,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403331,LRSpeech: Extremely Low-Resource Speech Synthesis and Recognition,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403332,Doing in One Go: Delivered Time Inference Based on Coueriers' Trajectories,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403333,Improving Deep Learning For Airbnb Search,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403334,General-Purpose User Embeddings based on Mobile App Usage,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403335,Unsupervised Translation via Hierarchical Anchoring: Functional Mapping of Places across Cities,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403336,Debiasing Grid-based Product Search in E-commerce,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403337,Forecasting the Evolution of Hydropower Generation,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403338,Salience and Market-aware Skill Extraction for Job Targeting,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403339,DATE: Dual Attentive Tree-aware Embedding for Customs Fraud Detection,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403340,User Sentiment as a Success Metric: Persistent Biases Under Full Randomization,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403341,Improving Recommendation Quality in Google Drive,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403342,Large-Scale Training System for 100-Million Classification at Alibaba,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403343,Mining Implicit Relevance Feedback from User Behavior for Web Question Answering,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403344,Controllable Multi-Interest Framework for Recommendation,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403345,Managing Diversity in Airbnb Search,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403346,Molecular Inverse-Design Platform for Material Industries,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403347,Learning to score economic development from satellite imagery,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403348,A Request-level Guaranteed Delivery Advertising Planning: Forecasting and Allocation,KDD,2020,Applied Data Science,True,False,True,exclude,3
+kdd2020-3403349,Two Sides of the Same Coin:  White-box and Black-box Attacks for Transfer Learning,KDD,2020,Applied Data Science,True,True,True,exclude | pending,3
+kdd2020-3403350,Learning to Generate Personalized Query Auto-Completions via a Multi-View Multi-Task Attentive Approach,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403351,"A Sleeping, Recovering Bandit Algorithm for Optimizing Recurring Notifications",KDD,2020,Applied Data Science,True,False,True,exclude,3
+kdd2020-3403352,Multi-objective Optimization for Guaranteed Delivery in Video Service Platform,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403353,Delivery Scope: A New Way of Restaurant Retrieval For On-demand Food Delivery Service,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403354,Fraud Transactions Detection via Behavior Tree with Local Intention Calibration,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403355,Balanced Order Batching with Task-Oriented Graph Clustering,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403356,Efficiently Solving the Practical Vehicle Routing Problem: A Novel Joint Learning Approach,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403357,Meta-Learning for Query Conceptualization at Web Scale,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403358,Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403359,Multitask Mixture of Sequential Experts for User Activity Streams,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403360,Identifying Homeless Youth At-Risk of Substance Use Disorder: Data-Driven Insights for Policymakers,KDD,2020,Applied Data Science,True,True,True,include,7
+kdd2020-3403361,Interleaved Sequence RNNs for Fraud Detection,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403362,Attention based multi-modal new product sales time-series forecasting,KDD,2020,Applied Data Science,True,False,True,exclude,3
+kdd2020-3403363,Pest management in cotton farms: an AI-system case study from the global South,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403364,TIES: Temporal Interaction Embeddings For Enhancing Social Media Integrity At Facebook,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403365,Price Investment using Prescriptive Analytics and Optimization in Retail,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403366,Climate Downscaling Using YNet: a Deep Convolutional Network with Skip Connections and Fusion,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403367,Cracking the Black Box: Distilling Deep Sports Analytics,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403368,Taming Pretrained Transformers for eXtreme Multi-label Text Classification,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403369,Prediction of Hourly Earnings and Completion Time on a Crowdsourcing Platform,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403370,SimClusters: Community-Based Representations for Heterogeneous Recommendations at Twitter,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403371,Time-Aware User Embeddings as a Service,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403372,Shop The Look: Building a Large Scale Visual Shopping System at Pinterest,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403373,Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403374,Bandit based Optimization of Multiple Objectives on a Music Streaming Platform,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403375,Multi Modal Deep Learning Based Crop Classification Using Multispectral and Multitemporal Satellite Imagery,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403376,BusTr: predicting bus travel times from real-time traffic,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403377,Characterizing and Learning Representation on Customer Contact Journeys in Cellular Services,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403378,CrowdQuake: A Networked System of Low-Cost Sensors for Earthquake Detection via Deep Learning,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403379,An Empirical Analysis of Backward Compatibility in Machine Learning Systems,KDD,2020,Applied Data Science,True,True,True,exclude,3
+kdd2020-3403380,DeepTriage: Automated Transfer Assistance for Incidents in Cloud Services,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403381,"An Automatic Approach for Generating Rich, Linked Geo-Metadata from Historical Map Images",KDD,2020,Applied Data Science,True,False,True,exclude,3
+kdd2020-3403382,Bootstrapping Complete The Look at Pinterest,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403383,Explainable classification of brain networks via contrast subgraphs,KDD,2020,Applied Data Science,True,True,True,include,26
+kdd2020-3403384,Jointly Learning to Recommend and Advertise,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403385,Fitbit for Chickens? Time Series Data Mining Can Increase the Productivity of Poultry Farms,KDD,2020,Applied Data Science,True,False,True,include | pending,8
+kdd2020-3403386,CompactETA: A Fast Inference System for Travel Time Prediction,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403387,Intelligent Exploration for User Interface Modules of Mobile App with Collective Learning,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403388,Gemini: A novel and universal heterogeneous graph information fusing framework for online recommendations,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403389,Hypergraph Convolutional Recurrent Neural Network,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403390,Towards Building an Intelligent Chatbot for Customer Service: Learning to Respond at the Appropriate Time,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403391,Ads Allocation in Feed via Constrained Optimization,KDD,2020,Applied Data Science,True,False,True,exclude,3
+kdd2020-3403392,USAD : UnSupervised Anomaly Detection on multivariate time series,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2020-3403393,A Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce,KDD,2020,Applied Data Science,True,False,True,exclude,3
+kdd2020-3403394,Learning with Limited Labels via Momentum Damped Differentially Weighted Training,KDD,2020,Applied Data Science,True,False,True,exclude,2
+kdd2021-3467057,AliCG: Fine-grained and Evolvable Conceptual Graph Construction for Semantic Search at Alibaba,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467058,Meta-Learned Spatial-Temporal POI Auto-Completion for the Search Engine at Baidu Maps,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467059,HGAMN: Heterogeneous Graph Attention Matching Network for Multilingual POI Retrieval at Baidu Maps,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467060,SSML: Self-Supervised Meta-Learner for En Route Travel Time Estimation at Baidu Maps,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467061,OpenBox: A Generalized Black-box Optimization Service,KDD,2021,Applied Data Science,True,True,True,exclude | pending,2
+kdd2021-3467062,Improving the Information Disclosure in Mobility-on-Demand Systems,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467063,Quantifying and Addressing Ranking Disparity in Human-Powered Data Acquisition,KDD,2021,Applied Data Science,True,False,True,pending,4
+kdd2021-3467064,FASER: Seismic Phase Identifier for Automated Monitoring,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467065,Live-Streaming Fraud Detection: A Heterogeneous Graph Neural Network Approach,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467066,FIVES: Feature Interaction Via Edge Search for Large-Scale Tabular Data,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467067,Debiasing Learning based Cross-domain Recommendation,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467068,A Deep Learning Method for Route and Time Prediction in Food Delivery Service,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467069,RAPT: Pre-training of Time-Aware Transformer for Learning Robust Healthcare Representation,KDD,2021,Applied Data Science,True,False,True,include,10
+kdd2021-3467070,Energy-Efficient 3D Vehicular Crowdsourcing for Disaster Response by Distributed Deep Reinforcement Learning,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467071,Modeling the Sequential Dependence among Audience Multi-step Conversions with Multi-task Learning in Targeted Display Advertising,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467072,Lane Change Scheduling for Autonomous Vehicle: A Prediction-and-Search Framework,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467074,Globally Optimized Matchmaking in Online Games,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467075,Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467076,Bootstrapping for Batch Active Sampling,KDD,2021,Applied Data Science,True,False,True,pending,4
+kdd2021-3467077,An Embedding Learning Framework for Numerical Features in CTR Prediction,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467078,Auto-Split: A General Framework of Collaborative Edge-Cloud AI,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467079,Learning Reliable User Representations from Volatile and Sparse Data to Accurately Predict Customer Lifetime Value,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467080,Training Recommender Systems at Scale: Communication-Efficient Model and Data Parallelism,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467081,VisRel: Media Search at Scale,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467082,MPCSL - A Modular Pipeline for Causal Structure Learning,KDD,2021,Applied Data Science,True,False,True,pending,4
+kdd2021-3467083,Markdowns in E-Commerce Fresh Retail: A Counterfactual Prediction and Multi-Period Optimization Approach,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467084,Hierarchical Training: Scaling Deep Recommendation Models on Large CPU Clusters,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467085,Learning to Assign: Towards Fair Task Assignment in Large-Scale Ride Hailing,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467086,Real Negatives Matter: Continuous Training with Real Negatives for Delayed Feedback Modeling,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467087,Session-Aware Query Auto-completion using Extreme Multi-Label Ranking,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467088,AutoSmart: An Efficient and Automatic Machine Learning Framework for Temporal Relational Data,KDD,2021,Applied Data Science,True,True,True,exclude | pending,5
+kdd2021-3467089,Exploration in Online Advertising Systems with Deep Uncertainty-Aware Learning,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467090,What Happened Next? Using Deep Learning to Value Defensive Actions in Football Event-Data,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467091,Network Experimentation at Scale,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467092,Extreme Multi-label Learning for Semantic Matching in Product Search,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467093,Learning to Expand Audience via Meta Hybrid Experts and Critics for Recommendation and Advertising,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467094,Unveiling Fake Accounts at the Time of Registration: An Unsupervised Approach,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467095,Recommending the Most Effective Intervention to Improve Employment for Job Seekers with Disability,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467096,Value Function is All You Need: A Unified Learning Framework for Ride Hailing Platforms,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467097,Device-Cloud Collaborative Learning for Recommendation,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467098,Amazon SageMaker Automatic Model Tuning: Scalable Gradient-Free Optimization,KDD,2021,Applied Data Science,True,True,True,exclude | pending,2
+kdd2021-3467099,Bootstrapping Recommendations at Chrome Web Store,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467100,Categorization of Financial Transactions in QuickBooks,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467101,Embedding-based Product Retrieval in Taobao Search,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467102,Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467103,Neural Auction: End-to-End Learning of Auction Mechanisms for E-Commerce Advertising,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467104,Tac-Valuer: Knowledge-based Stroke Evaluation in Table Tennis,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467105,Reinforcing Pretrained Models for Generating Attractive Text Advertisements,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467106,Tolerating Data Missing in Breast Cancer Diagnosis from Clinical Ultrasound Reports via Knowledge Graph Inference,KDD,2021,Applied Data Science,True,False,True,include,6
+kdd2021-3467107,MeLL: Large-scale Extensible User Intent Classification for Dialogue Systems with Meta Lifelong Learning,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467108,Sliding Spectrum Decomposition for Diversified Recommendation,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467109,Addressing Non-Representative Surveys using Multiple Instance Learning,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467110,A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467111,Deep Inclusion Relation-aware Network for User Response Prediction at Fliggy,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467112,Record: Joint Real-Time Repositioning and Charging for Electric Carsharing with Dynamic Deadlines,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467113,MEOW: A Space-Efficient Nonparametric Bid Shading Algorithm,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467114,MoCha: Large-Scale Driving Pattern Characterization for Usage-based Insurance,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467115,Incorporating Prior Financial Domain Knowledge into Neural Networks for Implied Volatility Surface Prediction,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467116,Automated Testing of Graphics Units by Deep-Learning Detection of Visual Anomalies,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467118,Knowledge-Guided Efficient Representation Learning for Biomedical Domain,KDD,2021,Applied Data Science,True,False,True,include,6
+kdd2021-3467119,Clockwork: A Delay-Based Global Scheduling Framework for More Consistent Landing Times in the Data Warehouse,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467120,Unpaired Generative Molecule-to-Molecule Translation for Lead Optimization,KDD,2021,Applied Data Science,True,False,True,include,6
+kdd2021-3467121,Robust Object Detection Fusion Against Deception,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467122,Web-Scale Generic Object Detection at Microsoft Bing,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467123,,KDD,2021,,True,False,True,include,10
+kdd2021-3467124,Budget Allocation as a Multi-Agent System of Contextual & Continuous Bandits,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467125,Multi-Scale One-Class Recurrent Neural Networks for Discrete Event Sequence Anomaly Detection,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467126,VisualTextRank: Unsupervised Graph-based Content Extraction for Automating Ad Text to Image Search,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467127,Que2Search: Fast and Accurate Query and Document Understanding for Search at Facebook,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467128,KompaRe: A Knowledge Graph Comparative Reasoning System,KDD,2021,Applied Data Science,True,True,True,exclude | pending,2
+kdd2021-3467129,On Post-selection Inference in A/B Testing,KDD,2021,Applied Data Science,True,True,True,exclude | pending,2
+kdd2021-3467130,PD-Net: Quantitative Motor Function Evaluation for Parkinson's Disease via Automated Hand Gesture Analysis,KDD,2021,Applied Data Science,True,False,True,include,6
+kdd2021-3467131,Talent Demand Forecasting with Attentive Neural Sequential Model,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467132,Curriculum Meta-Learning for Next POI Recommendation,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467133,Architecture and Operation Adaptive Network for Online Recommendations,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467134,Analysis of Faces in a Decade of US Cable TV News,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467135,A Multi-Graph Attributed Reinforcement Learning based Optimization Algorithm for Large-scale Hybrid Flow Shop Scheduling Problem,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467136,Large-Scale Network Embedding in Apache Spark,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467137,Time Series Anomaly Detection for Cyber-physical Systems via Neural System Identification and Bayesian Filtering,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467138,MEDTO: Medical Data to Ontology Matching Using Hybrid Graph Neural Networks,KDD,2021,Applied Data Science,True,False,True,include,8
+kdd2021-3467139,FleetRec: Large-Scale Recommendation Inference on Hybrid GPU-FPGA Clusters,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467140,Dual Attentive Sequential Learning for Cross-Domain Click-Through Rate Prediction,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467141,Bipartite Dynamic Representations for Abuse Detection,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467142,Intention-aware Heterogeneous Graph Attention Networks for Fraud Transactions Detection,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467143,,KDD,2021,,True,False,True,include,25
+kdd2021-3467144,Medical Entity Relation Verification with Large-scale Machine Reading Comprehension,KDD,2021,Applied Data Science,True,False,True,include,6
+kdd2021-3467145,Adversarial Attacks on Deep Models for Financial Transaction Records,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467146,JIZHI: A Fast and Cost-Effective Model-As-A-Service System for Web-Scale Online Inference at Baidu,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467147,Pre-trained Language Model based Ranking in Baidu Search,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467148,An Experimental Study of Quantitative Evaluations on Saliency Methods,KDD,2021,Applied Data Science,True,True,True,exclude | pending,2
+kdd2021-3467149,Pre-trained Language Model for Web-scale Retrieval in Baidu Search,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467150,Would Your Tweet Invoke Hate on the Fly? Forecasting Hate Intensity of Reply Threads on Twitter,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467151,Leveraging Tripartite Interaction Information from Live Stream E-Commerce for Improving Product Recommendation,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467152,Theory meets Practice at the Median: A Worst Case Comparison of Relative Error Quantile Algorithms,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467153,Multimodal Emergent Fake News Detection via Meta Neural Process Networks,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467154,Counterfactual Graphs for Explainable Classification of Brain Networks,KDD,2021,Applied Data Science,True,False,True,include,6
+kdd2021-3467155,Deep Learning based Crop Row Detection with Online Domain Adaptation,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467156,Mondegreen: A Post-Processing Solution to Speech Recognition Error Correction for Voice Search Queries,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467157,,KDD,2021,,True,False,True,include,25
+kdd2021-3467158,Generating Mobility Trajectories with Retained Data Utility,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467159,A Framework for Modeling Cyber Attack Techniques from Security Vulnerability Descriptions,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467160,SizeFlags: Reducing Size and Fit Related Returns in Fashion E-Commerce,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467161,Causal and Interpretable Rules for Time Series Analysis,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467162,Dynamic Language Models for Continuously Evolving Content,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467163,"Improving Protein Function Annotation via Unsupervised Pre-training: Robustness, Efficiency, and Insights",KDD,2021,Applied Data Science,True,False,True,include,7
+kdd2021-3467164,PAM: Understanding Product Images in Cross Product Category Attribute Extraction,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467165,Contextual Bandit Applications in a Customer Support Bot,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467166,TimeSHAP: Explaining Recurrent Models through Sequence Perturbations,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467167,An Efficient Deep Distribution Network for Bid Shading in First-Price Auctions,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467168,Heterogeneous Temporal Graph Transformer: An Intelligent System for Evolving Android Malware Detection,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467169,AsySQN: Faster Vertical Federated Learning Algorithms with Better Computation Resource Utilization,KDD,2021,Applied Data Science,True,True,True,exclude | pending,2
+kdd2021-3467170,Representation Learning for Predicting Customer Orders,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467171,Dynamic Social Media Monitoring for Fast-Evolving Online Discussions,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467172,Lambda Learner: Fast Incremental Learning on Data Streams,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467173,Micro-climate Prediction - Multi Scale Encoder-decoder based Deep Learning Framework,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467174,Practical Approach to Asynchronous Multivariate Time Series Anomaly Detection and Localization,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467175,We Know What You Want: An Advertising Strategy Recommender System for Online Advertising,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467176,Adversarial Feature Translation for Multi-domain Recommendation,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467177,Amazon SageMaker Clarify: Machine Learning Bias Detection and Explainability in the Cloud,KDD,2021,Applied Data Science,True,True,True,exclude | pending,2
+kdd2021-3467178,User Consumption Intention Prediction in Meituan,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467179,Interactive Audience Expansion On Large Scale Online Visitor Data,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467180,Clustering for Private Interest-based Advertising,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467181,Hierarchical Reinforcement Learning for Scarce Medical Resource Allocation with Imperfect Information,KDD,2021,Applied Data Science,True,False,True,include,8
+kdd2021-3467182,Supporting COVID-19 Policy Response with Large-scale Mobility-based Modeling,KDD,2021,Applied Data Science,True,False,True,include,8
+kdd2021-3467184,A PLAN for Tackling the Locust Crisis in East Africa: Harnessing Spatiotemporal Deep Models for Locust Movement Forecasting,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467185,FLOP: Federated Learning on Medical Datasets using Partial Networks,KDD,2021,Applied Data Science,True,True,True,include | pending,29
+kdd2021-3467186,MoCL: Data-driven Molecular Fingerprint via Knowledge-aware Contrastive Learning from Molecular Graph,KDD,2021,Applied Data Science,True,True,True,include | pending,11
+kdd2021-3467187,MugRep: A Multi-Task Hierarchical Graph Representation Learning Framework for Real Estate Appraisal,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467188,Neural Instant Search for Music and Podcast,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467189,SEMI: A Sequential Multi-Modal Information Transfer Network for E-Commerce Micro-Video Recommendations,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467190,HALO: Hierarchy-aware Fault Localization for Cloud Systems,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467191,DMBGN: Deep Multi-Behavior Graph Networks for Voucher Redemption Rate Prediction,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467192,Towards the D-Optimal Online Experiment Design for Recommender Selection,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467193,Trustworthy and Powerful Online Marketplace Experimentation with Budget-split Design,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467194,A Bayesian Approach to In-Game Win Probability in Soccer,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467195,PAMI: A Computational Module for Joint Estimation and Progression Prediction of Glaucoma,KDD,2021,Applied Data Science,True,False,True,include,6
+kdd2021-3467196,Reinforced Iterative Knowledge Distillation for Cross-Lingual Named Entity Recognition,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467197,All Models Are Useful: Bayesian Ensembling for Robust High Resolution COVID-19 Forecasting,KDD,2021,Applied Data Science,True,False,True,include,6
+kdd2021-3467198,On Training Sample Memorization: Lessons from Benchmarking Generative Modeling with a Large-scale Competition,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467199,A Unified Solution to Constrained Bidding in Online Display Advertising,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467200,Semi-supervised Bearing Fault Diagnosis with Adversarially-Trained Phase-Consistent Network,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467201,Diet Planning with Machine Learning: Teacher-forced REINFORCE for Composition Compliance with Nutrition Enhancement,KDD,2021,Applied Data Science,True,False,True,include,27
+kdd2021-3467202,Diversity driven Query Rewriting in Search Advertising,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467203,"AliCoCo2: Commonsense Knowledge Extraction, Representation and Application in E-commerce",KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467204,Multi-Agent Cooperative Bidding Games for Multi-Objective Optimization in e-Commercial Sponsored Search,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467205,Purify and Generate: Learning Faithful Item-to-Item Graph from Noisy User-Item Interaction Behaviors,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467206,M6: Multi-Modality-to-Multi-Modality Multitask Mega-transformer for Unified Pretraining,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467207,Does Air Quality Really Impact COVID-19 Clinical Severity: Coupling NASA Satellite Datasets with Geometric Deep Learning,KDD,2021,Applied Data Science,True,False,True,include,6
+kdd2021-3467208,AutoLoss: Automated Loss Function Search in Recommendations,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467209,GEM: Translation-Free Zero-Shot Global Entity Matcher for Global Catalogs,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467210,When Homomorphic Encryption Marries Secret Sharing: Secure Large-Scale Sparse Logistic Regression and Applications in Risk Control,KDD,2021,Applied Data Science,True,True,True,exclude | pending,2
+kdd2021-3467211,EXACTA: Explainable Column Annotation,KDD,2021,Applied Data Science,True,False,True,exclude,1
+kdd2021-3467212,Interpretable Drug Response Prediction using a Knowledge-based Neural Network,KDD,2021,Applied Data Science,True,False,True,include,8
+kdd2021-3467213,What Do You See?: Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467214,Indirect Invisible Poisoning Attacks on Domain Adaptation,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467215,Domain-oriented Language Modeling with Adaptive Hybrid Masking and Optimal Transport Alignment,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467216,Retrieval & Interaction Machine for Tabular Data Prediction,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467217,Cluster-Reduce: Compressing Sketches for Distributed Data Streams,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467218,LawyerPAN: A Proficiency Assessment Network for Trial Lawyers,KDD,2021,Research,True,False,True,exclude,2
+kdd2021-3467219,Accelerating Set Intersections over Graphs by Reducing-Merging,KDD,2021,Research,True,False,True,pending,4
+kdd2021-3467220,Learning Elastic Embeddings for Customizing On-Device Recommenders,KDD,2021,Research,True,False,True,exclude,2
+kdd2021-3467221,ROD: Reception-aware Online Distillation for Sparse Graphs,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467222,Robust Learning by Self-Transition for Handling Noisy Labels,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467223,Towards Robust Prediction on Tail Labels,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467224,Learning to Recommend Visualizations from Data,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467225,Deep Clustering based Fair Outlier Detection,KDD,2021,Research,True,False,True,pending,4
+kdd2021-3467226,Probabilistic Label Tree for Streaming Multi-Label Learning,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467227,Contrastive Multi-View Multiplex Network Embedding with Applications to Robust Network Alignment,KDD,2021,Research,True,False,True,exclude | pending,2
+kdd2021-3467228,TabularNet: A Neural Network Architecture for Understanding Semantic Structures of Tabular Data,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467229,Maximizing Influence of Leaders in Social Networks,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467230,Zero-shot Node Classification with Decomposed Graph Prototype Network,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467231,MiniRocket: A Very Fast (Almost) Deterministic Transform for Time Series Classification,KDD,2021,Research,True,False,True,exclude,2
+kdd2021-3467232,Towards Computing a Near-Maximum Weighted Independent Set on Massive Graphs,KDD,2021,Research,True,False,True,pending,4
+kdd2021-3467233,Data Poisoning Attack against Recommender System Using Incomplete and Perturbed Data,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467234,PURE: Positive-Unlabeled Recommendation with Generative Adversarial Network,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467235,Meta Self-training for Few-shot Neural Sequence Labeling,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467236,TrajNet: A Trajectory-Based Deep Learning Model for Traffic Prediction,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467237,Learning Process-consistent Knowledge Tracing,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467238,MTrajRec: Map-Constrained Trajectory Recovery via Seq2Seq Multi-task Learning,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467239,Extremely Compact Non-local Representation Learning,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467240,MapEmbed: Perfect Hashing with High Load Factor and Fast Update,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467241,Triplet Attention: Rethinking the Similarity in Transformers,KDD,2021,Research,True,False,True,exclude | pending,2
+kdd2021-3467242,HMRL: Hyper-Meta Learning for Sparse Reward Reinforcement Learning Problem,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467243,Approximate Graph Propagation,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467244,"Quantifying Assimilate-Contrast Effects in Online Rating Systems: Modeling, Analysis and Application",KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467245,ProtoPShare: Prototypical Parts Sharing for Similarity Discovery in Interpretable Image Classification,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467246,Fruit-fly Inspired Neighborhood Encoding for Classification,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467247,Relational Message Passing for Knowledge Graph Completion,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467248,Dynamic Hawkes Processes for Discovering Time-evolving Communities' States behind Diffusion Processes,KDD,2021,Research,True,False,True,pending,4
+kdd2021-3467249,Deconfounded Recommendation for Alleviating Bias Amplification,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467250,Learning Interpretable Feature Context Effects in Discrete Choice,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467251,Towards Model-Agnostic Post-Hoc Adjustment for Balancing Ranking Fairness and Algorithm Utility,KDD,2021,Research,True,True,True,exclude | pending,3
+kdd2021-3467252,Energy-Efficient Models for High-Dimensional Spike Train Classification using Sparse Spiking Neural Networks,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467253,A Hyper-surface Arrangement Model of Ranking Distributions,KDD,2021,Research,True,False,True,pending,4
+kdd2021-3467254,FedRS: Federated Learning with Restricted Softmax for Label Distribution Non-IID Data,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467255,Dialogue Based Disease Screening Through Domain Customized Reinforcement Learning,KDD,2021,,True,False,True,include,6
+kdd2021-3467256,Scaling Up Graph Neural Networks Via Graph Coarsening,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467257,Graph Similarity Description: How Are These Graphs Similar?,KDD,2021,Research,True,False,True,pending,5
+kdd2021-3467258,Explaining Algorithmic Fairness Through Fairness-Aware Causal Path Decomposition,KDD,2021,Research,True,True,True,exclude | pending,4
+kdd2021-3467259,Partial Multi-Label Learning with Meta Disambiguation,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467260,Triangle-aware Spectral Sparsifiers and Community Detection,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467261,,KDD,2021,,True,False,True,include,14
+kdd2021-3467262,NAS-BERT: Task-Agnostic and Adaptive-Size BERT Compression with Neural Architecture Search,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467263,,KDD,2021,,True,False,True,include,25
+kdd2021-3467264,Modeling Context-aware Features for Cognitive Diagnosis in Student Learning,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467265,Leveraging Latent Features for Local Explanations,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467266,Individual Fairness for Graph Neural Networks: A Ranking based Approach,KDD,2021,Research,True,True,True,exclude | pending,3
+kdd2021-3467267,Large-Scale Subspace Clustering via k-Factorization,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467268,Removing Disparate Impact on Model Accuracy in Differentially Private Stochastic Gradient Descent,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467271,Pruning-Aware Merging for Efficient Multitask Inference,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467272,Context-aware Outstanding Fact Mining from Knowledge Graphs,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467273,Privacy-Preserving Representation Learning on Graphs: A Mutual Information Perspective,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467274,S-LIME: Stabilized-LIME for Model Explanation,KDD,2021,,True,True,True,include | pending,16
+kdd2021-3467275,Dynamic and Multi-faceted Spatio-temporal Deep Learning for Traffic Speed Forecasting,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467276,Tail-GNN: Tail-Node Graph Neural Networks,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467277,A Difficulty-Aware Framework for Churn Prediction and Intervention in Games,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467278,Probabilistic Gradient Boosting Machines for Large-Scale Probabilistic Regression,KDD,2021,Research,True,False,True,pending,4
+kdd2021-3467279,Table2Charts: Recommending Charts by Learning Shared Table Representations,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467280,Causal Models for Real Time Bidding with Repeated User Interactions,KDD,2021,Research,True,False,True,exclude,2
+kdd2021-3467281,Federated Adversarial Debiasing for Fair and Transferable Representations,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467282,Cross-Network Learning with Partially Aligned Graph Convolutional Networks,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467283,When Comparing to Ground Truth is Wrong: On Evaluating GNN Explanation Methods,KDD,2021,Research,True,False,True,pending,4
+kdd2021-3467284,Performance-Adaptive Sampling Strategy Towards Fast and Accurate Graph Neural Networks,KDD,2021,Research,True,False,True,pending,4
+kdd2021-3467285,Knowledge is Power: Hierarchical-Knowledge Embedded Meta-Learning for Visual Reasoning in Artistic Domains,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467286,Probabilistic and Dynamic Molecule-Disease Interaction Modeling for Drug Discovery,KDD,2021,Research,True,False,True,include,6
+kdd2021-3467287,A Stagewise Hyperparameter Scheduler to Improve Generalization,KDD,2021,Research,True,False,True,pending,4
+kdd2021-3467288,Temporal Biased Streaming Submodular Optimization,KDD,2021,Research,True,False,True,pending,4
+kdd2021-3467289,Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467290,Fast and Memory-Efficient Tucker Decomposition for Answering Diverse Time Range Queries,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467291,Enhancing SVMs with Problem Context Aware Pipeline,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467292,Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467293,Fast and Accurate Partial Fourier Transform for Time Series Data,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467294,A Novel Multi-View Clustering Method for Unknown Mapping Relationships Between Cross-View Samples,KDD,2021,Research,True,False,True,pending,4
+kdd2021-3467295,Certified Robustness of Graph Neural Networks against Adversarial Structural Perturbation,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467296,Learning Based Proximity Matrix Factorization for Node Embedding,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467297,Accurate Multivariate Stock Movement Prediction via Data-Axis Transformer with Multi-Level Contexts,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467298,Preference Amplification in Recommender Systems,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467299,Multi-facet Contextual Bandits: A Neural Network Perspective,KDD,2021,Research,True,True,True,exclude | pending,3
+kdd2021-3467300,A Broader Picture of Random-walk Based Graph Embedding,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467301,Weakly Supervised Spatial Deep Learning based on Imperfect Vector Labels with Registration Errors,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467302,Graph Infomax Adversarial Learning for Treatment Effect Estimation with Networked Observational Data,KDD,2021,Research,True,True,True,exclude | pending,3
+kdd2021-3467303,Multi-Objective Model-based Reinforcement Learning for Infectious Disease Control,KDD,2021,Research,True,False,True,include,25
+kdd2021-3467304,Learning to Embed Categorical Features without Embedding Tables for Recommendation,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467305,Learning from Imbalanced and Incomplete Supervision with Its Application to Ride-Sharing Liability Judgment,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467306,Labeled Data Generation with Inexact Supervision,KDD,2021,Research,True,False,True,exclude,2
+kdd2021-3467307,Why Attentions May Not Be Interpretable?,KDD,2021,Research,True,True,True,exclude | pending,3
+kdd2021-3467308,Enhancing Taxonomy Completion with Concept Generation via Fusing Relational Representations,KDD,2021,Research,True,True,True,exclude | pending,4
+kdd2021-3467309,Fed2: Feature-Aligned Federated Learning,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467310,Mutual Information Preserving Back-propagation: Learn to Invert for Faithful Attribution,KDD,2021,Research,True,True,True,exclude | pending,3
+kdd2021-3467311,,KDD,2021,,True,False,True,include,15
+kdd2021-3467312,DeGNN: Improving Graph Neural Networks with Graph Decomposition,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467313,Partial Label Dimensionality Reduction via Confidence-Based Dependence Maximization,KDD,2021,Research,True,False,True,pending,5
+kdd2021-3467314,TDGIA: Effective Injection Attacks on Graph Neural Networks,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467315,Reinforced Anchor Knowledge Graph Generation for News Recommendation Reasoning,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467316,Dip-based Deep Embedded Clustering with k-Estimation,KDD,2021,Research,True,False,True,exclude | pending,2
+kdd2021-3467317,Deep Learning Embeddings for Data Series Similarity Search,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467318,Multiple-Instance Learning from Similar and Dissimilar Bags,KDD,2021,Research,True,False,True,pending,4
+kdd2021-3467319,Topology Distillation for Recommender System,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467320,ELITE: Robust Deep Anomaly Detection with Meta Gradient,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467321,Causal Understanding of Fake News Dissemination on Social Media,KDD,2021,Research,True,False,True,exclude,2
+kdd2021-3467322,Alphacore: Data Depth based Core Decomposition,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467323,Geometric Graph Representation Learning on Protein Structure Prediction,KDD,2021,Research,True,False,True,include,6
+kdd2021-3467324,Environment Agnostic Invariant Risk Minimization for Classification of Sequential Datasets,KDD,2021,Research,True,False,True,exclude | pending,2
+kdd2021-3467325,Quantifying Uncertainty in Deep Spatiotemporal Forecasting,KDD,2021,Research,True,False,True,exclude,1
+kdd2021-3467326,Understanding and Improving Fairness-Accuracy Trade-offs in Multi-Task Learning,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467327,Gaussian Process with Graph Convolutional Kernel for Relational Learning,KDD,2021,Research,True,False,True,pending,4
+kdd2021-3467328,H2MN: Graph Similarity Learning with Hierarchical Hypergraph Matching Networks,KDD,2021,Research,True,False,True,exclude | pending,2
+kdd2021-3467329,Multi-Task Learning via Generalized Tensor Trace Norm,KDD,2021,Research,True,True,True,pending,5
+kdd2021-3467330,ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting,KDD,2021,Research,True,True,True,exclude | pending,3
+kdd2021-3467331,Balancing Consistency and Disparity in Network Alignment,KDD,2021,Research,True,False,True,exclude | pending,2
+kdd2021-3467332,Unsupervised Graph Alignment with Wasserstein Distance Discriminator,KDD,2021,Research,True,False,True,pending,4
+kdd2021-3467333,Model-Based Counterfactual Synthesizer for Interpretation,KDD,2021,Research,True,True,True,exclude | pending,2
+kdd2021-3467334,ImGAGN: Imbalanced Network Embedding via Generative Adversarial Graph Networks,KDD,2021,Research,True,True,True,exclude | pending,2

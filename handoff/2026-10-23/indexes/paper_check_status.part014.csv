@@ -1,0 +1,1279 @@
+canonical_id,title,venue,year,track,explicit_complete_abstract,focused_body_evidence,scientific_decision_recorded,decisions,event_count
+ijcai2023-664,CGS: Coupled Growth and Survival Model with Cohort Fairness,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-665,Decoding the Underlying Meaning of Multimodal Hateful Memes,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-666,Computationally Assisted Quality Control for Public Health Data Streams,IJCAI,2023,AI for Good,True,False,True,include,7
+ijcai2023-667,"For Women, Life, Freedom: A Participatory AI-Based Social Web Analysis of a Watershed Moment in Iran's Gender Struggles",IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-668,Building a Personalized Messaging System for Health Intervention in Underprivileged Regions Using Reinforcement Learning,IJCAI,2023,AI for Good,True,False,True,include,7
+ijcai2023-669,Unified Model for Crystalline Material Generation,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-67,CostFormer:Cost Transformer for Cost Aggregation in Multi-view Stereo,IJCAI,2023,Main,True,True,True,exclude,3
+ijcai2023-670,Machine Learning Driven Aid Classification for Sustainable Development,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-671,Confidence-based Self-Corrective Learning: An Application in Height Estimation Using Satellite LiDAR and Imagery,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-672,DenseLight: Efficient Control for Large-scale Traffic Signals with Dense Feedback,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-673,SUSTAINABLESIGNALS: An AI Approach for Inferring Consumer Product Sustainability,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-674,Interpret ESG Rating’s Impact on the Industrial Chain Using Graph Neural Networks,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-675,Preventing Attacks in Interbank Credit Rating with Selective-aware Graph Neural Network,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-676,Customized Positional Encoding to Combine Static and Time-varying Data in Robust Representation Learning for Crop Yield Prediction,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-677,GreenFlow: A Computation Allocation Framework for Building Environmentally Sound Recommendation System,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-678,Coupled Point Process-based Sequence Modeling for Privacy-preserving Network Alignment,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-679,Group Sparse Optimal Transport for Sparse Process Flexibility Design,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-68,Self-Supervised Neuron Segmentation with Multi-Agent Reinforcement Learning,IJCAI,2023,Main,True,True,True,include,17
+ijcai2023-680,A Prediction-and-Scheduling Framework for Efficient Order Transfer in Logistics,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-681,Fighting against Organized Fraudsters Using Risk Diffusion-based Parallel Graph Neural Network,IJCAI,2023,AI for Good,True,False,True,include,7
+ijcai2023-682,Planning Multiple Epidemic Interventions with Reinforcement Learning,IJCAI,2023,AI for Good,True,False,True,include,6
+ijcai2023-683,Temporally Aligning Long Audio Interviews with Questions: A Case Study in Multimodal Data Integration,IJCAI,2023,AI for Good,True,False,True,include,6
+ijcai2023-684,Time Series of Satellite Imagery Improve Deep Learning Estimates of Neighborhood-Level Poverty in Africa,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-685,"Balancing Social Impact, Opportunities, and Ethical Constraints of Using AI in the Documentation and Vitalization of Indigenous Languages",IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-686,PARTNER: A Persuasive Mental Health and Legal Counselling Dialogue System for Women and Children Crime Victims,IJCAI,2023,AI for Good,True,False,True,include,6
+ijcai2023-687,AudioQR: Deep Neural Audio Watermarks For QR Code,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-688,Function Approximation for Reinforcement Learning Controller for Energy from Spread Waves,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-689,Promoting Gender Equality through Gender-biased Language Analysis in Social Media,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-69,Null-Space Diffusion Sampling for Zero-Shot Point Cloud Completion,IJCAI,2023,Main,True,True,True,exclude,3
+ijcai2023-690,Leveraging Domain Knowledge for Inclusive and Bias-aware Humanitarian Response Entry Classification,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-691,Optimizing Crop Management with Reinforcement Learning and Imitation Learning,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-692,Keeping People Active and Healthy at Home Using a Reinforcement Learning-based Fitness Recommendation Framework,IJCAI,2023,AI for Good,True,False,True,include,6
+ijcai2023-693,Intensity-Valued Emotions Help Stance Detection of Climate Change Twitter Data,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-694,Evaluating GPT-3 Generated Explanations for Hateful Content Moderation,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-695,Full Scaling Automation for Sustainable Development of Green Data Centers,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-696,A Quantitative Game-theoretical Study on Externalities of Long-lasting Humanitarian Relief Operations in Conflict Areas,IJCAI,2023,AI for Good,True,False,True,include,6
+ijcai2023-697,Quality-agnostic Image Captioning to Safely Assist People with Vision Impairment,IJCAI,2023,AI for Good,True,False,True,pending,1
+ijcai2023-698,GreenPLM: Cross-Lingual Transfer of Monolingual Pre-Trained Language Models at Almost No Cost,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-699,Mimicking the Thinking Process for Emotion Recognition in Conversation with Prompts and Paraphrasing,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-7,Explainable Multi-Agent Reinforcement Learning for Temporal Queries,IJCAI,2023,,True,True,True,exclude,3
+ijcai2023-70,Robust Image Ordinal Regression with Controllable Image Generation,IJCAI,2023,Main,True,True,True,exclude,3
+ijcai2023-700,Long-term Wind Power Forecasting with Hierarchical Spatial-Temporal Transformer,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-701,On Optimizing Model Generality in AI-based Disaster Damage Assessment: A Subjective Logic-driven Crowd-AI Hybrid Learning Approach,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-702,User-Centric Democratization towards Social Value Aligned Medical AI Services,IJCAI,2023,AI for Good,True,False,True,include,9
+ijcai2023-703,Optimization-driven Demand Prediction Framework for Suburban Dynamic Demand-Responsive Transport Systems,IJCAI,2023,AI for Good,True,False,True,exclude,1
+ijcai2023-704,Long-term Monitoring of Bird Flocks in the Wild,IJCAI,2023,AI for Good - Projects,True,False,True,exclude,1
+ijcai2023-705,On AI-Assisted Pneumoconiosis Detection from Chest X-rays,IJCAI,2023,AI for Good - Projects,True,False,True,include,11
+ijcai2023-706,AI-Assisted Tool for Early Diagnosis and Prevention of Colorectal Cancer in Africa,IJCAI,2023,AI for Good - Projects,True,False,True,include,9
+ijcai2023-707,AI and Decision Support for Sustainable Socio-Ecosystems,IJCAI,2023,AI for Good - Projects,True,False,True,exclude,1
+ijcai2023-708,NutriAI: AI-Powered Child Malnutrition Assessment in Low-Resource Environments,IJCAI,2023,AI for Good - Projects,True,False,True,include,11
+ijcai2023-709,Learning and Reasoning Multifaceted and Longitudinal Data for Poverty Estimates and Livelihood Capabilities of Lagged Regions in Rural India,IJCAI,2023,AI for Good - Projects,True,False,True,exclude,1
+ijcai2023-71,WiCo: Win-win Cooperation of Bottom-up and Top-down Referring Image Segmentation,IJCAI,2023,Main,True,True,True,exclude,3
+ijcai2023-710,AI-Driven Sign Language Interpretation for Nigerian Children at Home,IJCAI,2023,AI for Good - Projects,True,False,True,pending,1
+ijcai2023-711,Interactive Machine Learning Solutions for Acoustic Monitoring of Animal Wildlife in Biosphere Reserves,IJCAI,2023,AI for Good - Projects,True,False,True,exclude,1
+ijcai2023-72,Strip Attention for Image Restoration,IJCAI,2023,Main,True,True,True,exclude,3
+ijcai2023-73,RZCR: Zero-shot Character Recognition via Radical-based Reasoning,IJCAI,2023,Main,True,False,True,exclude,3
+ijcai2023-74,Decoupling with Entropy-based Equalization for Semi-Supervised Semantic Segmentation,IJCAI,2023,Main,True,False,True,exclude,3
+ijcai2023-75,ICDA: Illumination-Coupled Domain Adaptation Framework for Unsupervised Nighttime Semantic Segmentation,IJCAI,2023,Main,True,False,True,exclude,3
+ijcai2023-76,DFVSR: Directional Frequency Video Super-Resolution via Asymmetric and Enhancement Alignment Network,IJCAI,2023,Main,True,True,True,exclude,3
+ijcai2023-77,Timestamp-Supervised Action Segmentation from the Perspective of Clustering,IJCAI,2023,Main,True,True,True,exclude,3
+ijcai2023-78,LION: Label Disambiguation for Semi-supervised Facial Expression Recognition with Progressive Negative Learning,IJCAI,2023,Main,True,True,True,exclude,3
+ijcai2023-79,Improve Video Representation with Temporal Adversarial Augmentation,IJCAI,2023,Main,True,False,True,exclude,3
+ijcai2023-8,,IJCAI,2023,,True,True,True,include,13
+ijcai2023-80,RFENet: Towards Reciprocal Feature Evolution for Glass Segmentation,IJCAI,2023,Main,True,False,True,exclude,3
+ijcai2023-81,Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion,IJCAI,2023,Main,True,True,True,exclude,3
+ijcai2023-82,Sub-Band Based Attention for Robust Polyp Segmentation,IJCAI,2023,Main,True,True,True,include,17
+ijcai2023-83,Incorporating Unlikely Negative Cues for Distinctive Image Captioning,IJCAI,2023,Main,True,False,True,exclude,3
+ijcai2023-84,BPNet: Bézier Primitive Segmentation on 3D Point Clouds,IJCAI,2023,Main,True,False,True,exclude,3
+ijcai2023-847,Rubik's Optical Neural Networks: Multi-task Learning with Physics-aware Rotation Architecture,IJCAI,2023,,True,False,False,,2
+ijcai2023-848,Imbalanced Node Classification Beyond Homophilic Assumption,IJCAI,2023,,True,False,False,,2
+ijcai2023-849,Dual Prompt Learning for Continual Rain Removal from Single Images,IJCAI,2023,,True,False,False,,2
+ijcai2023-85,Contrastive Learning for Sign Language Recognition and Translation,IJCAI,2023,Main,True,True,True,exclude,3
+ijcai2023-850,Multi-objective Search via Lazy and Efficient Dominance Checks,IJCAI,2023,,True,False,False,,2
+ijcai2023-86,LISSNAS: Locality-based Iterative Search Space Shrinkage for Neural Architecture Search,IJCAI,2023,Main,True,False,True,exclude,3
+ijcai2023-87,Towards Robust Scene Text Image Super-resolution via Explicit Location Enhancement,IJCAI,2023,Main,True,False,True,exclude,3
+ijcai2023-88,Joint-MAE: 2D-3D Joint Masked Autoencoders for 3D Point Cloud Pre-training,IJCAI,2023,Main,True,False,True,exclude,3
+ijcai2023-89,SS-BSN: Attentive Blind-Spot Network for Self-Supervised Denoising with Nonlocal Self-Similarity,IJCAI,2023,Main,True,False,True,exclude,3
+ijcai2023-9,Anticipatory Fictitious Play,IJCAI,2023,,True,False,True,exclude,3
+ijcai2023-90,DAMO-StreamNet: Optimizing Streaming Perception in Autonomous Driving,IJCAI,2023,Main,True,False,True,exclude,3
+ijcai2023-91,Independent Feature Decomposition and Instance Alignment for Unsupervised Domain Adaptation,IJCAI,2023,Main,True,True,True,exclude,3
+ijcai2023-92,MILD: Modeling the Instance Learning Dynamics for Learning with Noisy Labels,IJCAI,2023,Main,True,False,True,exclude,3
+ijcai2023-93,Diagram Visual Grounding: Learning to See with Gestalt-Perceptual Attention,IJCAI,2023,Main,True,False,True,exclude,3
+ijcai2023-94,Dual Video Summarization: From Frames to Captions,IJCAI,2023,Main,True,False,True,exclude,3
+ijcai2023-95,Part Aware Contrastive Learning for Self-Supervised Action Recognition,IJCAI,2023,Main,True,False,True,exclude,3
+ijcai2023-96,Orion: Online Backdoor Sample Detection via Evolution Deviance,IJCAI,2023,Main,True,True,True,exclude,3
+ijcai2023-97,Discovering Sounding Objects by Audio Queries for Audio Visual Segmentation,IJCAI,2023,Main,True,False,True,exclude,3
+ijcai2023-98,Semi-supervised Domain Adaptation via Prototype-based Multi-level Learning,IJCAI,2023,Main,True,False,True,exclude,3
+ijcai2023-99,Enriching Phrases with Coupled Pixel and Object Contexts for Panoptic Narrative Grounding,IJCAI,2023,Main,True,False,True,exclude,3
+ijcai2024-1,Certified Policy Verification and Synthesis for MDPs under Distributional Reach-Avoidance Properties,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-10,CompetEvo: Towards Morphological Evolution from Competition,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-100,Dual Enhancement in ODI Super-Resolution: Adapting Convolution and Upsampling to Projection Distortion,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-101,Revealing the Two Sides of Data Augmentation: An Asymmetric Distillation-based Win-Win Solution for Open-Set Recognition,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-102,M2Beats: When Motion Meets Beats in Short-form Videos,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-103,LeMeViT: Efficient Vision Transformer with Learnable Meta Tokens for Remote Sensing Image Interpretation,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-104,Scene-Adaptive Person Search via Bilateral Modulations,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-105,TFLOP: Table Structure Recognition Framework with Layout Pointer Mechanism,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-106,IntensPure: Attack Intensity-aware Secondary Domain Adaptive Diffusion for Adversarial Purification,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-107,Bridging Stereo Geometry and BEV Representation with Reliable Mutual Interaction for Semantic Scene Completion,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-108,A Coarse-to-Fine Fusion Network for Event-Based Image Deblurring,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-109,Invertible Residual Rescaling Models,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-11,X-Light: Cross-City Traffic Signal Control Using Transformer on Transformer as Meta Multi-Agent Reinforcement Learner,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-110,Boundary-aware Decoupled Flow Networks for Realistic Extreme Rescaling,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-111,Probabilistic Contrastive Learning for Domain Adaptation,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-112,OTOcc: Optimal Transport for Occupancy Prediction,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-113,DenseKoopman: A Plug-and-Play Framework for Dense Pedestrian Trajectory Prediction,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-114,Revitalizing Real Image Deraining via a Generic Paradigm towards Multiple Rainy Patterns,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-115,WSRFNet: Wavelet-Based Scale-Specific Recurrent Feedback Network for Diabetic Retinopathy Lesion Segmentation,IJCAI,2024,Main Track,True,False,True,INCLUDE,5
+ijcai2024-116,Cross-modal Generation and Alignment via Attribute-guided Prompt for Unsupervised Text-based Person Retrieval,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-117,Advancing Medical Image Segmentation via Self-supervised Instance-adaptive Prototype Learning,IJCAI,2024,Main,True,True,False,,7
+ijcai2024-118,GUIDE: A Guideline-Guided Dataset for Instructional Video Comprehension,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-119,Efficient Event Stream Super-Resolution with Recursive Multi-Branch Fusion,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-12,Formal Verification of Parameterised Neural-symbolic Multi-agent Systems,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-120,MCM: Multi-condition Motion Synthesis Framework,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-121,Enhancing Boundary Segmentation for Topological Accuracy with Skeleton-based Methods,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-122,Accelerating Diffusion Models for Inverse Problems through Shortcut Sampling,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-123,"Where Elegance Meets Precision: Towards a Compact, Automatic, and Flexible Framework for Multi-modality Image Fusion and Applications",IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-124,DCDet: Dynamic Cross-based 3D Object Detector,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-125,DifTraj: Diffusion Inspired by Intrinsic Intention and Extrinsic Interaction for Multi-Modal Trajectory Prediction,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-126,Advancing Generalized Transfer Attack with Initialization Derived Bilevel Optimization and Dynamic Sequence Truncation,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-127,Cross-Domain Feature Augmentation for Domain Generalization,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-128,C3L: Content Correlated Vision-Language Instruction Tuning Data Generation via Contrastive Learning,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-129,,IJCAI,2024,,True,True,False,,9
+ijcai2024-13,"To Promote Full Cooperation in Social Dilemmas, Agents Need to Unlearn Loyalty",IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-130,FastScene: Text-Driven Fast Indoor 3D Scene Generation via Panoramic Gaussian Splatting,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-131,ESP-PCT: Enhanced VR Semantic Performance through Efficient Compression of Temporal and Spatial Redundancies in Point Cloud Transformers,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-132,SEMv3: A Fast and Robust Approach to Table Separation Line Detection,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-133,EvaNet: Elevation-Guided Flood Extent Mapping on Earth Imagery,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-134,Efficient Screen Content Image Compression via Superpixel-based Content Aggregation and Dynamic Feature Fusion,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-135,Contrastive Transformer Masked Image Hashing for Degraded Image Retrieval,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-136,Contrastive Transformer Cross-Modal Hashing for Video-Text Retrieval,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-137,Conflict-Alleviated Gradient Descent for Adaptive Object Detection,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-138,Motion-Aware Heatmap Regression for Human Pose Estimation in Videos,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-139,Learning a Spiking Neural Network for Efficient Image Deraining,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-14,STAR: Spatio-Temporal State Compression for Multi-Agent Tasks with Rich Observations,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-140,SPGNet: A Shape-prior Guided Network for Medical Image Segmentation,IJCAI,2024,Main Track,True,False,True,INCLUDE,5
+ijcai2024-141,RoboFusion: Towards Robust Multi-Modal 3D Object Detection via SAM,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-142,A Consistency and Integration Model with Adaptive Thresholds for Weakly Supervised Object Localization,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-143,CLR-Face: Conditional Latent Refinement for Blind Face Restoration Using Score-Based Diffusion Models,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-144,FineFMPL: Fine-grained Feature Mining Prompt Learning for Few-Shot Class Incremental Learning,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-145,Who Looks like Me: Semantic Routed Image Harmonization,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-146,Dynamic Brightness Adaptation for Robust Multi-modal Image Fusion,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-147,Multi-Granularity Graph-Convolution-Based Method for Weakly Supervised Person Search,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-148,Expressiveness is Effectiveness: Self-supervised Fashion-aware CLIP for Video-to-Shop Retrieval,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-149,Image Retrieval with Self-Supervised Divergence Minimization and Cross-Attention Classification,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-15,MuEP: A Multimodal Benchmark for Embodied Planning with Foundation Models,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-150,OSIC: A New One-Stage Image Captioner Coined,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-151,FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-152,Explore Internal and External Similarity for Single Image Deraining with Graph Neural Networks,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-153,Error-aware Sampling in Adaptive Shells for Neural Surface Reconstruction,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-154,How to Learn Domain-Invariant Representations for Visual Reinforcement Learning: An Information-Theoretical Perspective,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-155,Label-efficient Semantic Scene Completion with Scribble Annotations,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-156,Optimal Graph Learning and Nuclear Norm Maximization for Deep Cross-Domain Robust Label Propagation,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-157,Boosting Diffusion Models with an Adaptive Momentum Sampler,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-158,Structure-Aware Spatial-Temporal Interaction Network for Video Shadow Detection,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-159,PointTFA: Training-Free Clustering Adaption for Large  3D Point Cloud Models,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-16,Self-adaptive PSRO: Towards an Automatic Population-based Game Solver,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-160,OD-DETR: Online Distillation for Stabilizing Training of Detection Transformer,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-161,ELF-UA: Efficient Label-Free User Adaptation in Gaze Estimation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-162,KTCN: Enhancing Open-World Object Detection with Knowledge Transfer and Class-Awareness Neutralization,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-163,Unified Single-Stage Transformer Network for Efficient RGB-T Tracking,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-164,Aggregation and Purification: Dual Enhancement Network for Point Cloud Few-shot Segmentation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-165,Beyond Alignment: Blind Video Face Restoration via Parsing-Guided Temporal-Coherent Transformer,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-166,Negative Prompt Driven Complementary Parallel Representation for Open-World 3D Object Retrieval,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-167,Learning Spatial Similarity Distribution for Few-shot Object Counting,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-168,ProtoPFormer: Concentrating on Prototypical Parts in Vision Transformers for Interpretable Image Recognition,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-169,DFMDA-Net: Dense Fusion and Multi-dimension Aggregation Network for Image Restoration,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-17,A Meta-Game Evaluation Framework for Deep Multiagent Reinforcement Learning,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-170,DTS-TPT: Dual Temporal-Sync Test-time Prompt Tuning for Zero-shot Activity Recognition,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-171,Reschedule Diffusion-based Bokeh Rendering,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-172,3D Vision and Language Pretraining with Large-Scale Synthetic Data,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-173,Self-Supervised Monocular Depth Estimation in the Dark: Towards Data Distribution Compensation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-174,Fusion from a Distributional Perspective: A Unified Symbiotic Diffusion Framework for Any Multisource Remote Sensing Data Classification,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-175,DiffStega: Towards Universal Training-Free Coverless Image Steganography with Diffusion Models,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-176,1DFormer: A Transformer Architecture Learning 1D Landmark Representations for Facial Landmark Tracking,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-177,Spear: Evaluate the Adversarial Robustness of Compressed Neural Models,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-178,Hundredfold Accelerating for Pathological Images Diagnosis and Prognosis through Self-reform Critical Region Focusing,IJCAI,2024,Main Track,False,False,False,,4
+ijcai2024-179,Unified Unsupervised Salient Object Detection via Knowledge Transfer,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-18,Fraud Risk Mitigation in Real-Time Payments: A Strategic Agent-Based Analysis,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-180,CIC: A Framework for Culturally-Aware Image Captioning,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-181,MARS: Multimodal Active Robotic Sensing for Articulated Characterization,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-182,Towards Dynamic-Prompting Collaboration for Source-Free Domain Adaptation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-183,Diffusion Mask-Driven Visual-language Tracking,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-184,AK4Prompts: Aesthetics-driven Automatically Keywords-Ranking for Prompts in Text-To-Image Models,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-185,Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness in the Physical World,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-186,DANCE: Dual-View Distribution Alignment for Dataset Condensation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-187,Shap-Mix: Shapley Value Guided Mixing for Long-Tailed Skeleton Based Action Recognition,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-188,Sparse Multi-Relational Graph Convolutional Network for Multi-type Object Trajectory Prediction,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-189,3DBench: A Scalable 3D Benchmark and Instruction-Tuning Dataset,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-19,Diversifying Training Pool Predictability for Zero-shot Coordination: A Theory of Mind Approach,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-190,A Fourier Perspective of Feature Extraction and Adversarial Robustness,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-191,Continual Compositional Zero-Shot Learning,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-192,GenSeg: On Generating Unified Adversary for Segmentation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-193,ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-194,Multi-Attention Based Visual-Semantic Interaction for Few-Shot Learning,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-195,Focus on the Whole Character: Discriminative Character Modeling for Scene Text Recognition,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-196,CoFInAl: Enhancing Action Quality Assessment with Coarse-to-Fine Instruction Alignment,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-197,Zero-Shot Sketch Based Image Retrieval via Modality Capacity Guidance,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-198,Zero-shot High-fidelity and Pose-controllable Character Animation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-199,MISA: MIning Saliency-Aware Semantic Prior for Box Supervised Instance Segmentation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-2,"Truth Table Net: Scalable, Compact & Verifiable Neural Networks with a Dual Convolutional Small Boolean Circuit Networks Form",IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-20,Individual Fairness under Group Fairness Constraints in Bipartite Matching - One Framework to Approximate Them All,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-200,Class-consistent Contrastive Learning Driven Cross-dimensional Transformer for 3D Medical Image Classification,IJCAI,2024,Main Track,False,False,False,,4
+ijcai2024-201,ABM: Attention before Manipulation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-202,SceneDiff: Generative Scene-Level Image Retrieval with Text and Sketch Using Diffusion Models,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-203,CLIP-FSAC: Boosting CLIP for Few-Shot Anomaly Classification with Synthetic Anomalies,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-204,Markov Constraint as Large Language Model Surrogate,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-205,A Top-Down Tree Model Counter for Quantified Boolean Formulas,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-206,Knowledge Compilation for Incremental and Checkable Stochastic Boolean Satisfiability,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-207,Efficient Cost-Minimization Schemes for Electrical Energy Demand Satisfaction by Prosumers in Microgrids with Battery Storage Capabilities,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-208,Optimal Extended Formulations from Optimal Dynamic Programming Algorithms,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-209,Solving Quantified Boolean Formulas with Few Existential Variables,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-21,Safety Constrained Multi-Agent Reinforcement Learning for Active Voltage Control,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-210,A SAT Solver + Computer Algebra Attack on the Minimum Kochen–Specker Problem,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-211,Layered and Staged Monte Carlo Tree Search for SMT Strategy Synthesis,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-212,Using Large Language Models to Improve Query-based Constraint Acquisition,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-213,Bridging the Gap between General and Down-Closed Convex Sets in Submodular Maximization,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-214,A Fast Algorithm for MaxSAT above Half Number of Clauses,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-215,Enhancing Scalability of Metric Differential Privacy via Secret Dataset Partitioning and Benders Decomposition,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-216,Convexity Certificates for Symbolic Tensor Expressions,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-217,Improved Parallel Algorithm for Non-Monotone Submodular Maximization under Knapsack Constraint,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-218,A Neural Column Generation Approach to the Vehicle Routing Problem with Two-Dimensional Loading and Last-In-First-Out Constraints,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-219,A Multi-Valued Decision Diagram-Based Approach to Constrained Optimal Path Problems over Directed Acyclic Graphs,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-22,Enhancing Cooperation through Selective Interaction and Long-term Experiences in Multi-Agent Reinforcement Learning,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-220,Rethinking the Soft Conflict Pseudo Boolean Constraint on MaxSAT Local Search Solvers,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-221,Automatic De-Biased Temporal-Relational Modeling for Stock Investment Recommendation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-222,Pre-DyGAE: Pre-training Enhanced Dynamic Graph Autoencoder for Occupational Skill Demand Forecasting,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-223,Multi-Modality Spatio-Temporal Forecasting via Self-Supervised Learning,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-224,DGR: A General Graph Desmoothing Framework for Recommendation via Global and Local Perspectives,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-225,Real-World Networks Are Low-Dimensional: Theoretical and Practical Assessment,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-226,Class-Specific Semantic Generation and Reconstruction Learning for Open Set Recognition,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-227,SVD-AE: Simple Autoencoders for Collaborative Filtering,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-228,Reconstructing Missing Variables for Multivariate Time Series Forecasting via Conditional Generative Flows,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-229,Exploring the Role of Node Diversity in Directed Graph Representation Learning,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-23,Langshaw: Declarative Interaction Protocols Based on Sayso and Conflict,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-230,Multiplex Graph Representation Learning via Bi-level Optimization,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-231,Learning Hierarchy-Enhanced POI Category Representations Using Disentangled Mobility Sequences,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-232,Hierarchical Reinforcement Learning on Multi-Channel Hypergraph Neural Network for Course Recommendation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-233,PHSIC against Random Consistency and Its Application in Causal Inference,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-234,,IJCAI,2024,,True,True,False,,9
+ijcai2024-235,,IJCAI,2024,,True,True,False,,9
+ijcai2024-236,LLM-based Multi-Level Knowledge Generation for Few-shot Knowledge Graph Completion,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-237,Rethinking the Effectiveness of Graph Classification Datasets in Benchmarks for Assessing GNNs,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-238,Enhancing Dual-Target Cross-Domain Recommendation with Federated Privacy-Preserving Learning,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-239,Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-24,Fostering Collective Action in Complex Societies Using Community-Based Agents,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-240,Gradformer: Graph Transformer with Exponential Decay,IJCAI,2024,Main Track,False,False,True,hold,2
+ijcai2024-241,Where to Mask: Structure-Guided Masking for Graph Masked Autoencoders,IJCAI,2024,Main Track,False,False,True,hold,2
+ijcai2024-242,Encoding Auxiliary Information to Restore Compressed Point Cloud Geometry,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-243,Fast and Continual Knowledge Graph Embedding via Incremental LoRA,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-244,KDDC: Knowledge-Driven Disentangled Causal Metric Learning for Pre-Travel Out-of-Town Recommendation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-245,Full Bayesian Significance Testing for Neural Networks in Traffic Forecasting,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-246,Graph Contrastive Learning with Reinforcement Augmentation,IJCAI,2024,Main Track,False,False,True,hold,2
+ijcai2024-247,Heterogeneous Graph Transformer with Poly-Tokenization,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-248,Towards Robust Trajectory Representations: Isolating Environmental Confounders with Causal Learning,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-249,Massively Parallel Single-Source SimRanks in O(log N) Rounds,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-25,Learning Fair Cooperation in Mixed-Motive Games with Indirect Reciprocity,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-250,DGCD: An Adaptive Denoising GNN for Group-level Cognitive Diagnosis,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-251,SeeDRec: Sememe-based Diffusion for Sequential Recommendation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-252,Multi-Modal Sarcasm Detection Based on Dual Generative Processes,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-253,Graph Collaborative Expert Finding with Contrastive Learning,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-254,Seed Selection in the Heterogeneous Moran Process,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-255,Counterfactual User Sequence Synthesis Augmented with Continuous Time Dynamic Preference Modeling for Sequential POI Recommendation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-256,Multi-Relational Graph Attention Network for Social Relationship Inference from Human Mobility Data,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-257,Towards Dynamic Trend Filtering through Trend Point Detection with Reinforcement Learning,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-258,Learning Multi-Granularity and Adaptive Representation for Knowledge Graph Reasoning,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-259,Unsupervised Deep Graph Structure and Embedding Learning,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-26,Cooperation and Control in Delegation Games,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-260,Efficient Correlated Subgraph Searches for AI-powered Drug Discovery,IJCAI,2024,Main Track,False,False,False,,4
+ijcai2024-261,Anomaly Subgraph Detection through High-Order Sampling Contrastive Learning,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-262,SemanticMask: A Contrastive View Design for Anomaly Detection in Tabular Data,IJCAI,2024,Main Track,False,False,False,,4
+ijcai2024-263,Instance-Level Metalearning for Outlier Detection,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-264,Make Bricks with a Little Straw: Large-Scale Spatio-Temporal Graph Learning with Restricted GPU-Memory Capacity,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-265,HeterGCL: Graph Contrastive Learning Framework on Heterophilic Graph,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-266,FlagVNE: A Flexible and Generalizable Reinforcement Learning Framework for Network Resource Allocation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-267,Spatial-Temporal Perceiving: Deciphering User Hierarchical Intent in Session-Based Recommendation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-268,Joint Source Localization in Different Platforms via Implicit Propagation Characteristics of Similar Topics,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-269,WeatherGNN: Exploiting Meteo- and Spatial-Dependencies for Local Numerical Weather Prediction Bias-Correction,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-27,Faster Optimal Coalition Structure Generation via Offline Coalition Selection and Graph-Based Search,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-270,Unsupervised Anomaly Detection via Masked Diffusion Posterior Sampling,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-271,Robust Heterophilic Graph Learning against Label Noise for Anomaly Detection,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-272,Hierarchical Reinforcement Learning for Point of Interest Recommendation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-273,Learning Fair Representations for Recommendation via Information Bottleneck Principle,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-274,Graph Attention Network with High-Order Neighbor Information Propagation for Social Recommendation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-275,Decoupled Invariant Attention Network for Multivariate Time-series Forecasting,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-276,Joint Domain Adaptive Graph Convolutional Network,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-277,Kernel Readout for Graph Neural Networks,IJCAI,2024,Main Track,False,False,False,,4
+ijcai2024-278,LG-GNN: Local-Global Adaptive Graph Neural Network for Modeling Both Homophily and Heterophily,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-279,Sub-Adjacent Transformer: Improving Time Series Anomaly Detection with Reconstruction Error from Sub-Adjacent Neighborhoods,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-28,MGCBS: An Optimal and Efficient Algorithm for Solving Multi-Goal Multi-Agent Path Finding Problem,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-280,Exploring Urban Semantics: A Multimodal Model for POI Semantic Annotation with Street View Images and Place Names,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-281,Natural Language-centered Inference Network for Multi-modal Fake News Detection,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-282,Score-CDM: Score-Weighted Convolutional Diffusion Model for Multivariate Time Series Imputation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-283,SaSDim:Self-Adaptive Noise Scaling Diffusion Model for Spatial Time Series Imputation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-284,TFWT: Tabular Feature Weighting with Transformer,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-285,G2LTraj: A Global-to-Local Generation Approach for Trajectory Prediction,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-286,A Graph-based Representation Framework for Trajectory Recovery via Spatiotemporal Interval-Informed Seq2Seq,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-287,Modeling Personalized Retweeting Behaviors for Multi-Stage Cascade Popularity Prediction,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-288,Make Graph Neural Networks Great Again: A Generic Integration Paradigm of Topology-Free Patterns for Traffic Speed Prediction,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-289,Generalized Taxonomy-Guided Graph Neural Networks,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-29,Design a Win-Win Strategy That Is Fair to Both Service Providers and Tasks When Rejection Is Not an Option,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-290,Estimating before Debiasing: A Bayesian Approach to Detaching Prior Bias in Federated Semi-Supervised Learning,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-291,R2V-MIF: Rule-to-Vector Contrastive Learning and Multi-channel Information Fusion for Therapy Recommendation,IJCAI,2024,Main Track,False,False,False,,4
+ijcai2024-292,Optimizing Viscous Democracy,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-293,Facility Location Problems with Capacity Constraints: Two Facilities and Beyond,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-294,Welfare Loss in Connected Resource Allocation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-295,Computing Optimal Equilibria in Repeated Games with Restarts,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-296,Evaluation of Project Performance in Participatory Budgeting,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-297,Randomized Learning-Augmented Auctions with Revenue Guarantees,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-298,Layered Graph Security Games,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-299,Parameterized Analysis of Bribery in Challenge the Champ Tournaments,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-3,AutoAgents: A Framework for Automatic Agent Generation,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-30,Reinforcement Nash Equilibrium Solver,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-300,On the Pursuit of EFX for Chores: Non-existence and Approximations,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-301,Online Learning of Partitions in Additively Separable Hedonic Games,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-302,Couples Can Be Tractable: New Algorithms and Hardness Results for the Hospitals/Residents Problem with Couples,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-303,Popular and Dominant Matchings with Uncertain and Multimodal Preferences,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-304,Aggregation of Continuous Preferences in One Dimension,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-305,Comparing Ways of Obtaining Candidate Orderings from Approval Ballots,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-306,Selecting the Most Conflicting Pair of Candidates,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-307,Truthful Interval Covering,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-308,Individual Rationality in Topological Distance Games Is Surprisingly Hard,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-309,Metric Distortion with Elicited Pairwise Comparisons,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-31,A Successful Strategy for Multichannel Iterated Prisoner’s Dilemma,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-310,Weighted EF1 and PO Allocations with Few Types of Agents or Chores,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-311,Getting More by Knowing Less: Bayesian Incentive Compatible Mechanisms for Fair Division,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-312,Determining Winners in Elections with Absent Votes,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-313,Fair Distribution of Delivery Orders,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-314,Sampling Winners in Ranked Choice Voting,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-315,Equilibria in Two-Stage Facility Location with Atomic Clients,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-316,The Distortion of Threshold Approval Matching,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-317,Polynomial Time Presolve Algorithms for Rotation-Based Models Solving the Robust Stable Matching Problem,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-318,Allocating Mixed Goods with Customized Fairness and Indivisibility Ratio,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-319,Public Event Scheduling with Busy Agents,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-32,Population-Based Diverse Exploration for Sparse-Reward Multi-Agent Tasks,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-320,Vulnerabilities of Single-Round Incentive Compatibility in Auto-bidding: Theory and Evidence from ROI-Constrained Online Advertising Markets,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-321,Combinatorial Games with Incomplete Information,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-322,Optimal Auction Design with User Coupons in Advertising Systems,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-323,Tackling Stackelberg Network Interdiction against a Boundedly Rational Adversary,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-324,Ordinal Maximin Guarantees for Group Fair Division,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-325,Optimizing Prosumer Policies in Periodic Double Auctions Inspired by Equilibrium Analysis,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-326,Toward Completing the Picture of Control in Schulze and Ranked Pairs Elections,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-327,"What Is Best for Students, Numerical Scores or Letter Grades?",IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-328,Computational Complexity of Verifying the Group No-show Paradox,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-329,Nonparametric Detection of Gerrymandering in Multiparty Plurality Elections,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-33,Intention Progression with Temporally Extended Goals,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-330,Enabling Sustainable Freight Forwarding Network via Collaborative Games,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-331,Game Transformations That Preserve Nash Equilibria or Best-Response Sets,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-332,Imperfect-Recall Games: Equilibrium Concepts and Their Complexity,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-333,"Mechanisms That Play a Game, Not Toss a Coin",IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-334,Improved Approximation of Weighted MMS Fairness for Indivisible Chores,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-335,How Hard Is It to Impact the Impact of Your Paper?,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-336,Exponential Lower Bounds on the Double Oracle Algorithm in Zero-Sum Games,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-337,A Strategic Analysis of Prepayments in Financial Credit Networks,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-338,"A Complete Landscape of EFX Allocations on Graphs: Goods, Chores and Mixed Manna",IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-339,ScreenAI: A Vision-Language Model for UI and Infographics Understanding,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-34,ADMN: Agent-Driven Modular Network for Dynamic Parameter Sharing in Cooperative Multi-Agent Reinforcement Learning,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-340,Multi-level Disentangling Network for Cross-Subject Emotion Recognition Based on Multimodal Physiological Signals,IJCAI,2024,Main Track,False,False,False,,4
+ijcai2024-341,VSGT: Variational Spatial and Gaussian Temporal Graph Models for EEG-based Emotion Recognition,IJCAI,2024,Main Track,False,False,False,,4
+ijcai2024-342,Concept-Level Causal Explanation Method for Brain Function Network Classification,IJCAI,2024,Main,False,False,False,,7
+ijcai2024-343,LitE-SNN: Designing Lightweight and Efficient Spiking Neural Network through Spatial-Temporal Compressive Network Search and Joint Optimization,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-344,Designing Behavior-Aware AI to Improve the Human-AI Team Performance in AI-Assisted Decision Making,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-345,DBPNet: Dual-Branch Parallel Network with Temporal-Frequency Fusion for Auditory Attention Detection,IJCAI,2024,Main,False,False,False,,7
+ijcai2024-346,ReliaAvatar: A Robust Real-Time Avatar Animator with Integrated Motion Prediction,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-347,TIM: An Efficient Temporal Interaction Module for Spiking Transformer,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-348,One-step Spiking Transformer with a Linear Complexity,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-349,MetaJND: A Meta-Learning Approach for Just Noticeable Difference Estimation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-35,Guidance Graph Optimization for Lifelong Multi-Agent Path Finding,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-350,Apprenticeship-Inspired Elegance: Synergistic Knowledge Distillation Empowers Spiking Neural Networks for Efficient Single-Eye Emotion Recognition,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-351,Multi-scale Context-Aware Networks Based on Fragment Association for Human Activity Recognition,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-352,CoCoG: Controllable Visual Stimuli Generation Based on Human Concept Representations,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-353,Dialogue Cross-Enhanced Central Engagement Attention Model for Real-Time Engagement Estimation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-354,CausVSR: Causality Inspired Visual Sentiment Recognition,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-355,General Epistemic Abstract Argumentation Framework: Semantics and Complexity,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-356,AMO-aware Aggregates in Answer Set Programming,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-357,Higher-Order Argumentation Frameworks: Principles and Gradual Semantics,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-358,Effective Approach to LTLf Best-Effort Synthesis in Multi-Tier Environments,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-359,Data Complexity in Expressive Description Logics with Path Expressions,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-36,Towards a Pretrained Model for Restless Bandits via Multi-arm Generalization,IJCAI,2024,Main Track,True,False,True,INCLUDE,5
+ijcai2024-360,Bypassing the ASP Bottleneck: Hybrid Grounding by Splitting and Rewriting,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-361,Primal Grammars Driven Automated Induction,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-362,Learning What to Monitor: Using Machine Learning to Improve past STL Monitoring,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-363,Justifying Argument Acceptance with Collective Attacks: Discussions and Disputes,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-364,Capturing Knowledge Graphs and Rules with Octagon Embeddings,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-365,Temporal Knowledge Graph Extrapolation via Causal Subhistory Identification,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-366,Enhancing Controlled Query Evaluation through Epistemic Policies,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-367,Compilation and Fast Model Counting beyond CNF,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-368,Model Checking Causality,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-369,Epistemic Logic Programs: Non-Ground and Counting Complexity,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-37,Pluggable Watermarking of Deepfake Models for Deepfake Detection,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-370,Computational Aspects of Progression for Temporal Equilibrium Logic,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-371,"On the Logic of Theory Change Iteration of KM-Update, Revised",IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-372,Quantitative Reasoning over Incomplete Abstract Argumentation Frameworks,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-373,Improved Encodings of Acyclicity for Translating Answer Set Programming into Integer Programming,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-374,Revisiting Causal Discovery from a Complexity-Theoretic Perspective,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-375,Finite Groundings for ASP with Functions: A Journey through Consistency,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-376,Learning Conditional Preference Networks: An Approach Based on the Minimum Description Length Principle,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-377,Quantitative Claim-Centric Reasoning in Logic-Based Argumentation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-378,"Semantics for Non-Flat Assumption-Based Argumentation, Revisited",IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-379,Learning Logic Programs by Discovering Higher-Order Abstractions,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-38,Discriminative Feature Decoupling Enhancement for Speech Forgery Detection,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-380,Learning Big Logical Rules by Joining Small Rules,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-381,LLMs Can Find Mathematical Reasoning Mistakes by Pedagogical Chain-of-Thought,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-382,Extremal Separation Problems for Temporal Instance Queries,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-383,Instantiations and Computational Aspects of Non-Flat Assumption-based Argumentation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-384,Regression Residual Reasoning with Pseudo-labeled Contrastive Learning for Uncovering Multiple Complex Compositional Relations,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-385,First-Order Progression beyond Local-Effect and Normal Actions,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-386,Constructive Interpolation and Concept-Based Beth Definability for Description Logics via Sequents,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-387,Model-Free Preference Elicitation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-388,CPa-WAC: Constellation Partitioning-based Scalable Weighted Aggregation Composition for Knowledge Graph Embedding,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-389,Revising Beliefs and Intentions in Stochastic Environments,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-39,BadFusion: 2D-Oriented Backdoor Attacks against 3D Object Detection,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-390,Preferred Reasoning in ABA by Cycle-Breaking,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-391,A Logic for Reasoning about Aggregate-Combine Graph Neural Networks,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-392,Towards a Principle-based Framework for Assessing the Contribution of Formulas on the Conflicts of Knowledge Bases,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-393,The Transformation Logics,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-394,Agentive Permissions in Multiagent Systems,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-395,On the Power and Limitations of Examples for Description Logic Concepts,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-396,Optimisation and Approximation in Abstract Argumentation: The Case of Stable Semantics,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-397,A Tensor-Based Formalization of the Event Calculus,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-398,Structured d-DNNF Is Not Closed under Negation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-399,"NELLIE: A Neuro-Symbolic Inference Engine for Grounded, Compositional, and Explainable Reasoning",IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-4,PTDE: Personalized Training with Distilled Execution for Multi-Agent Reinforcement Learning,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-40,Machine Unlearning via Null Space Calibration,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-400,Temporal Inductive Logic Reasoning over Hypergraphs,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-401,Explaining Arguments’ Strength: Unveiling the Role of Attacks and Supports,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-402,The Trembling-Hand Problem for LTLf Planning,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-403,Fine-tuning Pre-trained Models for Robustness under Noisy Labels,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-404,Contract Scheduling with Distributional and Multiple Advice,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-405,Contrastive Learning Is Not Optimal for Quasiperiodic Time Series,IJCAI,2024,Main,False,False,False,,7
+ijcai2024-406,Cutting the Black Box: Conceptual Interpretation of a Deep Neural Net with Multi-Modal Embeddings and Multi-Criteria Decision Aid,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-407,On the Computation of Example-Based Abductive Explanations for Random Forests,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-408,Deriving Provably Correct Explanations for Decision Trees: The Impact of Domain Theories,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-409,Online Learning with Off-Policy Feedback in Adversarial MDPs,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-41,Are Logistic Models Really Interpretable?,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-410,Ansatz-Agnostic Exponential Resource Saving in Variational Quantum Algorithms Using Shallow Shadows,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-411,Interpretable Network Visualizations: A Human-in-the-Loop Approach for Post-hoc Explainability of CNN-based Image Classification,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-412,Contrastive General Graph Matching with Adaptive Augmentation Sampling,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-413,Towards Exact Computation of Inductive Bias,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-414,Best Arm Identification with Retroactively Increased Sampling Budget for More Resource-Efficient HPO,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-415,With a Little Help from Language: Semantic Enhanced Visual Prototype Framework for Few-Shot Learning,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-416,Locally and Globally Aware Federated Graph Anomaly Detection,IJCAI,2024,Main Track,False,False,True,include,5
+ijcai2024-417,Dual Contrastive Graph-Level Clustering with Multiple Cluster Perspectives Alignment,IJCAI,2024,Main Track,False,False,True,include,5
+ijcai2024-418,Learning Low-Rank Tensor Cores with Probabilistic ℓ0-Regularized Rank Selection for Model Compression,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-419,Breaking Barriers of System Heterogeneity: Straggler-Tolerant Multimodal Federated Learning via Knowledge Distillation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-42,The Impact of Features Used by Algorithms on Perceptions of Fairness,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-420,Off-Agent Trust Region Policy Optimization,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-421,EAT: Self-Supervised Pre-Training with Efficient Audio Transformer,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-422,Global Optimality of Single-Timescale Actor-Critic under Continuous State-Action Space: A Study on Linear Quadratic Regulator,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-423,Boosting Single Positive Multi-label Classification with Generalized Robust Loss,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-424,Disentangling Domain and General Representations for Time Series Classification,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-425,Automated CPU Design by Learning from Input-Output Examples,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-426,Deep Embedding Clustering Driven by Sample Stability,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-427,Diversification of Adaptive Policy for Effective Offline Reinforcement Learning,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-428,Structure-Preserving Physics-Informed Neural Networks with Energy or Lyapunov Structure,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-429,HypBO: Accelerating Black-Box Scientific Experiments Using Experts’ Hypotheses,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-43,Detecting and Understanding Vulnerabilities in Language Models via Mechanistic Interpretability,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-430,A Conservative Approach for Few-Shot Transfer in Off-Dynamics Reinforcement Learning,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-431,Exploring the Inefficiency of Heavy Ball as Momentum Parameter Approaches 1,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-432,What Hides behind Unfairness? Exploring Dynamics Fairness in Reinforcement Learning,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-433,SpecAR-Net: Spectrogram Analysis and Representation Network for Time Series,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-434,Group-Aware Coordination Graph for Multi-Agent Reinforcement Learning,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-435,Tolerating Outliers: Gradient-Based Penalties for Byzantine Robustness and Inclusion,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-436,Deep Frequency Derivative Learning for Non-stationary Time Series Forecasting,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-437,VCC-INFUSE: Towards Accurate and Efficient Selection of Unlabeled Examples in Semi-supervised Learning,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-438,Federated Multi-View Clustering via Tensor Factorization,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-439,Efficient Federated Multi-View Clustering with Integrated Matrix Factorization and K-Means,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-44,Online Combinatorial Optimization with Group Fairness Constraints,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-440,Core-Structures-Guided Multi-Modal Classification Neural Architecture Search,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-441,Hard-Thresholding Meets Evolution Strategies in Reinforcement Learning,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-442,Spatial-Temporal-Decoupled Masked Pre-training for Spatiotemporal Forecasting,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-443,Exterior Penalty Policy Optimization with Penalty Metric Network under Constraints,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-444,History Repeats Itself: A Baseline for Temporal Knowledge Graph Forecasting,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-445,Temporal Graph ODEs for Irregularly-Sampled Time Series,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-446,Unlearning during Learning: An Efficient Federated Machine Unlearning Method,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-447,PoRank: A Practical Framework for Learning to Rank Policies,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-448,P2P: Transforming from Point Supervision to Explicit Visual Prompt for Object Detection and Segmentation,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-449,ParsNets: A Parsimonious Composition of Orthogonal and Low-Rank Linear Networks for Zero-Shot Learning,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-45,Updates on the Complexity of SHAP Scores,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-450,Sample Quality Heterogeneity-aware Federated Causal Discovery through Adaptive Variable Space Selection,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-451,Online Sampling and Decision Making with Low Entropy,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-452,InfoMatch: Entropy Neural Estimation for Semi-Supervised Image Classification,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-453,BlockEcho: Retaining Long-Range Dependencies for Imputing Block-Wise Missing Data,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-454,SAEIR: Sequentially Accumulated Entropy Intrinsic Reward for Cooperative Multi-Agent Reinforcement Learning with Sparse Reward,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-455,EPIC: Graph Augmentation with Edit Path Interpolation via Learnable Cost,IJCAI,2024,Main Track,False,False,True,include,5
+ijcai2024-456,Dynamically Anchored Prompting for Task-Imbalanced Continual Learning,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-457,Feature Norm Regularized Federated Learning: Utilizing Data Disparities for Model Performance Gains,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-458,Practical Hybrid Gradient Compression for Federated Learning Systems,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-459,Multimodal Representation Distribution Learning for Medical Image Segmentation,IJCAI,2024,Main,True,True,False,,6
+ijcai2024-46,Speech-Forensics: Towards Comprehensive Synthetic Speech Dataset Establishment and Analysis,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-460,LeRet: Language-Empowered Retentive Network for Time Series Forecasting,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-461,Negative-Binomial Randomized Gamma Dynamical Systems for Heterogeneous Overdispersed Count Time Sequences,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-462,Deep Multi-Dimensional Classification with Pairwise Dimension-Specific Features,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-463,Unified View Imputation and Feature Selection Learning for Incomplete Multi-view Data,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-464,An Efficient Prototype-Based Clustering Approach for Edge Pruning in Graph Neural Networks to Battle Over-Smoothing,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-465,Symplectic Neural Gaussian Processes for Meta-learning Hamiltonian Dynamics,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-466,CAP: A Context-Aware Neural Predictor for NAS,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-467,Label Distribution Learning from Logical Label,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-468,QFormer: An Efficient Quaternion Transformer for Image Denoising,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-469,EFEVD: Enhanced Feature Extraction for Smart Contract Vulnerability Detection,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-47,SwiftThief: Enhancing Query Efficiency of Model Stealing by Contrastive Learning,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-470,Temporal Domain Generalization via Learning Instance-level Evolving Patterns,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-471,Scaling Up Unbiased Search-based Symbolic Regression,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-472,Integrating Vision-Language Semantic Graphs in Multi-View Clustering,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-473,Offline Policy Learning via Skill-step Abstraction for Long-horizon Goal-Conditioned Tasks,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-474,HyQ: Hardware-Friendly Post-Training Quantization for CNN-Transformer Hybrid Networks,IJCAI,2024,Main Track,False,False,False,,1
+ijcai2024-475,Pareto Inverse Reinforcement Learning for Diverse Expert Policy Generation,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-476,Learning Causally Disentangled Representations via the Principle of Independent Causal Mechanisms,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-477,Efficient and Stable Offline-to-online Reinforcement Learning via Continual Policy Revitalization,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-478,Exploiting Multi-Label Correlation in Label Distribution Learning,IJCAI,2024,Main Track,False,False,True,exclude | hold,3
+ijcai2024-479,ROCES: Robust Class Expression Synthesis in Description Logics via Iterative Sampling,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-48,Protecting Object Detection Models from Model Extraction Attack via Feature Space Coverage,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-480,Look-ahead Search on Top of Policy Networks in Imperfect Information Games,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-481,Towards a Framework for Learning of Algorithms: The Case of Learned Comparison Sorts,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-482,Deep Neural Networks via Complex Network Theory: A Perspective,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-483,A De-singularity Subgradient Approach for the Extended Weber Location Problem,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-484,Toward a Manifold-Preserving Temporal Graph Network in Hyperbolic Space,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-485,Unbiased Active Semi-supervised Binary Classification Models,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-486,Hypergraph Self-supervised Learning with Sampling-efficient Signals,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-487,Combinatorial Routing for Neural Trees,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-488,A Density-driven Iterative Prototype Optimization for Transductive Few-shot Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-489,DWLR: Domain Adaptation under Label Shift for Wearable Sensor,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-49,Formalisation and Evaluation of Properties for Consequentialist Machine Ethics,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-490,Continual Multi-Objective Reinforcement Learning via Reward Model Rehearsal,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-491,DarkFed: A Data-Free Backdoor Attack in Federated Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-492,Prompt Learning with Extended Kalman Filter for Pre-trained Language Models,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-493,SketchEdit: Editing Freehand Sketches at the Stroke-Level,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-494,No Regularization Is Needed: Efficient and Effective Incomplete Label Distribution Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-495,WPML3CP: Wasserstein Partial Multi-Label Learning with Dual Label Correlation Perspectives,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-496,Fast Unpaired Multi-view Clustering,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-497,Causality-enhanced Discreted Physics-informed Neural Networks for Predicting Evolutionary Equations,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-498,Angluin-Style Learning of Deterministic Büchi and Co-Büchi Automata,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-499,Efficiency Calibration of Implicit Regularization in Deep Networks via Self-paced Curriculum-Driven Singular Value Selection,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-5,Learning Translations: Emergent Communication Pretraining for Cooperative Language Acquisition,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-50,FairGT: A Fairness-aware Graph Transformer,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-500,Efficient Offline Meta-Reinforcement Learning via Robust Task Representations and Adaptive Policy Generation,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-501,FedConPE: Efficient Federated Conversational Bandits with Heterogeneous Clients,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-502,BATON: Aligning Text-to-Audio Model Using Human Preference Feedback,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-503,Scalable Federated Unlearning via Isolated and Coded Sharding,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-504,Towards Counterfactual Fairness-aware Domain Generalization in Changing Environments,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-505,Dual Semantic Fusion Hashing for Multi-Label Cross-Modal Retrieval,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-506,Meta-Learning via PAC-Bayesian with Data-Dependent Prior: Generalization Bounds from Local Entropy,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-507,MICRO: Model-Based Offline Reinforcement Learning with a Conservative Bellman Operator,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-508,Provable Acceleration of Nesterov’s Accelerated Gradient Method over Heavy Ball Method in Training Over-Parameterized Neural Networks,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-509,Resolving Word Vagueness with Scenario-guided Adapter for Natural Language Inference,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-51,EAB-FL: Exacerbating Algorithmic Bias through Model Poisoning Attacks in Federated Learning,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-510,LongVQ: Long Sequence Modeling with Vector Quantization on Structured Memory,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-511,An NCDE-based Framework for Universal Representation Learning of Time Series,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-512,A Behavior-Aware Approach for Deep Reinforcement Learning in Non-stationary Environments without Known Change Points,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-513,Self-supervised Weighted Information Bottleneck for Multi-view Clustering,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-514,Revisiting Neural Networks for Continual Learning: An Architectural Perspective,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-515,LEAP: Optimization Hierarchical Federated Learning on Non-IID Data with Coalition Formation Game,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-516,Alleviating Imbalanced Pseudo-label Distribution: Self-Supervised Multi-Source Domain Adaptation with Label-specific Confidence,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-517,Implicit Prompt Learning for Image Denoising,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-518,The Orthogonality of Weight Vectors: The Key Characteristics of Normalization and Residual Connections,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-519,Simple Contrastive Multi-View Clustering with Data-Level Fusion,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-52,Relevant Irrelevance: Generating Alterfactual Explanations for Image Classifiers,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-520,Rank and Align: Towards Effective Source-free Graph Domain Adaptation,IJCAI,2024,Main,False,False,True,include,8
+ijcai2024-521,Common-Individual Semantic Fusion for Multi-View Multi-Label Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-522,Deciphering the Projection Head: Representation Evaluation Self-supervised Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-523,Learning Embeddings for Sequential Tasks Using Population of Agents,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-524,Learning Label-Specific Multiple Local Metrics for Multi-Label Classification,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-525,ROME: Robust Multi-Modal Density Estimator,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-526,FedGCS: A Generative Framework for Efficient Client Selection in Federated Learning via Gradient-based Optimization,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-527,A Prior-information-guided Residual Diffusion Model for Multi-modal PET Synthesis from MRI,IJCAI,2024,Main,False,False,True,include,5
+ijcai2024-528,Probabilistically Robust Watermarking of Neural Networks,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-529,Cross-View Diversity Embedded Consensus Learning for Multi-View Clustering,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-53,Normative Testimony and Belief Functions: A Formal Theory of Norm Learning,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-530,Mean Aggregator Is More Robust than Robust Aggregators under Label Poisoning Attacks,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-531,FedPFT: Federated Proxy Fine-Tuning of Foundation Models,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-532,Let’s Start Over: Retraining with Selective Samples for Generalized Category Discovery,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-533,What Makes Models Compositional? A Theoretical View,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-534,Dual Expert Distillation Network for Generalized Zero-Shot Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-535,Dynamic Weighted Graph Fusion for Deep Multi-View Clustering,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-536,Partial Optimal Transport Based Out-of-Distribution Detection for Open-Set Semi-Supervised Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-537,Hyperparameter Optimization Can Even Be Harmful in Off-Policy Learning and How to Deal with It,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-538,Robust Losses for Decision-Focused Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-539,EMOTE: An Explainable Architecture for Modelling the Other through Empathy,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-54,By Fair Means or Foul: Quantifying Collusion in a Market Simulation with Deep Reinforcement Learning,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-540,Predictive Accuracy-Based Active Learning for Medical Image Segmentation,IJCAI,2024,Main,True,True,False,,6
+ijcai2024-541,Estimating Conditional Average Treatment Effects via Sufficient Representation Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-542,A Context-Enhanced Framework for Sequential Graph Reasoning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-543,Learning with Posterior Sampling for Revenue Management under Time-varying Demand,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-544,Learning Pareto Set for Multi-Objective Continuous Robot Control,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-545,Offline Reinforcement Learning with Behavioral Supervisor Tuning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-546,Robust Contrastive Multi-view Kernel Clustering,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-547,Adaptive Order Q-learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-548,Perturbation Guiding Contrastive Representation Learning for Time Series Anomaly Detection,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-549,,IJCAI,2024,Main Track,False,False,True,hold | include,6
+ijcai2024-55,Ten Words Only Still Help: Improving Black-Box AI-Generated Text Detection via Proxy-Guided Efficient Re-Sampling,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-550,Exploiting Conjugate Label Information for Multi-Instance Partial-Label Learning,IJCAI,2024,Main Track,False,False,True,hold,3
+ijcai2024-551,Dual Calibration-based Personalised Federated Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-552,A Bias-Free Revenue-Maximizing Bidding Strategy for Data Consumers in Auction-based Federated Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-553,Unlearning from Weakly Supervised Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-554,Redefining Contributions: Shapley-Driven Federated Learning,IJCAI,2024,Main,False,False,True,include,8
+ijcai2024-555,"Enabling Mixed Effects Neural Networks for Diverse, Clustered Data Using Monte Carlo Methods",IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-556,Proximal Curriculum with Task Correlations for Deep Reinforcement Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-557,Interpretable Tensor Fusion,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-558,MOSER: Learning Sensory Policy for Task-specific Viewpoint via View-conditional World Model,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-559,Contrastive and View-Interaction Structure Learning for Multi-view Clustering,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-56,A Self-explaining Neural Architecture for Generalizable Concept Learning,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-560,Hacking Task Confounder in Meta-Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-561,Strengthening Layer Interaction via Dynamic Layer Attention,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-562,Finite-Time Convergence Rates of Decentralized Local Markovian Stochastic Approximation,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-563,Reconstruction Weighting Principal Component Analysis with Fusion Contrastive Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-564,A Grassmannian Manifold Self-Attention Network for Signal Classification,IJCAI,2024,Main,False,False,True,include,8
+ijcai2024-565,Joint Input and Output Coordination for Class-Incremental Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-566,Self-Supervised Learning for Enhancing Spatial Awareness in Free-Hand Sketches,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-567,Scale and Direction Guided GAN for Inertial Sensor Signal Enhancement,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-568,Self-adaptive Extreme Penalized Loss for Imbalanced Time Series Prediction,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-569,Atomic Recovery Property for Multi-view Subspace-Preserving Recovery,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-57,When Fairness Meets Privacy: Exploring Privacy Threats in Fair Binary Classifiers via Membership Inference Attacks,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-570,Subgraph Pooling: Tackling Negative Transfer on Graphs,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-571,Nonconvex Multiview Subspace Clustering Framework with Efficient Method Designs and Theoretical Analysis,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-572,Cross-Talk Reduction,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-573,PDENNEval: A Comprehensive Evaluation of Neural Network Methods for Solving PDEs,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-574,Towards Sharper Generalization Bounds for Adversarial Contrastive Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-575,From Optimization to Generalization: Fair Federated Learning against Quality Shift via Inter-Client Sharpness Matching,IJCAI,2024,Main,False,False,True,include,5
+ijcai2024-576,PACIA: Parameter-Efficient Adapter for Few-Shot Molecular Property Prediction,IJCAI,2024,Main,False,False,True,include,8
+ijcai2024-577,Synthesizing Programmatic Policy for Generalization within Task Domain,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-578,TAI++: Text as Image for Multi-Label Image Classification by Co-Learning Transferable Prompt,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-579,Large Language Model-Enhanced Algorithm Selection: Towards Comprehensive Algorithm Representation,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-58,On the Effects of Fairness to Adversarial Vulnerability,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-580,AllMatch: Exploiting All Unlabeled Data for Semi-Supervised Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-581,Exploring Learngene via Stage-wise Weight Sharing for Initializing Variable-sized Models,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-582,Trusted Multi-view Learning with Label Noise,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-583,Minimizing Weighted Counterfactual Regret with Optimistic Online Mirror Descent,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-584,FedFa: A Fully Asynchronous Training Paradigm for Federated Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-585,FBLG: A Local Graph Based Approach for Handling Dual Skewed Non-IID Data in Federated Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-586,Reinforcement Learning from Diverse Human Preferences,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-587,Dynamic against Dynamic: An Open-Set Self-Learning Framework,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-588,Approximate Algorithms for k-Sparse Wasserstein Barycenter with Outliers,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-589,Navigating Continual Test-time Adaptation with Symbiosis Knowledge,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-59,Attribution Quality Metrics with Magnitude Alignment,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-590,VCformer: Variable Correlation Transformer with Inherent Lagged Correlation for Multivariate Time Series Forecasting,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-591,Boosting Efficiency in Task-Agnostic Exploration through Causal Knowledge,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-592,,IJCAI,2024,,True,True,False,,8
+ijcai2024-593,Bridging the Gap: Learning Pace Synchronization for Open-World Semi-Supervised Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-594,FedSSA: Semantic Similarity-based Aggregation for Efficient Model-Heterogeneous Personalized Federated Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-595,Pointsoup: High-Performance and Extremely Low-Decoding-Latency Learned Geometry Codec for Large-Scale Point Cloud Scenes,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-596,EC-SNN: Splitting Deep Spiking Neural Networks for Edge Devices,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-597,Bandits with Concave Aggregated Reward,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-598,BoostDream: Efficient Refining for High-Quality Text-to-3D Generation from Multi-View Diffusion,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-599,FedES: Federated Early-Stopping for Hindering Memorizing Heterogeneous Label Noise,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-6,Improving Multi-agent Reinforcement Learning with Stable Prefix Policy,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-60,CMACE: CMAES-based Counterfactual Explanations for Black-box Models,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-600,Task-Agnostic Self-Distillation for Few-Shot Action Recognition,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-601,Continual Multi-View Clustering with Consistent Anchor Guidance,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-602,Efficient Multi-view Unsupervised Feature Selection with Adaptive Structure Learning and Inference,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-603,Federated Adaptation for Foundation Model-based Recommendations,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-604,LSPAN: Spectrally Localized Augmentation for Graph Consistency Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-605,Learning from Long-Tailed Noisy Data with Sample Selection and Balanced Loss,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-606,CONC: Complex-noise-resistant Open-set Node Classification with Adaptive Noise Detection,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-607,Exploring Cross-Domain Few-Shot Classification via Frequency-Aware Prompting,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-608,Skip-Timeformer: Skip-Time Interaction Transformer for Long Sequence Time-Series Forecasting,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-609,Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-61,BADFSS: Backdoor Attacks on Federated Self-Supervised Learning,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-610,Visual Attention Prompted Prediction and Learning,IJCAI,2024,Main,False,False,True,include,5
+ijcai2024-611,Personalized Federated Learning for Cross-City Traffic Prediction,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-612,Pre-training General User Representation with Multi-type APP Behaviors,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-613,Reconfigurability-Aware Selection for Contrastive Active Domain Adaptation,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-614,Active Deep Multi-view Clustering,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-615,ENOTO: Improving Offline-to-Online Reinforcement Learning with Q-Ensembles,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-616,NanoAdapt: Mitigating Negative Transfer in Test Time Adaptation with Extremely Small Batch Sizes,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-617,Towards Robust Multi-Label Learning against Dirty Label Noise,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-618,Protecting Split Learning by Potential Energy Loss,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-619,Learning Robust Classifiers with Self-Guided Spurious Correlation Mitigation,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-62,PRASS: Probabilistic Risk-averse Robust Learning with Stochastic Search,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-620,Constrained Intrinsic Motivation for Reinforcement Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-621,Cross-View Contrastive Fusion for Enhanced Molecular Property Prediction,IJCAI,2024,Main,True,True,True,include,4
+ijcai2024-622,SCAT: A Time Series Forecasting with Spectral Central Alternating Transformers,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-623,Delve into Base-Novel Confusion: Redundancy Exploration for Few-Shot Class-Incremental Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-624,Denoising-Aware Contrastive Learning for Noisy Time Series,IJCAI,2024,Main,True,True,True,include,4
+ijcai2024-625,Boosting Model Resilience via Implicit Adversarial Data Augmentation,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-626,Learning in CubeRes Model Space for Anomaly Detection in 3D GPR Data,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-627,Large Language Model as a Policy Teacher for Training Reinforcement Learning Agents,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-628,Rethinking Centered Kernel Alignment in Knowledge Distillation,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-629,SDformer: Transformer with Spectral Filter and Dynamic Attention for Multivariate Time Series Long-term Forecasting,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-63,A General Black-box Adversarial Attack on Graph-based Fake News Detectors,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-630,Towards Sharper Risk Bounds for Minimax Problems,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-631,AnchorGT: Efficient and Flexible Attention Architecture for Scalable Graph Transformers,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-632,FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-633,vMFER: Von Mises-Fisher Experience Resampling Based on Uncertainty of Gradient Directions for Policy Improvement,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-634,Efficient Tuning and Inference for Large Language Models on Textual Graphs,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-635,PrivSGP-VR: Differentially Private Variance-Reduced Stochastic Gradient Push with Tight Utility Bounds,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-636,Balancing Multimodal Learning via Online Logit Modulation,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-637,,IJCAI,2024,,True,True,False,,9
+ijcai2024-638,Federated Prompt Learning for Weather Foundation Models on Devices,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-639,Shadow-Free Membership Inference Attacks: Recommender Systems Are More Vulnerable Than You Thought,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-64,Bring Metric Functions into Diffusion Models,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-640,Geometry-Guided Conditional Adaptation for Surrogate Models of Large-Scale 3D PDEs on Arbitrary Geometries,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-641,Linear-Time Optimal Deadlock Detection for Efficient Scheduling in Multi-Track Railway Networks,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-642,MMGNN: A Molecular Merged Graph Neural Network for Explainable Solvation Free Energy Prediction,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-643,VF-Detector: Making Multi-Granularity Code Changes on Vulnerability Fix Detector Robust to Mislabeled Changes,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-644,Enhancing Fine-Grained Urban Flow Inference via Incremental Neural Operator,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-645,InstructME: An Instruction Guided Music Edit Framework with Latent Diffusion Models,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-646,Dynamicity-aware Social Bot Detection with Dynamic Graph Transformers,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-647,Physics-Informed Neural Networks: Minimizing Residual Loss with Wide Networks and Effective Activations,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-648,Delocate: Detection and Localization for Deepfake Videos with Randomly-Located Tampered Traces,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-649,Personalized Heart Disease Detection via ECG Digital Twin Generation,IJCAI,2024,Main,True,True,True,include,4
+ijcai2024-65,Attention Shifting to Pursue Optimal Representation for Adapting Multi-granularity Tasks,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-650,ATTA: Adaptive Test-Time Adaptation for Multi-Modal Sleep Stage Classification,IJCAI,2024,Main,True,True,True,include,4
+ijcai2024-651,Vertical Symbolic Regression via Deep Policy Gradient,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-652,Privacy-Preserving UCB Decision Process Verification via zk-SNARKs,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-653,Stochastic Neural Simulator for Generalizing Dynamical Systems across Environments,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-654,Enhancing Length Generalization for Attention Based Knowledge Tracing Models with Linear Biases,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-655,OUCopula: Bi-Channel Multi-Label Copula-Enhanced Adapter-Based CNN for Myopia Screening Based on OU-UWF Images,IJCAI,2024,Main,False,False,True,include,8
+ijcai2024-656,A Cognitive-Driven Trajectory Prediction Model for Autonomous Driving in Mixed Autonomy Environments,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-657,"MFTraj: Map-Free, Behavior-Driven Trajectory Prediction for Autonomous Driving",IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-658,SCTrans: Multi-scale scRNA-seq Sub-vector Completion Transformer for Gene-selective Cell Type Annotation,IJCAI,2024,Main,False,False,True,include,8
+ijcai2024-659,Enhancing Multimodal Knowledge Graph Representation Learning through Triple Contrastive Learning,IJCAI,2024,Main,False,False,True,include,8
+ijcai2024-66,SGDCL: Semantic-Guided Dynamic Correlation Learning for Explainable Autonomous Driving,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-660,Enhanced DouDiZhu Card Game Strategy Using Oracle Guiding and Adaptive Deep Monte Carlo Method,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-661,Towards Geometric Normalization Techniques in SE(3) Equivariant Graph Neural Networks for Physical Dynamics Simulations,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-662,Searching for Programmatic Policies in Semantic Spaces,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-663,IMM: An Imitative Reinforcement Learning Approach with Predictive Representation Learning for Automatic Market Making,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-664,MacMic: Executing Iceberg Orders via Hierarchical Reinforcement Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-665,,IJCAI,2024,Main Track,False,False,True,hold | include,6
+ijcai2024-666,Dynamic Many-Objective Molecular Optimization: Unfolding Complexity with Objective Decomposition and Progressive Optimization,IJCAI,2024,Main,False,False,True,include,7
+ijcai2024-667,Multi-TA: Multilevel Temporal Augmentation for Robust Septic Shock Early Prediction,IJCAI,2024,Main,False,False,True,include,7
+ijcai2024-668,BeyondVision: An EMG-driven Micro Hand Gesture Recognition Based on Dynamic Segmentation,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-669,Improving Paratope and Epitope Prediction by Multi-Modal Contrastive Learning and Interaction Informativeness Estimation,IJCAI,2024,Main,False,False,True,include,7
+ijcai2024-67,MLP-DINO: Category Modeling and Query Graphing with Deep MLP for Object Detection,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-670,,IJCAI,2024,,False,False,False,,6
+ijcai2024-671,,IJCAI,2024,,True,False,False,,7
+ijcai2024-672,A Semi-supervised Molecular Learning Framework for Activity Cliff Estimation,IJCAI,2024,Main,False,False,True,include,7
+ijcai2024-673,Are Watermarks Bugs for Deepfake Detectors? Rethinking Proactive Forensics,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-674,Learning-Based Tracking-before-Detect for RF-Based Unconstrained Indoor Human Tracking,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-675,An Image-enhanced Molecular Graph Representation Learning Framework,IJCAI,2024,Main,False,False,True,include,7
+ijcai2024-676,RSAP-DFM: Regime-Shifting Adaptive Posterior Dynamic Factor Model for Stock Returns Prediction,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-677,Domain Adaptive and Fine-grained Anomaly Detection for Single-cell Sequencing Data and Beyond,IJCAI,2024,Main,False,False,True,include,7
+ijcai2024-678,Trade When Opportunity Comes: Price Movement Forecasting via Locality-Aware Attention and Iterative Refinement Labeling,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-679,Distribution-Independent Cell Type Identification for Single-Cell RNA-seq Data,IJCAI,2024,Main,False,False,True,include,7
+ijcai2024-68,CoAtFormer: Vision Transformer with Composite Attention,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-680,A Deep Reinforcement Learning Approach to Balance Viewport Prediction and Video Transmission in 360° Video Streaming,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-681,Heterogeneous Causal Metapath Graph Neural Network for Gene-Microbe-Disease Association Prediction,IJCAI,2024,Main,False,False,True,include,7
+ijcai2024-682,Vision-based Discovery of Nonlinear Dynamics for 3D Moving Target,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-683,,IJCAI,2024,,True,False,False,,7
+ijcai2024-684,SEMANTIFY: Unveiling Memes with Robust Interpretability beyond Input Attribution,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-685,Towards Automatic Composition of ASP Programs from Natural Language Specifications,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-686,PEACH: Pretrained-Embedding Explanation across Contextual and Hierarchical Structure,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-687,FactCHD: Benchmarking Fact-Conflicting Hallucination Detection,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-688,Continual Multimodal Knowledge Graph Construction,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-689,Generating More Audios for End-to-End Spoken Language Understanding,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-69,Enhancing Cross-Modal Retrieval via Visual-Textual Prompt Hashing,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-690,MMVQA:  A Comprehensive Dataset for Investigating Multipage Multimodal Information Retrieval in PDF-based Visual Question Answering,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-691,Improving Pseudo Labels with Global-Local Denoising Framework for Cross-lingual Named Entity Recognition,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-692,Position Debiasing Fine-Tuning for Causal Perception in Long-Term Dialogue,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-693,Large Language Models Are Not Strong Abstract Reasoners,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-694,ADELT: Transpilation between Deep Learning Frameworks,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-695,ECR-Chain: Advancing Generative Language Models to Better Emotion-Cause Reasoners through Reasoning Chains,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-696,GRASP: A Novel Benchmark for Evaluating Language GRounding and Situated Physics Understanding in Multimodal Language Models,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-697,Natural Language Decomposition and Interpretation of Complex Utterances,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-698,Domain-Hierarchy Adaptation via Chain of Iterative Reasoning for Few-shot Hierarchical Text Classification,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-699,LLMem: Estimating GPU Memory Usage for Fine-Tuning Pre-Trained LLMs,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-7,Scalable Mechanism Design for Multi-Agent Path Finding,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-70,Evolutionary Generalized Zero-Shot Learning,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-700,Bridge to Non-Barrier Communication: Gloss-Prompted Fine-Grained Cued Speech Gesture Generation with Diffusion Model,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-701,Reframing Spatial Reasoning Evaluation in Language Models: A Real-World Simulation Benchmark for Qualitative Reasoning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-702,Meta In-Context Learning Makes Large Language Models Better Zero and Few-Shot Relation Extractors,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-703,Empirical Analysis of Dialogue Relation Extraction with Large Language Models,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-704,"Recall, Retrieve and Reason: Towards Better In-Context Relation Extraction",IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-705,LocMoE: A Low-overhead MoE for Large Language Model Training,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-706,Improving Zero-Shot Cross-Lingual Transfer via Progressive Code-Switching,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-707,Prompt-enhanced Network for Hateful Meme Classification,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-708,Span-based Unified Named Entity Recognition Framework via Contrastive Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-709,Separate in the Speech Chain: Cross-Modal Conditional Audio-Visual Target Speech Extraction,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-71,Cross-Domain Few-Shot Semantic Segmentation via Doubly Matching Transformation,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-710,Putting Back the Stops: Integrating Syntax with Neural Topic Models,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-711,ScreenAgent: A Vision Language Model-driven Computer Control Agent,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-712,Contrastive Representation Learning for Self-Supervised Taxonomy Completion,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-713,Innovative Directional Encoding in Speech Processing: Leveraging Spherical Harmonics Injection for Multi-Channel Speech Enhancement,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-714,Memorizing Documents with Guidance in Large Language Models,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-715,Decoupling Breaks Data Barriers: A Decoupled Pre-training Framework for Multi-intent Spoken Language Understanding,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-716,Contextualized Speech Recognition: Rethinking Second-Pass Rescoring with Generative Large Language Models,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-717,Correct and Optimal: The Regular Expression Inference Challenge,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-718,Two-stage Semi-supervised Speaker Recognition with Gated Label Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-719,NegativePrompt: Leveraging Psychology for Large Language Models Enhancement via Negative Emotional Stimuli,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-72,Bridging LiDAR Gaps: A Multi-LiDARs Domain Adaptation Dataset for 3D Semantic Segmentation,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-720,Purpose Enhanced Reasoning through Iterative Prompting: Uncover Latent Robustness of ChatGPT on Code Comprehension,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-721,Beyond What If: Advancing Counterfactual Text Generation with Structural Causal Modeling,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-722,Sentence-Level or Token-Level? A Comprehensive Study on Knowledge Distillation,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-723,Unified Evidence Enhancement Inference Framework for Fake News Detection,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-724,HyDiscGAN: A Hybrid Distributed cGAN for Audio-Visual Privacy Preservation in Multimodal Sentiment Analysis,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-725,Learning to Solve Geometry Problems via Simulating Human Dual-Reasoning Process,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-726,Attention Based Document-level Relation Extraction with None Class Ranking Loss,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-727,It Ain’t That Bad: Understanding the Mysterious Performance Drop in OOD Generalization for Generative Transformer Models,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-728,TaD: A Plug-and-Play Task-Aware Decoding Method to Better Adapt LLMs on Downstream Tasks,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-729,Incorporating Schema-Aware Description into Document-Level Event Extraction,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-73,A Transformer-Based Adaptive Prototype Matching Network for Few-Shot Semantic Segmentation,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-730,Vision-fused Attack: Advancing Aggressive and Stealthy Adversarial Text against Neural Machine Translation,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-731,Learning Label Dependencies for Visual Information Extraction,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-732,Modeling Selective Feature Attention for Lightweight Text Matching,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-733,InstructEdit: Instruction-Based Knowledge Editing for Large Language Models,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-734,KG-CoT: Chain-of-Thought Prompting of Large Language Models over Knowledge Graphs for Knowledge-Aware Question Answering,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-735,Generate Synthetic Text Approximating the Private Distribution with Differential Privacy,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-736,Making LLMs as Fine-Grained Relation Extraction Data Augmentor,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-737,MultifacetEval: Multifaceted Evaluation to Probe LLMs in Mastering Medical Knowledge,IJCAI,2024,Main,False,False,True,include,7
+ijcai2024-738,Joint Multimodal Aspect Sentiment Analysis with Aspect Enhancement and Syntactic Adaptive Learning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-739,TFCD: Towards Multi-modal Sarcasm Detection via Training-Free Counterfactual Debiasing,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-74,D3ETR: Decoder Distillation for Detection Transformer,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-740,Imprecise Probabilities Meet Partial Observability: Game Semantics for Robust POMDPs,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-741,Solving Long-run Average Reward Robust MDPs via Stochastic Games,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-742,Scalable Ultrafast Almost-optimal Euclidean Shortest Paths,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-743,Guiding GBFS through Learned Pairwise Rankings,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-744,Learning Generalized Policies for Fully Observable Non-Deterministic Planning Domains,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-745,Approximate Dec-POMDP Solving Using Multi-Agent A*,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-746,ConstrainedZero: Chance-Constrained POMDP Planning Using Learned Probabilistic Failure Surrogates and Adaptive Safety Constraints,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-747,On Using Admissible Bounds for Learning Forward Search Heuristics,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-748,Robust Reward Placement under Uncertainty,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-749,Information-Theoretic Opacity-Enforcement in Markov Decision Processes,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-75,EVE: Efficient Zero-Shot Text-Based Video Editing With Depth Map Guidance and Temporal Consistency Constraints,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-750,Scalable Landmark Hub Labeling for Optimal and Bounded Suboptimal Pathfinding,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-751,"Laying the Foundations for Solving FOND HTN Problems: Grounding, Search, Heuristics (and Benchmark Problems)",IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-752,Improved Approximation Algorithms for Capacitated Location Routing,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-753,A Better Approximation for Bipartite Traveling Tournament in Inter-League Sports Scheduling,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-754,Zeta*-SIPP: Improved Time-Optimal Any-Angle Safe-Interval Path Planning,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-755,Integrating Intent Understanding and Optimal Behavior Planning for Behavior Tree Generation from Human Instructions,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-756,Physics-Informed Trajectory Prediction for Autonomous Driving under Missing Observation,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-757,HVOFusion: Incremental Mesh Reconstruction Using Hybrid Voxel Octree,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-758,RealDex: Towards Human-like Grasping for Robotic Dexterous Hand,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-759,A New Guaranteed Outlier Removal Method Based on Plane Constraints for Large-Scale LiDAR Point Cloud Registration,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-76,MetaISP: Efficient RAW-to-sRGB Mappings with Merely 1M Parameters,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-760,DVPE: Divided View Position Embedding for Multi-View 3D Object Detection,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-761,MAS-SAM: Segment Any Marine Animal with Aggregated Features,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-762,ClothPPO: A Proximal Policy Optimization Enhancing Framework for Robotic Cloth Manipulation with Observation-Aligned Action Spaces,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-763,An Archive Can Bring Provable Speed-ups in Multi-Objective Evolutionary Algorithms,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-764,Towards Generalizable Neural Solvers for Vehicle Routing Problems via Ensemble with Transferrable Local Policy,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-765,Feedback-Based Adaptive Crossover-Rate in Evolutionary Computation,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-766,MARCO: A Memory-Augmented Reinforcement Framework for Combinatorial Optimization,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-767,Concentration Tail-Bound Analysis of Coevolutionary and Bandit Learning Algorithms,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-768,ParaILP: A Parallel Local Search Framework for Integer Linear Programming with Cooperative Evolution Mechanism,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-769,Cross-Problem Learning for Solving Vehicle Routing Problems,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-77,Denoising Diffusion-Augmented Hybrid Video Anomaly Detection via Reconstructing Noised Frames,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-770,Peptide Vaccine Design by Evolutionary Multi-Objective Optimization,IJCAI,2024,Main,False,False,True,include,7
+ijcai2024-771,Prompt Learning for Generalized Vehicle Routing,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-772,Finding Increasingly Large Extremal Graphs with AlphaZero and Tabu Search,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-773,Quality-Diversity Algorithms Can Provably Be Helpful for Optimization,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-774,Expected Work Search: Combining Win Rate and Proof Size Estimation,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-775,Maintaining Diversity Provably Helps in Evolutionary Multimodal Optimization,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-776,Theoretical Study on Multi-objective Heuristic Search,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-777,Nukplex: An Efficient Local Search Algorithm for Maximum K-Plex Problem,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-778,ReinforceNS: Reinforcement Learning-based Multi-start Neighborhood Search for Solving the Traveling Thief Problem,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-779,A Swap Relaxation-Based Local Search for the Latin Square Completion Problem,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-78,Imperio: Language-Guided Backdoor Attacks for Arbitrary Model Control,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-780,Exactly Solving Minimum Dominating Set and Its Generalization,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-781,Online Submodular Maximization via Adaptive Thresholds,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-782,Practical Anytime Algorithms for Judicious Partitioning of Active Directory Attack Graphs,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-783,Improved Evolutionary Algorithms for Submodular Maximization with Cost Constraints,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-784,A New Paradigm for Counterfactual Reasoning in Fairness and Recourse,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-785,Anytime Sorting Algorithms,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-786,,IJCAI,2024,Main Track,False,False,True,hold | include,6
+ijcai2024-787,Online Learning of Capacity-Based Preference Models,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-788,Dirichlet-based Uncertainty Quantification for Personalized Federated Learning with Improved Posterior Networks,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-789,Proportion-based Sensitivity Analysis of Uncontrolled Confounding Bias in Causal Inference,IJCAI,2024,Main Track,False,False,True,exclude | hold,3
+ijcai2024-79,Fast One-Stage Unsupervised Domain Adaptive Person Search,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-790,CausalNET: Unveiling Causal Structures on Event Sequences by Topology-Informed Causal Attention,IJCAI,2024,Main Track,False,False,True,exclude,2
+ijcai2024-8,Endogenous Energy Reactive Modules Games: Modelling Side Payments among Resource-Bounded Agents,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-80,Hybrid Frequency Modulation Network for Image Restoration,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-81,FreqFormer: Frequency-aware Transformer for Lightweight Image Super-resolution,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-82,Bridging Generative and Discriminative Models for Unified Visual Perception with Diffusion Priors,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-83,Unified Physical-Digital Face Attack Detection,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-84,CF-Deformable DETR: An End-to-End Alignment-Free Model for Weakly Aligned Visible-Infrared Object Detection,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-85,Self-Supervised Pre-training with Symmetric Superimposition Modeling for Scene Text Recognition,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-86,A Dataset and Model for Realistic License Plate Deblurring,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-87,Cross-Scale Domain Adaptation with Comprehensive Information for Pansharpening,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-88,Enhancing Cross-modal Completion and Alignment for Unsupervised Incomplete Text-to-Image Person Retrieval,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-89,TSESNet: Temporal-Spatial Enhanced Breast Tumor Segmentation in DCE-MRI Using Feature Perception and Separability,IJCAI,2024,Main Track,True,False,True,INCLUDE,5
+ijcai2024-9,Parameterized Complexity of Kidney Exchange Revisited,IJCAI,2024,Main Track,True,True,True,INCLUDE,6
+ijcai2024-90,UniM-OV3D: Uni-Modality Open-Vocabulary 3D Scene Understanding with Fine-Grained Feature Representation,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-91,A Lightweight U-like Network Utilizing Neural Memory Ordinary Differential Equations for Slimming the Decoder,IJCAI,2024,Main Track,True,False,True,INCLUDE,5
+ijcai2024-92,CMMU: A Benchmark for Chinese Multi-modal Multi-type Question Understanding and Reasoning,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-93,Why Only Text: Empowering Vision-and-Language Navigation with Multi-modal Prompts,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-94,Improving Adversarial Robustness via Feature Pattern Consistency Constraint,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-95,Hundred-Kilobyte Lookup Tables for Efficient Single-Image Super-Resolution,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-96,Long Short-Term Dynamic Prototype Alignment Learning for Video Anomaly Detection,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-97,Eliminating the Cross-Domain Misalignment in Text-guided Image Inpainting,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-98,Rethinking Correlation Learning via Label Prior for Open Set Domain Adaptation,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2024-99,PPTFormer: Pseudo Multi-Perspective Transformer for UAV Segmentation,IJCAI,2024,Main Track,True,False,True,EXCLUDE,2
+ijcai2025-1,Synthesising Minimum Cost Dynamic Norms,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-10,Argument-based Multi-Issue Negotiation,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-100,Global Information Compensation Network for Image Denoising,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-1000,Inferring Causal Protein Signaling Networks with Reinforcement Learning via Artificial Bee Colony Neural Architecture Search,IJCAI,2025,,False,True,False,,4
+ijcai2025-1001,A Weighted-Based Fast Local Search for α-Neighbor p-Center Problem,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-1002,Exact Algorithms with New Upper Bounds for the Maximum k-plex Problem,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-1003,A Reduction-Based Algorithm for the Clique Interdiction Problem,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-1004,Attractor-based Closed List Search: Sparsifying the Closed List for Efficient Memory-Constrained Planning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-1005,LP-Based Weighted Model Integration over Non-Linear Real Arithmetic,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-1006,Most Probable Explanation in Probabilistic Answer Set Programming,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-1007,Polynomial-Time Relational Probabilistic Inference in Open Universes,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-1008,Phenotypic Profile-Informed Generation of Drug-Like Molecules via Dual-Channel Variational Autoencoders,IJCAI,2025,,False,True,False,,4
+ijcai2025-1009,Approximate Lifted Model Construction,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-101,GSDet: Gaussian Splatting for Oriented Object Detection,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-1010,LLM-enhanced Score Function Evolution for Causal Structure Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-1011,Efficient Constraint-based Window Causal Graph Discovery in Time Series with Multiple Time Lags,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-1012,Two-stage Risk Control with Application to Ranked Retrieval,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-1013,Conditional Independent Test in the Presence of Measurement Error with Causal Structure Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-1014,Situational-Constrained Sequential Resources Allocation via Reinforcement Learning,IJCAI,2025,Main,True,False,True,EXCLUDE,1
+ijcai2025-1015,,IJCAI,2025,,False,False,False,,3
+ijcai2025-1017,,IJCAI,2025,,False,False,False,,3
+ijcai2025-102,Template-based Uncertainty Multimodal Fusion Network for RGBT Tracking,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-1022,,IJCAI,2025,,False,False,False,,3
+ijcai2025-1023,,IJCAI,2025,,False,False,False,,3
+ijcai2025-103,Dual-level Fuzzy Learning with Patch Guidance for Image Ordinal Regression,IJCAI,2025,,True,True,True,include,6
+ijcai2025-1031,CycSeq: Leveraging Cyclic Data Generation for Accurate Perturbation Prediction in Single-Cell RNA-Seq,IJCAI,2025,AI4Tech: AI Enabling Technologies,False,False,True,include,4
+ijcai2025-1035,,IJCAI,2025,,False,False,False,,3
+ijcai2025-1036,,IJCAI,2025,,False,False,False,,3
+ijcai2025-104,"Richer Semantics, Better Alignment: Aligning Visual Features with Explicit and Enriched Semantics for Visible-Infrared Person Re-Identification",IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-1047,,IJCAI,2025,,False,False,False,,3
+ijcai2025-105,Mask Does Not Matter: A Unified Latent Diffusion-Enhanced Framework for Mask-Free Virtual Try-On,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-1050,,IJCAI,2025,,False,False,False,,3
+ijcai2025-1052,,IJCAI,2025,,False,False,False,,3
+ijcai2025-1057,Faster Annotation for Elevation-Guided Flood Extent Mapping by Consistency-Enhanced Active Learning,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1058,Agent-based Modeling Meets the Capability Approach for Human Development: Simulating Homelessness Policy-making,IJCAI,2025,AI and Social Good,False,False,True,include,3
+ijcai2025-1059,Moral Compass: A Data-Driven Benchmark for Ethical Cognition in AI,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-106,Unleashing the Semantic Adaptability of Controlled Diffusion Model for Image Colorization,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-1060,"SHIELD: A Self-supervised, Silicosis-focused Hierarchical Imaging Framework for Occupational Lung Disease Diagnosis",IJCAI,2025,AI and Social Good,False,False,True,include,4
+ijcai2025-1061,MutationGuard: A Graph and Temporal-Spatial Neural Method for Detecting Mutation Telecommunication Fraud,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1062,An Interactive Game-based Multi-Agent AI System for Children’s Social and Emotional Development,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1063,Recommender Systems for Democracy: Toward Adversarial Robustness in Voting Advice Applications,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1064,Exploring Equity of Climate Policies Using Multi-Agent Multi-Objective Reinforcement Learning,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1065,LogiDebrief: A Signal-Temporal Logic Based Automated Debriefing Approach with Large Language Models Integration,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1066,Towards the Terminator Economy: Assessing Job Exposure to AI Through LLMs,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1067,Detection and Geographic Localization of Natural Objects in the Wild: A Case Study on Palms,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1068,DeepShade: Enable Shade Simulation by Text-conditioned Image Generation,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1069,Denoised Attention and Question-Augmented Representations for Knowledge Tracing,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-107,MAGE: Multimodal Alignment and Generation Enhancement via Bridging Visual and Semantic Spaces,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-1070,Towards a Bipartisan Understanding of Peace and Vicarious Interactions,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1071,Deconfounding Multi-Cause Latent Confounders: A Factor-Model Approach to Climate Model Bias Correction,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1072,Detecting Illicit Massage Businesses by Leveraging Graph Machine Learning,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1073,Resolving Conflicting Evidence in Automated Fact-Checking: A Study on Retrieval-Augmented LLMs,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1074,Weather Foundation Model Enhanced Decentralized Photovoltaic Power Forecasting Through Spatio-temporal Knowledge Distillation,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1075,Direct Estimation of Attenuation Information from Sinograms for Positron Emission Tomography Reconstruction,IJCAI,2025,AI and Social Good,False,False,True,include,4
+ijcai2025-1076,IGraSS: Learning to Identify Infrastructure Networks from Satellite Imagery by Iterative Graph-constrained Semantic Segmentation,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1077,Knowledge-Informed Deep Learning for Irrigation Type Mapping from Remote Sensing,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1078,Automating Intervention Discovery from Scientific Literature: A Progressive Ontology Prompting and Dual-LLM Framework,IJCAI,2025,AI and Social Good,False,False,True,include,4
+ijcai2025-1079,Sustainable Wearables for Health Applications and Beyond via Uncertainty-Aware Energy Management,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-108,Multi-Modal Point Cloud Completion with Interleaved Attention Enhanced Transformer,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-1080,Uncertainty-aware Predict-Then-Optimize Framework for Equitable Post-Disaster Power Restoration,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1081,REVEAL: Multi-turn Evaluation of Image-Input Harms for Vision LLMs,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1082,An Ethical Dataset from Real-World Interactions Between Users and Large Language Models,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1083,What is Beneath Misogyny: Misogynous Memes Classification and Explanation,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1084,What is Behind Homelessness Bias? Using LLMs and NLP to Mitigate Homelessness by Acting on Social Stigma,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1085,Leveraging Artificial Intelligence to Bridge Gaps in Pediatric Oncology Care for Marginalized Spanish-Speaking Communities,IJCAI,2025,AI and Social Good,False,False,True,include,3
+ijcai2025-1086,Towards the 30 by 30 Kunming-Montreal Global Biodiversity Framework Target: Optimising Graph Connectivity in Constraint-Based Spatial Planning,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1087,AI-Assisted Triage and Decision Support of Head and Neck Cancer Screening and Diagnosis in Low-Resourced Settings,IJCAI,2025,AI and Social Good,False,False,True,include,3
+ijcai2025-1088,Deep Reinforcement Learning for Efficient and Fair Allocation of Healthcare Resources,IJCAI,2025,AI and Social Good,False,False,True,include,4
+ijcai2025-1089,Mat-Instructions: A Large-Scale Inorganic Material Instruction Dataset for Large Language Models,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-109,Adaptive Language-Aware Image Reflection Removal Network,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-1090,Expanding Connected Components from Alternative Terminals: Global Optimization for Freshwater Fishes Under the UN's 30x30 Conservation Goal,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1091,Hazard Function Guided Agent-Based Models: A Case Study of Return Migration from Poland to Ukraine,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1092,Perspectives in Play: A Multi-Perspective Approach for More Inclusive NLP Systems,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1093,SMILE: A Scale-aware Multiple Instance Learning Method for Multicenter STAS  Lung Cancer Histopathology Diagnosis,IJCAI,2025,AI and Social Good,True,True,True,include,5
+ijcai2025-1094,Classifying and Tracking International Aid Contribution Towards SDGs,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1095,CoDiCast: Conditional Diffusion Model for Global Weather Forecasting with Uncertainty Quantification,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1096,"SAHAY: Multimodal, Privacy-Preserving AI for Suicide Risk Detection and Intervention in India",IJCAI,2025,AI and Social Good,False,False,True,include,3
+ijcai2025-1097,Early Detection of Patient Deterioration from Real-Time Wearable Monitoring System,IJCAI,2025,AI and Social Good,True,True,True,include,5
+ijcai2025-1098,AI Diagnostic Assistant (AIDA): A Predictive Model for Diagnoses from Health Records in Clinical Decision Support Systems,IJCAI,2025,AI and Social Good,True,True,True,include,5
+ijcai2025-1099,Enhancing Online Climate Discourse: A Two-Stage Framework for Climate Content Categorization and Moderation,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-11,SocialMP: Learning Social Aware Motion Patterns via Additive Fusion for Pedestrian Trajectory Prediction,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-110,Efficient Hi-Fi Style Transfer via Statistical Attention and Modulation,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-1100,DECASTE: Unveiling Caste Stereotypes in Large Language Models Through Multi-Dimensional Bias Analysis,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1101,MCloudNet: An Ultra-Short-Term Photovoltaic Power Forecasting Framework With Multi-Layer Cloud Coverage,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1102,Beyond Patterns: Harnessing Causal Logic for Autonomous Driving Trajectory Prediction,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1103,ContextAware: A Multi-Agent Framework for Detecting Harmful Image-Based Comments on Social Media,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1104,City-Level Foreign Direct Investment Prediction with Tabular Learning on Judicial Data,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1105,HARMONY: A Privacy-preserving and Sensor-agnostic Tele-monitoring system,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1106,Exploring Multimodal Foundation AI and Expert-in-the-Loop for Sustainable Management of Wild Salmon Fisheries in Indigenous Rivers,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1107,Generative Agents for Multimodal Controversy Detection,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1108,LLM-based Collaborative Agents with Pedagogy-guided Interaction Modeling for Timely Instructive Feedback Generation in Task-oriented Group Discussions,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1109,QBR – A Question-Bank-Based Approach to Fine-Grained Legal Knowledge Retrieval for the General Public,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-111,2D Gaussian Splatting for Outdoor Scene Decomposition and Relighting,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-1110,ECG2TOK: ECG Pre-Training with Self-Distillation Semantic Tokenizers,IJCAI,2025,AI and Social Good,True,True,True,include,5
+ijcai2025-1111,OpenCarbon: A Contrastive Learning-based Cross-Modality Neural Approach for High-Resolution Carbon Emission Prediction Using Open Data,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1112,BGM: Demand Prediction for Expanding Bike-Sharing Systems with Dynamic Graph Modeling,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1113,Reinforcement Learning for Hybrid Charging Stations Planning and Operation Considering Fixed and Mobile Chargers,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-1114,Bidirectional Human–AI Collaboration for Equitable Student Performance Prediction via Deep Uncertainty Learning,IJCAI,2025,AI and Social Good,False,False,True,exclude,1
+ijcai2025-112,Active Multimodal Distillation for Few-shot Action Recognition,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-113,Mixture-of-Queries Transformer: Camouflaged Instance Segmentation via Queries Cooperation and Frequency Enhancement,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-114,DepthART: Monocular Depth Estimation as Autoregressive Refinement Task,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-115,Reliable and Diverse Hierarchical Adapter for Zero-shot Video Classification,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-116,Base-Detail Feature Learning Framework for Visible-Infrared Person Re-Identification,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-117,DDPA-3DVG: Vision-Language Dual-Decoupling and Progressive Alignment for 3D Visual Grounding,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-118,GPI-Net: Gestalt-Guided Parallel Interaction Network via Orthogonal Geometric Consistency for Robust Point Cloud Registration,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-119,Shaping a Stabilized Video by Mitigating Unintended Changes for Concept-Augmented Video Editing,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-12,L2M2: A Hierarchical Framework Integrating Large Language Model and Multi-agent Reinforcement Learning,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-120,DcDsDiff: Dual-Conditional and Dual-Stream Diffusion Model for Generative Image Tampering Localization,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-121,Exploiting Position Information in Convolutional Kernels for Structural Re-parameterization,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-122,Beyond Feature Mapping GAP: Integrating Real HDRTV Priors for Superior SDRTV-to-HDRTV Conversion,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-123,Incorporating Visual Experts to Resolve the Information Loss in Multimodal Large Language Models,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-124,INT: Instance-Specific Negative Mining for Task-Generic Promptable Segmentation,IJCAI,2025,,True,True,True,hold,3
+ijcai2025-125,RLMiniStyler: Light-weight RL Style Agent for  Arbitrary Sequential Neural Style Generation,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-126,Boosting Visual Knowledge-Intensive Training for LVLMs Through Causality-Driven Visual Object Completion,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-127,Poisoning-based Backdoor Attacks for Arbitrary Target Label with Positive Triggers,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-128,Hybrid Mesh-Gaussian Representation for Efficient Indoor Scene Reconstruction,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-129,Omni-Dimensional State Space Model-driven SAM for Pixel-level Anomaly Detection,IJCAI,2025,,True,True,True,include,6
+ijcai2025-13,Resistance is Futile: Gradually Declining Immunity Retains the Exponential Duration of Immunity-Free Diffusion,IJCAI,2025,,True,True,True,hold,2
+ijcai2025-130,Progressive Modality-Adaptive Interactive Network for Multi-Modality Image Fusion,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-131,Spotlighting Partially Visible Cinematic Language for Video-to-Audio Generation via Self-distillation,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-132,ADC-GS: Anchor-Driven Deformable and Compressed Gaussian Splatting for Dynamic Scene Reconstruction,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-133,VimGeo: Efficient Cross-View Geo-Localization with Vision Mamba Architecture,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-134,Volumetric Axial Disentanglement Enabling Advancing in Medical Image Segmentation,IJCAI,2025,,True,True,True,include,6
+ijcai2025-135,Human Motion Capture from Loose and Sparse Inertial Sensors with Garment-aware Diffusion Models,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-136,"Optical Flow Estimation for Tiny Objects: New Problem, Specialized Benchmark, and Bioinspired Scheme",IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-137,SeqPose: An End-to-End Framework to Unify Single-frame and Video-based RGB Category-Level Pose Estimation,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-138,IE-PMMA:Point Cloud Completion Through Inverse Edge-aware Upsampling and Precise Multi-Modal Feature Alignment,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-139,Concentrate on Weakness: Mining Hard Prototypes for Few-Shot Medical Image Segmentation,IJCAI,2025,,True,True,True,include,6
+ijcai2025-14,MIRROR: Multi-agent Intra- and Inter-Reflection for Optimized Reasoning in Tool Learning,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-140,Always Clear Depth: Robust Monocular Depth Estimation Under Adverse Weather,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-141,"Exploring the Frontiers of Animation Video Generation in the Sora Era: Method, Dataset and Benchmark",IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-142,Object-Level Backdoor Attacks in RGB-T Semantic Segmentation with Cross-Modality Trigger Optimization,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-143,Seeing the Unseen: Composing Outliers for Compositional Zero-Shot Learning,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-144,UniCT Depth: Event-Image Fusion Based Monocular Depth Estimation with Convolution-Compensated ViT Dual SA Block,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-145,"Projection, Interaction and Fusion: A Progressive Difference Fusion Network for Salient Object Detection",IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-146,Data Poisoning Attack Defense and Evolutionary Domain Adaptation for Federated Medical Image Segmentation,IJCAI,2025,,True,True,True,include,6
+ijcai2025-147,SSTrack: Sample-interval Scheduling for Lightweight Visual Object Tracking,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-148,Online 3D Gaussian Splatting Modeling with Novel View Selection,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-149,Curriculum Hierarchical Knowledge Distillation for Bias-Free Survival Prediction,IJCAI,2025,,True,True,True,include,5
+ijcai2025-15,"Strategies, Credences, and Shannon Entropy: Reasoning about Strategic Uncertainty in Stochastic Environments",IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-150,Multi-Sourced Compositional Generalization in Visual Question Answering,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-151,Few-shot Novel Category Discovery,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-152,Learnable Frequency Decomposition for Image Forgery Detection and Localization,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-153,Exploring Efficient and Effective Sequence Learning for Visual Object Tracking,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-154,Towards Regularized Mixture of Predictions for Class-Imbalanced Semi-Supervised Facial Expression Recognition,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-155,ESBN: Estimation Shift of Batch Normalization for Source-free Universal Domain Adaptation,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-156,Preventing Latent Diffusion Model-Based Image Mimicry via Angle Shifting and Ensemble Learning,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-157,Tackling Long-Tailed Data Challenges in Spiking Neural Networks via Heterogeneous Knowledge Distillation,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-158,Temporal Consistency Constrained Transferable Adversarial Attacks with Background Mixup for Action Recognition,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-159,Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-16,Steady-State Strategy Synthesis for Swarms of Autonomous Agents,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-160,The Role of Video Generation in Enhancing Data-Limited Action Understanding,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-161,Hypernetwork Aggregation for Decentralized Personalized Federated Learning,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-162,Free Lunch of Image-mask Alignment for Anomaly Image Generation and Segmentation,IJCAI,2025,,True,True,True,include,5
+ijcai2025-163,GarmentDiffusion: 3D Garment Sewing Pattern Generation with Multimodal Diffusion Transformers,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-164,Towards Anytime Retrieval: A Benchmark for Anytime Person Re-Identification,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-165,Counterfactual Knowledge Maintenance for Unsupervised Domain Adaptation,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-166,Graph Prompts: Adapting Video Graph for Video Question Answering,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-167,A Dual Stream Visual Tokenizer for LLM Image Generation,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-168,A Timestep-Adaptive Frequency-Enhancement Framework for Diffusion-based Image Super-Resolution,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-169,Semantic-Space-Intervened Diffusive Alignment for Visual Classification,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-17,Approximate Verification of Strategic Abilities under Imperfect Information Using Local Models,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-170,Physical Adversarial Camouflage Through Gradient Calibration and Regularization,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-171,PatternCIR Benchmark and TisCIR: Advancing Zero-Shot Composed Image Retrieval in Remote Sensing,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-172,MGCA-Net: Multi-Graph Contextual Attention Network for Two-View Correspondence Learning,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-173,GLDiTalker: Speech-Driven 3D Facial Animation with Graph Latent Diffusion Transformer,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-174,Language-Guided Hybrid Representation Learning for Visual Grounding on Remote Sensing Images,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-175,TextMEF: Text-guided Prompt Learning for Multi-exposure Image Fusion,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-176,SyncGaussian: Stable 3D Gaussian-Based Talking Head Generation with Enhanced Lip Sync via Discriminative Speech Features,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-177,Learning Real Facial Concepts for Independent Deepfake Detection,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-178,Fusion of Granular-Ball Visual Spatial Representations for Enhanced Facial Expression Recognition,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-179,Squeezing Context into Patches: Towards Memory-Efficient Ultra-High Resolution Semantic Segmentation,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-18,RoLocMe: A Robust Multi-agent Source Localization System with Learning-based Map Estimation,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-180,Denoise-then-Retrieve: Text-Conditioned Video Denoising for Video Moment Retrieval,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-181,SOTA: Spike-Navigated Optimal TrAnsport Saliency Region Detection in Composite-bias Videos,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-182,Template3D-AD: Point Cloud Template Matching Method Based on Center Points for 3D Anomaly Detection,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-183,From Sparse to Complete: Semantic Understanding Based on Stroke Evolution in  On-the-fly Sketch-based Image Retrieval,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-184,OT-DETECTOR: Delving into Optimal Transport for Zero-shot Out-of-Distribution Detection,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-185,SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-186,Semantic-Guided Diffusion Model for Single-Step Image Super-Resolution,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-187,Wavelet Multi-scale Region-Enhanced Network for Medical Image Segmentation,IJCAI,2025,,True,True,True,include,5
+ijcai2025-188,EDyGS: Event Enhanced Dynamic 3D Radiance Fields from Blurry Monocular Video,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-189,Rotation Invariant Spatial Networks for Single-View Point Cloud Classification,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-19,Combining Deep Reinforcement Learning and Search with Generative Models for Game-Theoretic Opponent Modeling,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-190,PanComplex: Leveraging Complex-Valued Neural Networks for Enhanced Pansharpening,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-191,CrossVTON: Mimicking the Logic Reasoning on Cross-Category Virtual Try-On Guided by Tri-Zone Priors,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-192,Self-calibration Enhanced Whole Slide Pathology Image Analysis,IJCAI,2025,,True,True,True,include,5
+ijcai2025-193,Noise Optimized Conditional Diffusion for Domain Adaptation,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-194,SE(3)-Equivariant Diffusion Models for 3D Object Analysis,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-195,Towards Robust Deterministic and Probabilistic Modeling for Predictive Learning,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-196,Stabilizing Holistic Semantics in Diffusion Bridge for Image Inpainting,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-197,Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-198,EyeSeg: An Uncertainty-Aware Eye Segmentation Framework for AR/VR,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-199,Accelerating Diffusion-based Super-Resolution with Dynamic Time-Spatial Sampling,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-2,AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-20,Asynchronous Credit Assignment for Multi-Agent Reinforcement Learning,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-200,EfficientPIE: Real-Time Prediction on Pedestrian Crossing Intention with Sole Observation,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-201,Multimodal Cancer Survival Analysis via Hypergraph Learning with Cross-Modality Rebalance,IJCAI,2025,Main,True,False,True,include,4
+ijcai2025-202,ExpTalk: Diverse Emotional Expression via Adaptive Disentanglement and Refined Alignment for Speech-Driven 3D Facial Animation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-203,K-Buffers: A Plug-in Method for Enhancing Neural Fields with Multiple Buffers,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-204,Q-MiniSAM2: A Quantization-based Benchmark for Resource-Efficient Video Segmentation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-205,RDPA: Real-Time Distributed-Concentrated Penetration Attack for Point Cloud Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-206,BankTweak: Adversarial Attack Against Multi-Object Trackers by Manipulating Feature Banks,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-207,MS-DPPs: Multi-Source Determinantal Point Processes for Contextual Diversity Refinement of Composite Attributes in Text to Image Retrieval,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-208,MultiDreamer3D: Multi-concept 3D Customization with Concept-Aware Diffusion Guidance,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-209,CMFS: CLIP-Guided Modality Interaction for Mitigating Noise in Multi-Modal Image Fusion and Segmentation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-21,Online Resource Sharing: Better Robust Guarantees via Randomized Strategies,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-210,Coming Out of the Dark: Human Pose Estimation in Low-light Conditions,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-211,Outstanding Orthodontist: No More Artifactual Teeth in Talking Face,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-212,Understanding Visual Detail Hallucinations of Large Vision-Language Models,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-213,Dual-Perspective United Transformer for Object Segmentation in Optical Remote Sensing Images,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-214,SketchAgent: Generating Structured Diagrams from Hand-Drawn Sketches,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-215,"Wave-wise Discriminative Tracking by Phase-Amplitude Separation, Augmentation and Mixture",IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-216,BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-217,Prompt-Free Conditional Diffusion for Multi-object Image Augmentation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-218,ForgDiffuser: General Image Forgery Localization with Diffusion Models,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-219,Gaussian Mixture Model for Graph Domain Adaptation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-22,Odyssey : Empowering Minecraft Agents with Open-World Skills,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-220,Reliable and Calibrated Semantic Occupancy Prediction by Hybrid Uncertainty Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-221,Self-supervised End-to-end ToF Imaging Based on RGB-D Cross-modal Dependency,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-222,Distributed Cascaded Manifold Hashing Network for Compact Image Set Representation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-223,METOR: A Unified Framework for Mutual Enhancement of Objects and Relationships in Open-vocabulary Video Visual Relationship Detection,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-224,MSCI: Addressing CLIP's Inherent Limitations for Compositional Zero-Shot Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-225,ProMEA: Prompt-driven Expansion and Alignment for Single Domain Generalization,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-226,Boosting Zero-shot Stereo Matching Using Large-Scale Mixed Images Sources  in the Real World,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-227,Deep Opinion-Unaware Blind Image Quality Assessment by Learning and Adapting from Multiple Annotators,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-228,Few-Shot Incremental Multi-modal Learning via Touch Guidance and Imaginary Vision Synthesis,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-229,Indirect Alignment and Relationship Preservation for Domain Generalization,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-23,Deep Learning-Based Pedestrian Simulation with Limited Real-World Training Data: An Evaluation Framework,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-230,Drafting and Revision: Advancing High-Fidelity Video Inpainting,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-231,Seeking Proxy Point via Stable Feature Space for Noisy Correspondence Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-232,TP-Eval: Tap Multimodal LLMs' Potential in Evaluation by Customizing Prompts,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-233,Spatial-Spectral Similarity-Guided Fusion Network for Pansharpening,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-234,Unleashing the Potential of Transformer Flow for Photorealistic Face Restoration,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-235,ElaD-Net: An Elastic Semantic Decoupling Network for Lesion Segmentation in Breast Ultrasound Images,IJCAI,2025,,False,True,False,,4
+ijcai2025-236,Advancing Stain Transfer for Multi-Biomarkers: A Human Annotation-Free Method Based on Auxiliary Task Supervision,IJCAI,2025,Main,True,False,True,include,4
+ijcai2025-237,Pre-defined Keypoints Promote Category-level Articulation Pose Estimation via Multi-Modal Alignment,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-238,Low-Light Video Enhancement via Spatial-Temporal Consistent Decomposition,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-239,TEST-V: TEst-time Support-set Tuning for Zero-shot Video Classification,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-24,Constructive Conflict-Driven Multi-Agent Reinforcement Learning for Strategic Diversity,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-240,Cross-modal Collaborative Representation Learning for Text-to-Image Person Retrieval,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-241,Frequency-Aware Deep Depth from Focus,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-242,SCOUT: Semi-supervised Camouflaged Object Detection by Utilizing Text and Adaptive Data Selection,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-243,Leveraging MLLM Embeddings and Attribute Smoothing for Compositional Zero-Shot Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-244,AttentionDrag: Exploiting Latent Correlation Knowledge in Pre-trained Diffusion Models for Image Editing,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-245,Unlocking Dark Vision Potential for Medical Image Segmentation,IJCAI,2025,Main,True,False,True,include,4
+ijcai2025-246,Multimodal Image Matching Based on Cross-Modality Completion Pre-training,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-247,RAMer: Reconstruction-based Adversarial Model for Multi-party Multi-modal Multi-label Emotion Recognition,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-248,DPMamba: Distillation Prompt Mamba for Multimodal Remote Sensing Image Classification with Missing Modalities,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-249,Do You Steal My Model? Signature Diffusion Embedded  Dual-Verification Watermarking for Protecting Intellectual Property of Hyperspectral Image Classification Models,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-25,Beyond Winning Strategies: Admissible and Admissible Winning Strategies for Quantitative Reachability Games,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-250,BEVTrack: A Simple and Strong Baseline for 3D Single Object Tracking in Bird's-Eye View,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-251,DriftRemover: Hybrid Energy Optimizations for Anomaly Images Synthesis and Segmentation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-252,VQCounter: Designing Visual Prompt Queue for Accurate Open-World Counting,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-253,HIPP: Protecting Image Privacy via High-Quality Reversible Protected Version,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-254,Self-Classification Enhancement and Correction for Weakly Supervised Object Detection,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-255,SCVBench: A Benchmark with Multi-turn Dialogues for Story-Centric Video Understanding,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-256,INFP: INdustrial Video Anomaly Detection via Frequency Prioritization,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-257,Brain-Inspired Stepwise Patch Merging for Vision Transformers,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-258,DToMA: Training-free Dynamic Token MAnipulation for Long Video Understanding,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-259,Denoising Diffusion Models are Good General Gaze Feature Learners,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-26,Navigating Social Dilemmas with LLM-based Agents via Consideration of Future Consequences,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-260,Point Cloud Mixture-of-Domain-Experts Model for 3D Self-supervised Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-261,Exploring Semantic Masked Autoencoder for Self-supervised Point Cloud Understanding,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-262,G3PT: Unleash the Power of Autoregressive Modeling in 3D Generation via Cross-Scale Querying Transformer,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-263,Multimodal Prior Learning with Double Constraint Alignment for Snapshot Spectral Compressive Imaging,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-264,Leveraging Pretrained Diffusion Models for Zero-Shot Part Assembly,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-265,CSF-GAN: Cross-modal Semantic Fusion-based Generative Adversarial Network for Text-guided Image Inpainting,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-266,Training-free Fourier Phase Diffusion for Style Transfer,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-267,HyperTrans: Efficient Hypergraph-Driven Cross-Domain Pattern Transfer in Image Anomaly Detection,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-268,Towards Micro-Action Recognition with Limited Annotations: An Asynchronous Pseudo Labeling and Training Approach,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-269,Optimized View and Geometry Distillation from Multi-view Diffuser,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-27,Multi Objective Quantile Based Reinforcement Learning for Modern Urban Planning,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-270,GraphAD: Interaction Scene Graph for End-to-end Autonomous Driving,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-271,Efficient Visual Representation Learning with Heat Conduction Equation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-272,Balancing Invariant and Specific Knowledge for Domain Generalization with Online Knowledge Distillation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-273,Bi-DiffCD: Bidirectional Diffusion Guided Collaborative Change Detection for Arbitrary-Modal Remote Sensing Images,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-274,Enhancing Multimodal Model Robustness Under Missing Modalities via Memory-Driven Prompt Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-275,RPMIL: Rethinking Uncertainty-Aware Probabilistic Multiple Instance Learning for Whole Slide Pathology Diagnosis,IJCAI,2025,Main,True,False,True,include,4
+ijcai2025-276,Open-Vocabulary Fine-Grained Hand Action Detection,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-277,CorrDetail: Visual Detail Enhanced Self-Correction for Face Forgery Detection,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-278,Adversarial Attacks on Both Face Recognition and Face Anti-spoofing Models,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-279,Enhancing Table Recognition with Vision LLMs: A Benchmark and Neighbor-Guided Toolchain Reasoner,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-28,Multi-Agent Corridor Generating Algorithm,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-280,Cause-Effect Driven Optimization for Robust Medical Visual Question Answering with Language Biases,IJCAI,2025,Main,True,False,True,include,4
+ijcai2025-281,Endogenous Recovery via Within-modality Prototypes for Incomplete Multimodal Hashing,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-282,RegionMatch: Pixel-Region Collaboration for Semi-Supervised Semantic Segmentation in Remote Sensing Images,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-283,CFII-Net: Explicit Class Embeddings and Feature Maps Through Iterative Interaction for Boosting Medical Image Segmentation,IJCAI,2025,Main,True,False,True,include,4
+ijcai2025-284,Top-Down Guidance for Learning Object-Centric Representations,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-285,Learning Optimal Oblique Decision Trees with (Max)SAT,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-286,Balans: Multi-Armed Bandits-based Adaptive Large Neighborhood Search for Mixed-Integer Programming Problems,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-287,Large-Scale Trade-Off Curve Computation for Incentive Allocation with Cardinality and Matroid Constraints,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-288,Preference Elicitation for Multi-objective Combinatorial Optimization with Active Learning and Maximum Likelihood Estimation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-289,Privacy Preserving Solution of DCOPs by Local Search,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-29,Simulating Misinformation Diffusion on Social Media Through CoNVaI: A Textual- and Agent-Based Diffusion Model,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-290,A SAT-based Method for Counting All Singleton Attractors in Boolean Networks,IJCAI,2025,Main,True,False,True,include,4
+ijcai2025-291,Bimodal Depth-First Search for Scalable GAC for AllDifferent,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-292,"Verified Certificates via SAT and Computer Algebra Systems for the Ramsey R(3,8) and R(3,9) Problems",IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-293,Constrained Sequential Inference in Machine Learning Using Constraint Programming,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-294,Efficient and Rigorous Model-Agnostic Explanations,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-295,An Efficient Core-Guided Solver for Weighted Partial MaxSAT,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-296,Guiding Large Language Models in Modeling Optimization Problems via Question Partitioning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-297,New Algorithms for #2-SAT and #3-SAT,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-298,New Sequence-Independent Lifting Techniques for Cover Inequalities and When They Induce Facets,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-299,A Unifying Framework for Semiring-Based Constraint Logic Programming With Negation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-3,Coalition Obstruction Temporal Logic: A New Obstruction Logic to Reason About Demon Coalitions,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-30,Synthesis of Communication Policies for Multi-Agent Systems Robust to Communication Restrictions,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-300,Empowering Multimodal Road Traffic Profiling with Vision Language Models and Frequency Spectrum Fusion,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-301,AKBR: Learning Adaptive Kernel-based Representations for Graph Classification,IJCAI,2025,Main,True,False,True,include,4
+ijcai2025-302,GPL4SRec: Graph Multi-Level Aware Prompt Learning for Streaming Recommendation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-303,Antibody Design and Optimization with Multi-scale Equivariant Graph   Diffusion Models for Accurate Complex Antigen Binding,IJCAI,2025,Main,True,False,True,include,4
+ijcai2025-304,FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning for Targeted Sentiment Analysis,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-305,A Novel Sparse Active Online Learning Framework for Fast and Accurate Streaming Anomaly Detection Over Data Streams,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-306,SourceDetMamba: A Graph-aware State Space Model for Source Detection in Sequential Hypergraphs,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-307,HyperDet: Source Detection in Hypergraphs via Interactive Relationship Construction and Feature-rich Attention Fusion,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-308,Adaptive Graph Unlearning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-309,Suit the Node Pair to the Case: A Multi-Scale Node Pair Grouping Strategy for Graph-MLP Distillation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-31,Streaming Multi-agent Pathfinding,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-310,Picturized and Recited with Dialects: A Multimodal Chinese Representation Framework for Sentiment Analysis of Classical Chinese Poetry,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-311,Exploiting Self-Refining Normal Graph Structures for Robust Defense against Unsupervised Adversarial Attacks,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-312,Efficient Dynamic Graphs Learning with Refined Batch Parallel Training,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-313,Hierarchy Knowledge Graph for Parameter-Efficient Entity Embedding,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-314,"Unsupervised Feature Transformation via In-context Generation, Generator-critic LLM Agents, and Duet-play Teaming",IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-315,NeuBM: Mitigating Model Bias in Graph Neural Networks Through Neutral Input Calibration,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-316,Balance-Aware Sequence Sampling Makes Multi-Modal Learning Better,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-317,NAAST-GNN: Neighborhood Adaptive Aggregation and Spectral Tuning for Graph Anomaly Detection,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-318,Efficient Inter-Operator Scheduling  for Concurrent Recommendation Model Inference on GPU,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-319,Balancing Imbalance: Data-Scarce Urban Flow Prediction via Spatio-Temporal Balanced Transfer Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-32,Equitable Mechanism Design for Facility Location,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-320,Filling the Missings: Spatiotemporal Data Imputation by Conditional Diffusion,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-321,HPDM: A Hierarchical Popularity-aware Debiased Modeling Approach for Personalized News Recommender,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-322,MaskDGNN: Self-Supervised Dynamic Graph Neural Networks with Activeness-aware Temporal Masking,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-323,Aggregation Mechanism Based Graph Heterogeneous Networks Distillation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-324,ABNet: Mitigating Sample Imbalance in Anomaly Detection Within Dynamic Graphs,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-325,A Generalized Diffusion Framework with Learnable Propagation Dynamics for Source Localization,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-326,Good Advisor for Source Localization: Using Large Language Model to Guide the Source Inference Process,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-327,Soft Reasoning Paths for Knowledge Graph Completion,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-328,ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-329,Interaction-Data-guided Conditional Instrumental Variables for Debiasing Recommender Systems,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-33,Quantifying the Self-Interest Level of Markov Social Dilemmas,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-330,OS-GCL: A One-Shot Learner in Graph Contrastive Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-331,Hybrid Relational Graphs with Sentiment-laden Semantic Alignment for Multimodal Emotion Recognition in Conversation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-332,HGMP: Heterogeneous Graph Multi-Task Prompt Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-333,FedCCH: Automatic Personalized Graph Federated Learning for Inter-Client and Intra-Client Heterogeneity,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-334,A Dynamic Knowledge Update-Driven Model with Large Language Models for Fake News Detection,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-335,Rethinking Contrastive Learning in Graph Anomaly Detection: A Clean-View Perspective,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-336,Prototype-based Optimal Transport for Out-of-Distribution Detection,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-337,Balancing User-Item Structure and Interaction with Large Language Models and Optimal Transport for Multimedia Recommendation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-338,Representation Learning with Mutual Influence of Modalities for Node Classification in Multi-Modal Heterogeneous Networks,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-339,App2Exa: Accelerating Exact kNN Search via Dynamic Cache-Guided Approximation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-34,CoderAgent: Simulating Student Behavior for Personalized Programming Learning with Large Language Models,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-340,TOTF: Missing-Aware Encoders for Clustering on Multi-View Incomplete Attributed Graphs,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-341,Decision-Aware Preference Modeling for Multi-Behavior Recommendation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-342,Single-Node Trigger Backdoor Attacks in Graph-Based Recommendation Systems,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-343,Beyond Individual and Point: Next POI Recommendation via Region-aware Dynamic Hypergraph with Dual-level Modeling,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-344,Preference Identification by Interaction Overlap for Bundle Recommendation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-345,Query-Based and Unnoticeable Graph Injection Attack from Neighborhood Perspective,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-346,Flow Matching Based Sequential Recommender Model,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-347,Heterogeneous Temporal Hypergraph Neural Network,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-348,Sharpness-aware Zeroth-order Optimization for Graph Transformers,IJCAI,2025,Main,True,False,True,include,4
+ijcai2025-349,DGExplainer: Explaining Dynamic Graph Neural Networks via Relevance Back-propagation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-35,Formal Synthesis of Safe Kolmogorov-Arnold Network Controllers with Barrier Certificates,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-350,Variational Graph Auto-Encoder Driven Graph Enhancement for Sequential Recommendation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-351,CLLMRec: Contrastive Learning with LLMs-based View Augmentation for Sequential Recommendation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-352,Dynamic Seed-GrowthCM: A Dynamic Benefit-Oriented Algorithm for Core Maximization on Large Graphs,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-353,Causal Learning Meet Covariates: Empowering Lightweight and Effective Nationwide Air Quality Forecasting,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-354,STLSP: Integrating Structure and Text with Large Language Models for Link Sign Prediction of Networks,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-355,Enhancing Long-Tail Bundle Recommendations Utilizing Composition Pattern Modeling,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-356,PALA: Class-imbalanced Graph Domain Adaptation via Prototype-anchored Learning and Alignment,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-357,MMNet: Missing-Aware and Memory-Enhanced Network for Multivariate Time Series Imputation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-358,Rethinking Graph Contrastive Learning Through Relative Similarity Preservation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-359,Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-36,MSMAR-RL: Multi-Step Masked-Attention Recovery Reinforcement Learning for Safe Maneuver Decision in High-Speed Pursuit-Evasion Game,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-360,Exploring the Over-smoothing Problem of Graph Neural Networks for Graph Classification: An Entropy-based Viewpoint,IJCAI,2025,Main,True,False,True,include,4
+ijcai2025-361,HA-SCN: Learning Hierarchical Aligned Subtree Convolutional Networks for Graph Classification,IJCAI,2025,Main,True,False,True,include,4
+ijcai2025-362,DHTAGK: Deep Hierarchical Transitive-Aligned Graph Kernels for Graph Classification,IJCAI,2025,Main,True,False,True,include,4
+ijcai2025-363,Unveiling the Power of Noise Priors: Enhancing Diffusion Models for  Mobile Traffic Prediction,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-364,Multi-Scale Temporal Neural Network for Stock Trend Prediction Enhanced by Temporal Hyepredge Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-365,Mitigating Message Imbalance in Fraud Detection with Dual-View Graph Representation Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-366,DualCast: A Model to Disentangle Aperiodic Events from Traffic Series,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-367,Towards Recognizing Spatial-temporal Collaboration of EEG Phase Brain Networks for Emotion Understanding,IJCAI,2025,Main,True,False,True,include,4
+ijcai2025-368,Trace: Structural Riemannian Bridge Matching for Transferable Source Localization in Information Propagation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-369,Riding the Wave: Multi-Scale Spatial-Temporal Graph Learning for Highway Traffic Flow Prediction Under Overload Scenarios,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-37,Wisdom from Diversity: Bias Mitigation Through Hybrid Human-LLM Crowds,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-370,SEP: A General Lossless Compression Framework with Semantics Enhancement and Multi-Stream Pipelines,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-371,Non-collective Calibrating Strategy for Time Series Forecasting,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-372,Distribution-Aware Online Learning for Urban Spatiotemporal Forecasting on Streaming Data,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-373,ADFormer: Aggregation Differential Transformer for Passenger Demand Forecasting,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-374,RePST: Language Model Empowered Spatio-Temporal Forecasting via Semantic-Oriented Reprogramming,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-375,An Out-Of-Distribution Membership Inference Attack Approach for Cross-Domain Graph Attacks,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-376,EVICheck: Evidence-Driven Independent Reasoning and Combined Verification Method for Fact-Checking,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-377,FreqLLM: Frequency-Aware Large Language Models for Time Series Forecasting,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-378,Higher-order Logical Knowledge Representation Learning,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-379,FedHAN: A Cache-Based Semi-Asynchronous Federated Learning Framework Defending Against Poisoning Attacks in Heterogeneous Clients,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-38,Improved Rank Aggregation Under Fairness Constraint,IJCAI,2025,,True,False,True,exclude,1
+ijcai2025-380,Attribute Association Driven Multi-Task Learning for Session-based Recommendation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-381,Explainable Graph Representation Learning via Graph Pattern Analysis,IJCAI,2025,Main,True,False,True,include,4
+ijcai2025-382,STAMImputer: Spatio-Temporal Attention MoE for Traffic Data Imputation,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-383,Learning Neural Jump Stochastic Differential Equations with Latent Graph for Multivariate Temporal Point Processes,IJCAI,2025,Main,True,False,True,exclude,1
+ijcai2025-384,HeTa: Relation-wise Heterogeneous Graph Foundation Attack Model,IJCAI,2025,Main,True,False,True,exclude,1

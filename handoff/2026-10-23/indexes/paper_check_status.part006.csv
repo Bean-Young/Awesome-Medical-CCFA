@@ -1,0 +1,1448 @@
+canonical_id,title,venue,year,track,explicit_complete_abstract,focused_body_evidence,scientific_decision_recorded,decisions,event_count
+2026.acl-long.537,Adaptive Prompt Structure Factorization: A Framework for Self-Discovering and Optimizing Compositional Prompt Programs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.538,Cognitive Alpha Mining via LLM-Driven Code-Based Evolution,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.539,Why Do Emotions Change? Appraisal-Guided Reasoning for Emotion–Cause Triplet Extraction in Conversations,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.54,ReasonEmbed: Enhanced Text Embeddings for Reasoning-Intensive Document Retrieval,ACL,2026,Main long,True,False,True,OUT | body_needed,7
+2026.acl-long.54.pdf,,ACL,2026,Main long,False,False,False,,2
+2026.acl-long.540,KV-Embedding: Training-free Text Embedding via Internal KV Re-routing in Decoder-only LLMs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.541,Fingerprinting LLMs via Prompt Injection,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.542,Exploring Layer Activation Dynamic of CoT via Knowledge Probe,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.543,From Trust to Compromise: Outcome-Verified LLM Phishing Simulation and Real-Time Defense,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.544,EvoNarrator: Modeling Scientific Evolution for Feasible Hypothesis Generation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.545,DecoCal: Decoding with Calibration in Diffusion Large Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.546,"LiveFact: A Dynamic, Time-Aware Benchmark for LLM-Driven Fake News Detection",ACL,2026,Main long,False,False,False,,1
+2026.acl-long.547,"Beyond ""I Don’t Know"": Evaluating LLM Self-Awareness in Discriminating Data and Model Uncertainty",ACL,2026,Main long,False,False,False,,1
+2026.acl-long.548,Unlearners Can Lie: Evaluating and Improving Honesty in LLM Unlearning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.549,MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.55,SPAGBias: Uncovering and Tracing Structured Spatial Gender Bias in Large Language Models,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.550,Knowledge is Not Enough: Injecting RL Skills for Continual Adaptation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.551,"BhashaSutra: A Task-Centric Unified Survey of Indian NLP Datasets, Corpora, and Resources",ACL,2026,Main long,False,False,False,,1
+2026.acl-long.552,A Dual-Task Paradigm to Investigate Sentence Comprehension Strategies in Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.553,Diffusion-CAM: Faithful Visual Explanations for dMLLMs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.554,Beyond Noise: Characterizing Creative Potential in Unverifiable LLM Hallucinations,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.555,LLM-SLM Collaborative Framework of Idiomatic Expression Generation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.556,Focus-dLLM: Accelerating Long-Context Diffusion LLM Inference via Confidence-Guided Context Focusing,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.557,"Table Question Answering in the Era of Large Language Models: A Comprehensive Survey of Tasks, Methods, and Evaluation",ACL,2026,Main long,False,False,False,,1
+2026.acl-long.558,RouteMoA: Dynamic Routing without Pre-Inference Boosts Efficient Mixture-of-Agents,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.559,Patches of Nonlinearity: Instruction Vectors in Large Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.56,VALU: A Benchmark for Video Anomaly Temporal Localization and Understanding at Multiple Semantic Levels,ACL,2026,Main long,True,False,True,OUT | body_needed,7
+2026.acl-long.56.pdf,,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.560,Reasoning Gets Harder for LLMs Inside A Dialogue,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.561,Capability Decomposition for Unified Information Extraction via Hierarchical Mixture-of-Experts,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.562,PDR: A Plug-and-Play Positional Decay Framework for LLM Pre-training Data Detection,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.563,PRISM: Probabilistic Reward Model with Inherent Structural Modeling,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.564,"Multilingual Idioms in Sentences and Conversations Across High-, Medium-, and Low-Resource Languages",ACL,2026,Main long,False,False,False,,1
+2026.acl-long.565,Author-in-the-Loop Response Generation and Evaluation: Integrating Author Expertise and Intent in Responses to Peer Review,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.566,WeightLoRA: Keep Only Necessary Adapters,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.567,Reward Modeling for Scientific Writing Evaluation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.568,Deriving Character Logic from Storyline as Codified Decision Trees,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.569,GASim: A Graph-Accelerated Hybrid Framework for Social Simulation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.57,CoreGaze: Core Subgraph-Driven Visual Gaze Diffusion for Training-Free Referring Multimodal Large Language Models,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.570,"Mock Worlds, Real Skills: Building Small Agentic Language Models with Synthetic Tasks, Simulated Environments, and Rubric-Based Rewards",ACL,2026,Main long,False,False,False,,1
+2026.acl-long.571,"Investigating Cross-Modal Skill Injection: Scenarios, Methods, and Hyperparameters",ACL,2026,Main long,False,False,False,,1
+2026.acl-long.572,The Bidirectional Process Reward Model,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.573,AgentMark: Utility-Preserving Behavioral Watermarking for Agents,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.574,Generative Gamer: Learning Equilibrium Strategy by LLM-driven Dynamic Deduction,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.575,Probing for Reading Times,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.576,No More Stale Feedback: Co-Evolving Critics for Open-World Agent Learning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.577,Continuous Interpretive Steering for Scalar Diversity,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.578,A Scalable Multi-LLM Collaboration System with Retrieval-based Selection and Exploration-Exploitation-Driven Enhancement,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.579,From Form to Logic: Masked Reconstruction and Reasoning Distillation for Short Video Fake News Detection,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.58,,ACL,2026,Main long,True,False,True,IN | body_needed,16
+2026.acl-long.58.pdf,,ACL,2026,Main,False,False,False,,7
+2026.acl-long.580,UR2 : Unify RAG and Reasoning through Reinforcement Learning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.581,LLM-as-Scheduler: Agentic Workflow Dynamic Scheduling,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.582,Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.583,Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.584,CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.585,"Decoding Scientific Experimental Images: The SPUR Benchmark for Perception, Understanding, and Reasoning",ACL,2026,Main long,False,False,False,,1
+2026.acl-long.586,SegTune: Structured and Fine-Grained Control for Song Generation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.587,Making Large Language Models Efficient Dense Retrievers,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.588,Lightweight LLM Agent Memory with Small Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.589,HeteroSpec: Leveraging Contextual Heterogeneity for Efficient Speculative Decoding,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.59,Beyond Detection: Evaluating Fallacy Awareness of LLMs in Interactive Scenarios,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.590,A Model of the Language Process,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.591,Rethinking Table Pruning in TableQA: From Sequential Revisions to Gold Trajectory-Supervised Parallel Search,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.592,Interleaved Tool-Call Reasoning for Protein Function Understanding,ACL,2026,Main long,False,False,False,,2
+2026.acl-long.593,Among Us: Language of Conspiracy Theorists on Mainstream Reddit,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.594,HybridKV: Hybrid KV Cache Compression for Efficient Multimodal Large Language Model Inference,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.595,Breaking Down and Building Up: Mixture of Skill-Based Vision-and-Language Navigation Agents,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.596,Bridging Distance and Spectral Positional Encodings via Anchor-Based Diffusion Geometry Approximation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.597,A Goal Without a Plan Is Just a Wish: Efficient and Effective Global Planner Training for Long-Horizon Agent Tasks,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.598,Stereotype Bias in a Bilingual Setting: A Culturally Grounded Evaluation in Kazakhstan,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.599,Arguments that Alter Minds: LLM Rationales Sway Human (and LLM) Notions of Plausibility,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.6,Dual-Axis Generative Reward Model Toward Semantic and Turn-taking Robustness in Interactive Spoken Dialogue Models,ACL,2026,Main long,True,False,True,OUT | body_needed,5
+2026.acl-long.6.pdf,Dual-Axis Generative Reward Model Toward Semantic and Turn-taking Robustness in Interactive Spoken Dialogue Models,ACL,2026,Main long,False,False,True,OUT,3
+2026.acl-long.60,Crosscoding Through Time: Tracking Emergence & Consolidation Of Linguistic Representations Throughout LLM Pretraining,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.600,GLARE: Agentic Reasoning for Legal Judgment Prediction,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.601,Vista-LLM: Decoupled Query-Guided Visual Token Pruning for Efficient Long-Video Large Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.602,RoboFailRing: Retrieval-Augmented and Language Grounding Failure Detection for VLM-enabled Robotic Manipulation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.603,Scaling Law for Multimodal Large Language Model Supervised Fine-Tuning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.604,CrochetBench: Can Vision-Language Models Move from Describing to Doing in Crochet Domain?,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.605,DORA: A Dual-Objective Reinforcement Learning Framework for Effective and Efficient Multimodal Agentic Search,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.606,IUQ: Interrogative Uncertainty Quantification for Long-Form Large Language Model Generation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.607,CODESTRUCT: Code Agents over Structured Action Spaces,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.608,Answering the Wrong Question: Reasoning Trace Inversion for Abstention in LLMs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.609,Beyond Single-shot Writing: Deep Research Agents are Unreliable at Multi-turn Report Revision,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.61,,ACL,2026,Main long,True,False,True,IN | body_needed,16
+2026.acl-long.61.pdf,,ACL,2026,Main,False,False,False,,7
+2026.acl-long.610,FinCall-Surprise: A Large Scale Multi-modal Benchmark for Earning Surprise Prediction,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.611,ALDEN: Reinforcement Learning for Active Navigation and Evidence Gathering in Long Documents,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.612,Reinforced Informativeness Optimization for Long-Form Retrieval-Augmented Generation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.613,Android Coach: Improve Online Agentic Training Efficiency with Single State Multiple Actions,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.614,Inside Out: Evolving User-Centric Core Memory Trees for Long-Term Personalized Dialogue Systems,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.615,FinChart-Bench: Benchmarking Financial Chart Comprehension in Vision-Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.616,From Charts to Code: A Hierarchical Benchmark for Multimodal Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.617,Learning While Staying Curious: Entropy-Preserving Supervised Fine-Tuning via Adaptive Self-Distillation for Large Reasoning Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.618,Toward Consistent World Models with Multi-Token Prediction and Latent Semantic Enhancement,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.619,SpiderFlow: Efficient Topology-Aware Scheduling for LLM Training Across Decentralized GPU Clusters,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.62,"ControlAudio: Tackling Text-Guided, Timing-Indicated and Intelligible Audio Generation via Progressive Diffusion Modeling",ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.620,Unleashing Spatial Reasoning in Multimodal Large Language Models via Textual Representation Guided Reasoning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.621,UniCorn: Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.622,Why Multimodal In-Context Learning Lags Behind? Unveiling the Inner Mechanisms and Bottlenecks,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.623,Current Agents Fail to Leverage World Model as Tool for Foresight,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.624,Language Model as Planner and Formalizer under Constraints,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.625,HeLa-Mem: Hebbian Learning and Associative Memory for LLM Agents,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.626,Locket: Robust Feature-Locking Technique for Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.627,Can Factual Opinions Be Edited (Manipulated) in Large Language Models?,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.628,Language of Thought Shapes Output Diversity in Large Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.629,Aligning Backchannel and Dialogue Context Representations via Contrastive LLM Fine-Tuning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.63,PrefixNLI: Detecting Factual Inconsistencies as Soon as They Arise,ACL,2026,Main long,True,False,True,OUT | body_needed,7
+2026.acl-long.63.pdf,,ACL,2026,Main long,False,False,False,,2
+2026.acl-long.630,Closing the Spatial Execution Gap in Digital Whiteboards via Verifiable Reinforcement Learning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.631,ExecVerify: White-Box RL with Verifiable Stepwise Rewards for Code Execution Reasoning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.632,Prune as You Generate: Online Rollout Pruning for Faster and Better RLVR,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.633,Mitigating Legal Hallucinations via Symbolic Constraints and Analogical Precedents,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.634,How Tokenization Limits Phonological Knowledge Representation in Language Models and How to Improve Them,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.635,Illusions of the Gold Standard: A Large-scale Analysis of Human Evaluation Protocols for Long-form Text Generation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.636,Omni-RewardBench: Toward a Comprehensive Evaluation of Generative Reward Models Across Modalities,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.637,From Answers to Arguments: Toward Trustworthy Clinical Diagnostic Reasoning with Toulmin-Guided Curriculum Goal-Conditioned Learning,ACL,2026,Main long,False,False,False,,2
+2026.acl-long.638,Verifiable LLM-Generated Text Detection via Projected Semantic-Structural Distributions,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.639,Is Human-Like Text Liked by Humans? Multilingual Human Detection and Preference Against AI,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.64,RAM-SD: Retrieval-Augmented Multi-agent framework for Sarcasm Detection,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.640,Powerful Training-Free Membership Inference Against Fine-Tuned Autoregressive Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.641,Communication-Efficient Desire Alignment for Proactive Embodied Human–Agent Interaction,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.642,When Seeing Overrides Knowing: Disentangling Knowledge Conflicts in Vision-Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.643,ICDAGENT: Empowering Agentic Large Language Models for Explainable Medical Coding,ACL,2026,Main long,False,False,False,,2
+2026.acl-long.644,Hyperion: Private Token Sampling with Homomorphic Encryption,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.645,Map of Encoders – Mapping Sentence Encoders using Quantum Relative Entropy,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.646,Mango: Multi-Agent Web Navigation via Global-View Optimization,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.647,DPWriter: Reinforcement Learning with Diverse Planning Branching for Creative Writing,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.648,Iterative Dual-Model Alignment for Story Evaluation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.649,Discovery and Reinforcement of Tool-Integrated Reasoning Chains via Rollout Trees,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.65,On the Emergence and Test-Time Use of Structural Information in Large Language Models,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.650,When Identity Skews Debate: Anonymization for Bias-Reduced Multi-Agent Reasoning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.651,Talking to a Know-It-All GPT or a Second-Guesser Claude? How Repair reveals distinct Multi-Turn Behavior in LLMs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.652,HistLens: Mapping Idea Change across Concepts and Corpora,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.653,ReFEree: Reference-Free and Fine-Grained Method for Evaluating Factual Consistency in Real-World Code Summarization,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.654,MeanAudio: Fast and Faithful Text-to-Audio Generation with Mean Flows,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.655,ModeX: Evaluator-Free Best-of-N Selection for Open-Ended Generation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.656,What Makes LLMs Effective Sequential Recommenders? A Study on Preference Intensity and Temporal Context,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.657,TeamFusion: Supporting Open-ended Teamwork with Multi-Agent Systems,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.658,FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.659,Stable Signer: Hierarchical Sign Language Generative Model,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.66,SAGE: A Search-AuGmented Evaluation of Large Language Models on Free-Form QA,ACL,2026,Main long,True,False,True,OUT | body_needed,7
+2026.acl-long.66.pdf,,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.660,DisCal: Distribution-Aware Calibration for Mathematical Reasoning Under Character-Level Noisy Inputs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.661,SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.662,FinChain: A Symbolic Benchmark for Verifiable Chain-of-Thought Financial Reasoning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.663,"AI use in American newspapers is widespread, uneven, and rarely disclosed",ACL,2026,Main long,False,False,False,,1
+2026.acl-long.664,For-Value: Efficient Forward-Only Data Valuation for finetuning LLMs and VLMs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.665,"The Illusion of Specialization: Unveiling the Domain-Invariant ""Standing Committee"" in Mixture-of-Experts Models",ACL,2026,Main long,False,False,False,,1
+2026.acl-long.666,Find Your Optimal Teacher: Personalized Data Synthesis via Router-Guided Multi-Teacher Distillation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.667,"Single-Pass, Depth-Selective Reading for Multi-Aspect Sentiment Analysis",ACL,2026,Main long,False,False,False,,1
+2026.acl-long.668,PARASITE: Conditional System Prompt Poisoning to Hijack LLMs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.669,Generating Literature-Driven Scientific Theories at Scale,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.67,J4R: Learning to Judge with Equivalent Initial State Group Relative Policy Optimization,ACL,2026,Main long,True,False,True,OUT | body_needed,7
+2026.acl-long.67.pdf,,ACL,2026,Main long,False,False,False,,2
+2026.acl-long.670,Controllable Memory Usage: Balancing Anchoring and Innovation in Long-Term Human–Agent Interaction,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.671,Digitizing Nepal’s Written Heritage: A Comprehensive HTR Pipeline for Old Nepali Manuscripts,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.672,XMark: Reliable Multi-Bit Watermarking for LLM-Generated Texts,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.673,Believing without Seeing: Quality Scores for Contextualizing Vision-Language Model Explanations,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.674,MONETA: Multimodal Industry Classification through Geographic Information with Multi Agent Systems,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.675,CASPER in the Machine: Insights into Character Variety in LLM-Generated Stories,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.676,Language Models Struggle to Use Representations Learned In-Context,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.677,SlideAgent: Hierarchical Agentic Framework for Multi-Page Visual Document Understanding,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.678,YIELD: A Large-Scale Dataset and Evaluation Framework for Information Elicitation Agents,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.679,Spatial-Agent: Agentic Geo-spatial Reasoning with Scientific Core Concepts,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.68,A Functionality-Grounded Benchmark for Evaluating Web Agents in E-commerce Domains,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.680,"Rethinking Evaluation for LLM Hallucination Detection: A Desiderata, A New RAG-based Benchmark, New Insights",ACL,2026,Main long,False,False,False,,1
+2026.acl-long.681,Min-k Sampling: Decoupling Truncation from Temperature Scaling via Relative Logit Dynamics,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.682,Bridging the Memorization-Utilization Gap: Near-Lossless Context Compression via Reinforcement Learning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.683,PRIME: A Process-Outcome Alignment Benchmark for Verifiable Reasoning in Mathematics and Engineering,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.684,ZARA: Training-Free Motion Time-Series Reasoning via Evidence-Grounded LLM Agents,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.685,AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.686,Implicit Representations of Grammaticality in Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.687,Discovering and Causally Validating Emotion-Sensitive Neurons in Large Audio-Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.688,Uncovering Intervention Opportunities for Suicide Prevention with Language Model Assistants,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.689,The Imperfective Paradox in Large Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.69,Reinforcement Learning for Self-Improving Agent with Skill Library,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.690,MalruleLib: Large-Scale Executable Misconception Reasoning with Step Traces for Modeling Student Thinking in Mathematics,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.691,How to Improve LLMs’ Performance on Specific Languages: A Perspective on LLM-Derived Language Similarity,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.692,MATCH: Modulating Attention via In-Context Retrieval for Long-Context Transformers,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.693,Protecting Bystander Privacy via Selective Hearing in Audio LLMs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.694,LiveCLKTBench: Towards Reliable Evaluation of Cross-Lingual Knowledge Transfer in Multilingual LLMs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.695,To Lie or Not to Lie? Investigating The Biased Spread of Global Lies by LLMs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.696,Robertha: Eigenspectrum Regularized Attention for Robust Natural Language Understanding,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.697,Agentic Rubrics as Contextual Verifiers for SWE Agents,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.698,Evaluating the Impact of Verbal Multiword Expressions on Machine Translation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.699,MedVerse: Efficient and Reliable Medical Reasoning via DAG-Structured Parallel Execution,ACL,2026,Main long,False,False,False,,2
+2026.acl-long.7,Different types of syntactic agreement recruit the same units within large language models,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.70,CachePrune: Teaching LLMs What Not to Follow via KV-Cache Editing,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.700,MetFuse: Figurative Fusion between Metonymy and Metaphor,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.701,Adaptive Constraint Propagation: Scaling Structured Inference for Large Language Models via Meta-Reinforcement Learning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.702,STReasoner: Empowering LLMs for Spatio-Temporal Reasoning in Time Series via Spatial-Aware Reinforcement Learning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.703,When Vision-Language Models Judge Without Seeing: Exposing Informativeness Bias,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.704,Hallucination Detection in LLMs with Topological Divergence on Attention Graphs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.705,Exploring Concreteness Through a Figurative Lens,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.706,Mediocrity is the key for LLM as a Judge Anchor Selection,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.707,"When ""Correct"" Is Not Safe: Can We Trust Functionally Correct Patches Generated by Code Agents?",ACL,2026,Main long,False,False,False,,1
+2026.acl-long.708,CoG: Controllable Graph Reasoning via Relational Blueprints and Failure-Aware Refinement over Knowledge Graphs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.709,Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.71,Flip-Flop Consistency: Unsupervised Training for Robustness to Prompt Perturbations in LLMs,ACL,2026,Main long,True,False,True,OUT | body_needed,7
+2026.acl-long.71.pdf,,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.710,Act-Adaptive Margin: Dynamically Calibrating Reward Models for Subjective Ambiguity,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.711,To Think or Not to Think: The Hidden Cost of Meta-Training with Excessive CoT Examples,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.712,VIGNETTE: Socially Grounded Bias Evaluation for Vision-Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.713,BiMind: A Dual-Head Reasoning Model with Attention-Geometry Adapter for Incorrect Information Detection,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.714,Autonomous Knowledge Graph Exploration with Adaptive Breadth-Depth Retrieval,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.715,Retrieval Heads are Dynamic,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.716,SynthAgent: Adapting Web Agents with Synthetic Supervision,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.717,More Than Meets the Eye: Measuring the Semiotic Gap in Vision-Language Models via Semantic Anchorage,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.718,"LLM Agents in Law: Taxonomy, Applications, and Challenges",ACL,2026,Main long,False,False,False,,1
+2026.acl-long.719,BenchMarker: An Education-Inspired Toolkit for Highlighting Flaws in Multiple-Choice Benchmarks,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.72,Leave My Images Alone: Preventing Multi-Modal Large Language Models from Analyzing Images via Visual Prompt Injection,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.720,Model Internal Sleuthing: Finding Lexical Identity and Inflectional Features in Modern Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.721,HAT: Hallucination Annotation for Translation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.722,DMRetriever: A Family of Models for Improved Text Retrieval in Disaster Management,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.723,Language Models Don’t Know What You Want: Evaluating Personalization in Deep Research Needs Real Users,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.724,LAD-RAG: Layout-aware Dynamic RAG for Visually-Rich Document Understanding,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.725,Among Us: Measuring and Mitigating Malicious Contributions in Model Collaboration Systems,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.726,Not All Tokens Matter: Towards Efficient LLM Reasoning via Token Significance in Reinforcement Learning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.727,Query-Efficient Agentic Graph Extraction Attacks on GraphRAG Systems,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.728,Function Words as Statistical Cues for Language Learning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.729,Evaluating Robustness of Large Language Models Against Multilingual Typographical Errors,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.73,Logic Matters in Lightweight Hallucination Classification for RAG System,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.730,Listening Like Humans: Semantics-Guided Noise-Robust Multimodal Speech Recognition,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.731,Measuring What Matters!! Assessing Therapeutic Principles in Mental-Health Conversation,ACL,2026,Main long,False,False,False,,2
+2026.acl-long.732,ParaCodex: A Profiling-Guided Autonomous Coding Agent for Reliable Parallel Code Generation and Translation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.733,CoLA: A Choice Leakage Attack Framework to Expose Privacy Risks in Subset Training,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.734,MediEval: A Unified Medical Benchmark for Patient-Contextual and Knowledge-Grounded Reasoning in LLMs,ACL,2026,Main long,False,False,False,,2
+2026.acl-long.735,The Path Not Taken: Duality in Reasoning about Program Execution,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.736,Accommodation and Epistemic Vigilance: A Pragmatic Account of Why LLMs Fail to Challenge Harmful Beliefs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.737,Every Response Counts: Quantifying Uncertainty of LLM-based Multi-Agent Systems through Tensor Decomposition,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.738,"Uncertainty Quantification in LLM Agents: Foundations, Emerging Challenges, and Opportunities",ACL,2026,Main long,False,False,False,,1
+2026.acl-long.739,Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.74,Harnessing Negative Signals: Reinforcement Distillation from Teacher Data for LLM Reasoning,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.740,Knowing When Not to Answer: Lightweight KB-Aligned OOD Detection for Safe RAG,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.741,Guidelines as Environments: A World Model Approach to Rule Following,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.742,Cross-Modal Taxonomic Generalization in (Vision-) Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.743,,ACL,2026,Main long,False,False,True,IN,6
+2026.acl-long.744,Sigmoid Head for Quality Estimation under Language Ambiguity,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.745,RExBench: Can coding agents autonomously implement AI research extensions?,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.746,Narrative License and Model Sycophancy in LLM Summaries of Scientific Work,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.747,AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.748,Domain Generalizable AI Guardrails with Augmented Policy Training,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.749,APEX-MEM: Agentic Semi-Structured Memory with Temporal Reasoning for Long-Term Conversational AI,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.75,Grammar Search for Multi-Agent Systems,ACL,2026,Main long,True,False,True,OUT | body_needed,7
+2026.acl-long.75.pdf,,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.750,emg2speech: synthesizing speech from electromyography using self-supervised speech models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.751,CoAct: Co-Active LLM Preference Learning with Human-AI Synergy,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.752,Label and Explanation Variation in LLM-Based Annotation: a Case Study in Natural Language Inference,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.753,Text-Attributed Knowledge Graph Enrichment with Large Language Models for Medical Concept Representation,ACL,2026,Main long,False,False,False,,2
+2026.acl-long.754,Evolving Agents,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.755,ViDoRe V3: A Comprehensive Evaluation of Retrieval Augmented Generation in Complex Real-World Scenarios,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.756,Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.757,TabEmb: Joint Semantic-Structure Embedding for Table Annotation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.758,Text-to-Distribution Prediction with Quantile Tokens and Neighbor Context,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.759,Check Your Work: Structured Checklist Feedback for Improving Large Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.76,ZoomR: Memory Efficient Reasoning through Multi-Granularity Key Value Retrieval,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.760,LOKA: Conflict-Aware LLM Knowledge Update with Adaptive Knowledge Memory,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.761,Student Guides Teacher: Weak-to-Strong Inference via Spectral Orthogonal Exploration,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.762,When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.763,PubMed Reasoner: Dynamic Reasoning-based Retrieval for Evidence-Grounded Biomedical Question Answering,ACL,2026,Main long,False,False,False,,2
+2026.acl-long.764,Decoupling Task-Solving and Output Formatting in LLM Generation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.765,GS-Quant: Granular Semantic and Generative Structural Quantization for Knowledge Graph Completion,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.766,Mind the Gap in Cultural Alignment: Task-Aware Culture Management for Large Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.767,Analyzing and Internalizing Complex Policy Documents for LLM Agents,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.768,In-Context Representation Hijacking,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.769,Quantifying Metric and Model Agreement in Bias Evaluation of Large Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.77,Explicit Trait Inference for Multi-Agent Coordination,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.770,MultiFinBen: Benchmarking Large Language Models for Multilingual and Multimodal Financial Application,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.771,Bidirectional LMs are Better Knowledge Memorizers? A Benchmark for Real-world Knowledge Injection,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.772,Mapping the Circumplex of Affect: Geometric Analysis of Emotion Representations via Hyperspherical Contrastive Learning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.773,Do LLMs Really Need 10+ Thoughts for “Find the Time 1000 Days Later”? Towards Structural Understanding of LLM Overthinking,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.774,Anchor: Branch-Point Data Generation for GUI Agents,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.775,"When One LLM Drools, Multi-LLM Collaboration Rules",ACL,2026,Main long,False,False,False,,1
+2026.acl-long.776,From Query to Counsel: Structured Reasoning with a Multi-Agent Framework and Dataset for Legal Consultation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.777,Putting Captions to the Test: Evaluating Video Caption Quality through Multiple-Choice Question Answering,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.778,Subject-level Inference for Realistic Text Anonymization Evaluation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.779,SceneAlign: Aligning Multimodal Reasoning to Scene Graphs in Complex Visual Scenes,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.78,SFTMix: Elevating Language Model Instruction Tuning with Mixup Recipe,ACL,2026,Main long,True,False,True,OUT | body_needed,7
+2026.acl-long.78.pdf,,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.780,Select Before Use: On the Importance of Reference Model Selection in Preference Alignment,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.781,"Lost in Translation, and Found: Detecting and Interpreting Translation Effects",ACL,2026,Main long,False,False,False,,1
+2026.acl-long.782,From Isolation to Entanglement: When Do Interpretability Methods Identify and Disentangle Known Concepts?,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.783,Paraphrasing as Zero-shot Translation with Feature-guided Diversity Enhancement,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.784,VOYAGER: A Training Free Approach for Generating Diverse Datasets using LLMs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.785,CaseFacts: A Benchmark for Legal Fact-Checking and Precedent Retrieval,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.786,SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.787,From Inheritance to Saturation: Disentangling the Evolution of Visual Redundancy for Architecture-Aware MLLM Inference Acceleration,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.788,Your Reasoning Model is Secretly a Reward Model - Optimization-Free Verification from Experience,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.789,What Do LLMs Learn First? Asymmetric Learning Dynamics of Input Complexity and Output Ambiguity in Preference Alignment,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.79,Psychological Steering in LLMs: An Evaluation of Effectiveness and Trustworthiness,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.790,Multi-Agent-as-Judge: Aligning LLM-Agent-Based Automated Evaluation with Multi-Dimensional Human Evaluation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.791,OpenRubrics: Towards Scalable Synthetic Rubric Generation for Reward Modeling and LLM Alignment,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.792,Challenging the Boundaries of Reasoning: An Olympiad-Level Math Benchmark for Large Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.793,LENS: LLM-Enabled Narrative Synthesis for Mental Health by Aligning Multimodal Sensing with Language Models,ACL,2026,Main long,False,False,False,,2
+2026.acl-long.794,FedProxy: Federated Fine-Tuning of LLMs via Proxy SLMs and Heterogeneity-Aware Fusion,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.795,DiZiNER: Disagreement-guided Instruction Refinement via Simulating Pilot Annotation for Zero-shot Named Entity Recognition,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.796,A Data-Centric Approach to Generalizable Speech Deepfake Detection,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.797,Free Energy-Driven Reinforcement Learning with Adaptive Advantage Shaping for Unsupervised Reasoning in LLMs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.798,PaperRegister: Boosting Flexible-grained Paper Search via Hierarchical Register Indexing,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.799,ETR: Entropy Trend Reward for Efficient Chain-of-Thought Reasoning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.8,Empowering Tabular Data Preparation with Language Models: Why and How?,ACL,2026,Main long,True,False,True,OUT | body_needed,5
+2026.acl-long.8.pdf,Empowering Tabular Data Preparation with Language Models: Why and How?,ACL,2026,Main long,False,False,True,OUT,3
+2026.acl-long.80,Hierarchical Policy Optimization for Simultaneous Translation of Unbounded Speech,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.800,All Changes May Have Invariant Principles: Improving Ever-Shifting Harmful Meme Detection via Design Concept Reproduction,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.801,Activation-Guided Local Editing for Jailbreaking Attacks,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.802,Controlling Distributional Bias in Multi-Round LLM Generation via KL-Optimized Fine-Tuning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.803,On the Continued Value of Universal Dependencies in the Era of Large Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.804,Adaptive Text2GQL: Integrating Structural Twig Linking and Evolutionary In-Context Learning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.805,XToM: Exploring the Multilingual Theory of Mind for Large Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.806,Cognitive Policy-Driven LLM for Diagnosis and Intervention of Cognitive Distortions in Emotional Support Conversation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.807,SciFlow-Bench: Evaluating Structure-Aware Scientific Diagram Generation via Inverse Parsing,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.808,Immediate Inference: The Missing Foundation in Large Language Model Logical Reasoning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.809,Tracing Logit Trajectories Across Layer Depth: Dataset-Level Explainability for Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.81,,ACL,2026,Main long,True,False,True,IN | body_needed,17
+2026.acl-long.81.pdf,,ACL,2026,Main,False,False,False,,8
+2026.acl-long.810,REZE: Representation Regularization for Domain-adaptive Text Embedding Pre-finetuning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.811,TAMA: Target-Aware Multilingual Abuse Detection by Cascaded Conditional Multi-Task Learning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.812,Reference Attack: A New Cross-Modal Jailbreaking Attack against Multimodal Large Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.813,POWSM: A Phonetic Open Whisper-Style Speech Foundation Model,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.814,LCR-RAG: Enhancing Logical Consistency in Retrieval-Augmented Generation via Neuro-symbolic Reinforcement Learning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.815,CIA: Inferring the Communication Topology from LLM-based Multi-Agent Systems,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.816,Efficiently Learning To Reason or Not to Reason: Root-token Policy Optimization for Adaptive Thinking,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.817,SAGE: Synergistic Adaptive Gating of Experts for Hateful Video Detection,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.818,HiKEY: Hierarchical Multimodal Retrieval for Open-Domain Document Question Answering,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.819,Towards Efficient and Effective Diffusion Language Model Inference via Semantic-Aware Adaptive Denoising,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.82,CRISP: Persistent Concept Unlearning via Sparse Autoencoders,ACL,2026,Main long,True,False,True,OUT | body_needed,7
+2026.acl-long.82.pdf,,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.820,AdvancedIF: Rubric-Based Benchmarking and Reinforcement Learning for Advancing LLM Instruction Following,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.821,Improving Autoformalization Using Direct Dependency Retrieval,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.822,Long-Chain Reasoning Distillation via Adaptive Prefix Alignment,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.823,TRN-R1-Zero: Text-rich Network Reasoning via LLMs with Reinforcement Learning Only,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.824,"Threshold Differential Attention for Sink-Free, Ultra-Sparse, and Non-Dispersive Language Modeling",ACL,2026,Main long,False,False,False,,1
+2026.acl-long.825,PRiSM: Benchmarking Phone Realization in Speech Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.826,Your Reasoning Benchmark May Not Test Reasoning: Revealing Perception Bottleneck in Abstract Reasoning Benchmarks,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.827,Model-Based Imaginative Planning for Embodied Agents,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.828,Persona-Grounded Safety Evaluation of AI Companions in Multi-Turn Conversations,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.829,Beyond Chunking: Discourse-Aware Hierarchical Retrieval for Long Document Question Answering,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.83,LongSpec: Long-Context Lossless Speculative Decoding with Efficient Drafting and Verification,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.830,Beyond Value Benchmarks: Measuring Value-Structure Alignment in Large Language Models via Symmetric Q-Sorts,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.831,Would LLMs be Good Historical Linguists and Chinese Dialect Learners?,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.832,ProActor: Timing-Aware Reinforcement Learning for Proactive Task Scheduling Agents,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.833,Seeing No Evil: Blinding Large Vision-Language Models to Safety Instructions via Adversarial Attention Hijacking,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.834,CADMate: Generating CAD Assembly Plan with Geometric Chain-of-Thought and Spatial Physical Rewards,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.835,Semantic-Aware Logical Reasoning via a Semiotic Framework,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.836,Calibration-Aware Policy Optimization for Reasoning LLMs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.837,GBV-SQL: Guided Generation and SQL2Text Back-Translation Validation for Multi-Agent Text2SQL,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.838,Branch-and-Browse: Efficient and Controllable Web Exploration with Tree-Structured Reasoning and Action Memory,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.839,Beyond End-to-End: Dynamic Chain Optimization for Private LLM Adaptation on the Edge,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.84,Using Perspectival Words Is Harder Than Vocabulary Words for Humans —and Even More So for Multimodal Language Models,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.840,TalkLoRA: Communication-Aware Mixture of Low-Rank Adaptation for Large Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.841,TARE: Lightweight Token-Aware Representation Editing for Fine-tuning Transformer-like Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.842,Soft Orthogonal Low-Rank Adaptation for Knowledge Sharing in Large Language Model Continual Learning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.843,ChartAgent: A Multimodal Agent for Visually Grounded Reasoning in Complex Chart Question Answering,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.844,Curing Miracle Steps in LLM Mathematical Reasoning with Rubric Rewards,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.845,Adaptive Planning for Multi-Attribute Controllable Summarization with Monte Carlo Tree Search,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.846,CPT-Agent: A Cognitive Process Theory-driven Framework for Student Simulation in Writing Development,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.847,Team-Based Self-Play With Dual Adaptive Weighting for Fine-Tuning LLMs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.848,SearchGym: Bootstrapping Real-World Search Agents via Cost-Effective and High-Fidelity Environment Simulation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.849,Learning to Select: Query-Aware Adaptive Dimension Selection for Dense Retrieval,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.85,CHIMERA: A Knowledge Base of Scientific Idea Recombinations for Research Analysis and Ideation,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.850,MeepleLM: A Virtual Playtester Simulating Diverse Subjective Experiences,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.851,MSMO-ABSA: Multi-Scale and Multi-Objective Optimization for Cross-Lingual Aspect-Based Sentiment Analysis,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.852,FineSteer: A Unified Framework for Fine-Grained Inference-Time Steering in Large Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.853,Is the Attention Matrix Really the Key to Self-Attention in Multivariate Long-Term Time Series Forecasting?,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.854,Difficulty-Controllable Cloze Question Distractor Generation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.855,ToolPRM: Fine-Grained Inference Scaling of Structured Outputs for Function Calling,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.856,GTA: Generating Long-horizon Tasks for Web Agents at Scale,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.857,Closing the Modality Reasoning Gap for Speech Large Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.858,Logical Phase Transitions: Understanding Collapse in LLM Logical Reasoning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.859,SpecCache: Speculative KV Cache Reuse for Efficient RAG Serving,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.86,Towards Robust Real-World Spreadsheet Understanding with Multi-Agent Multi-Format Reasoning,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.860,REG: Retrieval via Emotion Similarity for Guiding Empathetic Dialogue Generation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.861,TellWhisper: Tell Whisper Who Speaks When,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.862,Taming System Complexity: Demystifying Software Engineering Agents in Diagnosing Linux Kernel Faults,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.863,DisCo_Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.864,WildReward: Learning Reward Models from In-the-Wild Human Interactions,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.865,Mitigating Catastrophic Forgetting in Target Language Adaptation of LLMs via Source-Shielded Updates,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.866,SEE: Signal Embedding Energy for Quantifying Noise Interference in Large Audio Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.867,Know the Known and the Unknown: Reasonable Answer Generation with Knowledge-Informed Citations,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.868,FocalOrder: Focal Preference Optimization for Reading Order Detection,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.869,TLSA: LLM-Guided Text-Label Space Alignment with Contrastive Learning for Generalized Category Discovery,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.87,GATE: Graph-based Adaptive Tool Evolution Across Diverse Tasks,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.870,Hierarchical Token Prepending: Enhancing Information Flow in Decoder-based LLM Embeddings,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.871,Suggest-Verify-Revise: A Three-Stage Document-Level Event Causality Identification with Narrative Consistency,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.872,StoryCoder: Narrative Reformulation for Structured Reasoning in LLM Code Generation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.873,ODL-TempLLM: Ontology-Guided and Description Logic-Reasoned Temporal Reasoning with LLMs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.874,FACTrial: Factorized Clinical Contrastive Training for Scalable Patient-Trial Retrieval,ACL,2026,Main long,False,False,False,,2
+2026.acl-long.875,Your Students Don’t Use LLMs Like You Wish They Did,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.876,Cut Your Losses! Learning to Prune Paths Early for Efficient Parallel Reasoning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.877,Discourse Coherence and Response-Guided Context Rewriting for Multi-Party Dialogue Generation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.878,EvolvR: Self-Evolving Pairwise Reasoning for Story Evaluation to Enhance Generation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.879,Double: Breaking the Acceleration Limit via Double Retrieval Speculative Parallelism,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.88,Erasing Without Remembering: Implicit Knowledge Forgetting in Large Language Models,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.880,BWLA: Breaking the Barrier of W1AX Post-Training Quantization for LLMs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.881,Progressive Multimodal Search and Reasoning for Knowledge-Intensive Visual Question Answering,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.882,Dynamics of Cognitive Heterogeneity: Investigating Behavioral Biases in Multi-Stage Supply Chains with LLM-Based Simulation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.883,Triviality Corrected Endogenous Reward,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.884,Identity-Robust Language Model Generation via Content Integrity Preservation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.885,RFS-Guard: Detecting Reasoning Hallucinations via Cross-Phase Routing Focus in Large Reasoning Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.886,Causal-ESC: Reliable Policy Learning for Emotional Support Conversation via Causal Inference,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.887,Chain-of-Thought Compression Should Not Be Blind: V-Skip for Efficient Multimodal Reasoning via Dual-Path Anchoring,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.888,CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.889,"Towards a Mechanistic Understanding of Large Reasoning Models: A Survey of Training, Inference, and Failures",ACL,2026,Main long,False,False,False,,1
+2026.acl-long.89,Mitigating Hallucinations in Large Vision-Language Models without Performance Degradation,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.890,Modeling LLM Unlearning as an Asymmetric Two-Task Learning Problem,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.891,MVP: Enhancing Video Large Language Models via Self-supervised Masked Video Prediction,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.892,Knowledge Poisoning Attacks on Medical Multi-Modal Retrieval-Augmented Generation,ACL,2026,Main long,False,False,False,,2
+2026.acl-long.893,Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.894,When Bigger Isn’t Better: A Comprehensive Fairness Evaluation of Political Bias in Multi-News Summarisation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.895,Language Acquisition Device in Large Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.896,CAML: A Conflict-Aware Molecular Language Model Merging Framework for Multi-Constraint Molecular Generation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.897,Stratagem: Learning Transferable Reasoning via Trajectory-Modulated Game Self-Play,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.898,NOSE: Neural Olfactory-Semantic Embedding with Tri-Modal Orthogonal Contrastive Learning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.899,ReFL: Reflective Feedback Learning for Hallucination Detection of Large Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.9,Learning Diverse Responses with Prefix-Conditioned Supervised Fine-Tuning,ACL,2026,Main long,True,False,True,OUT | body_needed,5
+2026.acl-long.9.pdf,Learning Diverse Responses with Prefix-Conditioned Supervised Fine-Tuning,ACL,2026,Main long,False,False,True,OUT,3
+2026.acl-long.90,APB-V: Accelerating Long-Video Understanding via Sequence-Parallelism-aware Approximate Attention,ACL,2026,Main long,True,False,True,OUT | body_needed,7
+2026.acl-long.90.pdf,,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.900,Fine-Mem: Fine-Grained Feedback Alignment for Long-Horizon Memory Management,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.901,NaturalSloth: Revisiting Denial-of-Service Attacks on Large Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.902,HiGoE: Hierarchical Graph of Evidence to Enhance Retrieval-Augmented Generation for Long-context Summarization,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.903,Region-Grounded Report Generation for 3D Medical Imaging: A Fine-Grained Dataset and Graph-Enhanced Framework,ACL,2026,Main long,False,False,False,,2
+2026.acl-long.904,UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.905,STK-Adapter: Incorporating Evolving Graph and Event Chain for Temporal Knowledge Graph Extrapolation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.906,Learning What Matters: Dynamic Dimension Selection and Aggregation for Interpretable Vision-Language Reward Modeling,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.907,DeepGuard: Secure Code Generation via Multi-Layer Semantic Aggregation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.908,Distillation Traps and Guards: A Calibration Knob for LLM Distillability,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.909,DVMap: Fine-Grained Pluralistic Value Alignment via High-Consensus Demographic-Value Mapping,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.91,AraVQA: Building a New Arabic Factoid Visual Question Answering Dataset from Wikipedia,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.910,HTMR: Hybrid Token Masking Reinforcement Learning with Verifiable Rewards for Event Argument Extraction with Multi-Perspective Reasoning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.911,IS-CoT: Breaking the Long-form Generation Collapse via Interleaved Structural Thinking,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.912,Seeing the Whole Elephant: A Benchmark for Failure Attribution in LLM-based Multi-Agent Systems,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.913,MTAVG-Bench: A Diagnostic Benchmark for Multi-Talker Dialogue-Centric Audio-Video Generation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.914,Why LLMs Hallucinate on Structured Knowledge: A Mechanistic Analysis of Reasoning over Linearized Representations,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.915,SubTokenTest: A Practical Benchmark for Real-World Sub-token Understanding,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.916,Benchmarking and Enabling Efficient Chinese Medical Retrieval via Asymmetric Encoders,ACL,2026,Main long,False,False,False,,2
+2026.acl-long.917,Merlin’s Whisper: Enabling Efficient Reasoning in Large Language Models via Black-box Persuasive Prompting,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.918,CAKE: Causal-Guided Adaptive Knowledge Editing for LLMs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.919,Preconditioned Test-Time Adaptation for Out-of-Distribution Debiasing in Narrative Generation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.92,What is a protest anyway? Codebook conceptualization is still a first-order concern in LLM-era classification,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.920,Backdoor Collapse: Eliminating Unknown Threats Via Known Backdoor Aggregation In Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.921,Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.922,League of LLMs: A Benchmark-Free Paradigm for Mutual Evaluation of Large Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.923,RARE: Redundancy-Aware Retrieval Evaluation Framework for High-Similarity Corpora,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.924,Leibniz: Theory-of-Mind Driven Neuro-Symbolic Logical Reasoning via Multi-Agent Collaboration,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.925,The Paradox of Outcome Optimization: A Causal Information-Theoretic Bound on Reasoning Shortcuts in LLMs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.926,SPENCE: A Syntactic Probe for Detecting Contamination in NL2SQL Benchmarks,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.927,PaTaRM: Bridging Pairwise and Pointwise Signals via Preference-Aware Task-Adaptive Reward Modeling,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.928,Uncovering Sentiment Analysis Circuit in Large Language Model,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.929,Think Before Writing: Feature-Level Multi-Objective Optimization for Generative Citation Visibility,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.93,When Misinformation Speaks and Converses: Rethinking Fact-Checking in Audio Platforms,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.930,Zero-Shot Multimodal Retrieval with Multi-Scale Contextual Representations,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.931,ReEfBench: Quantifying the Reasoning Efficiency of LLMs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.932,Beyond Ranking: Fine-Grained Diagnostics and Self-Improvement for MLLMs,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.933,Bridging Internal Consistency and External Alignment: A Causal and Dynamic Interpretability Framework for LLM Generation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.934,Beyond the Last Frame: Process-aware Evaluation for Generative Video Reasoning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.935,THOR: A Theta-Gamma Hierarchical Oscillatory Reasoning Framework for Multi-hop QA,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.936,How Should We Enhance the Safety of Large Reasoning Models: An Empirical Study,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.937,HSCodeComp: A Realistic and Expert-level Agent Benchmark for Hierarchical Rule Application,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.938,AnchorSeg: Language Grounded Query Banks for Reasoning Segmentation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.939,R^3AG: Retriever Routing for Retrieval-Augmented Generation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.94,Contextual Relevance and Adaptive Sampling for LLM-Based Document Reranking,ACL,2026,Main long,True,False,True,OUT | body_needed,7
+2026.acl-long.94.pdf,,ACL,2026,Main long,False,False,False,,3
+2026.acl-long.940,ClusterRAG: Cluster-Based Collaborative Filtering for Personalized Retrieval-Augmented Generation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.941,Toward Robust In-Context Learning: Leveraging Out-of-distribution Proxies for Target Inaccessible Demonstration Retrieval,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.942,AutoSchemaKG: Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.943,Aligned Multi-View Scripts for Universal Chart-to-Code Generation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.944,SpeakerSleuth: Can Large Audio-Language Models Judge Speaker Consistency across Multi-turn Dialogues?,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.945,Breaking Block Boundaries: Anchor-based History-stable Decoding for Diffusion Large Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.946,HiSVD: Principled Low-Rank Approximation of LLMs via Hierarchical Modeling of Information Capacity and Spectral Structure,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.947,Unveiling the Unknown: Open-Set Entity Typing via Two-Stage Generation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.948,Don’t Adapt Small Language Models for Tools; Adapt Tool Schemas to the Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.949,Language Reconstruction with Brain Predictive Coding from fMRI Data,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.95,Quantifying Aleatoric Uncertainty of In-Context Learning for Robust Measure of LLM Prediction Confidence,ACL,2026,Main long,True,False,True,OUT | body_needed,7
+2026.acl-long.95.pdf,,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.950,Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.951,Think Natively: Unlocking Multilingual Reasoning with Consistency-Enhanced Reinforcement Learning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.952,Mem2Evolve: Towards Self-Evolving Agents via Co-Evolutionary Capability Expansion and Experience Distillation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.953,VideoCuRL: Video Curriculum Reinforcement Learning with Orthogonal Difficulty Decomposition,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.954,Visual Inception: Compromising Long-term Planning in Agentic Recommenders via Multimodal Memory Poisoning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.955,"Language on Demand, Knowledge at Core: Composing LLMs with Encoder-Decoder Translation Models for Extensible Multilinguality",ACL,2026,Main long,False,False,False,,1
+2026.acl-long.956,GeoArena: Evaluating Open-World Geographic Reasoning in Large Vision-Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.957,Fisher-Driven Adaptive Locating for Knowledge Editing in Large Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.958,From AR to Diffusion: Efficiently Adapting Large Language Models with Strictly Causal and Elastic Horizons,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.959,ExPerT: Personalizing LLM Responses to Users’ Domain Expertise via Query-Wise Semantic and Keystroke Behavioral Cues,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.96,SATQuest: A Verifier for Logical Reasoning Evaluation and Reinforcement Fine-Tuning of LLMs,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.960,"Measure Twice, Click Once: Co-evolving Proposer and Visual Critic via Reinforcement Learning for GUI Grounding",ACL,2026,Main long,False,False,False,,1
+2026.acl-long.961,Retrieving to Recover: Towards Incomplete Audio-Visual Question Answering via Semantic-consistent Purification,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.962,ChatHLS: Towards Systematic Design Automation and Optimization for High-Level Synthesis,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.963,Cultural Benchmarking of LLMs in Standard and Dialectal Arabic Dialogues,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.964,ReRec: Reasoning-Augmented LLM-based Recommendation Assistant via Reinforcement Fine-tuning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.965,MoA: Heterogeneous Mixture of Adapters for Parameter-Efficient Fine-Tuning of Large Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.966,Beyond the Context Window: Scaling Agentic RL via End-to-end Optimized Context Compression,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.967,Probing the Safety Robustness of LLMs in Latent Space,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.968,LoopTool: Closing the Data–Training Loop for Robust LLM Tool Calls,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.969,Placing Puzzle Pieces Where They Matter: A Question Augmentation Framework for Reinforcement Learning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.97,Not All Directions Matter: Towards Structured and Task-Aware Low-Rank Model Adaptation,ACL,2026,Main long,True,False,True,OUT | body_needed,7
+2026.acl-long.97.pdf,,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.970,USB: A COMPREHENSIVE AND UNIFIED SAFETY EVALUATION BENCHMARK FOR MULTIMODAL LARGE LANGUAGE MODELS,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.971,FlowSearch: Advancing Deep Research with Dynamic Structured Knowledge Flow,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.972,LLMEval-Fair: A Large-Scale Longitudinal Study on Robust and Fair Evaluation of Large Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.973,SAME: Signer-Aware Mixture-of-Experts for Test-Time Adaptation in Sign Language Translation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.974,Controllable LLM Reasoning via Sparse Autoencoder-Based Steering,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.975,LEDOM: Reverse Language Model,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.976,AEGIS: A Holistic Benchmark for Evaluating Forensic Analysis of AI-Generated Academic Images,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.977,The GaoYao Benchmark: A Comprehensive Framework for Evaluating Multilingual and Multicultural Abilities of Large Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.978,METRO: Towards Strategy Induction from Expert Dialogue Transcripts for Non-collaborative Dialogues,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.979,TamEdit: Trajectory-Aware Meta-Learning for Specificity-Preserving Continual Knowledge Editing,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.98,ReContraster: Making Your Posters Stand Out with Regional Contrast,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.980,LexRel: Benchmarking Legal Relation Extraction for Chinese Civil Cases,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.981,Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.982,Profiling-Free Mixed-Precision Quantization for MoE LLMs via Fuzzy Rule Interpolation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.983,Tailoring Diagnostic Modeling to Individual Learners: Personalized Distractor Generation via MCTS-Guided Reasoning Reconstruction,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.984,MTR-Bench: A Comprehensive Benchmark for Multi-Turn Reasoning Evaluation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.985,Community-Aware Assessment of Social Textual Engagement and Resonance: A Human-Centric Perspective on User-Generated Content Evaluation,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.986,Query-Aware Knowledge Retrieval via Hyperbolic Structuring,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.987,EduBench: A Comprehensive Benchmarking Dataset for Evaluating Large Language Models in Diverse Educational Scenarios,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.988,WebClipper: Efficient Evolution of Web Agents with Graph-based Trajectory Pruning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.989,"MMAC: A Multilingual, Multimodal Alignment Framework for Cultural Grounding Evaluation",ACL,2026,Main long,False,False,False,,1
+2026.acl-long.99,Mechanistic Interpretability Should Prioritize Feature Consistency in Sparse Autoencoders,ACL,2026,Main long,True,False,True,OUT,4
+2026.acl-long.990,Step-GRPO: Internalizing Dynamic Early Exit for Efficient Reasoning,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.991,Gold-Medal-Level Olympiad Geometry Solving with Efficient Heuristic Auxiliary Constructions,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.992,Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.993,The Digital Dunning-Kruger Effect: Decoupling Hallucinations via Geometric Hidden-state Observation for Semantic Truthfulness,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.994,d-TreeRPO: Towards More Reliable Policy Optimization for Diffusion Language Models,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.995,Traffic-R1: Reinforced LLMs Bring Human-Like Reasoning to Traffic Signal Control Systems,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.996,Nirvana: A Specialized Generalist Model With Task-Aware Memory Mechanism,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.997,BoYaEval: Evaluating Multimodal Large Language Models on Understanding Ancient Chinese Musical Scores,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.998,Rectifying the Emotional Flow: Aligning Priors and Dynamic Guidance for High-Arousal Text-to-Speech,ACL,2026,Main long,False,False,False,,1
+2026.acl-long.999,Perplexity-Aware Data Scaling Law: Perplexity Landscapes Predict Performance for Continual Pre-training,ACL,2026,Main long,False,False,False,,1
+2026.findings-acl,,ACL,2026,Findings,False,False,False,,2
+aaai2020-5380,The Unreasonable Effectiveness of Inverse Reinforcement Learning in Advancing Cancer Research,AAAI,2020,,False,False,False,,7
+aaai2020-5383,Guided Weak Supervision for Action Recognition with Scarce Data to Assess Skills of Children with Autism,AAAI,2020,,False,False,False,,28
+aaai2020-5384,The Stanford Acuity Test: A Precise Vision Test Using Bayesian Techniques and a Discovery in Human Visual Response,AAAI,2020,,False,False,False,,27
+aaai2020-5394,Doctor2Vec: Dynamic Doctor Representation Learning for Clinical Trial Recruitment,AAAI,2020,,False,False,False,,26
+aaai2020-5399,DeepVar: An End-to-End Deep Learning Approach for Genomic Variant Recognition in Biomedical Literature,AAAI,2020,,False,False,False,,7
+aaai2020-5400,Learning the Graphical Structure of Electronic Health Records with Graph Convolutional Transformer,AAAI,2020,,False,False,False,,9
+aaai2020-5401,CONAN: Complementary Pattern Augmentation for Rare Disease Detection,AAAI,2020,,False,False,False,,7
+aaai2020-5404,CORE: Automatic Molecule Optimization Using Copy & Refine Strategy,AAAI,2020,,False,False,False,,9
+aaai2020-5411,Pairwise Learning with Differential Privacy Guarantees,AAAI,2020,,False,False,False,,7
+aaai2020-5412,CASTER: Predicting Drug Interactions with Chemical Substructure Representation,AAAI,2020,,False,False,False,,8
+aaai2020-5417,,AAAI,2020,,False,False,False,,8
+aaai2020-5418,Region Focus Network for Joint Optic Disc and Cup Segmentation,AAAI,2020,,False,False,False,,8
+aaai2020-5421,Towards Cross-Modality Medical Image Segmentation with Online Mutual Knowledge Distillation,AAAI,2020,,False,False,False,,28
+aaai2020-5423,MRI Reconstruction with Interpretable Pixel-Wise Operations Using Reinforcement Learning,AAAI,2020,,False,False,False,,8
+aaai2020-5424,PSENet: Psoriasis Severity Evaluation Network,AAAI,2020,,False,False,False,,8
+aaai2020-5426,Learning Multi-Modal Biomarker Representations via Globally Aligned Longitudinal Enrichments,AAAI,2020,,False,False,False,,9
+aaai2020-5427,,AAAI,2020,,False,False,False,,30
+aaai2020-5428,ConCare: Personalized Clinical Feature Embedding via Capturing the Healthcare Context,AAAI,2020,,False,False,False,,14
+aaai2020-5433,Chemically Interpretable Graph Interaction Network for Prediction of Pharmacokinetic Properties of Drug-Like Molecules,AAAI,2020,,False,False,False,,13
+aaai2020-5440,DATA-GRU: Dual-Attention Time-Aware Gated Recurrent Unit for Irregular Multivariate Time Series,AAAI,2020,,False,False,False,,10
+aaai2020-5446,Graph-Driven Generative Models for Heterogeneous Multi-Task Learning,AAAI,2020,,False,False,False,,29
+aaai2020-5448,HDK: Toward High-Performance Deep-Learning-Based Kirchhoff Analysis,AAAI,2020,,False,False,False,,8
+aaai2020-5456,Generative Adversarial Regularized Mutual Information Policy Gradient Framework for Automatic Diagnosis,AAAI,2020,,False,False,False,,8
+aaai2020-5475,"OF-MSRN: Optical Flow-Auxiliary Multi-Task Regression Network for Direct Quantitative Measurement, Segmentation and Motion Estimation",AAAI,2020,,False,False,False,,8
+aaai2020-5487,,AAAI,2020,,False,False,False,,14
+aaai2020-5647,Conditional Generative Neural Decoding with Structured CNN Feature Prediction,AAAI,2020,,False,False,False,,9
+aaai2020-5650,Graph-Based Decoding Model for Functional Alignment of Unaligned fMRI Data,AAAI,2020,,False,False,False,,30
+aaai2020-5656,Instance-Adaptive Graph for EEG Emotion Recognition,AAAI,2020,,False,False,False,,8
+aaai2020-5657,Variational Pathway Reasoning for EEG Emotion Recognition,AAAI,2020,,False,False,False,,8
+aaai2020-5702,A Practical Approach to Forgetting in Description Logics with Nominals,AAAI,2020,,False,False,False,,8
+aaai2020-5748,ECGadv: Generating Adversarial Electrocardiogram to Misguide Arrhythmia Classification System,AAAI,2020,,False,False,False,,8
+aaai2020-5750,Generative Adversarial Networks for Video-to-Video Domain Adaptation,AAAI,2020,,False,False,False,,9
+aaai2020-5773,Deep Mixed Effect Model Using Gaussian Processes: A Personalized and Reliable Prediction for Healthcare,AAAI,2020,,False,False,False,,10
+aaai2020-5789,Integrating Overlapping Datasets Using Bivariate Causal Discovery,AAAI,2020,,False,False,False,,27
+aaai2020-5799,Privacy-Preserving Gaussian Process Regression – A Modular Approach to the Application of Homomorphic Encryption,AAAI,2020,,False,False,False,,8
+aaai2020-5813,Modeling Dialogues with Hashcode Representations: A Nonparametric Approach,AAAI,2020,,False,False,False,,9
+aaai2020-5825,High Tissue Contrast MRI Synthesis Using Multi-Stage Attention-GAN for Segmentation,AAAI,2020,,False,False,False,,10
+aaai2020-5841,Meta-Learning PAC-Bayes Priors in Model Averaging,AAAI,2020,,False,False,False,,8
+aaai2020-5921,EC-GAN: Inferring Brain Effective Connectivity via Generative Adversarial Networks,AAAI,2020,,False,False,False,,8
+aaai2020-5969,Efficiently Enumerating Substrings with Statistically Significant Frequencies of Locally Optimal Occurrences in Gigantic String,AAAI,2020,,False,False,False,,8
+aaai2020-5974,,AAAI,2020,,False,False,True,exclude,5
+aaai2020-5988,A Bayesian Approach for Estimating Causal Effects from Observational Data,AAAI,2020,,False,False,False,,10
+aaai2020-5997,,AAAI,2020,,False,False,False,,26
+aaai2020-6014,Learning Counterfactual Representations for Estimating Individual Dose-Response Curves,AAAI,2020,,False,False,False,,8
+aaai2020-6053,Label Enhancement with Sample Correlations via Low-Rank Representation,AAAI,2020,,False,False,False,,8
+aaai2020-6100,Non-Local U-Nets for Biomedical Image Segmentation,AAAI,2020,,False,False,False,,8
+aaai2020-6106,ODIN: ODE-Informed Regression for Parameter and State Inference in Time-Continuous Dynamical Systems,AAAI,2020,,False,False,False,,28
+aaai2020-6120,Gromov-Wasserstein Factorization Models for Graph Clustering,AAAI,2020,Main,False,False,False,,13
+aaai2020-6121,Federated Patient Hashing,AAAI,2020,,False,False,False,,8
+aaai2020-6158,Systematically Exploring Associations among Multivariate Data,AAAI,2020,,False,False,False,,8
+aaai2020-6175,An Annotation Sparsification Strategy for 3D Medical Image Segmentation via Representative Selection and Self-Training,AAAI,2020,,False,False,False,,8
+aaai2020-6179,Side Information Dependence as a Regularizer for Analyzing Human Brain Conditions across Cognitive Experiments,AAAI,2020,,False,False,False,,8
+aaai2020-6236,Simultaneously Linking Entities and Extracting Relations from Biomedical Text without Mention-Level Supervision,AAAI,2020,,False,False,False,,8
+aaai2020-6313,Relation Extraction Exploiting Full Dependency Forests,AAAI,2020,,False,False,False,,8
+aaai2020-6331,ICD Coding from Clinical Text Using Multi-Filter Residual Convolutional Neural Network,AAAI,2020,,False,False,False,,29
+aaai2020-6358,HAMNER: Headword Amplified Multi-Span Distantly Supervised Method for Domain Specific Named Entity Recognition,AAAI,2020,,False,False,False,,29
+aaai2020-6404,Can Embeddings Adequately Represent Medical Terminology? New Large-Scale Medical Term Similarity Datasets Have the Answer!,AAAI,2020,,False,False,False,,9
+aaai2020-6410,On the Generation of Medical Question-Answer Pairs,AAAI,2020,,False,False,False,,28
+aaai2020-6412,Understanding Medical Conversations with Scattered Keyword Attention and Weak Supervision from Responses,AAAI,2020,,False,False,False,,8
+aaai2020-6415,,AAAI,2020,,False,False,False,,8
+aaai2020-6457,Probing Brain Activation Patterns by Dissociating Semantics and Syntax in Sentences,AAAI,2020,,False,False,False,,8
+aaai2020-6504,Learning Conceptual-Contextual Embeddings for Medical Text,AAAI,2020,,False,False,False,,28
+aaai2020-6526,LATTE: Latent Type Modeling for Biomedical Entity Linking,AAAI,2020,,False,False,False,,9
+aaai2020-6575,Causal Discovery from Multiple Data Sets with Non-Identical Variable Sets,AAAI,2020,,False,False,False,,10
+aaai2020-6584,Parallel AND/OR Search for Marginal MAP,AAAI,2020,,False,False,False,,12
+aaai2020-6590,Off-Policy Evaluation in Partially Observable Environments,AAAI,2020,,False,False,False,,11
+aaai2020-6619,Auto-GAN: Self-Supervised Collaborative Learning for Medical Image Synthesis,AAAI,2020,,False,False,False,,9
+aaai2020-6765,ElixirNet: Relation-Aware Network Architecture Adaptation for Medical Lesion Detection,AAAI,2020,,False,False,False,,18
+aaai2020-6850,Pyramid Attention Aggregation Network for Semantic Segmentation of Surgical Instruments,AAAI,2020,,False,False,False,,8
+aaai2020-6922,CircleNet for Hip Landmark Detection,AAAI,2020,,False,False,False,,10
+aaai2020-6926,Patch Proposal Network for Fast Semantic Segmentation of High-Resolution Images,AAAI,2020,,False,False,False,,8
+aaai2020-6932,Segmenting Medical MRI via Recurrent Decoding Cell,AAAI,2020,,False,False,False,,8
+aaai2020-6946,Shape-Aware Organ Segmentation by Predicting Signed Distance Maps,AAAI,2020,,False,False,False,,8
+aaai2020-6960,Object-Guided Instance Segmentation for Biological Images,AAAI,2020,,False,False,False,,8
+aaai2020-6989,When Radiology Report Generation Meets Knowledge Graph,AAAI,2020,,False,False,False,,8
+aaai2020-6992,Fully Convolutional Network for Consistent Voxel-Wise Correspondence,AAAI,2020,,False,False,False,,8
+aaai2021-16073,,AAAI,2021,,False,False,False,,14
+aaai2021-16076,,AAAI,2021,,False,False,False,,10
+aaai2021-16082,,AAAI,2021,,False,False,False,,10
+aaai2021-16084,,AAAI,2021,,False,False,False,,14
+aaai2021-16085,,AAAI,2021,,False,False,False,,29
+aaai2021-16086,,AAAI,2021,,False,False,False,,9
+aaai2021-16087,Towered Actor Critic For Handling Multiple Action Types In Reinforcement Learning For Drug Discovery,AAAI,2021,,False,False,False,,8
+aaai2021-16089,,AAAI,2021,,False,False,False,,10
+aaai2021-16096,,AAAI,2021,,False,False,False,,10
+aaai2021-16098,,AAAI,2021,,False,False,False,,9
+aaai2021-16099,,AAAI,2021,,False,False,False,,10
+aaai2021-16110,,AAAI,2021,,False,False,False,,9
+aaai2021-16112,,AAAI,2021,,False,False,False,,13
+aaai2021-16113,,AAAI,2021,,False,False,False,,9
+aaai2021-16120,,AAAI,2021,,False,False,False,,14
+aaai2021-16122,,AAAI,2021,,False,False,False,,10
+aaai2021-16125,,AAAI,2021,,False,False,False,,9
+aaai2021-16126,,AAAI,2021,,False,False,False,,14
+aaai2021-16130,,AAAI,2021,,False,False,False,,10
+aaai2021-16135,,AAAI,2021,,False,False,False,,14
+aaai2021-16138,,AAAI,2021,,False,False,False,,9
+aaai2021-16141,,AAAI,2021,,False,False,False,,13
+aaai2021-16143,,AAAI,2021,,False,False,False,,10
+aaai2021-16150,,AAAI,2021,,False,False,False,,10
+aaai2021-16152,,AAAI,2021,,False,False,False,,10
+aaai2021-16153,,AAAI,2021,,False,False,False,,14
+aaai2021-16154,,AAAI,2021,,False,False,False,,10
+aaai2021-16158,,AAAI,2021,,False,False,False,,12
+aaai2021-16160,,AAAI,2021,,False,False,True,exclude,3
+aaai2021-16164,,AAAI,2021,,False,False,False,,9
+aaai2021-16166,Towards a Better Understanding of VR Sickness: Physical Symptom Prediction for VR Contents,AAAI,2021,,False,False,False,,27
+aaai2021-16168,,AAAI,2021,,False,False,False,,9
+aaai2021-16169,,AAAI,2021,,False,False,False,,9
+aaai2021-16212,,AAAI,2021,,False,False,False,,29
+aaai2021-16221,,AAAI,2021,,False,False,False,,14
+aaai2021-16270,,AAAI,2021,,False,False,False,,28
+aaai2021-16275,,AAAI,2021,,False,False,False,,14
+aaai2021-16317,,AAAI,2021,,False,False,False,,12
+aaai2021-16388,,AAAI,2021,,False,False,False,,10
+aaai2021-16397,,AAAI,2021,,False,False,False,,9
+aaai2021-16398,,AAAI,2021,,False,False,False,,9
+aaai2021-16493,,AAAI,2021,,False,False,False,,9
+aaai2021-16560,,AAAI,2021,,False,False,False,,9
+aaai2021-16612,,AAAI,2021,,False,False,False,,20
+aaai2021-16613,,AAAI,2021,,False,False,False,,9
+aaai2021-16614,,AAAI,2021,,False,False,False,,14
+aaai2021-16615,,AAAI,2021,,False,False,False,,12
+aaai2021-16616,Transfer Graph Neural Networks for Pandemic Forecasting,AAAI,2021,,False,False,False,,27
+aaai2021-16617,,AAAI,2021,,False,False,False,,10
+aaai2021-16618,,AAAI,2021,,False,False,False,,10
+aaai2021-16619,,AAAI,2021,,False,False,False,,14
+aaai2021-16620,,AAAI,2021,,False,False,False,,14
+aaai2021-16621,Tracking Disease Outbreaks from Sparse Data with Bayesian Inference,AAAI,2021,,False,False,False,,8
+aaai2021-16622,,AAAI,2021,,False,False,False,,14
+aaai2021-16735,,AAAI,2021,,False,False,False,,9
+aaai2021-16738,,AAAI,2021,,False,False,False,,9
+aaai2021-16742,,AAAI,2021,,False,False,False,,10
+aaai2021-16746,,AAAI,2021,,False,False,False,,32
+aaai2021-16854,,AAAI,2021,,False,False,False,,10
+aaai2021-17001,,AAAI,2021,,False,False,False,,10
+aaai2021-17038,,AAAI,2021,,False,False,False,,9
+aaai2021-17066,,AAAI,2021,,False,False,False,,9
+aaai2021-17070,,AAAI,2021,,False,False,False,,9
+aaai2021-17085,,AAAI,2021,,False,False,False,,10
+aaai2021-17097,,AAAI,2021,,False,False,False,,30
+aaai2021-17107,,AAAI,2021,,False,False,False,,12
+aaai2021-17126,,AAAI,2021,,False,False,False,,10
+aaai2021-17194,,AAAI,2021,,False,False,False,,9
+aaai2021-17199,,AAAI,2021,,False,False,False,,14
+aaai2021-17230,,AAAI,2021,,False,False,False,,30
+aaai2021-17253,,AAAI,2021,,False,False,False,,12
+aaai2021-17255,,AAAI,2021,,False,False,False,,10
+aaai2021-17260,,AAAI,2021,,False,False,False,,9
+aaai2021-17282,,AAAI,2021,,False,False,False,,10
+aaai2021-17293,,AAAI,2021,,False,False,False,,9
+aaai2021-17298,,AAAI,2021,,False,False,False,,30
+aaai2021-17304,Treatment Effect Estimation with Disentangled Latent Factors,AAAI,2021,,False,False,False,,10
+aaai2021-17318,,AAAI,2021,,False,False,False,,10
+aaai2021-17369,,AAAI,2021,,False,False,False,,9
+aaai2021-17447,,AAAI,2021,,False,False,False,,9
+aaai2021-17449,,AAAI,2021,,False,False,False,,10
+aaai2021-17493,,AAAI,2021,,False,False,False,,9
+aaai2021-17499,,AAAI,2021,,False,False,False,,14
+aaai2021-17513,,AAAI,2021,,False,False,False,,9
+aaai2021-17539,,AAAI,2021,,False,False,False,,9
+aaai2021-17577,,AAAI,2021,,False,False,False,,12
+aaai2021-17624,,AAAI,2021,,False,False,False,,13
+aaai2021-17657,,AAAI,2021,,False,False,False,,33
+aaai2021-17693,TaLNet: Voice Reconstruction from Tongue and Lip Articulation with Transfer Learning from Text-to-Speech Synthesis,AAAI,2021,,False,False,False,,8
+aaai2021-17714,,AAAI,2021,,False,False,False,,9
+aaai2021-17721,,AAAI,2021,,False,False,False,,31
+aaai2021-17732,,AAAI,2021,,False,False,False,,9
+aaai2021-17734,,AAAI,2021,,False,False,False,,12
+aaai2021-17754,,AAAI,2021,,False,False,False,,29
+aaai2022-19875,,AAAI,2022,,False,False,False,,14
+aaai2022-19878,,AAAI,2022,,False,False,False,,28
+aaai2022-19976,,AAAI,2022,,False,False,False,,10
+aaai2022-19984,,AAAI,2022,,False,False,False,,9
+aaai2022-19993,,AAAI,2022,,False,False,False,,10
+aaai2022-20051,,AAAI,2022,,False,False,False,,9
+aaai2022-20054,,AAAI,2022,,False,False,False,,9
+aaai2022-20068,,AAAI,2022,,False,False,False,,14
+aaai2022-20085,,AAAI,2022,,False,False,False,,10
+aaai2022-20086,,AAAI,2022,,False,False,False,,29
+aaai2022-20098,,AAAI,2022,,False,False,False,,14
+aaai2022-20110,,AAAI,2022,,False,False,False,,14
+aaai2022-20114,,AAAI,2022,,False,False,False,,14
+aaai2022-20118,,AAAI,2022,,False,False,False,,9
+aaai2022-20143,,AAAI,2022,,False,False,False,,14
+aaai2022-20144,,AAAI,2022,,False,False,False,,28
+aaai2022-20146,,AAAI,2022,,False,False,False,,28
+aaai2022-20204,,AAAI,2022,,False,False,False,,13
+aaai2022-20217,,AAAI,2022,,False,False,False,,10
+aaai2022-20313,,AAAI,2022,,False,False,False,,29
+aaai2022-20365,,AAAI,2022,,False,False,False,,9
+aaai2022-20376,,AAAI,2022,,False,False,False,,10
+aaai2022-20377,,AAAI,2022,,False,False,False,,14
+aaai2022-20380,,AAAI,2022,,False,False,False,,10
+aaai2022-20386,,AAAI,2022,,False,False,False,,9
+aaai2022-20388,,AAAI,2022,,False,False,False,,30
+aaai2022-20392,,AAAI,2022,,False,False,False,,11
+aaai2022-20396,,AAAI,2022,,False,False,False,,28
+aaai2022-20472,,AAAI,2022,,False,False,False,,15
+aaai2022-20499,,AAAI,2022,,False,False,False,,14
+aaai2022-20510,,AAAI,2022,,False,False,False,,29
+aaai2022-20516,,AAAI,2022,,False,False,False,,9
+aaai2022-20570,,AAAI,2022,,False,False,False,,16
+aaai2022-20585,,AAAI,2022,,False,False,False,,10
+aaai2022-20622,,AAAI,2022,,False,False,False,,28
+aaai2022-20636,,AAAI,2022,,False,False,False,,10
+aaai2022-20643,,AAAI,2022,,False,False,False,,7
+aaai2022-20658,,AAAI,2022,,False,False,False,,10
+aaai2022-20714,,AAAI,2022,,False,False,False,,14
+aaai2022-20738,,AAAI,2022,,False,False,False,,14
+aaai2022-20759,,AAAI,2022,,False,False,False,,10
+aaai2022-20767,,AAAI,2022,,False,False,False,,28
+aaai2022-20769,,AAAI,2022,,False,False,False,,14
+aaai2022-20776,,AAAI,2022,,False,False,False,,9
+aaai2022-20784,,AAAI,2022,,False,False,False,,9
+aaai2022-20786,,AAAI,2022,,False,False,False,,9
+aaai2022-20810,,AAAI,2022,,False,False,False,,10
+aaai2022-20905,,AAAI,2022,,False,False,False,,14
+aaai2022-21234,,AAAI,2022,,False,False,False,,10
+aaai2022-21238,,AAAI,2022,,False,False,False,,10
+aaai2022-21240,,AAAI,2022,,False,False,False,,14
+aaai2022-21255,,AAAI,2022,,False,False,False,,14
+aaai2022-21260,,AAAI,2022,,False,False,False,,9
+aaai2022-21352,,AAAI,2022,,False,False,False,,29
+aaai2022-21395,,AAAI,2022,,False,False,False,,9
+aaai2022-21398,,AAAI,2022,,False,False,False,,9
+aaai2022-21410,,AAAI,2022,,False,False,False,,10
+aaai2022-21427,,AAAI,2022,,False,False,False,,13
+aaai2022-21435,,AAAI,2022,,False,False,False,,13
+aaai2022-21436,,AAAI,2022,,False,False,False,,14
+aaai2022-21439,,AAAI,2022,,False,False,False,,9
+aaai2022-21452,,AAAI,2022,,False,False,False,,7
+aaai2022-21456,,AAAI,2022,,False,False,False,,32
+aaai2022-21457,,AAAI,2022,,False,False,False,,14
+aaai2022-21458,,AAAI,2022,,False,False,False,,10
+aaai2022-21459,,AAAI,2022,,False,False,False,,15
+aaai2022-21460,,AAAI,2022,,False,False,False,,14
+aaai2022-21466,,AAAI,2022,,False,False,False,,28
+aaai2022-21472,,AAAI,2022,,False,False,False,,14
+aaai2022-21479,,AAAI,2022,,False,False,False,,9
+aaai2022-21483,,AAAI,2022,,False,False,False,,10
+aaai2023-25070,Back to the Future: Toward a Hybrid Architecture for Ad Hoc Teamwork,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25071,Reducing ANN-SNN Conversion Error through Residual Membrane Potential,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25072,Hierarchical ConViT with Attention-Based Relational Reasoner for Visual Analogical Reasoning,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25073,,AAAI,2023,,False,False,False,,30
+aaai2023-25074,,AAAI,2023,,False,False,False,,20
+aaai2023-25075,"A Machine with Short-Term, Episodic, and Semantic Memory Systems",AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25076,Persuasion Strategies in Advertisements,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25077,Intensity-Aware Loss for Dynamic Facial Expression Recognition in the Wild,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25078,AVCAffe: A Large Scale Audio-Visual Dataset of Cognitive Load and Affect for Remote Work,AAAI,2023,Main,True,False,True,exclude | pending,3
+aaai2023-25079,ESL-SNNs: An Evolutionary Structure Learning Strategy for Spiking Neural Networks,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25080,Zero-Shot Linear Combinations of Grounded Social Interactions with Linear Social MDPs,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25081,Complex Dynamic Neurons Improved Spiking Transformer Network for Efficient Automatic Speech Recognition,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25082,Self-Supervised Graph Learning for Long-Tailed Cognitive Diagnosis,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25083,CMNet: Contrastive Magnification Network for Micro-Expression Recognition,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25084,Disentangling Reafferent Effects by Doing Nothing,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25085,Learning Temporal-Ordered Representation for Spike Streams Based on Discrete Wavelet Transforms,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25086,,AAAI,2023,,False,False,False,,31
+aaai2023-25087,Progress and Limitations of Deep Networks to Recognize Objects in Unusual Poses,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25088,Denoising after Entropy-Based Debiasing a Robust Training Method for Dataset Bias with Noisy Labels,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25089,Rethinking Interpretation: Input-Agnostic Saliency Mapping of Deep Visual Classifiers,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25090,Deep Digging into the Generalization of Self-Supervised Monocular Depth Estimation,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25091,Self-Contrastive Learning: Single-Viewed Supervised Contrastive Framework Using Sub-network,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25092,Layout Representation Learning with Spatial and Structural Hierarchies,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25093,Cross-Modal Label Contrastive Learning for Unsupervised Audio-Visual Event Localization,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25094,Multi-Level Compositional Reasoning for Interactive Instruction Following,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25095,Self-Supervised Image Local Forgery Detection by JPEG Compression Trace,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25096,VASR: Visual Analogies of Situation Recognition,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25097,Parametric Surface Constrained Upsampler Network for Point Cloud,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25098,Explicit Invariant Feature Induced Cross-Domain Crowd Counting,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25099,Painterly Image Harmonization in Dual Domains,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25100,,AAAI,2023,,False,False,False,,11
+aaai2023-25101,KT-Net: Knowledge Transfer for Unpaired 3D Shape Completion,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25102,Deconstructed Generation-Based Zero-Shot Model,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25103,Tracking and Reconstructing Hand Object Interactions from Point Cloud Sequences in the Wild,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25104,Amodal Instance Segmentation via Prior-Guided Expansion,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25105,SwinRDM: Integrate SwinRNN with Diffusion Model towards High-Resolution and High-Quality Weather Forecasting,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25106,Take Your Model Further: A General Post-refinement Network for Light Field Disparity Estimation via BadPix Correction,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25107,Improving Dynamic HDR Imaging with Fusion Transformer,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25108,Self-Supervised Joint Dynamic Scene Reconstruction and Optical Flow Estimation for Spiking Camera,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25109,Bidirectional Optical Flow NeRF: High Accuracy and High Quality under Fewer Views,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25110,Scalable Spatial Memory for Scene Rendering and Navigation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25111,Hybrid CNN-Transformer Feature Fusion for Single Image Deraining,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25112,MGFN: Magnitude-Contrastive Glance-and-Focus Network for Weakly-Supervised Video Anomaly Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25113,Tagging before Alignment: Integrating Multi-Modal Tags for Video-Text Retrieval,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25114,DUET: Cross-Modal Semantic Grounding for Contrastive Zero-Shot Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25115,Imperceptible Adversarial Attack via Invertible Neural Networks,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25116,Cross-Modality Person Re-identification with Memory-Based Contrastive Embedding,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25117,User-Controllable Arbitrary Style Transfer via Entropy Regularization,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25118,Neural Architecture Search for Wide Spectrum Adversarial Robustness,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25119,Adversarial Alignment for Source Free Object Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25120,Weakly Supervised 3D Multi-Person Pose Estimation for Large-Scale Scenes Based on Monocular Camera and Single LiDAR,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25121,OctFormer: Efficient Octree-Based Transformer for Point Cloud Compression with Local Enhancement,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25122,Dual-Domain Attention for Image Deblurring,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25123,Multi-Resolution Monocular Depth Map Fusion by Self-Supervised Gradient-Based Composition,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25124,Improving Crowded Object Detection via Copy-Paste,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25125,Defending Backdoor Attacks on Vision Transformer via Patch Processing,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25126,Head-Free Lightweight Semantic Segmentation with Linear Transformer,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25127,Hierarchical Contrast for Unsupervised Skeleton-Based Action Representation Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25128,Exploring Tuning Characteristics of Ventral Stream’s Neurons for Few-Shot Image Classification,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25129,Incremental-DETR: Incremental Few-Shot Object Detection via Self-Supervised Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25130,PeCo: Perceptual Codebook for BERT Pre-training of Vision Transformers,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25131,Domain-General Crowd Counting in Unseen Scenarios,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25132,Few-Shot Defect Image Generation via Defect-Aware Feature Manipulation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25133,Frido: Feature Pyramid Diffusion for Complex Scene Image Synthesis,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25134,Target-Free Text-Guided Image Manipulation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25135,One Is All: Bridging the Gap between Neural Radiance Fields Architectures with Progressive Volume Distillation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25136,,AAAI,2023,,False,False,False,,11
+aaai2023-25137,Uncertainty-Aware Image Captioning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25138,,AAAI,2023,,False,False,False,,11
+aaai2023-25139,SEFormer: Structure Embedding Transformer for 3D Object Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25140,Exploit Domain-Robust Optical Flow in Domain Adaptive Video Semantic Segmentation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25141,Scene-Level Sketch-Based Image Retrieval with Minimal Pairwise Supervision,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25142,Causal Intervention for Human Trajectory Prediction with Cross Attention Mechanism,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25143,Point-Teaching: Weakly Semi-supervised Object Detection with Point Annotations,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25144,Progressive Multi-View Human Mesh Recovery with Self-Supervision,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25145,Incremental Image De-raining via Associative Memory,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25146,Flexible 3D Lane Detection by Hierarchical Shape Matching,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25147,Underwater Ranker: Learn Which Is Better and How to Be Better,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25148,ShadowFormer: Global Context Helps Shadow Removal,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25149,RAFaRe: Learning Robust and Accurate Non-parametric 3D Face Reconstruction from Pseudo 2D&3D Pairs,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25150,RankDNN: Learning to Rank for Few-Shot Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25151,Social Relation Reasoning Based on Triangular Constraints,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25152,CALIP: Zero-Shot Enhancement of CLIP with Parameter-Free Attention,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25153,Few-Shot Object Detection via Variational Feature Aggregation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25154,Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25155,Target-Aware Tracking with Long-Term Context Attention,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25156,Weakly-Supervised Camouflaged Object Detection with Scribble Annotations,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25157,Efficient Mirror Detection via Multi-Level Heterogeneous Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25158,TransVCL: Attention-Enhanced Video Copy Localization Network with Flexible Supervision,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25159,Open-Vocabulary Multi-Label Classification via Multi-Modal Knowledge Transfer,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25160,Parameter-Efficient Model Adaptation for Vision Transformers,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25161,DarkFeat: Noise-Robust Feature Detector and Descriptor for Extremely Low-Light RAW Images,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25162,GAM: Gradient Attention Module of Optimization for Point Clouds Analysis,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25163,Self-Supervised Learning for Multilevel Skeleton-Based Forgery Detection via Temporal-Causal Consistency of Actions,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25164,Self-Emphasizing Network for Continuous Sign Language Recognition,AAAI,2023,Main,True,False,True,exclude,3
+aaai2023-25165,Store and Fetch Immediately: Everything Is All You Need for Space-Time Video Super-resolution,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25166,PointCA: Evaluating the Robustness of 3D Point Cloud Completion Models against Adversarial Examples,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25167,High-Resolution Iterative Feedback Network for Camouflaged Object Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25168,Leveraging Sub-class Discimination for Compositional Zero-Shot Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25169,GPTR: Gestalt-Perception Transformer for Diagram Object Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25170,Resolving Task Confusion in Dynamic Expansion Architectures for Class Incremental Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25171,,AAAI,2023,,False,False,False,,11
+aaai2023-25172,NLIP: Noise-Robust Language-Image Pre-training,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25173,Symmetry-Aware Transformer-Based Mirror Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25174,AudioEar: Single-View Ear Reconstruction for Personalized Spatial Audio,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25175,Boosting Point Clouds Rendering via Radiance Mapping,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25176,FreeEnricher: Enriching Face Landmarks without Additional Cost,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25177,PATRON: Perspective-Aware Multitask Model for Referring Expression Grounding Using Embodied Multimodal Cues,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25178,Unifying Vision-Language Representation Space with Single-Tower Transformer,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25179,Delving Deep into Pixel Alignment Feature for Accurate Multi-View Human Mesh Recovery,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25180,Semi-attention Partition for Occluded Person Re-identification,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25181,Fast Online Hashing with Multi-Label Projection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25182,,AAAI,2023,,False,False,False,,12
+aaai2023-25183,Semi-supervised Deep Large-Baseline Homography Estimation with Progressive Equivalence Constraint,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25184,Multi-Modality Deep Network for Extreme Learned Image Compression,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25185,PolarFormer: Multi-Camera 3D Object Detection with Polar Transformer,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25186,3D-TOGO: Towards Text-Guided Cross-Category 3D Object Generation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25187,FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25188,Estimating Reflectance Layer from a Single Image: Integrating Reflectance Guidance and Shadow/Specular Aware Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25189,Weakly-Guided Self-Supervised Pretraining for Temporal Activity Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25190,Correlation Loss: Enforcing Correlation between Classification and Localization,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25191,GuidedMixup: An Efficient Mixup Strategy Guided by Saliency Maps,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25192,3D Human Pose Lifting with Grid Convolution,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25193,Bidirectional Domain Mixup for Domain Adaptive Semantic Segmentation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25194,Frequency Selective Augmentation for Video Representation Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25195,Pose-Guided 3D Human Generation in Indoor Scene,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25196,Semantic-Aware Superpixel for Weakly Supervised Semantic Segmentation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25197,Multispectral Invisible Coating: Laminated Visible-Thermal Physical Attack against Multispectral Object Detectors Using Transparent Low-E Films,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25198,CRAFT: Camera-Radar 3D Object Detection with Spatio-Contextual Fusion Transformer,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25199,Simple and Effective Synthesis of Indoor 3D Scenes,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25200,MGTANet: Encoding Sequential LiDAR Points Using Long Short-Term Motion-Guided Temporal Attention for 3D Object Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25201,InstanceFormer: An Online Video Instance Segmentation Framework,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25202,Pixel-Wise Warping for Deep Image Stitching,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25203,Learning to Learn Better for Video Object Segmentation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25204,Curriculum Multi-Negative Augmentation for Debiased Video Grounding,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25205,Weakly Supervised 3D Segmentation via Receptive-Driven Pseudo Label Consistency and Structural Consistency,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25206,MultiAct: Long-Term 3D Human Motion Generation from Multiple Action Labels,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25207,Not All Neighbors Matter: Point Distribution-Aware Pruning for 3D Point Cloud,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25208,Symbolic Replay: Scene Graph as Prompt for Continual Learning on VQA Task,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25209,Linking People across Text and Images Based on Social Relation Reasoning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25210,ReGANIE: Rectifying GAN Inversion Errors for Accurate Real Image Editing,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25211,SWBNet: A Stable White Balance Network for sRGB Images,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25212,Frequency Domain Disentanglement for Arbitrary Neural Style Transfer,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25213,Pose-Oriented Transformer with Uncertainty-Guided Refinement for 2D-to-3D Human Pose Estimation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25214,CEE-Net: Complementary End-to-End Network for 3D Human Pose Generation and Estimation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25215,Real-World Deep Local Motion Deblurring,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25216,Disentangle and Remerge: Interventional Knowledge Distillation for Few-Shot Object Detection from a Conditional Causal Perspective,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25217,,AAAI,2023,,False,False,False,,14
+aaai2023-25218,FSR: A General Frequency-Oriented Framework to Accelerate Image Super-resolution Networks,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25219,Learning Polysemantic Spoof Trace: A Multi-Modal Disentanglement Network for Face Anti-spoofing,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25220,Stroke Extraction of Chinese Character Based on Deep Structure Deformable Image Registration,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25221,Spatial-Spectral Transformer for Hyperspectral Image Denoising,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25222,Learning Semantic Alignment with Global Modality Reconstruction for Video-Language Pre-training towards Retrieval,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25223,Layout-Aware Dreamer for Embodied Visual Referring Expression Grounding,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25224,NeAF: Learning Neural Angle Fields for Point Normal Estimation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25225,CLIP-ReID: Exploiting Vision-Language Model for Image Re-identification without Concrete Text Labels,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25226,DC-Former: Diverse and Compact Transformer for Person Re-identification,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25227,Panoramic Video Salient Object Detection with Ambisonic Audio Guidance,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25228,LWSIS: LiDAR-Guided Weakly Supervised Instance Segmentation for Autonomous Driving,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25229,Adaptive Texture Filtering for Single-Domain Generalized Segmentation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25230,MEID: Mixture-of-Experts with Internal Distillation for Long-Tailed Video Recognition,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25231,Gradient Corner Pooling for Keypoint-Based Object Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25232,Towards Real-Time Segmentation on the Edge,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25233,BEVDepth: Acquisition of Reliable Depth for Multi-View 3D Object Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25234,BEVStereo: Enhancing Depth Estimation in Multi-View 3D Object Detection with Temporal Stereo,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25235,Learning Single Image Defocus Deblurring with Misaligned Training Pairs,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25236,Curriculum Temperature for Knowledge Distillation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25237,Actionness Inconsistency-Guided Contrastive Learning for Weakly-Supervised Temporal Action Localization,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25238,READ: Large-Scale Neural Scene Rendering for Autonomous Driving,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25239,CDTA: A Cross-Domain Transfer-Based Attack with Contrastive Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25240,HybridCap: Inertia-Aid Monocular Capture of Challenging Human Motions,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25241,Global Dilated Attention and Target Focusing Network for Robust Tracking,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25242,Only a Few Classes Confusing: Pixel-Wise Candidate Labels Disambiguation for Foggy Scene Understanding,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25243,Actional Atomic-Concept Learning for Demystifying Vision-Language Navigation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25244,Probability Guided Loss for Long-Tailed Multi-Label Image Classification,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25245,Self-Supervised Image Denoising Using Implicit Deep Denoiser Prior,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25246,Accelerating the Training of Video Super-resolution Models,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25247,SelectAugment: Hierarchical Deterministic Sample Selection for Data Augmentation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25248,AdaCM: Adaptive ColorMLP for Real-Time Universal Photo-Realistic Style Transfer,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25249,SEPT: Towards Scalable and Efficient Visual Pre-training,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25250,Cross-Modality Earth Mover’s Distance for Visible Thermal Person Re-identification,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25251,Hypotheses Tree Building for One-Shot Temporal Sentence Localization,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25252,The Devil Is in the Frequency: Geminated Gestalt Autoencoder for Self-Supervised Visual Pre-training,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25253,M3AE: Multimodal Representation Learning for Brain Tumor Segmentation with Missing Modalities,AAAI,2023,,False,False,False,,20
+aaai2023-25254,From Coarse to Fine: Hierarchical Pixel Integration for Lightweight Image Super-resolution,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25255,Fast Fluid Simulation via Dynamic Multi-Scale Gridding,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25256,TransLO: A Window-Based Masked Point Transformer Framework for Large-Scale LiDAR Odometry,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25257,Low-Light Video Enhancement with Synthetic Event Guidance,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25258,Novel Motion Patterns Matter for Practical Skeleton-Based Action Recognition,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25259,EMEF: Ensemble Multi-Exposure Image Fusion,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25260,,AAAI,2023,,False,False,False,,14
+aaai2023-25261,DQ-DETR: Dual Query Detection Transformer for Phrase Extraction and Grounding,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25262,Progressive Neighborhood Aggregation for Semantic Segmentation Refinement,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25263,CoordFill: Efficient High-Resolution Image Inpainting via Parameterized Coordinate Querying,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25264,,AAAI,2023,,False,False,False,,11
+aaai2023-25265,Counterfactual Dynamics Forecasting – a New Setting of Quantitative Reasoning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25266,Self-Decoupling and Ensemble Distillation for Efficient Segmentation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25267,Token Mixing: Parameter-Efficient Transfer Learning from Image-Language to Video-Language,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25268,StereoDistill: Pick the Cream from LiDAR for Distilling Stereo-Based 3D Object Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25269,Good Helper Is around You: Attention-Driven Masked Image Modeling,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25270,RADIANT: Radar-Image Association Network for 3D Object Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25271,CRIN: Rotation-Invariant Point Cloud Analysis and Rotation Estimation via Centrifugal Reference Frame,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25272,See Your Emotion from Gait Using Unlabeled Skeleton Data,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25273,Learning Progressive Modality-Shared Transformers for Effective Visible-Infrared Person Re-identification,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25274,Breaking Immutable: Information-Coupled Prototype Elaboration for Few-Shot Object Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25275,ParaFormer: Parallel Attention Transformer for Efficient Feature Matching,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25276,,AAAI,2023,,False,False,False,,14
+aaai2023-25277,HRDoc: Dataset and Baseline Method toward Hierarchical Reconstruction of Document Structures,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25278,Semantic 3D-Aware Portrait Synthesis and Manipulation Based on Compositional Neural Radiance Field,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25279,CFFT-GAN: Cross-Domain Feature Fusion Transformer for Exemplar-Based Image Translation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25280,StyleTalk: One-Shot Talking Head Generation with Controllable Speaking Styles,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25281,Intriguing Findings of Frequency Selection for Image Deblurring,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25282,DocEdit: Language-Guided Document Editing,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25283,Progressive Few-Shot Adaptation of Generative Model with Align-Free Spatial Correlation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25284,Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25285,"Show, Interpret and Tell: Entity-Aware Contextualised Image Captioning in Wikipedia",AAAI,2023,,True,False,True,exclude,2
+aaai2023-25286,TaCo: Textual Attribute Recognition via Contrastive Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25287,GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25288,Adapting Object Size Variance and Class Imbalance for Semi-supervised Object Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25289,MIMO Is All You Need：A Strong Multi-in-Multi-Out Baseline for Video Prediction,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25290,Universe Points Representation Learning for Partial Multi-Graph Matching,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25291,Robust Image Denoising of No-Flash Images Guided by Consistent Flash Images,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25292,Coarse2Fine: Local Consistency Aware Re-prediction for Weakly Supervised Object Localization,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25293,Find Beauty in the Rare: Contrastive Composition Feature Clustering for Nontrivial Cropping Box Regression,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25294,Domain Decorrelation with Potential Energy Ranking,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25295,PDRF: Progressively Deblurring Radiance Field for Fast Scene Reconstruction from Blurry Images,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25296,Efficient End-to-End Video Question Answering with Pyramidal Multimodal Transformer,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25297,CL3D: Unsupervised Domain Adaptation for Cross-LiDAR 3D Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25298,Better and Faster: Adaptive Event Conversion for Event-Based Object Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25299,CSTAR: Towards Compact and Structured Deep Neural Networks with Adversarial Robustness,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25300,Exploring Stochastic Autoregressive Image Modeling for Visual Representation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25301,Context-Aware Transformer for 3D Point Cloud Automatic Annotation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25302,Data-Efficient Image Quality Assessment with Attention-Panel Decoder,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25303,FoPro: Few-Shot Guided Robust Webly-Supervised Prototypical Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25304,Exposing the Self-Supervised Space-Time Correspondence Learning via Graph Kernels,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25305,Exploring Stroke-Level Modifications for Scene Text Editing,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25306,Unsupervised Deep Learning for Phase Retrieval via Teacher-Student Distillation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25307,A Learnable Radial Basis Positional Embedding for Coordinate-MLPs,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25308,Action-Conditioned Generation of Bimanual Object Manipulation Sequences,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25309,Mean-Shifted Contrastive Loss for Anomaly Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25310,Two Heads Are Better than One: Image-Point Cloud Network for Depth-Based 3D Hand Pose Estimation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25311,MAGIC: Mask-Guided Image Synthesis by Inverting a Quasi-robust Classifier,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25312,Domain Generalised Faster R-CNN,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25313,MIDMs: Matching Interleaved Diffusion Models for Exemplar-Based Image Translation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25314,JR2Net: Joint Monocular 3D Face Reconstruction and Reenactment,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25315,HVTSurv: Hierarchical Vision Transformer for Patient-Level Survival Prediction from Whole Slide Image,AAAI,2023,,False,False,False,,20
+aaai2023-25316,Channel Regeneration: Improving Channel Utilization for Compact DNNs,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25317,Adaptive Dynamic Filtering Network for Image Denoising,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25318,Edge Structure Learning via Low Rank Residuals for Robust Image Classification,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25319,Memory-Oriented Structural Pruning for Efficient Image Restoration,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25320,YOLOV: Making Still Image Object Detectors Great at Video Object Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25321,FeedFormer: Revisiting Transformer Decoder for Efficient Semantic Segmentation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25322,Task-Specific Scene Structure Representations,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25323,"Diversified and Realistic 3D Augmentation via Iterative Construction, Random Placement, and HPR Occlusion",AAAI,2023,,True,False,True,exclude,2
+aaai2023-25324,SHUNIT: Style Harmonization for Unpaired Image-to-Image Translation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25325,Siamese-Discriminant Deep Reinforcement Learning for Solving Jigsaw Puzzles with Large Eroded Gaps,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25326,CLIPVG: Text-Guided Image Manipulation Using Differentiable Vector Graphics,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25327,Compact Transformer Tracker with Correlative Masked Modeling,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25328,Text-DIAE: A Self-Supervised Degradation Invariant Autoencoder for Text Recognition and Document Enhancement,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25329,PUPS: Point Cloud Unified Panoptic Segmentation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25330,Efficient Edge-Preserving Multi-View Stereo Network for Depth Estimation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25331,Referring Expression Comprehension Using Language Adaptive Inference,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25332,Rethinking Data Augmentation for Single-Source Domain Generalization in Medical Image Segmentation,AAAI,2023,,False,False,False,,21
+aaai2023-25333,Hybrid Pixel-Unshuffled Network for Lightweight Image Super-resolution,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25334,Learning Event-Relevant Factors for Video Anomaly Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25335,Superpoint Transformer for 3D Scene Instance Segmentation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25336,Asynchronous Event Processing with Local-Shift Graph Convolutional Network,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25337,DENet: Disentangled Embedding Network for Visible Watermark Removal,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25338,Deep Manifold Attack on Point Clouds via Parameter Plane Stretching,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25339,Fair Generative Models via Transfer Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25340,Learning Context-Aware Classifier for Semantic Segmentation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25341,TopicFM: Robust and Interpretable Topic-Assisted Feature Matching,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25342,Learning Fractals by Gradient Descent,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25343,Leveraging Weighted Cross-Graph Attention for Visual and Semantic Enhanced Video Captioning Network,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25344,Doodle to Object: Practical Zero-Shot Sketch-Based 3D Shape Retrieval,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25345,Controlling Class Layout for Deep Ordinal Classification via Constrained Proxies Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25346,Dual Memory Aggregation Network for Event-Based Object Detection with Learnable Representation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25347,Text to Point Cloud Localization with Relation-Enhanced Transformer,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25348,UCoL: Unsupervised Learning of Discriminative Facial Representations via Uncertainty-Aware Contrast,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25349,Calibrated Teacher for Sparsely Annotated Object Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25350,Towards Real-Time Panoptic Narrative Grounding by an End-to-End Grounding Network,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25351,LeNo: Adversarial Robust Salient Object Detection Networks with Learnable Noise,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25352,Defending Black-Box Skeleton-Based Human Activity Classifiers,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25353,Exploring CLIP for Assessing the Look and Feel of Images,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25354,Robust Video Portrait Reenactment via Personalized Representation Quantization,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25355,De-biased Teacher: Rethinking IoU Matching for Semi-supervised Object Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25356,Learning to Generate an Unbiased Scene Graph by Using Attribute-Guided Predicate Features,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25357,Alignment-Enriched Tuning for Patch-Level Pre-trained Document Image Models,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25358,Flora: Dual-Frequency LOss-Compensated ReAl-Time Monocular 3D Video Reconstruction,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25359,Efficient Image Captioning for Edge Devices,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25360,Controllable Image Captioning via Prompting,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25361,ECO-3D: Equivariant Contrastive Learning for Pre-training on Perturbed 3D Point Cloud,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25362,Global-Local Characteristic Excited Cross-Modal Attacks from Images to Videos,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25363,Fine-Grained Retrieval Prompt Tuning,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25364,Ultra-High-Definition Low-Light Image Enhancement: A Benchmark and Transformer-Based Method,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25365,3D Assembly Completion,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25366,A Benchmark and Asymmetrical-Similarity Learning for Practical Image Copy Detection,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25367,Revisiting Unsupervised Local Descriptor Learning,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25368,Crafting Monocular Cues and Velocity Guidance for Self-Supervised Multi-Frame Depth Learning,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25369,Learning Continuous Depth Representation via Geometric Spatial Aggregator,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25370,SSDA3D: Semi-supervised Domain Adaptation for 3D Object Detection from Point Cloud,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25371,High-Resolution GAN Inversion for Degraded Images in Large Diverse Datasets,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25372,GAN Prior Based Null-Space Learning for Consistent Super-resolution,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25373,Contrastive Masked Autoencoders for Self-Supervised Video Hashing,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25374,MicroAST: Towards Super-fast Ultra-Resolution Arbitrary Style Transfer,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25375,Truncate-Split-Contrast: A Framework for Learning from Mislabeled Videos,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25376,Active Token Mixer,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25377,Exploring Non-target Knowledge for Improving Ensemble Universal Adversarial Attacks,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25378,Towards Good Practices for Missing Modality Robust Action Recognition,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25379,Reject Decoding via Language-Vision Models for Text-to-Image Synthesis,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25380,Transformation-Equivariant 3D Object Detection for Autonomous Driving,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25381,Super-efficient Echocardiography Video Segmentation via Proxy- and Kernel-Based Semi-supervised Learning,AAAI,2023,,False,False,False,,12
+aaai2023-25382,ACL-Net: Semi-supervised Polyp Segmentation via Affinity Contrastive Learning,AAAI,2023,,False,False,False,,12
+aaai2023-25383,Bi-directional Feature Reconstruction Network for Fine-Grained Few-Shot Image Classification,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25384,Preserving Structural Consistency in Arbitrary Artist and Artwork Style Transfer,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25385,End-to-End Zero-Shot HOI Detection via Vision and Language Knowledge Distillation,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25386,Revisiting Classifier: Transferring Vision-Language Models for Video Recognition,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25387,Scene Graph to Image Synthesis via Knowledge Consensus,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25388,Synthetic Data Can Also Teach: Synthesizing Effective Data for Unsupervised Visual Representation Learning,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25389,Multi-Stream Representation Learning for Pedestrian Trajectory Prediction,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25390,Pixel Is All You Need: Adversarial Trajectory-Ensemble Active Learning for Salient Object Detection,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25391,Attention-Based Depth Distillation with 3D-Aware Positional Encoding for Monocular 3D Object Detection,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25392,Skating-Mixer: Long-Term Sport Audio-Visual Modeling with MLPs,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25393,SVFI: Spiking-Based Video Frame Interpolation for High-Speed Motion,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25394,FEditNet: Few-Shot Editing of Latent Semantics in GAN Spaces,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25395,Toward Robust Diagnosis: A Contour Attention Preserving Adversarial Defense for COVID-19 Detection,AAAI,2023,,False,False,False,,15
+aaai2023-25396,Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25397,Less Is More Important: An Attention Module Guided by Probability Density Function for Convolutional Neural Networks,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25398,Mitigating Artifacts in Real-World Video Super-resolution Models,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25399,Just Noticeable Visual Redundancy Forecasting: A Deep Multimodal-Driven Approach,AAAI,2023,Main,True,False,True,exclude | pending,5
+aaai2023-25400,Cross-Modal Contrastive Learning for Domain Adaptation in 3D Semantic Segmentation,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25401,ROIFormer: Semantic-Aware Region of Interest Transformer for Efficient Self-Supervised Monocular Depth Estimation,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25402,LORE: Logical Location Regression Network for Table Structure Recognition,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25403,Revisiting the Spatial and Temporal Modeling for Few-Shot Action Recognition,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25404,Unsupervised Multi-Exposure Image Fusion Breaking Exposure Limits via Contrastive Learning,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25405,CasFusionNet: A Cascaded Network for Point Cloud Semantic Scene Completion by Dense Feature Fusion,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25406,Learning a Generalized Gaze Estimator from Gaze-Consistent Feature,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25407,Class Overwhelms: Mutual Conditional Blended-Target Domain Adaptation,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25408,Self Correspondence Distillation for End-to-End Weakly-Supervised Semantic Segmentation,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25409,Deep Parametric 3D Filters for Joint Video Denoising and Illumination Enhancement in Video Super Resolution,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25410,Inter-image Contrastive Consistency for Multi-Person Pose Estimation,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25411,DeMT: Deformable Mixer Transformer for Multi-Task Learning of Dense Prediction,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25412,VLTinT: Visual-Linguistic Transformer-in-Transformer for Coherent Video Paragraph Captioning,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25413,Rethinking Disparity: A Depth Range Free Multi-View Stereo Based on Disparity,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25414,Video-Text Pre-training with Learned Regions for Retrieval,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25415,DesNet: Decomposed Scale-Consistent Network for Unsupervised Depth Completion,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25416,Self-Supervised Video Representation Learning via Latent Time Navigation,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25417,One-Shot Replay: Boosting Incremental Object Detection via Retrospecting One Object,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25418,Video Event Extraction via Tracking Visual States of Arguments,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25419,CoMAE: Single Model Hybrid Pre-training on Small-Scale RGB-D Datasets,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25420,Self-Asymmetric Invertible Network for Compression-Aware Image Rescaling,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25421,Stop-Gradient Softmax Loss for Deep Metric Learning,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25422,Local Path Integration for Attribution,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25423,Spatiotemporal Deformation Perception for Fisheye Video Rectification,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25424,Contrastive Multi-Task Dense Prediction,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25425,AutoStegaFont: Synthesizing Vector Fonts for Hiding Information in Documents,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25426,Towards Global Video Scene Segmentation with Context-Aware Transformer,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25427,Low-Light Image Enhancement Network Based on Multi-Scale Feature Complementation,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25428,Semantics-Aware Dynamic Localization and Refinement for Referring Image Segmentation,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25429,LidarMultiNet: Towards a Unified Multi-Task Network for LiDAR Perception,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25430,DPText-DETR: Towards Better Scene Text Detection with Dynamic Points in Transformer,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25431,Learning Second-Order Attentive Context for Efficient Correspondence Pruning,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25432,Infusing Definiteness into Randomness: Rethinking Composition Styles for Deep Image Matting,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25433,Can We Find Strong Lottery Tickets in Generative Models?,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25434,Class-Independent Regularization for Learning with Noisy Labels,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25435,Unbiased Heterogeneous Scene Graph Generation with Relation-Aware Message Passing Neural Network,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25436,Lifelong Person Re-identification via Knowledge Refreshing and Consolidation,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25437,Generalizing Multiple Object Tracking to Unseen Domains by Introducing Natural Language Representation,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25438,Rethinking Rotation Invariance with Point Cloud Registration,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25439,Frame-Level Label Refinement for Skeleton-Based Weakly-Supervised Action Recognition,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25440,Recurrent Structure Attention Guidance for Depth Super-resolution,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25441,Structure Flow-Guided Network for Real Depth Super-resolution,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25442,Pseudo Label-Guided Model Inversion Attack via Conditional Generative Adversarial Network,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25443,Cyclically Disentangled Feature Translation for Face Anti-spoofing,AAAI,2023,Main,True,False,True,exclude,3
+aaai2023-25444,FlowFace: Semantic Flow-Guided Shape-Aware Face Swapping,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25445,Multi-Modal Knowledge Hypergraph for Diverse Image Retrieval,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25446,Learnable Blur Kernel for Single-Image Defocus Deblurring in the Wild,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25447,Darwinian Model Upgrades: Model Evolving with Selective Compatibility,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25448,Mx2M: Masked Cross-Modality Modeling in Domain Adaptation for 3D Semantic Segmentation,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25449,Few-Shot 3D Point Cloud Semantic Segmentation via Stratified Class-Specific Attention Based Transformer Network,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25450,PaRot: Patch-Wise Rotation-Invariant Network via Feature Disentanglement and Pose Restoration,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25451,Hierarchical Consistent Contrastive Learning for Skeleton-Based Action Recognition with Growing Augmentations,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25452,ImageNet Pre-training Also Transfers Non-robustness,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25453,Language-Assisted 3D Feature Learning for Semantic Scene Understanding,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25454,IKOL: Inverse Kinematics Optimization Layer for 3D Human Pose and Shape Estimation via Gauss-Newton Differentiation,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25455,Mind the Gap: Polishing Pseudo Labels for Accurate Semi-supervised Object Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25456,ConvMatch: Rethinking Network Design for Two-View Correspondence Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25457,Cross-View Geo-Localization via Learning Disentangled Geometric Layout Correspondence,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25458,Video Compression Artifact Reduction by Fusing Motion Compensation and Global Context in a Swin-CNN Based Parallel Architecture,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25459,MRCN: A Novel Modality Restitution and Compensation Network for Visible-Infrared Person Re-identification,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25460,A Simple Baseline for Multi-Camera 3D Object Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25461,Positional Label for Self-Supervised Vision Transformer,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25462,Cross-Category Highlight Detection via Feature Decomposition and Modality Alignment,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25463,TrEP: Transformer-Based Evidential Prediction for Pedestrian Intention with Uncertainty,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25464,DINet: Deformation Inpainting Network for Realistic Face Visually Dubbing on High Resolution Video,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25465,ShiftDDPMs: Exploring Conditional Diffusion Models by Shifting Diffusion Trajectories,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25466,Combating Unknown Bias with Effective Bias-Conflicting Scoring and Gradient Alignment,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25467,RLogist: Fast Observation Strategy on Whole-Slide Images with Deep Reinforcement Learning,AAAI,2023,,True,False,True,include,15
+aaai2023-25468,Learning to Super-resolve Dynamic Scenes for Neuromorphic Spike Camera,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25469,TinyNeRF: Towards 100 x Compression of Voxel Radiance Fields,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25470,BEST: BERT Pre-training for Sign Language Recognition with Coupling Tokenization,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25471,MulGT: Multi-Task Graph-Transformer with Task-Aware Knowledge Injection and Domain Knowledge-Driven Pooling for Whole Slide Image Analysis,AAAI,2023,,True,False,True,include,15
+aaai2023-25472,Grouped Knowledge Distillation for Deep Face Recognition,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25473,Style-Content Metric Learning for Multidomain Remote Sensing Object Recognition,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25474,Occupancy Planes for Single-View RGB-D Human Reconstruction,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25475,Deep Equilibrium Models for Snapshot Compressive Imaging,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25476,Unsupervised Deep Video Denoising with Untrained Network,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25477,Attack Can Benefit: An Adversarial Approach to Recognizing Facial Expressions under Noisy Annotations,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25478,Phrase-Level Temporal Relationship Mining for Temporal Sentence Localization,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25479,Learning Semantic Degradation-Aware Guidance for Recognition-Driven Unsupervised Low-Light Image Enhancement,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25480,Memory-Aided Contrastive Consensus Learning for Co-salient Object Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25481,MaskBooster: End-to-End Self-Training for Sparsely Supervised Instance Segmentation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25482,RSPT: Reconstruct Surroundings and Predict Trajectory for Generalizable Active Object Tracking,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25483,STOA-VLP: Spatial-Temporal Modeling of Object and Action for Video-Language Pre-training,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25484,Refined Semantic Enhancement towards Frequency Diffusion for Video Captioning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25485,Aesthetically Relevant Image Captioning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25486,Polarization-Aware Low-Light Image Enhancement,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25487,Progressive Bayesian Inference for Scribble-Supervised Semantic Segmentation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25488,Exploratory Inference Learning for Scribble Supervised Semantic Segmentation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25489,Dual Memory Units with Uncertainty Regulation for Weakly Supervised Video Anomaly Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25490,Unsupervised Hierarchical Domain Adaptation for Adverse Weather Optical Flow,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25491,PASS: Patch Automatic Skip Scheme for Efficient Real-Time Video Perception on Edge Devices,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25492,Robust Feature Rectification of Pretrained Vision Models for Object Recognition,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25493,Video Object of Interest Segmentation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25494,Tree-Structured Trajectory Encoding for Vision-and-Language Navigation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25495,Self-Supervised Action Representation Learning from Partial Spatio-Temporal Skeleton Sequences,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25496,Debiased Fine-Tuning for Vision-Language Models by Prompt Regularization,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25497,Improving Scene Text Image Super-resolution via Dual Prior Modulation Network,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25498,SRoUDA: Meta Self-Training for Robust Unsupervised Domain Adaptation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25499,Gradient-Based Graph Attention for Scene Text Image Super-resolution,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25500,RGBD1K: A Large-Scale Dataset and Benchmark for RGB-D Object Tracking,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25501,Learn More for Food Recognition via Progressive Self-Distillation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25502,Generative Image Inpainting with Segmentation Confusion Adversarial Training and Contrastive Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25503,Improved Algorithms for Maximum Satisfiability and Its Special Cases,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25504,Lifting (D)QBF Preprocessing and Solving Techniques to (D)SSAT,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25505,NuWLS: Improving Local Search for (Weighted) Partial MaxSAT by New Weighting Techniques,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25506,Separate but Equal: Equality in Belief Propagation for Single Cycle Graphs,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25507,Complexity of Reasoning with Cardinality Minimality Conditions,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25508,DASH: A Distributed and Parallelizable Algorithm for Size-Constrained Submodular Maximization,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25509,SharpSSAT: A Witness-Generating Stochastic Boolean Satisfiability Solver,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25510,Submodular Maximization under the Intersection of Matroid and Knapsack Constraints,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25511,A Framework to Design Approximation Algorithms for Finding Diverse Solutions in Combinatorial Problems,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25512,An Improved Approximation Algorithm for Wage Determination and Online Task Allocation in Crowd-Sourcing,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25513,Predict+Optimize for Packing and Covering LPs with Unknown Parameters in Constraints,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25514,Solving Explainability Queries with Quantification: The Case of Feature Relevancy,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25515,Second-Order Quantified Boolean Logic,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25516,Learning Markov Random Fields for Combinatorial Structures via Sampling through Lovász Local Lemma,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25517,Fast Converging Anytime Model Counting,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25518,Finding Good Partial Assignments during Restart-Based Branch and Bound Search,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25519,Hybrid Learning with New Value Function for the Maximum Common Induced Subgraph Problem,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25520,Self-Supervised Primal-Dual Learning for Constrained Optimization,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25521,Reinforcement Learning for Branch-and-Bound Optimisation Using Retrospective Trajectories,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25522,Constraint Optimization over Semirings,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25523,Generalized Confidence Constraints,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25524,Circuit Minimization with QBF-Based Exact Synthesis,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25525,Probabilistic Generalization of Backdoor Trees with Application to SAT,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25526,The Expressive Power of Ad-Hoc Constraints for Modelling CSPs,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25527,"Graphs, Constraints, and Search for the Abstraction and Reasoning Corpus",AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25528,"Eliminating the Impossible, Whatever Remains Must Be True: On Extracting and Applying Background Knowledge in the Context of Formal Explanations",AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25529,Farsighted Probabilistic Sampling: A General Strategy for Boosting Local Search MaxSAT Solvers,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25530,LANCER: A Lifetime-Aware News Recommender System,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25531,Win-Win: A Privacy-Preserving Federated Framework for Dual-Target Cross-Domain Recommendation,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25532,Enhanced Multi-Relationships Integration Graph Convolutional Network for Inferring Substitutable and Complementary Items,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25533,PaTeCon: A Pattern-Based Temporal Constraint Mining Method for Conflict Detection on Knowledge Graphs,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25534,End-to-End Entity Linking with Hierarchical Reinforcement Learning,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25535,Entity-Agnostic Representation Learning for Parameter-Efficient Knowledge Graph Embedding,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25536,Dual Low-Rank Graph Autoencoder for Semantic and Topological Networks,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25537,Dynamic Multi-Behavior Sequence Modeling for Next Item Recommendation,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25538,Learning Representations of Bi-level Knowledge Graphs for Reasoning beyond Link Prediction,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25539,Lifelong Embedding Learning and Transfer for Growing Knowledge Graphs,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25540,Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25541,Rule Induction in Knowledge Graphs Using Linear Programming,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25542,Spatio-Temporal Neural Structural Causal Models for Bike Flow Prediction,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25543,DAMix: Exploiting Deep Autoregressive Model Zoo for Improving Lossless Compression Generalization,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25544,Soft Target-Enhanced Matching Framework for Deep Entity Matching,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25545,DropMessage: Unifying Random Dropping for Graph Neural Networks,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25546,Contrastive Pre-training with Adversarial Perturbations for Check-In Sequence Representation Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25547,MA-GCL: Model Augmentation Tricks for Graph Contrastive Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25548,Generic and Dynamic Graph Representation Learning for Crowd Flow Modeling,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25549,Conditional Diffusion Based on Discrete Graph Structures for Molecular Graph Generation,AAAI,2023,,True,False,True,include,15
+aaai2023-25550,SAH: Shifting-Aware Asymmetric Hashing for Reverse k Maximum Inner Product Search,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25551,Learned Distributed Image Compression with Multi-Scale Patch Matching in Feature Domain,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25552,Constrained Market Share Maximization by Signal-Guided Optimization,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25553,T2-GNN: Graph Neural Networks for Graphs with Incomplete Features and Structure via Teacher-Student Distillation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25554,Detecting Sources of Healthcare Associated Infections,AAAI,2023,,True,False,True,include,12
+aaai2023-25555,Spatio-Temporal Self-Supervised Learning for Traffic Flow Prediction,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25556,PDFormer: Propagation Delay-Aware Dynamic Long-Range Transformer for Traffic Flow Prediction,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25557,Continuous Trajectory Generation Based on Two-Stage GAN,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25558,Let Graph Be the Go Board: Gradient-Free Node Injection Attack for Graph Neural Networks via Reinforcement Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25559,GLCC: A General Framework for Graph-Level Clustering,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25560,Parameterized Algorithms for Colored Clustering,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25561,Towards Reliable Item Sampling for Recommendation Evaluation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25562,Multiple Robust Learning for Recommendation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25563,Anomaly Segmentation for High-Resolution Remote Sensing Images Based on Pixel Descriptors,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25564,Adaptive Low-Precision Training for Embeddings in Click-Through Rate Prediction,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25565,Signed Laplacian Graph Neural Networks,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25566,PPGenCDR: A Stable and Robust Framework for Privacy-Preserving Cross-Domain Recommendation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25567,COLA: Improving Conversational Recommender Systems by Collaborative Augmentation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25568,Scalable and Effective Conductance-Based Graph Clustering,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25569,Multi-Domain Generalized Graph Meta Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25570,IterDE: An Iterative Knowledge Distillation Framework for Knowledge Graph Embeddings,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25571,Learning by Applying: A General Framework for Mathematical Reasoning via Enhancing Explicit Knowledge Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25572,Low-Resource Personal Attribute Prediction from Conversations,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25573,Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25574,On Generalized Degree Fairness in Graph Neural Networks,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25575,Time Series Contrastive Learning with Information-Aware Augmentations,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25576,NQE: N-ary Query Embedding for Complex Query Answering over Hyper-Relational Knowledge Graphs,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25577,FinalMLP: An Enhanced Two-Stream MLP Model for CTR Prediction,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25578,GMDNet: A Graph-Based Mixture Density Network for Estimating Packages’ Multimodal Travel Time Distribution,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25579,Logic and Commonsense-Guided Temporal Knowledge Graph Completion,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25580,Graph Structure Learning on User Mobility Data for Social Relationship Inference,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25581,Online Random Feature Forests for Learning in Varying Feature Spaces,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25582,Scaling Law for Recommendation Models: Towards General-Purpose User Representations,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25583,Cross-Domain Adaptative Learning for Online Advertisement Customer Lifetime Value Prediction,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25584,Self-Supervised Interest Transfer Network via Prototypical Contrastive Learning for Recommendation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25585,Opinion Optimization in Directed Social Networks,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25586,Self-Supervised Continual Graph Learning in Adaptive Riemannian Spaces,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25587,Self-Organization Preserved Graph Structure Learning with Principle of Relevant Information,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25588,Efficient Embeddings of Logical Variables for Query Answering over Incomplete Knowledge Graphs,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25589,Human-Instructed Deep Hierarchical Generative Learning for Automated Urban Planning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25590,Easy Begun Is Half Done: Spatial-Temporal Graph Modeling with ST-Curriculum Dropout,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25591,Cross-Domain Graph Anomaly Detection via Anomaly-Aware Contrastive Alignment,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25592,WSiP: Wave Superposition Inspired Pooling for Dynamic Interactions-Aware Trajectory Prediction,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25593,Beyond Graph Convolutional Network: An Interpretable Regularizer-Centered Optimization Framework,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25594,Augmenting Affective Dependency Graph via Iterative Incongruity Graph Learning for Sarcasm Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25595,Structure Aware Incremental Learning with Personalized Imitation Weights for Recommender Systems,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25596,Online Semi-supervised Learning with Mix-Typed Streaming Features,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25597,Few-Shot Composition Learning for Image Retrieval with Prompt Tuning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25598,ConTextual Masked Auto-Encoder for Dense Passage Retrieval,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25599,Jointly Imputing Multi-View Data with Optimal Transport,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25600,Knowledge Graph Embedding by Normalizing Flows,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25601,Temporal Knowledge Graph Reasoning with Historical Contrastive Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25602,SCI: A Spectrum Concentrated Implicit Neural Compression for Biomedical Data,AAAI,2023,,True,False,True,include,15
+aaai2023-25603,Unsupervised Legal Evidence Retrieval via Contrastive Learning with Approximate Aggregated Positive,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25604,One-for-All: Proposal Masked Cross-Class Anomaly Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25605,Analogical Inference Enhanced Knowledge Graph Embedding,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25606,A Noise-Tolerant Differentiable Learning Approach for Single Occurrence Regular Expression with Interleaving,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25607,Learning from the Wisdom of Crowds: Exploiting Similar Sessions for Session Search,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25608,Next POI Recommendation with Dynamic Graph and Explicit Dependency,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25609,Predicting Temporal Sets with Simplified Fully Connected Networks,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25610,Learning to Count Isomorphisms with Graph Neural Networks,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25611,Untargeted Attack against Federated Recommendation Systems via Poisonous Item Embeddings and the Defense,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25612,Practical Cross-System Shilling Attacks with Limited Access to Data,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25613,Query-Aware Quantization for Maximum Inner Product Search,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25614,TOT：Topology-Aware Optimal Transport for Multimodal Hate Detection,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25615,Cross-Domain Few-Shot Graph Classification with a Reinforced Task Coordinator,AAAI,2023,Main,True,False,True,include,12
+aaai2023-25616,AutoSTL: Automated Spatio-Temporal Multi-Task Learning,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25617,Fair Representation Learning for Recommendation: A Mutual Information Perspective,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25618,Deep Graph Structural Infomax,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25619,Causal Conditional Hidden Markov Model for Multimodal Traffic Prediction,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25620,ADMoE: Anomaly Detection with Mixture-of-Experts from Noisy Labels,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25621,A Provable Framework of Learning Graph Embeddings via Summarization,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25622,GraphSR: A Data Augmentation Algorithm for Imbalanced Node Classification,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25623,Detecting Multivariate Time Series Anomalies with Zero Known Label,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25624,GRLSTM: Trajectory Similarity Computation with Graph-Based Residual LSTM,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25625,Heterogeneous Region Embedding with Prompt Learning,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25626,Show Me the Way! Bilevel Search for Synthesizing Programmatic Strategies,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25627,Anytime User Engagement Prediction in Information Cascades for Arbitrary Observation Periods,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25628,Principled Data-Driven Decision Support for Cyber-Forensic Investigations,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25629,BETA-CD: A Bayesian Meta-Learned Cognitive Diagnosis Framework for Personalized Learning,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25630,Set-to-Sequence Ranking-Based Concept-Aware Learning Path Recommendation,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25631,Unsupervised Deep Embedded Fusion Representation of Single-Cell Transcriptomics,AAAI,2023,Main,True,False,True,include,12
+aaai2023-25632,Constrained Submodular Optimization for Vaccine Design,AAAI,2023,Main,True,False,True,include,14
+aaai2023-25633,Flow-Based Robust Watermarking with Invertible Noise Layer for Black-Box Distortions,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25634,Identifying and Eliminating Majority Illusion in Social Networks,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25635,A Domain-Knowledge-Inspired Music Embedding Space and a Novel Attention Mechanism for Symbolic Music Modeling,AAAI,2023,Main,True,False,True,exclude,2
+aaai2023-25636,MSDC: Exploiting Multi-State Power Consumption in Non-intrusive Load Monitoring Based on a Dual-CNN Model,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25637,Integrating Reward Maximization and Population Estimation: Sequential Decision-Making for Internal Revenue Service Audit Selection,AAAI,2023,,True,False,True,exclude | pending,5
+aaai2023-25638,MGTCF: Multi-Generator Tropical Cyclone Forecasting with Heterogeneous Meteorological Data,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25639,MDM: Molecular Diffusion Model for 3D Molecule Generation,AAAI,2023,,True,False,True,include,14
+aaai2023-25640,Learning Chemical Rules of Retrosynthesis with Pre-training,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25641,Online Symbolic Regression with Informative Query,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25642,Repair Is Nearly Generation: Multilingual Program Repair with LLMs,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25643,Heterogeneous Graph Learning for Multi-Modal Medical Data Analysis,AAAI,2023,,True,False,True,include,15
+aaai2023-25644,Rolling Horizon Based Temporal Decomposition for the Offline Pickup and Delivery Problem with Time Windows,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25645,GRIP: Graph Representation of Immune Repertoire Using Graph Neural Network and Transformer,AAAI,2023,,True,False,True,include,12
+aaai2023-25646,LagNet: Deep Lagrangian Mechanics for Plug-and-Play Molecular Representation Learning,AAAI,2023,,True,False,True,include,12
+aaai2023-25647,Steganography of Steganographic Networks,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25648,PEN: Prediction-Explanation Network to Forecast Stock Price Movement with Better Explainability,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25649,Decision-Making Context Interaction Network for Click-Through Rate Prediction,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25650,"Fine-Grained Position Helps Memorizing More, a Novel Music Compound Transformer Model with Feature Interaction Fusion",AAAI,2023,,True,False,True,exclude,2
+aaai2023-25651,Zero-Shot Rumor Detection with Propagation Structure via Prompt Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25652,On Manipulating Weight Predictions in Signed Weighted Networks,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25653,Better Context Makes Better Code Language Models: A Case Study on Function Call Argument Completion,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25654,MetaTPTrans: A Meta Learning Approach for Multilingual Code Representation Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25655,HG-SL: Jointly Learning of Global and Local User Spreading Behavior for Fake News Early Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25656,Defending against Backdoor Attacks in Natural Language Generation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25657,GenéLive! Generating Rhythm Actions in Love Live!,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25658,Deepfake Video Detection via Facial Action Dependencies Estimation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25659,Contrastive Attention Networks for Attribution of Early Modern Print,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25660,AdapSafe: Adaptive and Safe-Certified Deep Reinforcement Learning-Based Frequency Control for Carbon-Neutral Power Systems,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25661,"Don’t Predict Counterfactual Values, Predict Expected Values Instead",AAAI,2023,,True,False,True,exclude,2
+aaai2023-25662,Molformer: Motif-Based Transformer on 3D Heterogeneous Molecular Graphs,AAAI,2023,,True,False,True,include,16
+aaai2023-25663,DiffMD: A Geometric Diffusion Model for Molecular Dynamics Simulations,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25664,Retrosynthesis Prediction with Local Template Retrieval,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25665,Multi-Relational Contrastive Learning Graph Neural Network for Drug-Drug Interaction Event Prediction,AAAI,2023,,True,False,True,include,12
+aaai2023-25666,Tighter Robust Upper Bounds for Options via No-Regret Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25667,KerPrint: Local-Global Knowledge Graph Enhanced Diagnosis Prediction for Retrospective and Prospective Interpretations,AAAI,2023,,True,False,True,include,12
+aaai2023-25668,,AAAI,2023,,True,False,True,include,20
+aaai2023-25669,DMIS: Dynamic Mesh-Based Importance Sampling for Training Physics-Informed Neural Networks,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25670,Bootstrapping Multi-View Representations for Fake News Detection,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25671,Overcoming Forgetting in Fine-Grained Urban Flow Inference via Adaptive Knowledge Replay,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25672,Generalized Cell Type Annotation and Discovery for Single-Cell RNA-Seq Data,AAAI,2023,,True,False,True,include,12
+aaai2023-25673,Mining and Applying Composition Knowledge of Dance Moves for Style-Concentrated Dance Generation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25674,Yet Another Traffic Classifier: A Masked Autoencoder Based Traffic Transformer with Multi-Level Flow Representation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25675,Loan Fraud Users Detection in Online Lending Leveraging Multiple Data Views,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25676,Sparse Maximum Margin Learning from Multimodal Human Behavioral Patterns,AAAI,2023,,True,False,True,include,12
+aaai2023-25677,Direct Heterogeneous Causal Learning for Resource Allocation Problems in Marketing,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25678,Mediated Cheap Talk Design,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25679,Bidding Graph Games with Partially-Observable Budgets,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25680,Fairness Concepts for Indivisible Items with Externalities,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25681,Finding Fair Allocations under Budget Constraints,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25682,Now We’re Talking: Better Deliberation Groups through Submodular Optimization,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25683,Causes of Stability in Dynamic Coalition Formation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25684,Properties of Position Matrices and Their Elections,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25685,Rank Aggregation Using Scoring Rules,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25686,Proportionality in Approval-Based Participatory Budgeting,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25687,Multiwinner Voting with Possibly Unavailable Candidates,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25688,Fair Division with Prioritized Agents,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25689,Topological Distance Games,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25690,Game Implementation: What Are the Obstructions?,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25691,A Pair-Approximation Method for Modelling the Dynamics of Multi-Agent Stochastic Games,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25692,Complexity of Probabilistic Inference in Random Dichotomous Hedonic Games,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25693,Combinatorial Civic Crowdfunding with Budgeted Agents: Welfare Optimality at Equilibrium and Optimal Deviation,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25694,Strategyproofness and Proportionality in Party-Approval Multiwinner Elections,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25695,Tight Inapproximability for Graphical Games,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25696,From Monopoly to Competition: Optimal Contests Prevail,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25697,Commitment Games with Conditional Information Disclosure,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25698,"Rawlsian Fairness in Online Bipartite Matching: Two-Sided, Group, and Individual",AAAI,2023,,True,False,True,exclude,2
+aaai2023-25699,Participatory Budgeting Designs for the Real World,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25700,PAC Learning and Stabilizing Hedonic Games: Towards a Unifying Approach.,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25701,Scalable Edge Blocking Algorithms for Defending Active Directory Style Attack Graphs,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25702,Representation with Incomplete Votes,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25703,Optimizing Multiple Simultaneous Objectives for Voting and Facility Location,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25704,Class Fairness in Online Matching,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25705,How to Cut a Discrete Cake Fairly,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25706,"Competition, Alignment, and Equilibria in Digital Marketplaces",AAAI,2023,,True,False,True,exclude,2
+aaai2023-25707,Voting with Preference Intensities,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25708,Approximations for Indivisible Concave Allocations with Applications to Nash Welfare Maximization,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25709,Strategic Facility Location with Clients That Minimize Total Waiting Time,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25710,Proportional Decisions in Perpetual Voting,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25711,Multiagent MST Cover: Pleasing All Optimally via a Simple Voting Rule,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25712,When Congestion Games Meet Mobile Crowdsourcing: Selective Information Disclosure,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25713,Partitioning Friends Fairly,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25714,Differentially Private Condorcet Voting,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25715,Function Approximation for Solving Stackelberg Equilibrium in Large Perfect Information Games,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25716,Optimal Pricing Schemes for Identical Items with Time-Sensitive Buyers,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25717,Approval-Based Voting with Mixed Goods,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25718,Utility Maximizer or Value Maximizer: Mechanism Design for Mixed Bidders in Online Advertising,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25719,Facility Location Games with Entrance Fees,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25720,Securing Lifelines: Safe Delivery of Critical Services in Areas with Volatile Security Situation via a Stackelberg Game Approach,AAAI,2023,,True,False,True,include,18
+aaai2023-25721,Differentially Private Fair Division,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25722,An Efficient Deep Reinforcement Learning Algorithm for Solving Imperfect Information Extensive-Form Games,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25723,Fast and Interpretable Dynamics for Fisher Markets via Block-Coordinate Updates,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25724,Ballot Length in Instant Runoff Voting,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25725,Multi-Stage Facility Location Problems with Transient Agents,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25726,Bayesian Optimization-Based Combinatorial Assignment,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25727,Semi-random Impossibilities of Condorcet Criterion,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25728,Tournament Fixing Parameterized by Feedback Vertex Set Number Is FPT,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25729,Truthful Mechanisms for Steiner Tree Problems,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25730,Collusion-Proof and Sybil-Proof Reward Mechanisms for Query Incentive Networks,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25731,Fisher Markets with Social Influence,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25732,Probably Approximate Shapley Fairness with Applications in Machine Learning,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25733,The Perils of Trial-and-Error Reward Design: Misdesign through Overfitting and Invalid Task Specifications,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25734,The Value of AI Guidance in Human Examination of Synthetically-Generated Faces,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25735,Teaching to Learn: Sequential Teaching of Learners with Internal States,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25736,Interactive Concept Bottleneck Models,AAAI,2023,Main,True,False,True,exclude | include,5
+aaai2023-25737,Local Justice and Machine Learning: Modeling and Inferring Dynamic Ethical Preferences toward Allocations,AAAI,2023,,True,False,True,include,12
+aaai2023-25738,Extracting Semantic-Dynamic Features for Long-Term Stable Brain Computer Interface,AAAI,2023,,True,False,True,include,12
+aaai2023-25739,Moral Machine or Tyranny of the Majority?,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25740,The Effect of Modeling Human Rationality Level on Learning Rewards from Multiple Feedback Types,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25741,The Role of Heuristics and Biases during Complex Choices with an AI Teammate,AAAI,2023,,True,False,True,exclude,2
+aaai2023-25742,Learning to Defer with Limited Expert Predictions,AAAI,2023,,True,False,True,include,20

@@ -1,0 +1,1374 @@
+canonical_id,title,venue,year,track,explicit_complete_abstract,focused_body_evidence,scientific_decision_recorded,decisions,event_count
+2022.acl-long.403,Feeding What You Need by Understanding What You Learned,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.404,Probing Simile Knowledge from Pre-trained Language Models,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.405,An Effective and Efficient Entity Alignment Decoding Algorithm via Third-Order Tensor Isomorphism,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.406,Entailment Graph Learning with Textual Entailment and Soft Transitivity,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.407,Logic Traps in Evaluating Attribution Scores,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.408,Continual Pre-training of Language Models for Math Problem Understanding with Syntax-Aware Memory Network,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.409,Multitasking Framework for Unsupervised Simple Definition Generation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.41,Perceiving the World: Question-guided Reinforcement Learning for Text-based Games,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.410,Learning to Reason Deductively: Math Word Problem Solving as Complex Relation Extraction,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.411,"When did you become so smart, oh wise one?! Sarcasm Explanation in Multi-modal Multi-party Dialogues",ACL,2022,Main long,True,False,False,,2
+2022.acl-long.412,Toward Interpretable Semantic Textual Similarity via Optimal Transport-based Contrastive Sentence Learning,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.413,Pre-training and Fine-tuning Neural Topic Model: A Simple yet Effective Approach to Incorporating External Knowledge,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.414,Multi-View Document Representation Learning for Open-Domain Dense Retrieval,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.415,Graph Pre-training for AMR Parsing and Generation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.416,Turning Tables: Generating Examples from Semi-structured Tables for Endowing Language Models with Reasoning Skills,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.417,RNG-KBQA: Generation Augmented Iterative Ranking for Knowledge Base Question Answering,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.418,Rethinking Self-Supervision Objectives for Generalizable Coherence Modeling,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.419,Just Rank: Rethinking Evaluation with Word and Sentence Similarities,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.42,Neural Label Search for Zero-Shot Multi-Lingual Extractive Summarization,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.420,MarkupLM: Pre-training of Text and Markup Language for Visually Rich Document Understanding,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.421,CLIP Models are Few-Shot Learners: Empirical Studies on VQA and Visual Entailment,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.422,KQA Pro: A Dataset with Explicit Compositional Programs for Complex Question Answering over Knowledge Base,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.423,Debiased Contrastive Learning of Unsupervised Sentence Representations,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.424,MSP: Multi-Stage Prompting for Making Pre-trained Language Models Better Translators,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.425,SalesBot: Transitioning from Chit-Chat to Task-Oriented Dialogues,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.426,UCTopic: Unsupervised Contrastive Learning for Phrase Representations and Topic Mining,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.427,XLM-E: Cross-lingual Language Model Pre-training via ELECTRA,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.428,Nested Named Entity Recognition as Latent Lexicalized Constituency Parsing,ACL,2022,Main long,True,False,False,,3
+2022.acl-long.428.pdf,,ACL,2022,Main long,False,False,False,,1
+2022.acl-long.429,Can Explanations Be Useful for Calibrating Black Box Models?,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.43,Few-Shot Class-Incremental Learning for Named Entity Recognition,ACL,2022,Main long,True,False,False,,3
+2022.acl-long.43.pdf,,ACL,2022,Main long,False,False,False,,2
+2022.acl-long.430,OIE@OIA: an Adaptable and Efficient Open Information Extraction Framework,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.431,ReACC: A Retrieval-Augmented Code Completion Framework,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.432,Does Recommend-Revise Produce Reliable Annotations? An Analysis on Missing Instances in DocRED,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.433,UniPELT: A Unified Framework for Parameter-Efficient Language Model Tuning,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.434,An Empirical Study of Memorization in NLP,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.435,AmericasNLI: Evaluating Zero-shot Natural Language Understanding of Pretrained Multilingual Models in Truly Low-resource Languages,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.436,Towards Learning (Dis)-Similarity of Source Code from Program Contrasts,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.437,Guided Attention Multimodal Multitask Financial Forecasting with Inter-Company Relationships and Global and Local News,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.438,On Vision Features in Multimodal Machine Translation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.439,CONTaiNER: Few-Shot Named Entity Recognition via Contrastive Learning,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.44,Improving Meta-learning for Low-resource Text Classification and Generation via Memory Imitation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.440,Cree Corpus: A Collection of nêhiyawêwin Resources,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.441,Learning to Rank Visual Stories From Human Ranking Data,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.442,Universal Conditional Masked Language Pre-training for Neural Machine Translation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.443,CARETS: A Consistency And Robustness Evaluative Test Suite for VQA,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.444,Phrase-aware Unsupervised Constituency Parsing,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.445,Achieving Reliable Human Assessment of Open-Domain Dialogue Systems,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.446,Updated Headline Generation: Creating Updated Summaries for Evolving News Stories,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.447,SaFeRDialogues: Taking Feedback Gracefully after Conversational Safety Failures,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.448,Compositional Generalization in Dependency Parsing,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.449,ASPECTNEWS: Aspect-Oriented Summarization of News Documents,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.45,Quality Controlled Paraphrase Generation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.450,,ACL,2022,Main long,True,False,False,,12
+2022.acl-long.450.pdf,,ACL,2022,Main,False,False,False,,6
+2022.acl-long.451,CLUES: A Benchmark for Learning Classifiers using Natural Language Explanations,ACL,2022,Main long,True,False,False,,3
+2022.acl-long.451.pdf,,ACL,2022,Main long,False,False,False,,1
+2022.acl-long.452,Substructure Distribution Projection for Zero-Shot Cross-Lingual Dependency Parsing,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.453,Multilingual Detection of Personal Employment Status on Twitter,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.454,MultiHiertt: Numerical Reasoning over Multi Hierarchical Tabular and Textual Data,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.455,Transformers in the loop: Polarity in neural models of language,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.456,Bridging the Data Gap between Training and Inference for Unsupervised Neural Machine Translation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.457,SDR: Efficient Neural Re-ranking using Succinct Document Representation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.458,The AI Doctor Is In: A Survey of Task-Oriented Dialogue Systems for Healthcare Applications,ACL,2022,Main long,True,False,False,,7
+2022.acl-long.458.mp4,,ACL,2022,Main,False,False,False,,1
+2022.acl-long.458.pdf,,ACL,2022,Main long,False,False,False,,5
+2022.acl-long.459,SHIELD: Defending Textual Neural Networks against Multiple Black-Box Adversarial Attacks with Stochastic Multi-Expert Patcher,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.46,Controllable Dictionary Example Generation: Generating Example Sentences for Specific Targeted Audiences,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.460,Accurate Online Posterior Alignments for Principled Lexically-Constrained Decoding,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.461,Leveraging Task Transferability to Meta-learning for Clinical Section Classification with Limited Data,ACL,2022,Main long,True,False,False,,7
+2022.acl-long.461.pdf,,ACL,2022,Main long,False,False,False,,5
+2022.acl-long.462,Reinforcement Guided Multi-Task Learning Framework for Low-Resource Stereotype Detection,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.463,Letters From the Past: Modeling Historical Sound Change Through Diachronic Character Embeddings,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.464,A Token-level Reference-free Hallucination Detection Benchmark for Free-form Text Generation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.465,Low-Rank Softmax Can Have Unargmaxable Classes in Theory but Rarely in Practice,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.466,Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.467,Reducing Position Bias in Simultaneous Machine Translation with Length-Aware Framework,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.468,A Statutory Article Retrieval Dataset in French,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.469,ParaDetox: Detoxification with Parallel Data,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.47,AraT5: Text-to-Text Transformers for Arabic Language Generation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.470,"Interpreting Character Embeddings With Perceptual Representations: The Case of Shape, Sound, and Color",ACL,2022,Main long,True,False,False,,2
+2022.acl-long.471,Fine-Grained Controllable Text Generation Using Non-Residual Prompting,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.472,Language-Agnostic Meta-Learning for Low-Resource Text-to-Speech with Articulatory Features,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.473,TwittIrish: A Universal Dependencies Treebank of Tweets in Modern Irish,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.474,Length Control in Abstractive Summarization by Pretraining Information Selection,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.475,CQG: A Simple and Effective Controlled Generation Framework for Multi-hop Question Generation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.476,Word Order Does Matter and Shuffled Language Models Know It,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.477,An Empirical Study on Explanations in Out-of-Domain Settings,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.478,MILIE: Modular & Iterative Multilingual Open Information Extraction,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.479,What Makes Reading Comprehension Questions Difficult?,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.48,Legal Judgment Prediction via Event Extraction with Constraints,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.480,From Simultaneous to Streaming Machine Translation by Leveraging Streaming History,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.481,A Rationale-Centric Framework for Human-in-the-loop Machine Learning,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.482,Challenges and Strategies in Cross-Cultural NLP,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.483,Prototypical Verbalizer for Prompt-based Few-shot Tuning,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.484,Clickbait Spoiling via Question Answering and Passage Retrieval,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.485,BERT Learns to Teach: Knowledge Distillation with Meta Learning,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.486,STEMM: Self-learning with Speech-text Manifold Mixup for Speech Translation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.487,Integrating Vectorized Lexical Constraints for Neural Machine Translation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.488,MPII: Multi-Level Mutual Promotion for Inference and Interpretation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.489,StableMoE: Stable Routing Strategy for Mixture of Experts,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.49,Answer-level Calibration for Free-form Multiple Choice Question Answering,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.490,Boundary Smoothing for Named Entity Recognition,ACL,2022,Main long,True,False,False,,3
+2022.acl-long.490.pdf,,ACL,2022,Main long,False,False,False,,1
+2022.acl-long.491,Incorporating Hierarchy into Text Encoder: a Contrastive Learning Approach for Hierarchical Text Classification,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.492,Signal in Noise: Exploring Meaning Encoded in Random Character Sequences with Character-Aware Language Models,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.493,Hyperlink-induced Pre-training for Passage Retrieval in Open-domain Question Answering,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.494,AdaLoGN: Adaptive Logic Graph Network for Reasoning-Based Machine Reading Comprehension,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.495,CAMERO: Consistency Regularized Ensemble of Perturbed Language Models with Weight Sharing,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.496,Interpretability for Language Learners Using Example-Based Grammatical Error Correction,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.497,Rethinking Negative Sampling for Handling Missing Entity Annotations,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.498,Distantly Supervised Named Entity Recognition via Confidence-Based Multi-Class Positive and Unlabeled Learning,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.499,UniXcoder: Unified Cross-Modal Pre-training for Code Representation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.5,Learning to Imagine: Integrating Counterfactual Thinking in Neural Discrete Reasoning,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.50,Learning When to Translate for Streaming Speech,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.500,"One Country, 700+ Languages: NLP Challenges for Underrepresented Languages and Dialects in Indonesia",ACL,2022,Main long,True,False,False,,2
+2022.acl-long.501,Is GPT-3 Text Indistinguishable from Human Text? Scarecrow: A Framework for Scrutinizing Machine Text,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.502,Transkimmer: Transformer Learns to Layer-wise Skim,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.503,SkipBERT: Efficient Inference with Shallow Layer Skipping,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.504,Pretraining with Artificial Language: Studying Transferable Knowledge in Language Models,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.505,mLUKE: The Power of Entity Representations in Multilingual Pretrained Language Models,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.506,Evaluating Factuality in Text Simplification,ACL,2022,Main long,True,False,False,,3
+2022.acl-long.506.pdf,,ACL,2022,Main long,False,False,False,,1
+2022.acl-long.507,Requirements and Motivations of Low-Resource Speech Synthesis for Language Revitalization,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.508,Sharpness-Aware Minimization Improves Language Model Generalization,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.509,Adversarial Authorship Attribution for Deobfuscation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.51,Compact Token Representations with Contextual Quantization for Efficient Document Re-ranking,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.510,Weakly Supervised Word Segmentation for Computational Language Documentation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.511,SciNLI: A Corpus for Natural Language Inference on Scientific Text,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.512,Neural reality of argument structure constructions,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.513,On the Robustness of Offensive Language Classifiers,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.514,Few-shot Controllable Style Transfer for Low-Resource Multilingual Settings,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.515,ABC: Attention with Bounded-memory Control,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.516,The Dangers of Underclaiming: Reasons for Caution When Reporting How NLP Systems Fail,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.517,RELiC: Retrieving Evidence for Literary Claims,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.518,Analyzing Generalization of Vision and Language Navigation to Unseen Outdoor Areas,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.519,Adapting Coreference Resolution Models through Active Learning,ACL,2022,Main long,True,False,False,,3
+2022.acl-long.519.pdf,,ACL,2022,Main long,False,False,False,,1
+2022.acl-long.52,Early Stopping Based on Unlabeled Samples in Text Classification,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.520,An Imitation Learning Curriculum for Text Editing with Non-Autoregressive Models,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.521,Memorisation versus Generalisation in Pre-trained Language Models,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.522,ChatMatch: Evaluating Chatbots by Autonomous Chat Tournaments,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.523,Do self-supervised speech models develop human-like perception biases?,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.524,"Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions",ACL,2022,Main long,True,False,False,,2
+2022.acl-long.525,Learning to Generate Programs for Table Fact Verification via Structure-Aware Semantic Parsing,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.526,Cluster & Tune: Boost Cold Start Performance in Text Classification,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.527,Overcoming a Theoretical Limitation of Self-Attention,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.528,Prediction Difference Regularization against Perturbation for Neural Machine Translation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.529,Make the Best of Cross-lingual Transfer: Evidence from POS Tagging with over 100 Languages,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.53,Meta-learning via Language Model In-context Tuning,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.530,Should a Chatbot be Sarcastic? Understanding User Preferences Towards Sarcasm Generation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.531,How Do Seq2Seq Models Perform on End-to-End Data-to-Text Generation?,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.532,Probing for Labeled Dependency Trees,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.533,DoCoGen: Domain Counterfactual Generation for Low Resource Domain Adaptation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.534,LiLT: A Simple yet Effective Language-Independent Layout Transformer for Structured Document Understanding,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.535,Dependency-based Mixture Language Models,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.536,Can Unsupervised Knowledge Transfer from Social Discussions Help Argument Mining?,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.537,Entity-based Neural Local Coherence Modeling,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.538,“That Is a Suspicious Reaction!”: Interpreting Logits Variation to Detect NLP Adversarial Attacks,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.539,"Local Languages, Third Spaces, and other High-Resource Scenarios",ACL,2022,Main long,True,False,False,,2
+2022.acl-long.54,It is AI’s Turn to Ask Humans a Question: Question-Answer Pair Generation for Children’s Story Books,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.540,That Slepen Al the Nyght with Open Ye! Cross-era Sequence Segmentation with Switch-memory,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.541,Fair and Argumentative Language Modeling for Computational Argumentation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.542,Learning Adaptive Segmentation Policy for End-to-End Simultaneous Translation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.543,Can Pre-trained Language Models Interpret Similes as Smart as Human?,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.544,CBLUE: A Chinese Biomedical Language Understanding Evaluation Benchmark,ACL,2022,Main long,True,False,False,,8
+2022.acl-long.544.pdf,,ACL,2022,Main long,False,False,False,,7
+2022.acl-long.545,Learning Non-Autoregressive Models from Search for Unsupervised Sentence Summarization,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.546,Learning to Generalize to More: Continuous Semantic Augmentation for Neural Machine Translation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.547,Lexical Knowledge Internalization for Neural Dialog Generation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.548,Modeling Syntactic-Semantic Dependency Correlations in Semantic Role Labeling Using Mixture Models,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.549,Learning the Beauty in Songs: Neural Singing Voice Beautifier,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.55,PRBoost: Prompt-Based Rule Discovery and Boosting for Interactive Weakly-Supervised Learning,ACL,2022,Main long,True,False,False,,3
+2022.acl-long.55.pdf,,ACL,2022,Main long,False,False,False,,2
+2022.acl-long.550,A Model-agnostic Data Manipulation Method for Persona-based Dialogue Generation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.551,LinkBERT: Pretraining Language Models with Document Links,ACL,2022,Main,True,False,False,,15
+2022.acl-long.551.pdf,,ACL,2022,Main,False,False,False,,13
+2022.acl-long.552,Improving Time Sensitivity for Question Answering over Temporal Knowledge Graphs,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.553,Self-supervised Semantic-driven Phoneme Discovery for Zero-resource Speech Recognition,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.554,Softmax Bottleneck Makes Language Models Unable to Represent Multi-mode Word Distributions,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.555,Ditch the Gold Standard: Re-evaluating Conversational Question Answering,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.556,Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.557,Situated Dialogue Learning through Procedural Environment Generation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.558,UniTE: Unified Translation Evaluation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.559,Program Transfer for Answering Complex Questions over Knowledge Bases,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.56,Constrained Multi-Task Learning for Bridging Resolution,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.560,EAG: Extract and Generate Multi-way Aligned Corpus for Complete Multi-lingual Neural Machine Translation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.561,Using Context-to-Vector with Graph Retrofitting to Improve Word Embeddings,ACL,2022,Main long,True,False,False,,3
+2022.acl-long.561.pdf,,ACL,2022,Main long,False,False,False,,1
+2022.acl-long.562,Multimodal Sarcasm Target Identification in Tweets,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.563,Flexible Generation from Fragmentary Linguistic Input,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.564,Revisiting Over-Smoothness in Text to Speech,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.565,Coherence boosting: When your pretrained language model is not paying enough attention,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.566,Uncertainty Estimation of Transformer Predictions for Misclassification Detection,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.567,VALSE: A Task-Independent Benchmark for Vision and Language Models Centered on Linguistic Phenomena,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.568,The Grammar-Learning Trajectories of Neural Language Models,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.569,,ACL,2022,Main long,True,False,False,,12
+2022.acl-long.569.pdf,,ACL,2022,Main,False,False,False,,10
+2022.acl-long.57,DEAM: Dialogue Coherence Evaluation using AMR-based Semantic Manipulations,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.570,Label Semantic Aware Pre-training for Few-shot Text Classification,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.571,ODE Transformer: An Ordinary Differential Equation-Inspired Model for Sequence Generation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.572,,ACL,2022,Main long,True,False,False,,12
+2022.acl-long.572.pdf,,ACL,2022,Main,False,False,False,,10
+2022.acl-long.573,Ethics Sheets for AI Tasks,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.574,Learning Disentangled Representations of Negation and Uncertainty,ACL,2022,Main long,True,False,False,,3
+2022.acl-long.574.pdf,,ACL,2022,Main long,False,False,False,,1
+2022.acl-long.575,latent-GLAT: Glancing at Latent Variables for Parallel Text Generation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.576,PPT: Pre-trained Prompt Tuning for Few-shot Learning,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.577,Deduplicating Training Data Makes Language Models Better,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.578,Improving the Generalizability of Depression Detection by Leveraging Clinical Questionnaires,ACL,2022,Main long,True,False,False,,7
+2022.acl-long.578.mp4,,ACL,2022,Main,False,False,False,,1
+2022.acl-long.578.pdf,,ACL,2022,Main long,False,False,False,,7
+2022.acl-long.579,Internet-Augmented Dialogue Generation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.58,HIBRIDS: Attention with Hierarchical Biases for Structure-aware Long Document Summarization,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.580,SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark for Semantic and Generative Capabilities,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.581,Knowledge Neurons in Pretrained Transformers,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.582,Meta-Learning for Fast Cross-Lingual Adaptation in Dependency Parsing,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.583,French CrowS-Pairs: Extending a challenge dataset for measuring social bias in masked language models to a language other than English,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.584,Few-Shot Learning with Siamese Networks and Label Tuning,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.585,Inferring Rewards from Language in Context,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.586,Generating Biographies on Wikipedia: The Impact of Gender Bias on the Retrieval-Based Generation of Women Biographies,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.587,Your Answer is Incorrect... Would you like to know why? Introducing a Bilingual Short Answer Feedback Dataset,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.588,Towards Better Characterization of Paraphrases,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.589,SummScreen: A Dataset for Abstractive Screenplay Summarization,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.59,,ACL,2022,Main long,True,False,False,,12
+2022.acl-long.59.pdf,,ACL,2022,Main,False,False,False,,8
+2022.acl-long.590,Sparsifying Transformer Models with Trainable Representation Pooling,ACL,2022,Main long,True,False,False,,3
+2022.acl-long.590.pdf,,ACL,2022,Main long,False,False,False,,1
+2022.acl-long.591,Uncertainty Determines the Adequacy of the Mode and the Tractability of Decoding in Sequence-to-Sequence Models,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.592,FlipDA: Effective and Robust Data Augmentation for Few-Shot Learning,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.593,Text-Free Prosody-Aware Generative Spoken Language Modeling,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.594,Lite Unified Modeling for Discriminative Reading Comprehension,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.595,Bilingual alignment transfers to multilingual alignment for unsupervised parallel text mining,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.596,End-to-End Modeling via Information Tree for One-Shot Natural Language Spatial Video Grounding,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.597,RNSum: A Large-Scale Dataset for Automatic Release Note Generation via Commit Logs Summarization,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.598,Improving Machine Reading Comprehension with Contextualized Commonsense Knowledge,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.599,Modeling Persuasive Discourse to Adaptively Support Students’ Argumentative Writing,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.6,Domain Adaptation in Multilingual and Multi-Domain Monolingual Settings for Complex Word Identification,ACL,2022,Main long,True,False,False,,3
+2022.acl-long.6.pdf,,ACL,2022,Main long,False,False,False,,2
+2022.acl-long.60,An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.600,Active Evaluation: Efficient NLG Evaluation with Few Pairwise Comparisons,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.601,The Moral Debater: A Study on the Computational Generation of Morally Framed Arguments,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.602,Pyramid-BERT: Reducing Complexity via Successive Core-set based Token Selection,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.603,Probing for the Usage of Grammatical Number,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.61,Expanding Pretrained Models to Thousands More Languages via Lexicon-based Adaptation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.62,Language-agnostic BERT Sentence Embedding,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.63,Nested Named Entity Recognition with Span-level Graphs,ACL,2022,Main long,True,False,False,,3
+2022.acl-long.63.pdf,,ACL,2022,Main long,False,False,False,,2
+2022.acl-long.64,CogTaskonomy: Cognitively Inspired Task Taxonomy Is Beneficial to Transfer Learning in NLP,ACL,2022,Main long,True,False,False,,3
+2022.acl-long.64.pdf,,ACL,2022,Main long,False,False,False,,2
+2022.acl-long.65,RoCBert: Robust Chinese Bert with Multimodal Contrastive Pretraining,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.66,Premise-based Multimodal Reasoning: Conditional Inference on Joint Textual and Visual Clues,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.67,Parallel Instance Query Network for Named Entity Recognition,ACL,2022,Main long,True,False,False,,3
+2022.acl-long.67.pdf,,ACL,2022,Main long,False,False,False,,2
+2022.acl-long.68,ProphetChat: Enhancing Dialogue Generation with Simulation of Future Conversation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.69,Modeling Multi-hop Question Answering as Single Sequence Prediction,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.7,JointCL: A Joint Contrastive Learning Framework for Zero-Shot Stance Detection,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.70,Learning Disentangled Semantic Representations for Zero-Shot Cross-Lingual Transfer in Multilingual Machine Reading Comprehension,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.71,Multi-Granularity Structural Knowledge Distillation for Language Model Compression,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.72,Auto-Debias: Debiasing Masked Language Models with Automated Biased Prompts,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.73,Where to Go for the Holidays: Towards Mixed-Type Dialogs for Clarification of User Goals,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.74,Semi-supervised Domain Adaptation for Dependency Parsing with Dynamic Matching Network,ACL,2022,Main long,True,False,False,,3
+2022.acl-long.74.pdf,,ACL,2022,Main long,False,False,False,,2
+2022.acl-long.75,A Closer Look at How Fine-tuning Changes BERT,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.76,Sentence-aware Contrastive Learning for Open-Domain Passage Retrieval,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.77,FaiRR: Faithful and Robust Deductive Reasoning over Natural Language,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.78,HiTab: A Hierarchical Table Dataset for Question Answering and Natural Language Generation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.79,Doctor Recommendation in Online Health Forums via Expertise Learning,ACL,2022,Main long,True,False,False,,7
+2022.acl-long.79.mp4,,ACL,2022,Main,False,False,False,,1
+2022.acl-long.79.pdf,,ACL,2022,Main long,False,False,False,,8
+2022.acl-long.8,[CASPI] Causal-aware Safe Policy Improvement for Task-oriented Dialogue,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.80,Continual Prompt Tuning for Dialog State Tracking,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.81,There’s a Time and Place for Reasoning Beyond the Image,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.82,FORTAP: Using Formulas for Numerical-Reasoning-Aware Table Pretraining,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.83,Multimodal fusion via cortical network inspired losses,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.84,Modeling Temporal-Modal Entity Graph for Procedural Multimodal Machine Comprehension,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.85,Explanation Graph Generation via Pre-trained Language Models: An Empirical Study with Contrastive Learning,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.86,Unsupervised Extractive Opinion Summarization Using Sparse Coding,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.87,LexSubCon: Integrating Knowledge from Lexical Resources into Contextual Embeddings for Lexical Substitution,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.88,Think Before You Speak: Explicitly Generating Implicit Commonsense Knowledge for Response Generation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.89,Flow-Adapter Architecture for Unsupervised Machine Translation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.9,UniTranSeR: A Unified Transformer Semantic Representation Framework for Multimodal Task-Oriented Dialog System,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.90,Efficient Unsupervised Sentence Compression by Fine-tuning Transformers with Reinforcement Learning,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.91,Tracing Origins: Coreference-aware Machine Reading Comprehension,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.92,WatClaimCheck: A new Dataset for Claim Entailment and Inference,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.93,"FrugalScore: Learning Cheaper, Lighter and Faster Evaluation Metrics for Automatic Text Generation",ACL,2022,Main long,True,False,False,,2
+2022.acl-long.94,A Well-Composed Text is Half Done! Composition Sampling for Diverse Conditional Generation,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.95,Synthetic Question Value Estimation for Domain Adaptation of Question Answering,ACL,2022,Main long,True,False,False,,3
+2022.acl-long.95.pdf,,ACL,2022,Main long,False,False,False,,2
+2022.acl-long.96,Better Language Model with Hypernym Class Prediction,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.97,Tackling Fake News Detection by Continually Improving Social Context Representations using Graph Neural Networks,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.98,Understanding Gender Bias in Knowledge Base Embeddings,ACL,2022,Main long,True,False,False,,2
+2022.acl-long.99,Computational Historical Linguistics and Language Diversity in South Asia,ACL,2022,Main long,True,False,False,,2
+2022.findings-acl,,ACL,2022,Findings,False,False,False,,3
+2022.findings-acl.0,Findings of the  A ssociation for  C omputational  L inguistics:  ACL  2022,,2022,,False,False,False,,1
+2022.findings-acl.0.pdf,,,2022,,False,False,False,,1
+2022.findings-acl.1,“Is Whole Word Masking Always Better for Chinese BERT?”: Probing on Chinese Grammatical Error Correction,,2022,,False,False,False,,4
+2022.findings-acl.10,Controlled Text Generation Using Dictionary Prior in Variational Autoencoders,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.100,Constructing Open Cloze Tests Using Generation and Discrimination Capabilities of Transformers,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.101,Co-training an Unsupervised Constituency Parser with Weak Supervision,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.102,HiStruct+: Improving Extractive Text Summarization with Hierarchical Structure Information,,2022,,False,False,True,BODY_REVIEW | INCLUDE,23
+2022.findings-acl.102.pdf,,,2022,,False,False,True,INCLUDE,13
+2022.findings-acl.103,An Isotropy Analysis in the Multilingual BERT Embedding Space,,2022,,False,False,False,,4
+2022.findings-acl.104,Multi-Stage Prompting for Knowledgeable Dialogue Generation,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.105,\textrm{DuReader}_{\textrm{vis}}: A Chinese Dataset for Open-domain Document Visual Question Answering,,2022,,False,False,True,EXCLUDE,8
+2022.findings-acl.106,Coloring the Blank Slate: Pre-training Imparts a Hierarchical Inductive Bias to Sequence-to-sequence Models,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.107,C^3KG: A Chinese Commonsense Conversation Knowledge Graph,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.108,Graph Neural Networks for Multiparallel Word Alignment,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.109,Sentiment Word Aware Multimodal Refinement for Multimodal Sentiment Analysis with ASR Errors,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.11,Challenges to Open-Domain Constituency Parsing,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.110,A Novel Framework Based on Medical Concept Driven Attention for Explainable Medical Code Prediction via External Knowledge,,2022,,False,False,True,INCLUDE,15
+2022.findings-acl.110.pdf,,ACL,2022,Findings,False,False,False,,5
+2022.findings-acl.111,Effective Unsupervised Constrained Text Generation based on Perturbed Masking,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.112,Combining (Second-Order) Graph-Based and Headed-Span-Based Projective Dependency Parsing,,2022,,False,False,False,,4
+2022.findings-acl.113,End-to-End Speech Translation for Code Switched Speech,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.114,A Transformational Biencoder with In-Domain Negative Sampling for Zero-Shot Entity Linking,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.115,Finding the Dominant Winning Ticket in Pre-Trained Language Models,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.116,Thai Nested Named Entity Recognition Corpus,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.117,Two-Step Question Retrieval for Open-Domain QA,,2022,,False,False,False,,4
+2022.findings-acl.118,Semantically Distributed Robust Optimization for Vision-and-Language Inference,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.119,Learning from Missing Relations: Contrastive Learning with Commonsense Knowledge Graphs for Commonsense Inference,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.12,Going “Deeper”: Structured Sememe Prediction via Transformer with Tree Attention,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.120,Capture Human Disagreement Distributions by Calibrated Networks for Natural Language Inference,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.121,"Efficient, Uncertainty-based Moderation of Neural Networks Text Classifiers",,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.122,Revisiting Automatic Evaluation of Extractive Summarization Task: Can We Do Better than ROUGE?,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.123,Open Vocabulary Extreme Classification Using Generative Models,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.124,Decomposed Meta-Learning for Few-Shot Named Entity Recognition,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.125,TegTok: Augmenting Text Generation via Task-specific and Open-world Knowledge,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.126,EmoCaps: Emotion Capsule based Model for Conversational Emotion Recognition,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.127,Logic-Driven Context Extension and Data Augmentation for Logical Reasoning of Text,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.128,Transfer Learning and Prediction Consistency for Detecting Offensive Spans of Text,,2022,,False,False,False,,4
+2022.findings-acl.129,Learning Reasoning Patterns for Relational Triple Extraction with Mutual Generation of Text and Graph,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.13,Table-based Fact Verification with Self-adaptive Mixture of Experts,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.130,Document-Level Event Argument Extraction via Optimal Transport,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.131,N-Shot Learning for Augmenting Task-Oriented Dialogue State Tracking,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.132,Document-Level Relation Extraction with Adaptive Focal Loss and Knowledge Distillation,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.133,Calibration of Machine Reading Systems at Scale,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.134,Towards Adversarially Robust Text Classifiers by Learning to Reweight Clean Examples,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.135,Morphosyntactic Tagging with Pre-trained Language Models for Arabic and its Dialects,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.136,How Pre-trained Language Models Capture Factual Knowledge? A Causal-Inspired Analysis,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.137,Metadata Shaping: A Simple Approach for Knowledge-Enhanced Language Models,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.138,Enhancing Natural Language Representation with Large-Scale Out-of-Domain Commonsense,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.139,Weighted self Distillation for Chinese word segmentation,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.14,Investigating Data Variance in Evaluations of Automatic Machine Translation Metrics,,2022,,False,False,False,,4
+2022.findings-acl.140,Sibylvariant Transformations for Robust Text Classification,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.141,DaLC: Domain Adaptation Learning Curve Prediction for Neural Machine Translation,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.142,"Hey AI, Can You Solve Complex Tasks by Talking to Agents?",,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.143,Modality-specific Learning Rates for Effective Multimodal Additive Late-fusion,,2022,,False,False,True,BODY_REVIEW | INCLUDE,23
+2022.findings-acl.143.pdf,,,2022,,False,False,True,INCLUDE,13
+2022.findings-acl.144,BiSyn-GAT+: Bi-Syntax Aware Graph Attention Network for Aspect-based Sentiment Analysis,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.145,IndicBART: A Pre-trained Model for Indic Natural Language Generation,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.146,Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text Models,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.147,Improving Relation Extraction through Syntax-induced Pre-training with Dependency Masking,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.148,Striking a Balance: Alleviating Inconsistency in Pre-trained Models for Symmetric Classification Tasks,,2022,,False,False,False,,4
+2022.findings-acl.149,Diversifying Content Generation for Commonsense Reasoning with Mixture of Knowledge Graph Experts,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.15,Sememe Prediction for BabelNet Synsets using Multilingual and Multimodal Information,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.150,Dict-BERT: Enhancing Language Model Pre-training with Dictionary,,2022,,False,False,True,BODY_REVIEW | EXCLUDE,9
+2022.findings-acl.150.pdf,,,2022,,False,False,True,EXCLUDE,3
+2022.findings-acl.151,A Feasibility Study of Answer-Agnostic Question Generation for Education,,2022,,False,False,False,,3
+2022.findings-acl.152,Relevant CommonSense Subgraphs for “What if...” Procedural Reasoning,,2022,,False,False,False,,4
+2022.findings-acl.153,Combining Feature and Instance Attribution to Detect Artifacts,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.154,Leveraging Expert Guided Adversarial Augmentation For Improving Generalization in Named Entity Recognition,,2022,,False,False,False,,4
+2022.findings-acl.155,Label Semantics for Few Shot Named Entity Recognition,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.156,"Detection, Disambiguation, Re-ranking: Autoregressive Entity Linking as a Multi-Task Problem",,2022,,False,False,True,BODY_REVIEW | INCLUDE,16
+2022.findings-acl.156.mp4,,ACL,2022,Findings of the Association for Computational Linguistics: ACL 2022,False,False,False,,1
+2022.findings-acl.156.pdf,,,2022,,False,False,True,INCLUDE,7
+2022.findings-acl.157,VISITRON: Visual Semantics-Aligned Interactively Trained Object-Navigator,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.158,"Investigating Selective Prediction Approaches Across Several Tasks in IID, OOD, and Adversarial Settings",,2022,,False,False,False,,4
+2022.findings-acl.159,Unsupervised Natural Language Inference Using PHL Triplet Generation,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.16,Query and Extract: Refining Event Extraction as Type-oriented Binary Decoding,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.160,Data Augmentation and Learned Layer Aggregation for Improved Multilingual Language Understanding in Dialogue,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.161,Ranking-Constrained Learning with Rationales for Text Classification,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.162,CaM-Gen: Causally Aware Metric-Guided Text Generation,,2022,,False,False,True,BODY_REVIEW | EXCLUDE,9
+2022.findings-acl.162.pdf,,,2022,,False,False,True,EXCLUDE,3
+2022.findings-acl.163,Training Dynamics for Text Summarization Models,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.164,Richer Countries and Richer Representations,,2022,,False,False,False,,4
+2022.findings-acl.165,BBQ: A hand-built bias benchmark for question answering,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.166,Zero-shot Learning for Grapheme to Phoneme Conversion with Language Ensemble,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.167,Dim Wihl Gat Tun: The Case for Linguistic Expertise in NLP for Under-Documented Languages,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.168,Question Generation for Reading Comprehension Assessment by Modeling How and What to Ask,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.169,TABi: Type-Aware Bi-Encoders for Open-Domain Entity Retrieval,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.17,LEVEN: A Large-Scale Chinese Legal Event Detection Dataset,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.170,Hierarchical Recurrent Aggregative Generation for Few-Shot NLG,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.171,Training Text-to-Text Transformers with Privacy Guarantees,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.172,Revisiting Uncertainty-based Query Strategies for Active Learning with Transformers,,2022,,False,False,False,,4
+2022.findings-acl.173,The impact of lexical and grammatical processing on generating code from natural language,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.174,Seq2Path: Generating Sentiment Tuples as Paths of a Tree,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.175,Mitigating the Inconsistency Between Word Saliency and Model Confidence with Pathological Contrastive Training,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.176,Your fairness may vary: Pretrained language model fairness in toxic text classification,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.177,ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.178,A Novel Perspective to Look At Attention: Bi-level Attention-based Explainable Topic Modeling for News Classification,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.179,Learn and Review: Enhancing Continual Named Entity Recognition via Reviewing Synthetic Samples,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.18,Analyzing Dynamic Adversarial Training Data in the Limit,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.180,Phoneme transcription of endangered languages: an evaluation of recent ASR architectures in the single speaker scenario,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.181,Does BERT really agree ? Fine-grained Analysis of Lexical Dependence on a Syntactic Task,,2022,,False,False,False,,4
+2022.findings-acl.182,Combining Static and Contextualised Multilingual Embeddings,,2022,,False,False,False,,4
+2022.findings-acl.183,An Accurate Unsupervised Method for Joint Entity Alignment and Dangling Entity Detection,,2022,,False,False,True,BODY_REVIEW | INCLUDE,17
+2022.findings-acl.183.pdf,,,2022,,False,False,False,,8
+2022.findings-acl.184,Square One Bias in NLP: Towards a Multi-Dimensional Exploration of the Research Manifold,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.185,"Systematicity, Compositionality and Transitivity of Deep NLP Models: a Metamorphic Testing Perspective",,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.186,Improving Neural Political Statement Classification with Class Hierarchical Information,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.187,Enabling Multimodal Generation on CLIP via Vision-Language Knowledge Distillation,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.188,Co-VQA : Answering by Interactive Sub Question Sequence,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.189,A Simple Hash-Based Early Exiting Approach For Language Understanding and Generation,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.19,AbductionRules: Training Transformers to Explain Unexpected Inputs,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.190,Auxiliary tasks to boost Biaffine Semantic Dependency Parsing,,2022,,False,False,False,,4
+2022.findings-acl.191,Syntax-guided Contrastive Learning for Pre-trained Language Model,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.192,Improved Multi-label Classification under Temporal Concept Drift: Rethinking Group-Robust Algorithms in a Label-Wise Setting,,2022,,False,False,True,BODY_REVIEW | INCLUDE,25
+2022.findings-acl.192.mp4,,ACL,2022,Findings of the Association for Computational Linguistics: ACL 2022,False,False,False,,2
+2022.findings-acl.192.pdf,,,2022,,False,False,False,,12
+2022.findings-acl.193,ASCM: An Answer Space Clustered Prompting Method without Answer Engineering,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.194,Why don’t people use character-level machine translation?,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.195,"Seeking Patterns, Not just Memorizing Procedures: Contrastive Learning for Solving Math Word Problems",,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.196,xGQA: Cross-Lingual Visual Question Answering,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.197,Automatic Speech Recognition and Query By Example for Creole Languages Documentation,,2022,,False,False,False,,4
+2022.findings-acl.198,MReD: A Meta-Review Dataset for Structure-Controllable Text Generation,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.199,Single Model Ensemble for Subword Regularized Models in Low-Resource Machine Translation,,2022,,False,False,False,,4
+2022.findings-acl.2,Compilable Neural Code Generation with Compiler Feedback,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.20,On the Importance of Data Size in Probing Fine-tuned Models,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.200,Detecting Various Types of Noise for Neural Machine Translation,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.201,DU-VLG: Unifying Vision-and-Language Generation via Dual Sequence-to-Sequence Pre-training,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.202,HiCLRE: A Hierarchical Contrastive Learning Framework for Distantly Supervised Relation Extraction,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.203,Prompt-Driven Neural Machine Translation,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.204,On Controlling Fallback Responses for Grounded Dialogue Generation,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.205,CRAFT: A Benchmark for Causal Reasoning About Forces and inTeractions,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.206,A Graph Enhanced BERT Model for Event Prediction,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.207,Long Time No See! Open-Domain Conversation with Long-Term Persona Memory,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.208,Lacking the Embedding of a Word? Look it up into a Traditional Dictionary,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.209,MTRec: Multi-Task Learning over BERT for News Recommendation,,2022,,False,False,False,,4
+2022.findings-acl.21,RuCCoN: Clinical Concept Normalization in Russian,,2022,,False,False,False,,4
+2022.findings-acl.210,Cross-domain Named Entity Recognition via Graph Matching,,2022,,False,False,True,BODY_REVIEW | EXCLUDE,10
+2022.findings-acl.210.pdf,,,2022,,False,False,False,,3
+2022.findings-acl.211,Assessing Multilingual Fairness in Pre-trained Multimodal Representations,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.212,More Than Words: Collocation Retokenization for Latent Dirichlet Allocation Models,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.213,Generalized but not Robust? Comparing the Effects of Data Modification Methods on Out-of-Domain Generalization and Adversarial Robustness,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.214,ASSIST: Towards Label Noise-Robust Dialogue State Tracking,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.215,Graph Refinement for Coreference Resolution,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.216,ECO v1: Towards Event-Centric Opinion Mining,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.217,Deep Reinforcement Learning for Entity Alignment,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.218,Breaking Down Multilingual Machine Translation,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.219,Mitigating Contradictions in Dialogue Based on Contrastive Learning,,2022,,False,False,False,,4
+2022.findings-acl.22,A Sentence is Worth 128 Pseudo Tokens: A Semantic-Aware Contrastive Learning Framework for Sentence Embeddings,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.220,ELLE: Efficient Lifelong Pre-training for Emerging Data,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.221,EnCBP: A New Benchmark Dataset for Finer-Grained Cultural Background Prediction in English,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.222,Cutting Down on Prompts and Parameters: Simple Few-Shot Learning with Language Models,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.223,uFACT: Unfaithful Alien-Corpora Training for Semantically Consistent Data-to-Text Generation,,2022,,False,False,False,,4
+2022.findings-acl.224,Good Night at 4 pm?! Time Expressions in Different Cultures,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.225,Extracting Person Names from User Generated Text: Named-Entity Recognition for Combating Human Trafficking,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.226,OneAligner: Zero-shot Cross-lingual Transfer with One Rich-Resource Language Pair for Low-Resource Sentence Retrieval,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.227,Suum Cuique: Studying Bias in Taboo Detection with a Community Perspective,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.228,Modeling Intensification for Sign Language Generation: A Computational Approach,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.229,Controllable Natural Language Generation with Contrastive Prefixes,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.23,Eider: Empowering Document-level Relation Extraction with Efficient Evidence Extraction and Inference-stage Fusion,,2022,,False,False,True,BODY_REVIEW | EXCLUDE,9
+2022.findings-acl.23.pdf,,,2022,,False,False,True,EXCLUDE,3
+2022.findings-acl.230,Revisiting the Effects of Leakage on Dependency Parsing,,2022,,False,False,False,,4
+2022.findings-acl.231,Learning to Describe Solutions for Bug Reports Based on Developer Discussions,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.232,Perturbations in the Wild: Leveraging Human-Written Text Perturbations for Realistic Adversarial Attack and Defense,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.233,Improving Chinese Grammatical Error Detection via Data augmentation by Conditional Error Generation,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.234,Modular and Parameter-Efficient Multimodal Fusion with Prompting,,2022,,False,False,False,,4
+2022.findings-acl.235,Synchronous Refinement for Neural Machine Translation,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.236,HIE-SQL: History Information Enhanced Network for Context-Dependent Text-to-SQL Semantic Parsing,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.237,CRASpell: A Contextual Typo Robust Approach to Improve Chinese Spelling Correction,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.238,Gaussian Multi-head Attention for Simultaneous Machine Translation,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.239,Composing Structure-Aware Batches for Pairwise Sentence Classification,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.24,Meta-X_{NLG}: A Meta-Learning Approach Based on Language Clustering for Zero-Shot Cross-Lingual Transfer and Generation,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.240,Factual Consistency of Multilingual Pretrained Language Models,,2022,,False,False,False,,4
+2022.findings-acl.241,Selecting Stickers in Open-Domain Dialogue through Multitask Learning,,2022,,False,False,False,,4
+2022.findings-acl.242,ZiNet: Linking Chinese Characters Spanning Three Thousand Years,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.243,How Can Cross-lingual Knowledge Contribute Better to Fine-Grained Entity Typing?,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.244,AMR-DA: Data Augmentation by Abstract Meaning Representation,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.245,Using Pre-Trained Language Models for Producing Counter Narratives Against Hate Speech: a Comparative Study,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.246,Improving Robustness of Language Models from a Geometry-aware Perspective,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.247,Task-guided Disentangled Tuning for Pretrained Language Models,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.248,Exploring the Impact of Negative Samples of Contrastive Learning: A Case Study of Sentence Embedding,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.249,The Inefficiency of Language Models in Scholarly Retrieval: An Experimental Walk-through,,2022,,False,False,True,BODY_REVIEW | EXCLUDE,10
+2022.findings-acl.249.pdf,,,2022,,False,False,False,,3
+2022.findings-acl.25,MR-P: A Parallel Decoding Algorithm for Iterative Refinement Non-Autoregressive Translation,,2022,,False,False,False,,4
+2022.findings-acl.250,Fusing Heterogeneous Factors with Triaffine Mechanism for Nested Named Entity Recognition,,2022,,False,False,True,BODY_REVIEW | INCLUDE,25
+2022.findings-acl.250.pdf,,,2022,,False,False,False,,8
+2022.findings-acl.251,UNIMO-2: End-to-End Unified Vision-Language Grounded Learning,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.252,The Past Mistake is the Future Wisdom: Error-driven Contrastive Probability Optimization for Chinese Spell Checking,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.253,XFUND: A Benchmark Dataset for Multilingual Visually Rich Form Understanding,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.254,Type-Driven Multi-Turn Corrections for Grammatical Error Correction,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.255,Leveraging Knowledge in Multilingual Commonsense Reasoning,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.256,Encoding and Fusing Semantic Connection and Linguistic Evidence for Implicit Discourse Relation Recognition,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.257,One Agent To Rule Them All: Towards Multi-agent Conversational AI,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.258,Word-level Perturbation Considering Word Length and Compositional Subwords,,2022,,False,False,False,,4
+2022.findings-acl.259,Bridging Pre-trained Language Models and Hand-crafted Features for Unsupervised POS Tagging,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.26,Open Relation Modeling: Learning to Define Relations between Entities,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.260,Controlling the Focus of Pretrained Language Generation Models,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.261,Comparative Opinion Summarization via Collaborative Decoding,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.262,IsoScore: Measuring the Uniformity of Embedding Space Utilization,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.263,A Natural Diet: Towards Improving Naturalness of Machine Translation Output,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.264,From Stance to Concern: Adaptation of Propositional Analysis to New Tasks and Domains,,2022,,False,False,True,BODY_REVIEW | EXCLUDE,10
+2022.findings-acl.264.pdf,,,2022,,False,False,False,,3
+2022.findings-acl.265,CUE Vectors: Modular Training of Language Models Conditioned on Diverse Contextual Signals,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.266,Cross-Lingual UMLS Named Entity Linking using UMLS Dictionary Fine-Tuning,,2022,,False,False,True,INCLUDE,17
+2022.findings-acl.266.pdf,,,2022,,False,False,False,,8
+2022.findings-acl.267,Aligned Weight Regularizers for Pruning Pretrained Neural Networks,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.268,Consistent Representation Learning for Continual Relation Extraction,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.269,Event Transition Planning for Open-ended Text Generation,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.27,A Slot Is Not Built in One Utterance: Spoken Language Dialogs with Sub-Slots,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.270,Comprehensive Multi-Modal Interactions for Referring Image Segmentation,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.271,MetaWeighting: Learning to Weight Tasks in Multi-Task Learning,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.272,Improving Controllable Text Generation with Position-Aware Weighted Decoding,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.273,Prompt Tuning for Discriminative Pre-trained Language Models,,2022,,False,False,False,,4
+2022.findings-acl.274,Two Birds with One Stone: Unified Model Learning for Both Recall and Ranking in News Recommendation,,2022,,False,False,False,,4
+2022.findings-acl.275,What does it take to bake a cake? The RecipeRef corpus and anaphora resolution in procedural text,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.276,MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.277,THE-X: Privacy-Preserving Transformer Inference with Homomorphic Encryption,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.278,HLDC: Hindi Legal Documents Corpus,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.279,Rethinking Document-level Neural Machine Translation,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.28,Towards Transparent Interactive Semantic Parsing via Step-by-Step Correction,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.280,Incremental Intent Detection for Medical Domain with Contrast Replay Networks,,2022,,False,False,False,,4
+2022.findings-acl.281,LaPraDoR: Unsupervised Pretrained Dense Retriever for Zero-Shot Text Retrieval,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.282,Do Pre-trained Models Benefit Knowledge Graph Completion? A Reliable Evaluation and a Reasonable Approach,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.283,EICO: Improving Few-Shot Text Classification via Explicit and Implicit Consistency Regularization,,2022,,False,False,False,,4
+2022.findings-acl.284,Improving the Adversarial Robustness of NLP Models by Information Bottleneck,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.285,Incorporating Dynamic Semantics into Pre-Trained Language Model for Aspect-based Sentiment Analysis,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.286,DARER: Dual-task Temporal Relational Recurrent Reasoning Network for Joint Dialog Sentiment Classification and Act Recognition,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.287,Divide and Conquer: Text Semantic Matching with Disentangled Keywords and Intents,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.288,Modular Domain Adaptation,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.289,Detection of Adversarial Examples in Text Classification: Benchmark and Baseline via Robust Density Estimation,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.29,MINER: Multi-Interest Matching Network for News Recommendation,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.290,Platt-Bin: Efficient Posterior Calibrated Training for NLP Classifiers,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.291,Addressing Resource and Privacy Constraints in Semantic Parsing Through Data Augmentation,,2022,,False,False,False,,4
+2022.findings-acl.292,Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.293,Local Structure Matters Most: Perturbation Study in NLU,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.294,Probing Factually Grounded Content Transfer with Factual Ablation,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.295,ED2LM: Encoder-Decoder to Language Model for Faster Document Re-ranking Inference,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.296,Benchmarking Answer Verification Methods for Question Answering-Based Summarization Evaluation Metrics,,2022,,False,False,False,,4
+2022.findings-acl.297,Prior Knowledge and Memory Enriched Transformer for Sign Language Translation,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.298,Discontinuous Constituency and BERT: A Case Study of Dutch,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.299,Probing Multilingual Cognate Prediction Models,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.3,Towards Unifying the Label Space for Aspect- and Sentence-based Sentiment Analysis,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.30,KSAM: Infusing Multi-Source Knowledge into Dialogue Generation via Knowledge Source Aware Multi-Head Decoding,,2022,,False,False,True,EXCLUDE,8
+2022.findings-acl.300,A Neural Pairwise Ranking Model for Readability Assessment,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.301,First the Worst: Finding Better Gender Translations During Beam Search,,2022,,False,False,False,,4
+2022.findings-acl.302,"Dialogue Summaries as Dialogue States (DS2), Template-Guided Summarization for Few-shot Dialogue State Tracking",,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.303,Unsupervised Preference-Aware Language Identification,,2022,,False,False,False,,4
+2022.findings-acl.304,Using NLP to quantify the environmental cost and diversity benefits of in-person NLP conferences,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.305,Interpretable Research Replication Prediction via Variational Contextual Consistency Sentence Masking,,2022,,False,False,True,BODY_REVIEW | EXCLUDE,10
+2022.findings-acl.305.pdf,,,2022,,False,False,False,,3
+2022.findings-acl.306,Chinese Synesthesia Detection: New Dataset and Models,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.307,Rethinking Offensive Text Detection as a Multi-Hop Reasoning Problem,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.308,"On the Safety of Conversational Models: Taxonomy, Dataset, and Benchmark",,2022,,False,False,True,BODY_REVIEW | INCLUDE,23
+2022.findings-acl.308.mp4,,ACL,2022,Findings of the Association for Computational Linguistics: ACL 2022,False,False,False,,2
+2022.findings-acl.308.pdf,,,2022,,False,False,False,,11
+2022.findings-acl.309,Word Segmentation by Separation Inference for East Asian Languages,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.31,Towards Responsible Natural Language Annotation for the Varieties of Arabic,,2022,,False,False,False,,4
+2022.findings-acl.310,Unsupervised Chinese Word Segmentation with BERT Oriented Probing and Transformation,,2022,,False,False,False,,4
+2022.findings-acl.311,E-KAR: A Benchmark for Rationalizing Natural Language Analogical Reasoning,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.312,Implicit Relation Linking for Question Answering over Knowledge Graph,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.313,Attention Mechanism with Energy-Friendly Operations,,2022,,False,False,False,,4
+2022.findings-acl.314,Probing BERT’s priors with serial reproduction chains,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.315,Interpreting the Robustness of Neural NLP Models to Textual Perturbations,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.316,Zero-Shot Dense Retrieval with Momentum Adversarial Domain Invariant Representations,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.317,A Few-Shot Semantic Parser for Wizard-of-Oz Dialogues with the Precise ThingTalk Representation,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.318,GCPG: A General Framework for Controllable Paraphrase Generation,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.319,CrossAligner & Co: Zero-Shot Transfer Methods for Task-Oriented Cross-lingual Natural Language Understanding,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.32,Dynamically Refined Regularization for Improving Cross-corpora Hate Speech Detection,,2022,,False,False,False,,4
+2022.findings-acl.320,Attention as Grounding: Exploring Textual and Cross-Modal Attention on Entities and Relations in Language-and-Vision Transformer,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.321,Improving Zero-Shot Cross-lingual Transfer Between Closely Related Languages by Injecting Character-Level Noise,,2022,,False,False,False,,4
+2022.findings-acl.322,Structural Supervision for Word Alignment and Machine Translation,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.323,Focus on the Action: Learning to Highlight and Summarize Jointly for Email To-Do Items Summarization,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.324,Exploring the Capacity of a Large-scale Masked Language Model to Recognize Grammatical Errors,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.325,Should We Trust This Summary? Bayesian Abstractive Summarization to The Rescue,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.326,On the data requirements of probing,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.327,Translation Error Detection as Rationale Extraction,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.328,Towards Collaborative Neural-Symbolic Graph Semantic Parsing via Uncertainty,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.329,Towards Few-shot Entity Recognition in Document Images: A Label-aware Sequence-to-Sequence Framework,,2022,,False,False,True,EXCLUDE,10
+2022.findings-acl.33,Towards Large-Scale Interpretable Knowledge Graph Reasoning for Dialogue Systems,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.330,On Length Divergence Bias in Textual Matching Models,,2022,,False,False,False,,4
+2022.findings-acl.331,What is wrong with you?: Leveraging User Sentiment for Automatic Dialog Evaluation,,2022,,False,False,False,,4
+2022.findings-acl.34,MDERank: A Masked Document Embedding Rank Approach for Unsupervised Keyphrase Extraction,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.35,Visualizing the Relationship Between Encoded Linguistic Information and Task Performance,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.36,Efficient Argument Structure Extraction with Transfer Learning and Active Learning,,2022,,False,False,True,BODY_REVIEW | EXCLUDE,9
+2022.findings-acl.36.pdf,,,2022,,False,False,True,EXCLUDE,3
+2022.findings-acl.37,Plug-and-Play Adaptation for Continuously-updated QA,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.38,Reinforced Cross-modal Alignment for Radiology Report Generation,,2022,,False,False,True,INCLUDE,16
+2022.findings-acl.38.pdf,,ACL,2022,Findings,False,False,False,,7
+2022.findings-acl.39,"What Works and Doesn’t Work, A Deep Decoder for Neural Machine Translation",,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.4,Input-specific Attention Subnetworks for Adversarial Detection,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.40,SyMCoM - Syntactic Measure of Code Mixing A Study Of English-Hindi Code-Mixing,,2022,,False,False,False,,4
+2022.findings-acl.41,HybriDialogue: An Information-Seeking Dialogue Dataset Grounded on Tabular and Textual Data,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.42,NEWTS: A Corpus for News Topic-Focused Summarization,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.43,Classification without (Proper) Representation: Political Heterogeneity in Social Media and Its Implications for Classification and Behavioral Analysis,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.44,Toward More Meaningful Resources for Lower-resourced Languages,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.45,Better Quality Estimation for Low Resource Corpus Mining,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.46,End-to-End Segmentation-based News Summarization,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.47,Fast Nearest Neighbor Machine Translation,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.48,Extracting Latent Steering Vectors from Pretrained Language Models,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.49,Domain Generalisation of NMT: Fusing Adapters with Leave-One-Domain-Out Training,,2022,,False,False,False,,4
+2022.findings-acl.5,RelationPrompt: Leveraging Prompts to Generate Synthetic Data for Zero-Shot Relation Triplet Extraction,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.50,Reframing Instructional Prompts to GPTk’s Language,,2022,,False,False,True,EXCLUDE,5
+2022.findings-acl.51,Read Top News First: A Document Reordering Approach for Multi-Document News Summarization,,2022,,False,False,False,,4
+2022.findings-acl.52,Human Language Modeling,,2022,,False,False,True,BODY_REVIEW | EXCLUDE,9
+2022.findings-acl.52.pdf,,,2022,,False,False,True,EXCLUDE,3
+2022.findings-acl.53,Inverse is Better! Fast and Accurate Prompt for Few-shot Slot Tagging,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.54,Cross-Modal Cloze Task: A New Task to Brain-to-Word Decoding,,2022,,False,False,True,INCLUDE,15
+2022.findings-acl.54.pdf,,ACL,2022,Findings,False,False,False,,7
+2022.findings-acl.55,Mitigating Gender Bias in Distilled Language Models via Counterfactual Role Reversal,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.56,Domain Representative Keywords Selection: A Probabilistic Approach,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.57,Hierarchical Inductive Transfer for Continual Dialogue Learning,,2022,,False,False,False,,4
+2022.findings-acl.58,Why Exposure Bias Matters: An Imitation Learning Perspective of Error Accumulation in Language Generation,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.59,Question Answering Infused Pre-training of General-Purpose Contextualized Representations,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.6,Pre-Trained Multilingual Sequence-to-Sequence Models: A Hope for Low-Resource Language Translation?,,2022,,False,False,False,,4
+2022.findings-acl.60,Automatic Song Translation for Tonal Languages,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.61,Read before Generate! Faithful Long Form Question Answering with Machine Reading,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.62,A Simple yet Effective Relation Information Guided Approach for Few-Shot Relation Extraction,,2022,,False,False,False,,4
+2022.findings-acl.63,MIMICause: Representation and automatic extraction of causal relation types from clinical notes,,2022,,False,False,True,INCLUDE,15
+2022.findings-acl.63.mp4,,ACL,2022,Findings,False,False,False,,1
+2022.findings-acl.63.pdf,,ACL,2022,Findings,False,False,False,,5
+2022.findings-acl.64,Compressing Sentence Representation for Semantic Retrieval via Homomorphic Projective Distillation,,2022,,False,False,False,,4
+2022.findings-acl.65,Debiasing Event Understanding for Visual Commonsense Tasks,,2022,,False,False,False,,4
+2022.findings-acl.66,Fact-Tree Reasoning for N-ary Question Answering over Knowledge Graphs,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.67,DeepStruct: Pretraining of Language Models for Structure Prediction,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.68,The Change that Matters in Discourse Parsing: Estimating the Impact of Domain Shift on Parser Error,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.69,Mukayese: Turkish NLP Strikes Back,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.7,Multi-Scale Distribution Deep Variational Autoencoder for Explanation Generation,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.70,Virtual Augmentation Supported Contrastive Learning of Sentence Representations,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.71,MoEfication: Transformer Feed-forward Layers are Mixtures of Experts,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.72,DS-TOD: Efficient Domain Specialization for Task-Oriented Dialog,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.73,Distinguishing Non-natural from Natural Adversarial Samples for More Robust Pre-trained Language Model,,2022,,False,False,True,EXCLUDE,8
+2022.findings-acl.74,Learning Adaptive Axis Attentions in Fine-tuning: Beyond Fixed Sparse Attention Patterns,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.75,Using Interactive Feedback to Improve the Accuracy and Explainability of Question Answering Systems Post-Deployment,,2022,,False,False,True,BODY_REVIEW | INCLUDE,23
+2022.findings-acl.75.mp4,,ACL,2022,Findings of the Association for Computational Linguistics: ACL 2022,False,False,False,,2
+2022.findings-acl.75.pdf,,,2022,,False,False,True,INCLUDE,13
+2022.findings-acl.76,To be or not to be an Integer? Encoding Variables for Mathematical Text,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.77,GRS: Combining Generation and Revision in Unsupervised Sentence Simplification,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.78,BPE vs. Morphological Segmentation: A Case Study on Machine Translation of Four Polysynthetic Languages,,2022,,False,False,False,,4
+2022.findings-acl.79,Distributed NLI: Learning to Predict Human Opinion Distributions for Language Reasoning,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.8,Dual Context-Guided Continuous Prompt Tuning for Few-Shot Learning,,2022,,False,False,False,,4
+2022.findings-acl.80,Morphological Processing of Low-Resource Languages: Where We Are and What’s Next,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.81,Learning and Evaluating Character Representations in Novels,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.82,Answer Uncertainty and Unanswerability in Multiple-Choice Machine Reading Comprehension,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.83,Measuring the Language of Self-Disclosure across Corpora,,2022,,False,False,True,BODY_REVIEW | INCLUDE,24
+2022.findings-acl.83.pdf,,,2022,,False,False,True,INCLUDE,18
+2022.findings-acl.84,"When Chosen Wisely, More Data Is What You Need: A Universal Sample-Efficient Strategy For Data Augmentation",,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.85,Explaining Classes through Stable Word Attributions,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.86,"What to Learn, and How: Toward Effective Learning from Rationales",,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.87,Listening to Affected Communities to Define Extreme Speech: Dataset and Experiments,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.88,Entropy-based Attention Regularization Frees Unintended Bias Mitigation from Lists,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.89,From BERT‘s Point of View: Revealing the Prevailing Contextual Differences,,2022,,False,False,True,EXCLUDE,8
+2022.findings-acl.9,Extract-Select: A Span Selection Framework for Nested Named Entity Recognition with Generative Adversarial Training,,2022,,False,False,True,BODY_REVIEW | EXCLUDE,9
+2022.findings-acl.9.pdf,,,2022,,False,False,True,EXCLUDE,3
+2022.findings-acl.90,Learning Bias-reduced Word Embeddings Using Dictionary Definitions,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.91,Knowledge Graph Embedding by Adaptive Limit Scoring Loss Using Dynamic Weighting Strategy,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.92,OCR Improves Machine Translation for Low-Resource Languages,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.93,CoCoLM: Complex Commonsense Enhanced Language Model with Discourse Relations,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.94,Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.95,Multi-Granularity Semantic Aware Graph Model for Reducing Position Bias in Emotion Cause Pair Extraction,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.96,Cross-lingual Inference with A Chinese Entailment Graph,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.97,Multi-task Learning for Paraphrase Generation With Keyword and Part-of-Speech Reconstruction,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.98,MDCSpell: A Multi-task Detector-Corrector Framework for Chinese Spelling Correction,,2022,,False,False,True,EXCLUDE,9
+2022.findings-acl.99,S^2SQL: Injecting Syntax to Question-Schema Interaction Graph Encoder for Text-to-SQL Parsers,,2022,,False,False,False,,4
+2022.findings-naacl.194.pdf,,,2022,,False,False,False,,1
+2023.acl-long,,ACL,2023,Main,False,False,False,,3
+2023.acl-long.133,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.138,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.225,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.286,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.305,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.350,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.382,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.416,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.451,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.453,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.495,,ACL,2023,Main long,False,False,False,,27
+2023.acl-long.495.mp4,,ACL,2023,Main long,False,False,False,,2
+2023.acl-long.495.pdf,,ACL,2023,Main long,False,False,False,,13
+2023.acl-long.531,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.549,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.555,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.577,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.593,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.644,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.654,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.668,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.681,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.685,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.741,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.763,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.853,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.881,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.886,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.896,,ACL,2023,Main long,False,False,False,,1
+2023.acl-long.96,,ACL,2023,Main long,False,False,False,,1
+2023.findings-acl,,ACL,2023,Findings,False,False,False,,3
+2023.findings-acl.115,,,2023,,False,False,False,,1
+2023.findings-acl.158,,,2023,,False,False,False,,1
+2023.findings-acl.161,,,2023,,False,False,False,,1
+2023.findings-acl.24,,,2023,,False,False,False,,1
+2023.findings-acl.282,,,2023,,False,False,False,,1
+2023.findings-acl.310,,,2023,,False,False,False,,1
+2023.findings-acl.324,,,2023,,False,False,False,,1
+2023.findings-acl.334,,,2023,,False,False,False,,1
+2023.findings-acl.34,,,2023,,False,False,False,,1
+2023.findings-acl.387,,,2023,,False,False,False,,1
+2023.findings-acl.415,,,2023,,False,False,False,,1
+2023.findings-acl.417,,,2023,,False,False,False,,1
+2023.findings-acl.420,,,2023,,False,False,False,,1
+2023.findings-acl.423,,,2023,,False,False,False,,1
+2023.findings-acl.435,,,2023,,False,False,False,,1
+2023.findings-acl.470,,,2023,,False,False,False,,1
+2023.findings-acl.503,,,2023,,False,False,False,,1
+2023.findings-acl.567,,,2023,,False,False,False,,1
+2023.findings-acl.568,,,2023,,False,False,False,,1
+2023.findings-acl.575,,,2023,,False,False,False,,1
+2023.findings-acl.618,,,2023,,False,False,False,,1
+2023.findings-acl.764,,,2023,,False,False,False,,1
+2023.findings-acl.77,,,2023,,False,False,False,,1
+2023.findings-acl.794,,,2023,,False,False,False,,1
+2023.findings-acl.844,,,2023,,False,False,False,,1
+2023.findings-acl.888,,,2023,,False,False,False,,1
+2023.findings-acl.99,,,2023,,False,False,False,,1
+2024.acl-long,,ACL,2024,Main,False,False,False,,3
+2024.acl-long.0,Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers),ACL,2024,Main long,False,False,False,,1
+2024.acl-long.1,Quantized Side Tuning: Fast and Memory-Efficient Tuning of Quantized Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.10,CSCD-NS: a Chinese Spelling Check Dataset for Native Speakers,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.100,UniCoder: Scaling Code Large Language Model via Universal Code,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.101,AoE: Angle-optimized Embeddings for Semantic Textual Similarity,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.102,InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.103,Does DetectGPT Fully Utilize Perturbation? Bridging Selective Perturbation to Fine-tuned Contrastive Learning Detector would be Better,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.104,AFaCTA: Assisting the Annotation of Factual Claim Detection with Reliable LLM Annotators,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.105,Towards Faithful and Robust LLM Specialists for Evidence-Based Question-Answering,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.106,LoRAMoE: Alleviating World Knowledge Forgetting in Large Language Models via MoE-Style Plugin,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.107,Self-Alignment for Factuality: Mitigating Hallucinations in LLMs via Self-Evaluation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.108,M-RAG: Reinforcing Large Language Model Performance through Retrieval-Augmented Generation with Multiple Partitions,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.109,AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.11,Evaluating Dynamic Topic Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.110,Navigating the Metrics Maze: Reconciling Score Magnitudes and Accuracies,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.111,ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.112,DM-BLI: Dynamic Multiple Subspaces Alignment for Unsupervised Bilingual Lexicon Induction,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.113,SparseFit: Few-shot Prompting with Sparse Fine-tuning for Jointly Generating Predictions and Natural Language Explanations,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.114,Handling Ambiguity in Emotion: From Out-of-Domain Detection to Distribution Estimation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.115,REANO: Optimising Retrieval-Augmented Reader Models through Knowledge Graph Generation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.116,Learning Disentangled Semantic Spaces of Explanations via Invertible Neural Networks,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.117,MoPS: Modular Story Premise Synthesis for Open-Ended Automatic Story Generation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.118,Open-Set Semi-Supervised Text Classification via Adversarial Disagreement Maximization,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.119,ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.12,How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.120,A synthetic data approach for domain generalization of NLI models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.121,Enhancing Contrastive Learning with Noise-Guided Attack: Towards Continual Relation Extraction in the Wild,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.122,LRQuant: Learnable and Robust Post-Training Quantization for Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.123,VariErr NLI: Separating Annotation Error from Human Label Variation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.124,Benchmarking Knowledge Boundary for Large Language Models: A Different Perspective on Model Evaluation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.125,ListT5: Listwise Reranking with Fusion-in-Decoder Improves Zero-shot Retrieval,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.126,Exploring the Potential of Large Language Models in Computational Argumentation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.127,TaxoLLaMA: WordNet-based Model for Solving Multiple Lexical Semantic Tasks,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.128,CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.129,MEFT: Memory-Efficient Fine-Tuning through Sparse Adapter,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.13,"Through the Lens of Split Vote: Exploring Disagreement, Difficulty and Calibration in Legal Case Outcome Classification",ACL,2024,Main long,False,False,False,,1
+2024.acl-long.130,"Surgical Feature-Space Decomposition of LLMs: Why, When and How?",ACL,2024,Main long,False,False,False,,1
+2024.acl-long.131,Reasoning in Flux: Enhancing Large Language Models Reasoning through Uncertainty-aware Adaptive Guidance,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.132,Modality-Aware Integration with Large Language Models for Knowledge-Based Visual Question Answering,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.133,Unlocking Data-free Low-bit Quantization with Matrix Decomposition for KV Cache Compression,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.134,VerifiNER: Verification-augmented NER via Knowledge-grounded Reasoning with Large Language Models,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.135,Making Long-Context Language Models Better Multi-Hop Reasoners,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.136,TransliCo: A Contrastive Learning Framework to Address the Script Barrier in Multilingual Pretrained Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.137,Extreme Miscalibration and the Illusion of Adversarial Robustness,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.138,HyCoRec: Hypergraph-Enhanced Multi-Preference Learning for Alleviating Matthew Effect in Conversational Recommendation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.139,Co-training for Low Resource Scientific Natural Language Inference,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.14,Inference to the Best Explanation in Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.140,RLHFPoison: Reward Poisoning Attack for Reinforcement Learning with Human Feedback in Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.141,Time is Encoded in the Weights of Finetuned Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.142,Long-Context Language Modeling with Parallel Context Encoding,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.143,SirLLM: Streaming Infinite Retentive LLM,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.144,IMO: Greedy Layer-Wise Sparse Representation Learning for Out-of-Distribution Text Classification with Pre-trained Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.145,Generative Pretrained Structured Transformers: Unsupervised Syntactic Language Models at Scale,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.146,MELA: Multilingual Evaluation of Linguistic Acceptability,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.147,CopyNE: Better Contextual ASR by Copying Named Entities,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.148,Is Table Retrieval a Solved Problem? Exploring Join-Aware Multi-Table Retrieval,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.149,Generalizing Conversational Dense Retrieval via LLM-Cognition Data Augmentation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.15,A Novel Cartography-Based Curriculum Learning Method Applied on RoNLI: The First Romanian Natural Language Inference Corpus,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.150,ItD: Large Language Models Can Teach Themselves Induction through Deduction,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.151,MathGenie: Generating Synthetic Data with Question Back-translation for Enhancing Mathematical Reasoning of LLMs,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.152,Rethinking Task-Oriented Dialogue Systems: From Complex Modularity to Zero-Shot Autonomous Agent,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.153,On Context Utilization in Summarization with Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.154,INTERS: Unlocking the Power of Large Language Models in Search with Instruction Tuning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.155,Enhancing In-Context Learning via Implicit Demonstration Augmentation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.156,PRoLoRA: Partial Rotation Empowers More Parameter-Efficient LoRA,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.157,Improving Event Definition Following For Zero-Shot Event Detection,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.158,Through the MUD: A Multi-Defendant Charge Prediction Benchmark with Linked Crime Elements,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.159,Interpreting Conversational Dense Retrieval by Rewriting-Enhanced Inversion of Session Embedding,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.16,MinPrompt: Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.160,Stumbling Blocks: Stress Testing the Robustness of Machine-Generated Text Detectors Under Attacks,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.161,Training Language Models to Generate Text with Citations via Fine-grained Rewards,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.162,Hypergraph based Understanding for Document Semantic Entity Recognition,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.163,GSM-Plus: A Comprehensive Benchmark for Evaluating the Robustness of LLMs as Mathematical Problem Solvers,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.164,Synergetic Event Understanding: A Collaborative Approach to Cross-Document Event Coreference Resolution with Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.165,AutoAct: Automatic Agent Learning from Scratch for QA via Self-Planning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.166,ChronosLex: Time-aware Incremental Training for Temporal Generalization of Legal Classification Tasks,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.167,Virtual Compiler Is All You Need For Assembly Code Search,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.168,MELoRA: Mini-Ensemble Low-Rank Adapters for Parameter-Efficient Fine-Tuning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.169,Can LLMs Learn from Previous Mistakes? Investigating LLMs’ Errors to Boost for Reasoning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.17,SportsMetrics: Blending Text and Numerical Data to Understand Information Fusion in LLMs,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.170,An Iterative Associative Memory Model for Empathetic Response Generation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.171,Detoxifying Large Language Models via Knowledge Editing,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.172,"LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding",ACL,2024,Main long,False,False,False,,1
+2024.acl-long.173,Dr.Academy: A Benchmark for Evaluating Questioning Capability in Education for Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.174,UniBridge: A Unified Approach to Cross-Lingual Transfer Learning for Low-Resource Languages,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.175,VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.176,Black-Box Prompt Optimization: Aligning Large Language Models without Model Training,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.177,Open Ko-LLM Leaderboard: Evaluating Large Language Models in Korean with Ko-H5 Benchmark,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.178,Unified Hallucination Detection for Multimodal Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.179,Empowering Character-level Text Infilling by Eliminating Sub-Tokens,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.18,SciMON: Scientific Inspiration Machines Optimized for Novelty,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.180,Landmark Embedding: A Chunking-Free Embedding Method For Retrieval Augmented Long-Context Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.181,GrowOVER: How Can LLMs Adapt to Growing Real-World Knowledge?,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.182,"Attribute First, then Generate: Locally-attributable Grounded Text Generation",ACL,2024,Main long,False,False,False,,1
+2024.acl-long.183,T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.184,OceanGPT: A Large Language Model for Ocean Science Tasks,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.185,Beyond Memorization: The Challenge of Random Memory Access in Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.186,BIPED: Pedagogically Informed Tutoring System for ESL Education,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.187,Timeline-based Sentence Decomposition with In Context Learning for Temporal Fact Extraction,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.188,Collaboration or Corporate Capture? Quantifying NLP’s Reliance on Industry Artifacts and Contributions,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.189,Prompt Expansion for Adaptive Text-to-Image Generation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.19,Expedited Training of Visual Conditioned Language Generation via Redundancy Reduction,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.190,Progressively Modality Freezing for Multi-Modal Entity Alignment,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.191,Llama2Vec: Unsupervised Adaptation of Large Language Models for Dense Retrieval,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.192,Democratizing LLMs for Low-Resource Languages by Leveraging their English Dominant Abilities with Linguistically-Diverse Prompts,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.193,Metaphor Understanding Challenge Dataset for LLMs,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.194,A Multi-Task Embedder For Retrieval Augmented LLMs,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.195,Language Models Don’t Learn the Physical Manifestation of Language,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.196,What Does the Bot Say? Opportunities and Risks of Large Language Models in Social Media Bot Detection,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.197,Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.198,Relying on the Unreliable: The Impact of Language Models’ Reluctance to Express Uncertainty,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.199,Unity in Diversity: Collaborative Pre-training Across Multimodal Medical Sources,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.2,Unsupervised Multimodal Clustering for Semantics Discovery in Multimodal Utterances,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.20,Confidence Under the Hood: An Investigation into the Confidence-Probability Alignment in Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.200,When Good and Reproducible Results are a Giant with Feet of Clay: The Importance of Software Quality in NLP,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.201,SBAAM! Eliminating Transcript Dependency in Automatic Subtitling,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.202,StreamAtt: Direct Streaming Speech-to-Text Translation with Attention-based Audio History Selection,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.203,ARL2: Aligning Retrievers with Black-box Large Language Models via Self-guided Adaptive Relevance Labeling,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.204,Crayon: Customized On-Device LLM via Instant Adapter Blending and Edge-Server Hybrid Inference,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.205,FLEUR: An Explainable Reference-Free Evaluation Metric for Image Captioning Using a Large Multimodal Model,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.206,MentalManip: A Dataset For Fine-grained Analysis of Mental Manipulation in Conversations,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.207,MPCoder: Multi-user Personalized Code Generator with Explicit and Implicit Style Representation Learning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.208,DataDreamer: A Tool for Synthetic Data Generation and Reproducible LLM Workflows,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.209,Understanding and Addressing the Under-Translation Problem from the Perspective of Decoding Objective,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.21,Retrieval-Augmented Multilingual Knowledge Editing,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.210,Identifying while Learning for Document Event Causality Identification,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.211,OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.212,Insert or Attach: Taxonomy Completion via Box Embedding,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.213,Semiparametric Token-Sequence Co-Supervision,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.214,Instruction Fusion: Advancing Prompt Evolution through Hybridization,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.215,TimeArena: Shaping Efficient Multitasking Language Agents in a Time-Aware Simulation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.216,Exploring Memorization in Fine-tuned Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.217,Towards Real-world Scenario: Imbalanced New Intent Discovery,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.218,M4GT-Bench: Evaluation Benchmark for Black-Box Machine-Generated Text Detection,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.219,"Instruct Once, Chat Consistently in Multiple Rounds: An Efficient Tuning Framework for Dialogue",ACL,2024,Main long,False,False,False,,1
+2024.acl-long.22,Picturing Ambiguity: A Visual Twist on the Winograd Schema Challenge,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.220,SoftDedup: an Efficient Data Reweighting Method for Speeding Up Language Model Pre-training,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.221,"Rule or Story, Which is a Better Commonsense Expression for Talking with Large Language Models?",ACL,2024,Main long,False,False,False,,1
+2024.acl-long.222,Learning Global Controller in Latent Space for Parameter-Efficient Fine-Tuning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.223,CaMML: Context-Aware Multimodal Learner for Large Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.224,MAVEN-ARG: Completing the Puzzle of All-in-One Event Understanding Dataset with Event Argument Annotation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.225,NPHardEval: Dynamic Benchmark on Reasoning Ability of Large Language Models via Complexity Classes,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.226,Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.227,Multi-Level Feedback Generation with Large Language Models for Empowering Novice Peer Counselors,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.228,In-context Mixing (ICM): Code-mixed Prompts for Multilingual LLMs,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.229,Respond in my Language: Mitigating Language Inconsistency in Response Generation based on Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.23,Subtle Biases Need Subtler Measures: Dual Metrics for Evaluating Representative and Affinity Bias in Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.230,Transferable Embedding Inversion Attack: Uncovering Privacy Risks in Text Embeddings without Model Queries,ACL,2024,Main long,False,False,False,,14
+2024.acl-long.231,Enhancing Reinforcement Learning with Label-Sensitive Reward for Natural Language Understanding,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.232,Intuitive or Dependent? Investigating LLMs’ Behavior Style to Conflicting Prompts,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.233,CoCA: Fusing Position Embedding with Collinear Constrained Attention in Transformers for Long Context Window Extending,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.234,InfoLossQA: Characterizing and Recovering Information Loss in Text Simplification,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.235,CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.236,DAPR: A Benchmark on Document-Aware Passage Retrieval,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.237,Strengthened Symbol Binding Makes Large Language Models Reliable Multiple-Choice Selectors,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.238,SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graph,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.239,Uncertainty-Guided Modal Rebalance for Hateful Memes Detection,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.24,Framing in the Presence of Supporting Data: A Case Study in U.S. Economic News,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.240,Missci: Reconstructing Fallacies in Misrepresented Science,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.241,Uncovering the Full Potential of Visual Grounding Methods in VQA,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.242,"Small Models, Big Insights: Leveraging Slim Proxy Models To Decide When and What to Retrieve for LLMs",ACL,2024,Main long,False,False,False,,1
+2024.acl-long.243,Favi-Score: A Measure for Favoritism in Automated Preference Ratings for Generative AI Evaluation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.244,LLM-based Rewriting of Inappropriate Argumentation using Reinforcement Learning from Machine Feedback,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.245,Graph Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.246,Analyzing Semantic Change through Lexical Replacements,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.247,Exploiting Intrinsic Multilateral Logical Rules for Weakly Supervised Natural Language Video Localization,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.248,Interpretability of Language Models via Task Spaces,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.249,Using Synchronic Definitions and Semantic Relations to Classify Semantic Change Types,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.25,Mementos: A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.250,Factual Confidence of LLMs: on Reliability and Robustness of Current Estimators,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.251,StepCoder: Improving Code Generation with Reinforcement Learning from Compiler Feedback,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.252,One-Shot Learning as Instruction Data Prospector for Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.253,Navigating the OverKill in Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.254,A Chain-of-Thought Is as Strong as Its Weakest Link: A Benchmark for Verifiers of Reasoning Chains,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.255,Re3: A Holistic Framework and Dataset for Modeling Collaborative Document Revision,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.256,NextLevelBERT: Masked Language Modeling with Higher-Level Representations for Long Documents,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.257,FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.258,Learning to Edit: Aligning LLMs with Knowledge Editing,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.259,DolphCoder: Echo-Locating Code Large Language Models with Diverse and Multi-Objective Instruction Tuning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.26,TTM-RE: Memory-Augmented Document-Level Relation Extraction,ACL,2024,Main long,False,False,False,,14
+2024.acl-long.260,When Only Time Will Tell: Interpreting How Transformers Process Local Ambiguities Through the Lens of Restart-Incrementality,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.261,SpaRC and SpaRP: Spatial Reasoning Characterization and Path Generation for Understanding Spatial Reasoning Capability of Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.262,Planning Like Human: A Dual-process Framework for Dialogue Planning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.263,"Spectral Filters, Dark Signals, and Attention Sinks",ACL,2024,Main long,False,False,False,,1
+2024.acl-long.264,DiffuCOMET: Contextual Commonsense Knowledge Diffusion,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.265,Systematic Task Exploration with LLMs: A Study in Citation Text Generation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.266,Limits of Theory of Mind Modelling in Dialogue-Based Collaborative Plan Acquisition,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.267,Temporal Knowledge Question Answering via Abstract Reasoning Induction,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.268,Who Wrote this Code? Watermarking for Code Generation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.269,MapCoder: Multi-Agent Code Generation for Competitive Problem Solving,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.27,Answer is All You Need: Instruction-following Text Embedding via Answering the Question,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.270,RelayAttention for Efficient Large Language Model Serving with Long System Prompts,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.271,Boosting Language Models Reasoning with Chain-of-Knowledge Prompting,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.272,Open Grounded Planning: Challenges and Benchmark Construction,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.273,"LLM Knows Body Language, Too: Translating Speech Voices into Human Gestures",ACL,2024,Main long,False,False,False,,1
+2024.acl-long.274,QueryAgent: A Reliable and Efficient Reasoning Framework with Environmental Feedback based Self-Correction,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.275,PITA: Prompting Task Interaction for Argumentation Mining,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.276,Shifting Attention to Relevance: Towards the Predictive Uncertainty Quantification of Free-Form Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.277,Babel-ImageNet: Massively Multilingual Evaluation of Vision-and-Language Representations,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.278,Estimating Agreement by Chance for Sequence Annotation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.279,Are Emergent Abilities in Large Language Models just In-Context Learning?,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.28,Explore Spurious Correlations at the Concept Level in Language Models for Text Classification,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.280,WaveCoder: Widespread And Versatile Enhancement For Code Large Language Models By Instruction Tuning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.281,Eliciting Better Multilingual Structured Reasoning from LLMs through Code,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.282,OLIVE: Object Level In-Context Visual Embeddings,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.283,Quantifying Uncertainty in Answers from any Language Model and Enhancing their Trustworthiness,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.284,Marathon: A Race Through the Realm of Long Context with Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.285,Beyond Scaling: Predicting Patent Approval with Domain-specific Fine-grained Claim Dependency Graph,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.286,PCAD: Towards ASR-Robust Spoken Language Understanding via Prototype Calibration and Asymmetric Decoupling,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.287,Rethinking the Multimodal Correlation of Multimodal Sequential Learning via Generalizable Attentional Results Alignment,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.288,UHGEval: Benchmarking the Hallucination of Chinese Large Language Models via Unconstrained Generation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.289,PreFLMR: Scaling Up Fine-Grained Late-Interaction Multi-modal Retrievers,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.29,Every Answer Matters: Evaluating Commonsense with Probabilistic Measures,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.290,"Triple-Encoders: Representations That Fire Together, Wire Together",ACL,2024,Main long,False,False,False,,1
+2024.acl-long.291,Improving Hateful Meme Detection through Retrieval-Guided Contrastive Learning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.292,Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.293,Your Transformer is Secretly Linear,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.294,Noise Correction on Subjective Datasets,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.295,Generative Explore-Exploit: Training-free Optimization of Generative Recommender Systems using LLM Optimizers,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.296,Instruction-tuned Language Models are Better Knowledge Learners,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.297,What Do Language Models Hear? Probing for Auditory Representations in Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.298,Threads of Subtlety: Detecting Machine-Generated Texts Through Discourse Motifs,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.299,Jailbreak Open-Sourced Large Language Models via Enforced Decoding,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.3,MAGE: Machine-generated Text Detection in the Wild,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.30,GradSafe: Detecting Jailbreak Prompts for LLMs via Safety-Critical Gradient Analysis,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.300,NICE: To Optimize In-Context Examples or Not?,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.301,CodeScope: An Execution-based Multilingual Multitask Multidimensional Benchmark for Evaluating LLMs on Code Understanding and Generation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.302,Digital Socrates: Evaluating LLMs through Explanation Critiques,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.303,SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware Decoding,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.304,Multi-Task Inference: Can Large Language Models Follow Multiple Instructions at Once?,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.305,Experiential Co-Learning of Software-Developing Agents,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.306,Learning Geometry-Aware Representations for New Intent Discovery,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.307,Speaker Verification in Agent-generated Conversations,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.308,Benchmarking Data Science Agents,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.309,Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.31,Pouring Your Heart Out: Investigating the Role of Figurative Language in Online Expressions of Empathy,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.310,Forgetting before Learning: Utilizing Parametric Arithmetic for Knowledge Updating in Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.311,A Deep Dive into the Trade-Offs of Parameter-Efficient Preference Alignment Techniques,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.312,Zero-Shot Cross-Domain Dialogue State Tracking via Dual Low-Rank Adaptation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.313,PRP-Graph: Pairwise Ranking Prompting to LLMs with Graph Aggregation for Effective Text Re-ranking,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.314,RepCodec: A Speech Representation Codec for Speech Tokenization,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.315,GumbelSoft: Diversified Language Model Watermarking via the GumbelMax-trick,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.316,Event-Radar: Event-driven Multi-View Learning for Multimodal Fake News Detection,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.317,Fine-Grained Modeling of Narrative Context: A Coherence Perspective via Retrospective Questions,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.318,Stealthy Attack on Large Language Model based Recommendation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.319,Multi-Dimensional Optimization for Text Summarization via Reinforcement Learning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.32,An Information-Theoretic Approach to Analyze NLP Classification Tasks,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.320,Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.321,SEER: Facilitating Structured Reasoning and Explanation via Reinforcement Learning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.322,Towards Robust and Generalized Parameter-Efficient Fine-Tuning for Noisy Label Learning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.323,SparseFlow: Accelerating Transformers by Sparsifying Information Flows,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.324,ProtT3: Protein-to-Text Generation for Text-based Protein Understanding,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.325,KIEval: A Knowledge-grounded Interactive Evaluation Framework for Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.326,EmoBench: Evaluating the Emotional Intelligence of Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.327,Are AI-Generated Text Detectors Robust to Adversarial Perturbations?,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.328,FinTextQA: A Dataset for Long-form Financial Question Answering,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.329,On Measuring Faithfulness or Self-consistency of Natural Language Explanations,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.33,Can Your Model Tell a Negation from an Implicature? Unravelling Challenges With Intent Encoders,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.330,Learning or Self-aligning? Rethinking Instruction Fine-tuning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.331,Rethinking the Bounds of LLM Reasoning: Are Multi-Agent Discussions the Key?,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.332,Soft Knowledge Prompt: Help External Knowledge Become a Better Teacher to Instruct LLM in Knowledge-based VQA,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.333,TasTe: Teaching Large Language Models to Translate through Self-Reflection,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.334,Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.335,UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.336,The Fine-Tuning Paradox: Boosting Translation Quality Without Sacrificing LLM Abilities,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.337,Blinded by Generated Contexts: How Language Models Merge Generated and Retrieved Contexts When Knowledge Conflicts?,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.338,Unveiling Linguistic Regions in Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.339,Text-to-Song: Towards Controllable Music Generation Incorporating Vocal and Accompaniment,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.34,Wav2Gloss: Generating Interlinear Glossed Text from Speech,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.340,FastFiD: Improve Inference Efficiency of Open Domain Question Answering via Sentence Selection,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.341,Discursive Socratic Questioning: Evaluating the Faithfulness of Language Models’ Understanding of Discourse Relations,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.342,An Open Multilingual System for Scoring Readability of Wikipedia,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.343,Unlearning Traces the Influential Training Data of Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.344,Exploring Alignment in Shared Cross-lingual Spaces,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.345,Not All Countries Celebrate Thanksgiving: On the Cultural Dominance in Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.346,Self-Evolving GPT: A Lifelong Autonomous Experiential Learner,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.347,WRP: Weight Recover Prune for Structured Sparsity,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.348,Error-preserving Automatic Speech Recognition of Young English Learners’ Language,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.349,DiFiNet: Boundary-Aware Semantic Differentiation and Filtration Network for Nested Named Entity Recognition,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.35,Leveraging Codebook Knowledge with NLI and ChatGPT for Zero-Shot Political Relation Classification,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.350,Legal Case Retrieval: A Survey of the State of the Art,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.351,Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.352,LLaMA Pro: Progressive LLaMA with Block Expansion,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.353,Generating Contrastive Narratives Using the Brownian Bridge Process for Narrative Coherence Learning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.354,A Causal Approach for Counterfactual Reasoning in Narratives,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.355,SIP: Injecting a Structural Inductive Bias into a Seq2Seq Model by Simulation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.356,The Hidden Space of Transformer Language Adapters,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.357,A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.358,Advancing Large Language Models to Capture Varied Speaking Styles and Respond Properly in Spoken Conversations,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.359,RetinaQA: A Robust Knowledge Base Question Answering Model for both Answerable and Unanswerable Questions,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.36,SPOR: A Comprehensive and Practical Evaluation Method for Compositional Generalization in Data-to-Text Generation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.360,GroundingGPT: Language Enhanced Multi-modal Grounding Model,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.361,Automated Justification Production for Claim Veracity in Fact Checking: A Survey on Architectures and Approaches,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.362,Decoupled Vocabulary Learning Enables Zero-Shot Translation from Unseen Languages,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.363,SwapMoE: Serving Off-the-shelf MoE-based Large Language Models with Tunable Memory Budget,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.364,PixT3: Pixel-based Table-To-Text Generation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.365,Narrowing the Knowledge Evaluation Gap: Open-Domain Question Answering with Multi-Granularity Answers,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.366,TAMS: Translation-Assisted Morphological Segmentation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.367,"XCodeEval: An Execution-based Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval",ACL,2024,Main long,False,False,False,,1
+2024.acl-long.368,ProxyQA: An Alternative Framework for Evaluating Long-Form Text Generation with Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.369,A Glitch in the Matrix? Locating and Detecting Language Model Grounding with Fakepedia,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.37,OPEx: A Component-Wise Analysis of LLM-Centric Agents in Embodied Instruction Following,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.370,Muffin or Chihuahua? Challenging Multimodal Large Language Models with Multipanel VQA,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.371,WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.372,Translation-based Lexicalization Generation and Lexical Gap Detection: Application to Kinship Terms,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.373,Leveraging Machine-Generated Rationales to Facilitate Social Meaning Detection in Conversations,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.374,Robust Frame-Semantic Models with Lexical Unit Trees and Negative Samples,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.375,Harnessing the Power of Large Language Models for Natural Language to First-Order Logic Translation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.376,Lightweight reranking for language model generations,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.377,ARIES: A Corpus of Scientific Paper Edits Made in Response to Peer Reviews,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.378,The Unreasonable Effectiveness of Easy Training Data for Hard Tasks,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.379,PLUG: Leveraging Pivot Language in Cross-Lingual Instruction Tuning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.38,Multimodal Instruction Tuning with Conditional Mixture of LoRA,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.380,MIDGARD: Self-Consistency Using Minimum Description Length for Structured Commonsense Reasoning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.381,ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.382,Mirror: Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.383,Where Do People Tell Stories Online? Story Detection Across Online Communities,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.384,Large Language Models Are No Longer Shallow Parsers,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.385,Dialogue Summarization with Mixture of Experts based on Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.386,ChiMed-GPT: A Chinese Medical Large Language Model with Full Training Regime and Better Alignment to Human Preferences,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.387,An Investigation of Neuron Activation as a Unified Lens to Explain Chain-of-Thought Eliciting Arithmetic Reasoning of LLMs,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.388,Leveraging Large Language Models for Learning Complex Legal Concepts through Storytelling,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.389,Intrinsic Task-based Evaluation for Referring Expression Generation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.39,DocLens: Multi-aspect Fine-grained Evaluation for Medical Text Generation,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.390,From Moments to Milestones: Incremental Timeline Summarization Leveraging Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.391,End-to-end Learning of Logical Rules for Enhancing Document-level Relation Extraction,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.392,Can We Achieve High-quality Direct Speech-to-Speech Translation without Parallel Speech Data?,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.393,Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.394,CQIL: Inference Latency Optimization with Concurrent Computation of Quasi-Independent Layers,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.395,Prompt Optimization via Adversarial In-Context Learning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.396,StreamVoice: Streamable Context-Aware Language Modeling for Real-time Zero-Shot Voice Conversion,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.397,Generate-then-Ground in Retrieval-Augmented Generation for Multi-hop Question Answering,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.398,Multimodal Contextualized Semantic Parsing from Speech,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.399,LaMP: When Large Language Models Meet Personalization,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.4,PrivLM-Bench: A Multi-level Privacy Evaluation Benchmark for Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.40,FOFO: A Benchmark to Evaluate LLMs’ Format-Following Capability,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.400,AboutMe: Using Self-Descriptions in Webpages to Document the Effects of English Pretraining Data Filters,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.401,MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.402,EFSA: Towards Event-Level Financial Sentiment Analysis,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.403,What Evidence Do Language Models Find Convincing?,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.404,Advancement in Graph Understanding: A Multimodal Benchmark and Fine-Tuning of Vision-Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.405,LangBridge: Multilingual Reasoning Without Multilingual Supervision,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.406,Can LLMs Reason with Rules? Logic Scaffolding for Stress-Testing and Improving LLMs,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.407,SEGO: Sequential Subgoal Optimization for Mathematical Problem-Solving,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.408,Unlocking the Power of Large Language Models for Entity Alignment,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.409,Trial and Error: Exploration-Based Trajectory Optimization of LLM Agents,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.41,Hyper-CL: Conditioning Sentence Representations with Hypernetworks,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.410,ReFT: Reasoning with Reinforced Fine-Tuning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.411,Cognitive Visual-Language Mapper: Advancing Multimodal Comprehension with Enhanced Visual Knowledge Alignment,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.412,FreeCtrl: Constructing Control Centers with Feedforward Layers for Learning-Free Controllable Text Generation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.413,HD-Eval: Aligning Large Language Model Evaluators Through Hierarchical Criteria Decomposition,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.414,Conundrums in Cross-Prompt Automated Essay Scoring: Making Sense of the State of the Art,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.415,"Angry Men, Sad Women: Large Language Models Reflect Gendered Stereotypes in Emotion Attribution",ACL,2024,Main long,False,False,False,,1
+2024.acl-long.416,Label Augmentation for Zero-Shot Hierarchical Text Classification,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.417,STICKERCONV: Generating Multimodal Empathetic Responses from Scratch,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.418,EIT: Enhanced Interactive Transformer,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.419,MARS: Meaning-Aware Response Scoring for Uncertainty Estimation in Generative LLMs,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.42,Analysis of Multi-Source Language Training in Cross-Lingual Transfer,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.420,EXAMS-V: A Multi-Discipline Multilingual Multimodal Exam Benchmark for Evaluating Vision Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.421,Order-Agnostic Data Augmentation for Few-Shot Named Entity Recognition,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.422,Text Embedding Inversion Security for Multilingual Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.423,Large Language Models are Superpositions of All Characters: Attaining Arbitrary Role-play via Self-Alignment,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.424,PlatoLM: Teaching LLMs in Multi-Round Dialogue via a User Simulator,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.425,Synthesizing Text-to-SQL Data from Weak and Strong LLMs,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.426,STRUCTSUM Generation for Faster Text Comprehension,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.427,Analysing The Impact of Sequence Composition on Language Model Pre-Training,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.428,NACL: A General and Effective KV Cache Eviction Framework for LLM at Inference Time,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.429,SpikeVoice: High-Quality Text-to-Speech Via Efficient Spiking Neural Network,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.43,ABEX: Data Augmentation for Low-Resource NLU via Expanding Abstract Descriptions,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.430,Context-aware Difference Distilling for Multi-change Captioning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.431,Dataflow-Guided Retrieval Augmentation for Repository-Level Code Completion,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.432,Chain-of-Exemplar: Enhancing Distractor Generation for Multimodal Educational Question Generation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.433,LLMEmbed: Rethinking Lightweight LLM’s Genuine Function in Text Classification,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.434,LEMON: Reviving Stronger and Smaller LMs from Larger LMs with Linear Parameter Fusion,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.435,Speech Sense Disambiguation: Tackling Homophone Ambiguity in End-to-End Speech Translation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.436,"To be Continuous, or to be Discrete, Those are Bits of Questions",ACL,2024,Main long,False,False,False,,1
+2024.acl-long.437,Moûsai: Efficient Text-to-Music Diffusion Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.438,PokeMQA: Programmable knowledge editing for Multi-hop Question Answering,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.439,MemeGuard: An LLM and VLM-based Framework for Advancing Content Moderation via Meme Intervention,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.44,The Belebele Benchmark: a Parallel Reading Comprehension Dataset in 122 Language Variants,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.440,Efficient OCR for Building a Diverse Digital History,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.441,Acquiring Clean Language Models from Backdoor Poisoned Datasets by Downscaling Frequency Space,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.442,ANAH: Analytical Annotation of Hallucinations in Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.443,Aligning Large Language Models for Controllable Recommendations,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.444,Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.445,Full Parameter Fine-tuning for Large Language Models with Limited Resources,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.446,M3CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.447,Long Context is Not Long at All: A Prospector of Long-Dependency Data for Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.448,Label-Synchronous Neural Transducer for E2E Simultaneous Speech Translation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.449,Hard Prompts Made Interpretable: Sparse Entropy Regularization for Prompt Tuning with RL,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.45,Learn from Failure: Fine-tuning LLMs with Trial-and-Error Data for Intuitionistic Propositional Logic Proving,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.450,A Modular Approach for Multimodal Summarization of TV Shows,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.451,Think Twice: Perspective-Taking Improves Large Language Models’ Theory-of-Mind Capabilities,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.452,BizBench: A Quantitative Reasoning Benchmark for Business and Finance,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.453,Direct Metric Optimization for Image Captioning through Reward-Weighted Augmented Data Utilization,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.454,Deciphering Hate: Identifying Hateful Memes and Their Targets,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.455,Inducing Systematicity in Transformers by Attending to Structurally Quantized Embeddings,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.456,Label-Efficient Model Selection for Text Generation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.457,Machine Unlearning of Pre-trained Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.458,Competition of Mechanisms: Tracing How Language Models Handle Facts and Counterfactuals,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.459,FactPICO: Factuality Evaluation for Plain Language Summarization of Medical Evidence,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.46,Interactive Text-to-Image Retrieval with Large Language Models: A Plug-and-Play Approach,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.460,BvSP: Broad-view Soft Prompting for Few-Shot Aspect Sentiment Quad Prediction,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.461,Safety Alignment in NLP Tasks: Weakly Aligned Summarization as an In-Context Attack,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.462,Speech language models lack important brain-relevant semantics,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.463,DocLLM: A Layout-Aware Generative Language Model for Multimodal Document Understanding,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.464,Bypassing LLM Watermarks with Color-Aware Substitutions,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.465,Parallel Structures in Pre-training Data Yield In-Context Learning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.466,OpenToM: A Comprehensive Benchmark for Evaluating Theory-of-Mind Reasoning Capabilities of Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.467,Towards Privacy-Aware Sign Language Translation at Scale,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.468,Arithmetic Control of LLMs for Diverse User Preferences: Directional Preference Alignment with Multi-Objective Rewards,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.469,Towards Real-World Writing Assistance: A Chinese Character Checking Benchmark with Faked and Misspelled Characters,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.47,IMBUE: Improving Interpersonal Effectiveness through Simulation and Just-in-time Feedback with Human-Language Model Interaction,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.470,RAVEL: Evaluating Interpretability Methods on Disentangling Language Model Representations,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.471,Large Language Models as Zero-shot Dialogue State Tracker through Function Calling,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.472,Faithful Chart Summarization with ChaTS-Pi,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.473,Enhancing Dialogue State Tracking Models through LLM-backed User-Agents Simulation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.474,MetaSumPerceiver: Multimodal Multi-Document Evidence Summarization for Fact-Checking,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.475,KnowCoder: Coding Structured Knowledge into LLMs for Universal Information Extraction,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.476,ERA-CoT: Improving Chain-of-Thought through Entity Relationship Analysis,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.477,On the Multi-turn Instruction Following for Conversational Web Agents,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.478,Mobile-Bench: An Evaluation Benchmark for LLM-based Mobile Agents,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.479,MC2: Towards Transparent and Culturally-Aware NLP for Minority Languages in China,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.48,Token-wise Influential Training Data Retrieval for Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.480,Decoder-only Streaming Transformer for Simultaneous Translation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.481,Defending Large Language Models Against Jailbreaking Attacks Through Goal Prioritization,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.482,I am a Strange Dataset: Metalinguistic Tests for Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.483,TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.484,ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.485,StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.486,Investigating Multi-Hop Factual Shortcuts in Knowledge Editing of Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.487,Why Don’t Prompt-Based Fairness Metrics Correlate?,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.488,NaijaHate: Evaluating Hate Speech Detection on Nigerian Twitter Using Representative Data,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.489,"M3AV: A Multimodal, Multigenre, and Multipurpose Audio-Visual Academic Lecture Dataset",ACL,2024,Main long,False,False,False,,1
+2024.acl-long.49,Tree-of-Counterfactual Prompting for Zero-Shot Stance Detection,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.490,Mitigating Biases for Instruction-following Language Models via Bias Neurons Elimination,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.491,Domain Adaptation for Subjective Induction Questions Answering on Products by Adversarial Disentangled Learning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.492,Revisiting Demonstration Selection Strategies in In-Context Learning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.493,Multimodal Table Understanding,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.494,"Ex3: Automatic Novel Writing by Extracting, Excelsior and Expanding",ACL,2024,Main long,False,False,False,,1
+2024.acl-long.495,Few-shot Transfer Learning for Knowledge Base Question Answering: Fusing Supervised Models with In-Context Learning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.496,WatME: Towards Lossless Watermarking Through Lexical Redundancy,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.497,Text-like Encoding of Collaborative Information in Large Language Models for Recommendation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.498,MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal Large Language Models in Perception,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.499,Focus on Your Question! Interpreting and Mitigating Toxic CoT Problems in Commonsense Reasoning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.5,GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.50,VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.500,Multi-Aspect Controllable Text Generation with Disentangled Counterfactual Augmentation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.501,Reward-based Input Construction for Cross-document Relation Extraction,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.502,Hyperspherical Multi-Prototype with Optimal Transport for Event Argument Extraction,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.503,Understanding Retrieval Robustness for Retrieval-augmented Image Captioning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.504,Semi-Supervised Spoken Language Glossification,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.505,SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.506,InterrogateLLM: Zero-Resource Hallucination Detection in LLM-Generated Answers,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.507,F-Eval: Asssessing Fundamental Abilities with Refined Evaluation Methods,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.508,Comparing Inferential Strategies of Humans and Large Language Models in Deductive Reasoning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.509,Whose Preferences? Differences in Fairness Preferences and Their Impact on the Fairness of AI Utilizing Human Feedback,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.51,FineSurE: Fine-grained Summarization Evaluation using LLMs,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.510,Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.511,Large Language Models are not Fair Evaluators,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.512,Improving Large Language Models in Event Relation Logical Prediction,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.513,Synchronized Video Storytelling: Generating Video Narrations with Structured Storyline,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.514,Fine-Grained Image-Text Alignment in Medical Imaging Enables Explainable Cyclic Image-Report Generation,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.515,T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.516,Are LLM-based Evaluators Confusing NLG Quality Criteria?,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.517,Synergistic Interplay between Search and Large Language Models for Information Retrieval,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.518,Linear Transformers with Learnable Kernel Functions are Better In-Context Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.519,Temperature-scaling surprisal estimates improve fit to human reading times – but does it do so for the “right reasons”?,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.52,Tuning Large Multimodal Models for Videos using Reinforcement Learning from AI Feedback,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.520,Beyond Recognising Entailment: Formalising Natural Language Inference from an Argumentative Perspective,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.521,AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.522,CofiPara: A Coarse-to-fine Paradigm for Multimodal Sarcasm Target Identification with Large Multimodal Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.523,Direct Large Language Model Alignment Through Self-Rewarding Contrastive Prompt Distillation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.524,Diffusion Lens: Interpreting Text Encoders in Text-to-Image Pipelines,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.525,Parrot: Enhancing Multi-Turn Instruction Following for Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.526,Robust Singing Voice Transcription Serves Synthesis,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.527,VulLibGen: Generating Names of Vulnerability-Affected Packages via a Large Language Model,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.528,Self-Modifying State Modeling for Simultaneous Machine Translation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.529,MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.53,Prompt Refinement with Image Pivot for Text-to-Image Generation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.530,BadAgent: Inserting and Activating Backdoor Attacks in LLM Agents,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.531,DetermLR: Augmenting LLM-based Logical Reasoning from Indeterminacy to Determinacy,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.532,LePaRD: A Large-Scale Dataset of Judicial Citations to Precedent,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.533,To Generate or to Retrieve? On the Effectiveness of Artificial Contexts for Medical Open-Domain Question Answering,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.534,MERA: A Comprehensive LLM Evaluation in Russian,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.535,SC2: Towards Enhancing Content Preservation and Style Consistency in Long Text Style Transfer,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.536,Dodo: Dynamic Contextual Compression for Decoder-only LMs,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.537,POMP: Probability-driven Meta-graph Prompter for LLMs in Low-resource Unsupervised Neural Machine Translation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.538,NewsBench: A Systematic Evaluation Framework for Assessing Editorial Capabilities of Large Language Models in Chinese Journalism,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.539,MAPO: Advancing Multilingual Reasoning through Multilingual-Alignment-as-Preference Optimization,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.54,Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.540,Enhancing Noise Robustness of Retrieval-Augmented Language Models with Adaptive Adversarial Training,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.541,Predicting Text Preference Via Structured Comparative Reasoning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.542,CoELM: Construction-Enhanced Language Modeling,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.543,Uni-Dubbing: Zero-Shot Speech Synthesis from Visual Articulation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.544,On the Impact of Calibration Data in Post-training Quantization and Pruning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.545,SymKGQA: Few-Shot Knowledge Graph Question Answering via Symbolic Program Generation and Execution,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.546,Meta-Task Prompting Elicits Embeddings from Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.547,A Sentiment Consolidation Framework for Meta-Review Generation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.548,Revisiting Structured Sentiment Analysis as Latent Dependency Graph Parsing,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.549,"OWSM-CTC: An Open Encoder-Only Speech Foundation Model for Speech Recognition, Translation, and Language Identification",ACL,2024,Main long,False,False,False,,1
+2024.acl-long.55,AbsInstruct: Eliciting Abstraction Ability from LLMs through Explanation Tuning with Plausibility Estimation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.550,Do Large Language Models Latently Perform Multi-Hop Reasoning?,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.551,MuggleMath: Assessing the Impact of Query and Response Augmentation on Math Reasoning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.552,Harnessing Toulmin’s theory for zero-shot argument explication,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.553,BinaryAlign: Word Alignment as Binary Sequence Labeling,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.554,Quantifying the Persona Effect in LLM Simulations,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.555,Artifacts or Abduction: How Do LLMs Answer Multiple-Choice Questions Without the Question?,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.556,Retrieval Augmented Fact Verification by Synthesizing Contrastive Arguments,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.557,SyllabusQA: A Course Logistics Question Answering Dataset,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.558,MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.559,AGB-DE: A Corpus for the Automated Legal Assessment of Clauses in German Consumer Contracts,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.56,Reflect-RL: Two-Player Online RL Fine-Tuning for LMs,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.560,Examining the robustness of LLM evaluation to the distributional assumptions of benchmarks,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.561,Re-Tuning: Overcoming the Compositionality Limits of Large Language Models with Recursive Tuning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.562,Bridging the Preference Gap between Retrievers and LLMs,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.563,Large Language Models Can Learn Temporal Reasoning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.564,Learning Relational Decomposition of Queries for Question Answering from Tables,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.565,Characterizing Similarities and Divergences in Conversational Tones in Humans and LLMs by Sampling with People,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.566,Pareto Optimal Learning for Estimating Large Language Model Errors,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.567,Simul-LLM: A Framework for Exploring High-Quality Simultaneous Translation with Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.568,Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.569,Interactive-KBQA: Multi-Turn Interactions for Knowledge Base Question Answering with Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.57,Can ChatGPT’s Performance be Improved on Verb Metaphor Detection Tasks? Bootstrapping and Combining Tacit Knowledge,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.570,LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.571,HyperMoE: Towards Better Mixture of Experts via Transferring Among Experts,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.572,Aligning Large Language Models with Human Preferences through Representation Engineering,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.573,CODIS: Benchmarking Context-dependent Visual Comprehension for Multimodal Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.574,ARAIDA: Analogical Reasoning-Augmented Interactive Data Annotation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.575,PolCLIP: A Unified Image-Text Word Sense Disambiguation Model via Generating Multimodal Complementary Representations,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.576,Prompted Aspect Key Point Analysis for Quantitative Review Summarization,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.577,"Ask Again, Then Fail: Large Language Models’ Vacillations in Judgment",ACL,2024,Main long,False,False,False,,1
+2024.acl-long.578,CLAMBER: A Benchmark of Identifying and Clarifying Ambiguous Information Needs in Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.579,Multimodal Reasoning with Multimodal Knowledge Graph,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.58,Self-Distillation Bridges Distribution Gap in Language Model Fine-Tuning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.580,Confidence is not Timeless: Modeling Temporal Validity for Rule-based Temporal Knowledge Graph Forecasting,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.581,CARE: A Clue-guided Assistant for CSRs to Read User Manuals,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.582,Enhancing Numerical Reasoning with the Guidance of Reliable Reasoning Processes,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.583,PAGED: A Benchmark for Procedural Graphs Extraction from Documents,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.584,Navigating the Shadows: Unveiling Effective Disturbances for Modern AI Content Detectors,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.585,RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.586,The Dawn After the Dark: An Empirical Study on Factuality Hallucination in Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.587,Revisiting Knowledge Distillation for Autoregressive Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.588,Continual Learning with Semi-supervised Contrastive Distillation for Incremental Neural Machine Translation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.589,Make-A-Voice: Revisiting Voice Large Language Models as Scalable Multilingual and Multitask Learners,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.59,An Information Bottleneck Perspective for Effective Noise Filtering on Retrieval-Augmented Generation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.590,Chat Vector: A Simple Approach to Equip LLMs with Instruction Following and Model Alignment in New Languages,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.591,PRP: Propagating Universal Perturbations to Attack Large Language Model Guard-Rails,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.592,Hide and Seek in Noise Labels: Noise-Robust Collaborative Active Learning with LLMs-Powered Assistance,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.593,CLOMO: Counterfactual Logical Modification with Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.594,Exploring Hybrid Question Answering via Program-based Prompting,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.595,IndicGenBench: A Multilingual Benchmark to Evaluate Generation Capabilities of LLMs on Indic Languages,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.596,Simple but Effective Compound Geometric Operations for Temporal Knowledge Graph Completion,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.597,Uncertainty Aware Learning for Language Model Alignment,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.598,Interpretable User Satisfaction Estimation for Conversational Systems with Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.599,Fundamental Capabilities of Large Language Models and their Applications in Domain Scenarios: A Survey,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.6,Exploring Chain-of-Thought for Multi-modal Metaphor Detection,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.60,RORA: Robust Free-Text Rationale Evaluation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.600,Measuring Political Bias in Large Language Models: What Is Said and How It Is Said,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.601,Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.602,Layer-Condensed KV Cache for Efficient Inference of Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.603,Enhancing Multilingual Capabilities of Large Language Models through Self-Distillation from Resource-Rich Languages,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.604,Benchmarking Chinese Commonsense Reasoning of LLMs: From Chinese-Specifics to Reasoning-Memorization Correlations,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.605,Browse and Concentrate: Comprehending Multimodal Content via Prior-LLM Context Fusion,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.606,Model Composition for Multimodal Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.607,Draft & Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.608,Soul-Mix: Enhancing Multimodal Machine Translation with Manifold Mixup,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.609,Measuring Meaning Composition in the Human Brain with Composition Scores from Large Language Models,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.61,Tell Me More! Towards Implicit User Intention Understanding of Language Model Driven Agents,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.610,MIST: Mutual Information Maximization for Short Text Clustering,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.611,Self-chats from Large Language Models Make Small Emotional Support Chatbot Better,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.612,Improving Conversational Abilities of Quantized Large Language Models via Direct Preference Alignment,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.613,Complex Reasoning over Logical Queries on Commonsense Knowledge Graphs,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.614,An Expert is Worth One Token: Synergizing Multiple Expert LLMs as Generalist via Expert Token Routing,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.615,Learning to Plan and Generate Text with Citations,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.616,Exploring Precision and Recall to assess the quality and diversity of LLMs,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.617,Aligning Large Language Models by On-Policy Self-Judgment,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.618,IL-TUR: Benchmark for Indian Legal Text Understanding and Reasoning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.619,JumpCoder: Go Beyond Autoregressive Coder via Online Modification,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.62,InstructProtein: Aligning Human and Protein Language via Knowledge Instruction,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.620,Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.621,Language Models can Exploit Cross-Task In-context Learning for Data-Scarce Novel Tasks,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.622,Split and Rephrase with Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.623,ChunkAttention: Efficient Self-Attention with Prefix-Aware KV Cache and Two-Phase Partition,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.624,AlignBench: Benchmarking Chinese Alignment of Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.625,SAPT: A Shared Attention Framework for Parameter-Efficient Continual Learning of Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.626,DoRA: Enhancing Parameter-Efficient Fine-Tuning with Dynamic Rank Distribution,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.627,Cross-Lingual Knowledge Editing in Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.628,Argument Mining in Data Scarce Settings: Cross-lingual Transfer and Few-shot Techniques,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.629,Learning Task Decomposition to Assist Humans in Competitive Programming,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.63,ConSiDERS-The-Human Evaluation Framework: Rethinking Human Evaluation for Generative Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.630,An Entropy-based Text Watermarking Detection Method,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.631,Enhancing Explainable Rating Prediction through Annotated Macro Concepts,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.632,How to Engage your Readers? Generating Guiding Questions to Promote Active Reading,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.633,Less is More: Mitigating Multimodal Hallucination from an EOS Decision Perspective,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.634,Integrate the Essence and Eliminate the Dross: Fine-Grained Self-Consistency for Free-Form Language Generation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.635,More frequent verbs are associated with more diverse valency frames: Efficient principles at the lexicon-grammar interface,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.636,Quantifying Generalizations: Exploring the Divide Between Human and LLMs’ Sensitivity to Quantification,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.637,Can Large Language Models Interpret Noun-Noun Compounds? A Linguistically-Motivated Study on Lexicalized and Novel Compounds,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.638,CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.639,Generative Cross-Modal Retrieval: Memorizing Images in Multimodal Language Models for Retrieval and Beyond,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.64,Linguistically Conditioned Semantic Textual Similarity,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.640,Self-Training with Pseudo-Label Scorer for Aspect Sentiment Quad Prediction,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.641,Learning to Generate Answers with Citations via Factual Consistency Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.642,Improving Text Embeddings with Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.643,Self-Training with Direct Preference Optimization Improves Chain-of-Thought Reasoning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.644,UltraLink: An Open-Source Knowledge-Enhanced Multilingual Supervised Fine-tuning Dataset,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.645,Document-level Claim Extraction and Decontextualisation for Fact-Checking,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.646,PairCFR: Enhancing Model Training on Paired Counterfactually Augmented Data through Contrastive Learning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.647,LLMs Learn Task Heuristics from Demonstrations: A Heuristic-Driven Prompting Strategy for Document-Level Event Argument Extraction,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.648,Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.649,mCoT: Multilingual Instruction Tuning for Reasoning Consistency in Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.65,"Navigate through Enigmatic Labyrinth A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future",ACL,2024,Main long,False,False,False,,1
+2024.acl-long.650,GunStance: Stance Detection for Gun Control and Gun Regulation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.651,Beyond Traditional Benchmarks: Analyzing Behaviors of Open LLMs on Data-to-Text Generation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.652,Don’t Go To Extremes: Revealing the Excessive Sensitivity and Calibration Limitations of LLMs in Implicit Hate Speech Detection,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.653,"Don’t Rank, Combine! Combining Machine Translation Hypotheses Using Quality Estimation",ACL,2024,Main long,False,False,False,,1
+2024.acl-long.654,Generating and Evaluating Plausible Explanations for Knowledge Graph Completion,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.655,One Prompt To Rule Them All: LLMs for Opinion Summary Evaluation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.656,LANDeRMT: Dectecting and Routing Language-Aware Neurons for Selectively Finetuning LLMs to Machine Translation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.657,A Joint Coreference-Aware Approach to Document-Level Target Sentiment Analysis,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.658,VisDiaHalBench: A Visual Dialogue Benchmark For Diagnosing Hallucination in Large Vision-Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.659,AutoDSL: Automated domain-specific language design for structural representation of procedures with constraints,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.66,TimeBench: A Comprehensive Evaluation of Temporal Reasoning Abilities in Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.660,Multipath parsing in the brain,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.661,Search-Adaptor: Embedding Customization for Information Retrieval,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.662,Back to Basics: Revisiting REINFORCE-Style Optimization for Learning from Human Feedback in LLMs,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.663,VIEScore: Towards Explainable Metrics for Conditional Image Synthesis Evaluation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.664,Tree Transformer’s Disambiguation Ability of Prepositional Phrase Attachment and Garden Path Effects,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.665,Tree-of-Traversals: A Zero-Shot Reasoning Algorithm for Augmenting Black-box Language Models with Knowledge Graphs,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.666,Structured Tree Alignment for Evaluation of (Speech) Constituency Parsing,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.667,ViSAGe: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.668,Transferable and Efficient Non-Factual Content Detection via Probe Training with Offline Consistency Checking,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.669,What Do Language Models Learn in Context? The Structured Task Hypothesis.,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.67,BeamAggR: Beam Aggregation Reasoning over Multi-source Knowledge for Multi-hop Question Answering,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.670,Agent Lumos: Unified and Modular Training for Open-Source Language Agents,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.671,Investigating Cultural Alignment of Large Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.672,"More Victories, Less Cooperation: Assessing Cicero’s Diplomacy Play",ACL,2024,Main long,False,False,False,,1
+2024.acl-long.673,VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.674,RAID: A Shared Benchmark for Robust Evaluation of Machine-Generated Text Detectors,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.675,"Silent Signals, Loud Impact: LLMs for Word-Sense Disambiguation of Coded Dog Whistles",ACL,2024,Main long,False,False,False,,1
+2024.acl-long.676,On the Representational Capacity of Neural Language Models with Chain-of-Thought Reasoning,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.677,Analyzing LLM Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.678,LLM in a flash: Efficient Large Language Model Inference with Limited Memory,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.679,Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.68,ANALOGYKB: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.680,To Distill or Not to Distill? On the Robustness of Robust Knowledge Distillation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.681,LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.682,Classist Tools: Social Class Correlates with Performance in NLP,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.683,,ACL,2024,Main long,False,False,False,,3
+2024.acl-long.684,A Community-Centric Perspective for Characterizing and Detecting Anti-Asian Violence-Provoking Speech,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.685,Retaining Key Information under High Compression Ratios: Query-Guided Compressor for LLMs,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.686,COSMIC: Mutual Information for Task-Agnostic Summarization Evaluation,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.687,EUROPA: A Legal Multilingual Keyphrase Generation Dataset,ACL,2024,Main long,False,False,False,,1
+2024.acl-long.688,GLIMPSE: Pragmatically Informative Multi-Document Summarization for Scholarly Reviews,ACL,2024,Main long,False,False,False,,1
