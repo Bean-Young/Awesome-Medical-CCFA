@@ -1,0 +1,331 @@
+[
+  {
+    "id": "icml2021-meirom21a",
+    "expected_baseline_record_sha256": "97157acbafbff8859e0d887d8bfc244450fe51d138fb2ba7342c2a530779d9c9",
+    "before": {
+      "first_page": {
+        "status": "hold",
+        "reason": "missing_asset",
+        "asset_path": ""
+      },
+      "main_figure": {
+        "status": "hold",
+        "reason": "missing_asset",
+        "asset_path": ""
+      }
+    },
+    "after": {
+      "first_page": {
+        "status": "cleared",
+        "reason": "exact_asset_review",
+        "asset_path": "assets/pmlr-reviewed-20261023-2146/icml2021-meirom21a-firstpage.webp",
+        "asset_sha256": "e594a2cd6890ad9374d8312a1241ab65331272f4b765247c4eb66250b6d22bf8"
+      },
+      "main_figure": {
+        "status": "cleared",
+        "reason": "exact_asset_review",
+        "asset_path": "assets/pmlr-reviewed-20261023-2146/icml2021-meirom21a-mainfigure.webp",
+        "asset_sha256": "3ddd0a9bf0ce0b2d0f8abb1d15c0b541e437967de69bb691b57a3370574d6a65"
+      }
+    },
+    "core_before": false,
+    "core_after": true,
+    "abstract_original_body_unchanged_from_official_html": true,
+    "abstract_pdf_comparison": {
+      "same_after_typographic_normalization": true,
+      "normalization": "Unicode ligatures, whitespace and source-aligned line-wrap hyphens only.",
+      "pdf_bbox_points": [
+        74,
+        211,
+        273,
+        420
+      ],
+      "comparison_note": "The complete original publisher HTML abstract matches the printed PDF after Unicode ligature, whitespace and explicitly source-aligned line-wrap handling only. Wording, numbers, punctuation and meaningful hyphens agree; no lexical or mathematical difference was found."
+    },
+    "abstract_sha256": "b41954cd74168ff384e2c1d1cde67120429dd9a74577e86a7bfd9ae76d067903",
+    "visible_introduction_field": "summary",
+    "visible_introduction": "本文把有限检测资源下的疫情控制写成部分可观测动态图上的强化学习问题：局部传播 GNN 跟踪接触扩散，长程信息 GNN 更新远端感染信念，再按节点评分选择检测对象，以后续传播而非即时检出人数训练策略。疫情研究是本文的主要实证部分之一，另有非医学的影响力最大化测试。接触追踪实验只用 2020 年 4 月匿名汇总统计生成合成网络，并未使用真实接触图开展干预；其他大型网络也只承载模拟传播。优势主要出现在中等难度网络，过密网络和传播概率偏移会削弱效果。正文与补充材料对遏制阈值、初始感染比例及部分实验时长的表述并不完全一致，均在限制说明中保留。结果不能证明真实 COVID-19 检测、隔离政策的安全性或患者获益。",
+    "visible_abstract_notice_label": "Catalogue reuse notice",
+    "authors_preserved": false,
+    "merged_patch_sha256": "41d0ed9fd5604e54b22956326bb765e142f56e3aa7b28d7500fda5413dfb0262",
+    "actual_detail_renderer_validation": {
+      "id": "icml2021-meirom21a",
+      "actual_detail_function_executed": true,
+      "dom_dialog_opened": true,
+      "summary_rendered_exactly": true,
+      "complete_original_abstract_rendered_exactly": true,
+      "reuse_notice_rendered_separately": true,
+      "all_profile_caveats_rendered": true,
+      "source_bound_first_page_and_figure_paths_present": true,
+      "rendered_detail_sha256": "2e75825e445c4c696889e567cf614688fef62082a830a64ee980425ed87c48c7",
+      "test_scope": "Unmodified actual detail() and abstractFootnotes() functions executed with a minimal DOM harness; unrelated resource-link and media-credit helpers mocked. Media permissions validated separately by the unchanged production guard."
+    },
+    "app_js_sha256": "03d88239216891ec772362a2f17301d0e02f06311b4b853192834c953cc5f6a6"
+  },
+  {
+    "id": "icml2020-gottesman20a",
+    "expected_baseline_record_sha256": "3b5c495054952be0e64f1711af99c8403b0078a3af675afc8651e2f7d02ff48a",
+    "before": {
+      "first_page": {
+        "status": "hold",
+        "reason": "missing_asset",
+        "asset_path": ""
+      },
+      "main_figure": {
+        "status": "hold",
+        "reason": "missing_asset",
+        "asset_path": ""
+      }
+    },
+    "after": {
+      "first_page": {
+        "status": "cleared",
+        "reason": "exact_asset_review",
+        "asset_path": "assets/pmlr-reviewed-20261023-2146/icml2020-gottesman20a-firstpage.webp",
+        "asset_sha256": "d41a33f2b3de6d4d043d96afea987352db6da04af6a149755f4b30531c321353"
+      },
+      "main_figure": {
+        "status": "cleared",
+        "reason": "exact_asset_review",
+        "asset_path": "assets/pmlr-reviewed-20261023-2146/icml2020-gottesman20a-mainfigure.webp",
+        "asset_sha256": "dbaa474c6d18a5a8d4f85458cebc8ef5e08d996c4540f5b52f40359a48192cd3"
+      }
+    },
+    "core_before": false,
+    "core_after": true,
+    "abstract_original_body_unchanged_from_official_html": true,
+    "abstract_pdf_comparison": {
+      "same_after_typographic_normalization": true,
+      "same_after_documented_version_difference_handling": true,
+      "normalization": "For comparison only: Unicode NFKC/ligatures, whitespace and source-aligned line-wrap hyphens are normalized. Meaningful hyphens, wording, punctuation and all numbers are retained. Display preserves the complete official HTML abstract.",
+      "pdf_bboxes_in_reading_order_points": [
+        [
+          74,
+          222,
+          273,
+          509
+        ]
+      ],
+      "exact_version_difference": "The complete official HTML abstract and printed PDF abstract agree after Unicode ligature, source-aligned line-wrap hyphen and whitespace handling. Wording, punctuation, meaningful hyphens and numbers are preserved; no lexical substitution is made.",
+      "documented_html_emphasis_comparison_only_replacements": []
+    },
+    "abstract_sha256": "c36b949e5612f508fa3ecb282d4e75e9fdeb8648ce2ac8630de50cc3ae20eb1c",
+    "visible_introduction_field": "summary",
+    "visible_introduction": "离线策略评估给出一个数值，并不说明这个数值是否由少数异常记录支撑。本文把删除单个转移或轨迹后估计值的变化作为影响度，为核方法、线性最小二乘的拟合 Q 评估以及重要性采样推导精确计算，并用它筛出需要领域专家检查的片段。图 3 用癌症模拟区分可接受、缺乏覆盖、需要专家确认及异常转移等情况；真实应用则与重症医生共同审查 MIMIC-III 急性低血压数据。筛选后的 1,733 次 ICU 入院又下采样为训练和评估各 346 条轨迹，分别含 6,777 与 6,863 个转移，不能把转移数当作患者数。方法帮助发现测量异常和时间错位，但不证明治疗获益，也不能消除未测混杂或替代不确定性界。来源差异保留：图 5 左例标 28% 影响度，正文写 29%；作者 PDF 印为 Leo Anthony Celi，官网 HTML 为 Leo Celi。",
+    "visible_abstract_notice_label": "Catalogue reuse notice",
+    "authors_preserved": false,
+    "merged_patch_sha256": "41d0ed9fd5604e54b22956326bb765e142f56e3aa7b28d7500fda5413dfb0262",
+    "actual_detail_renderer_validation": {
+      "id": "icml2020-gottesman20a",
+      "actual_detail_function_executed": true,
+      "dom_dialog_opened": true,
+      "summary_rendered_exactly": true,
+      "complete_original_abstract_rendered_exactly": true,
+      "reuse_notice_rendered_separately": true,
+      "all_profile_caveats_rendered": true,
+      "source_bound_first_page_and_figure_paths_present": true,
+      "rendered_detail_sha256": "f3ac24e5f26bcfa854137da5b18441db0afa9e8bf07cf37f882a03655a6f68dd",
+      "test_scope": "Unmodified actual detail() and abstractFootnotes() functions executed with a minimal DOM harness; unrelated resource-link and media-credit helpers mocked. Media permissions validated separately by the unchanged production guard."
+    },
+    "app_js_sha256": "03d88239216891ec772362a2f17301d0e02f06311b4b853192834c953cc5f6a6"
+  },
+  {
+    "id": "icml2020-shi20c",
+    "expected_baseline_record_sha256": "c827819ff1148cd06ed31e8268ad196b08426ecdb8b94b61b23ff1b308d0bf42",
+    "before": {
+      "first_page": {
+        "status": "hold",
+        "reason": "missing_asset",
+        "asset_path": ""
+      },
+      "main_figure": {
+        "status": "hold",
+        "reason": "missing_asset",
+        "asset_path": ""
+      }
+    },
+    "after": {
+      "first_page": {
+        "status": "cleared",
+        "reason": "exact_asset_review",
+        "asset_path": "assets/pmlr-reviewed-20261023-2146/icml2020-shi20c-firstpage.webp",
+        "asset_sha256": "95c35b67f374d8e51e8def963c4d089913d266eb7ccc24ece76b78ddf70a7fe2"
+      },
+      "main_figure": {
+        "status": "cleared",
+        "reason": "exact_asset_review",
+        "asset_path": "assets/pmlr-reviewed-20261023-2146/icml2020-shi20c-mainfigure.webp",
+        "asset_sha256": "7e80d1867bcb1ba318dcf9ecf3b5263e89db8fbcab6000120561526280c511ba"
+      }
+    },
+    "core_before": false,
+    "core_after": true,
+    "abstract_original_body_unchanged_from_official_html": true,
+    "abstract_pdf_comparison": {
+      "same_after_typographic_normalization": true,
+      "same_after_documented_version_difference_handling": true,
+      "normalization": "For comparison only: Unicode NFKC/ligatures, whitespace and source-aligned line-wrap hyphens are normalized. Meaningful hyphens, wording, punctuation and all numbers are retained. Display preserves the complete official HTML abstract.",
+      "pdf_bboxes_in_reading_order_points": [
+        [
+          74,
+          231,
+          273,
+          399
+        ]
+      ],
+      "exact_version_difference": "The complete official HTML and printed PDF abstracts agree after Unicode ligature, source-aligned line-wrap hyphen and whitespace handling. Meaningful hyphens, wording, punctuation and numbers match; no lexical or numerical substitutions are used.",
+      "documented_html_emphasis_comparison_only_replacements": []
+    },
+    "abstract_sha256": "eef0a0742cd7865182e2887240522dbbc7bf2cc91f3a999ee816daf410afe057",
+    "visible_introduction_field": "summary",
+    "visible_introduction": "强化学习常把当前状态当作充分信息，但需要保留多少历史并不能只靠惯例决定。本文用前向与后向条件特征函数构造双重稳健检验，再逐步增加历史阶数，为马尔可夫状态表示提供数据驱动的诊断。图 2 在由糖尿病数据校准的四阶模拟中展示检验功效与第一类错误率；它汇总 500 次模拟，不是 500 名患者。唯一真实应用来自 OhioT1DM 的 6 名 1 型糖尿病患者、8 周监测，分析取每条轨迹 1,100 个小时决策点，第四阶首次未被拒绝。这个结果不证明真实系统一定是四阶马尔可夫过程。离线价值比较枚举 20 种三人训练／三人测试划分，且补充材料还用模拟初始轨迹平均拟合 Q 价值；它不是实际临床获益。原文称四阶优于多数阶数，但补充材料明确五阶与八阶差异不显著，其余比较使用单侧 0.1 显著性水平。",
+    "visible_abstract_notice_label": "Catalogue reuse notice",
+    "authors_preserved": true,
+    "merged_patch_sha256": "41d0ed9fd5604e54b22956326bb765e142f56e3aa7b28d7500fda5413dfb0262",
+    "actual_detail_renderer_validation": {
+      "id": "icml2020-shi20c",
+      "actual_detail_function_executed": true,
+      "dom_dialog_opened": true,
+      "summary_rendered_exactly": true,
+      "complete_original_abstract_rendered_exactly": true,
+      "reuse_notice_rendered_separately": true,
+      "all_profile_caveats_rendered": true,
+      "source_bound_first_page_and_figure_paths_present": true,
+      "rendered_detail_sha256": "eb6b9e62c97be037b55924415ad81e3e27de6baffb997e9daf3b815dd489e0de",
+      "test_scope": "Unmodified actual detail() and abstractFootnotes() functions executed with a minimal DOM harness; unrelated resource-link and media-credit helpers mocked. Media permissions validated separately by the unchanged production guard."
+    },
+    "app_js_sha256": "03d88239216891ec772362a2f17301d0e02f06311b4b853192834c953cc5f6a6"
+  },
+  {
+    "id": "icml2021-morrill21b",
+    "expected_baseline_record_sha256": "3c3fbe61c05141349f96612a0a83a820afa6bc155865f0dad787408c49402a4e",
+    "before": {
+      "first_page": {
+        "status": "hold",
+        "reason": "missing_asset",
+        "asset_path": ""
+      },
+      "main_figure": {
+        "status": "hold",
+        "reason": "missing_asset",
+        "asset_path": ""
+      }
+    },
+    "after": {
+      "first_page": {
+        "status": "cleared",
+        "reason": "exact_asset_review",
+        "asset_path": "assets/pmlr-reviewed-20261023-2146-timeseries/icml2021-morrill21b-firstpage.webp",
+        "asset_sha256": "3d8c1adb87ea9eccf3cb89506834f8f93474f7c083e24de0878c04515f33e966"
+      },
+      "main_figure": {
+        "status": "cleared",
+        "reason": "exact_asset_review",
+        "asset_path": "assets/pmlr-reviewed-20261023-2146-timeseries/icml2021-morrill21b-mainfigure.webp",
+        "asset_sha256": "d440d6cd012dca572d362f40f27c5bbb5dee33994db36085e3b80ee0c2879ba2"
+      }
+    },
+    "core_before": false,
+    "core_after": true,
+    "abstract_original_body_unchanged_from_official_html": true,
+    "abstract_pdf_comparison": {
+      "same_after_typographic_normalization": false,
+      "same_after_documented_version_difference_handling": true,
+      "normalization": "For comparison only: Unicode NFKC/ligatures, whitespace and source-aligned line-wrap hyphens are normalized. Meaningful hyphens, wording, punctuation and all numbers are retained. Display preserves the complete official HTML abstract.",
+      "pdf_bboxes_in_reading_order_points": [
+        [
+          74,
+          193,
+          273,
+          517
+        ]
+      ],
+      "exact_version_difference": "The full official HTML abstract includes literal \\textit{log-signature} and \\textit{rough differential equations}; the PDF prints those phrases in italics without the TeX wrapper. The HTML display preserves both literal wrappers. A strict comparison matches after only these two explicit formatting-version operations, Unicode ligature normalization, whitespace and source-aligned line-wrap handling; no lexical, numerical or punctuation difference was found."
+    },
+    "abstract_sha256": "b1fe25880761df8a2aa01e826a26559cf8770171aa9d0049b8d70ab6f172915d",
+    "visible_introduction_field": "summary",
+    "visible_introduction": "本文提出神经粗糙微分方程（Neural RDE），把长时间序列每个区间压缩为对数签名，用这些保留路径作用信息的统计量驱动隐状态，从而在不逐点积分的情况下延续 Neural CDE 的连续时间建模与伴随反向传播。实证研究全部使用生物或生理数据：EigenWorms 根据 17,984 点运动序列区分野生型与四类突变线虫；BIDMC 研究用 125 Hz、每段 4,000 点的 PPG/ECG 预测呼吸频率、心率及血氧饱和度。所选表 2 同时比较预测损失、训练时间、显存和三次重复的波动，显示合适的对数签名深度与区间步长能提高效率和预测表现，但不是步长越大越好，也不保证对所有基线都更省显存。补充材料仅说明 70%/15%/15% 数据集划分，未明确按患者隔离，不能据此认定跨患者泛化或排除同人信号跨集合。结果属于回顾性基准预测，不是临床误差校准、诊断准确性或患者获益证据。",
+    "visible_abstract_notice_label": "Catalogue reuse notice",
+    "authors_preserved": true,
+    "merged_patch_sha256": "41d0ed9fd5604e54b22956326bb765e142f56e3aa7b28d7500fda5413dfb0262",
+    "actual_detail_renderer_validation": {
+      "id": "icml2021-morrill21b",
+      "actual_detail_function_executed": true,
+      "dom_dialog_opened": true,
+      "summary_rendered_exactly": true,
+      "complete_original_abstract_rendered_exactly": true,
+      "reuse_notice_rendered_separately": true,
+      "all_profile_caveats_rendered": true,
+      "source_bound_first_page_and_figure_paths_present": true,
+      "rendered_detail_sha256": "9db89eef37a879171fb3b05cc5aa8d024567dcc1fd9f435436f317b44d12ad6d",
+      "test_scope": "Unmodified actual detail() and abstractFootnotes() functions executed with a minimal DOM harness; unrelated resource-link and media-credit helpers mocked. Media permissions validated separately by the unchanged production guard."
+    },
+    "app_js_sha256": "03d88239216891ec772362a2f17301d0e02f06311b4b853192834c953cc5f6a6"
+  },
+  {
+    "id": "icml2020-williamson20a",
+    "expected_baseline_record_sha256": "2b3feed982ca5b331e0e8b6e523f72c9f70ba3d1923dbd543477a866cd85246b",
+    "before": {
+      "first_page": {
+        "status": "hold",
+        "reason": "missing_asset",
+        "asset_path": ""
+      },
+      "main_figure": {
+        "status": "hold",
+        "reason": "missing_asset",
+        "asset_path": ""
+      }
+    },
+    "after": {
+      "first_page": {
+        "status": "cleared",
+        "reason": "exact_asset_review",
+        "asset_path": "assets/pmlr-reviewed-20261023-2146-timeseries/icml2020-williamson20a-firstpage.webp",
+        "asset_sha256": "d2c7f3f8298d0859b0f235812ae9e259f6cf45b728ec22e9b21a34065efce1ea"
+      },
+      "main_figure": {
+        "status": "cleared",
+        "reason": "exact_asset_review",
+        "asset_path": "assets/pmlr-reviewed-20261023-2146-timeseries/icml2020-williamson20a-mainfigure.webp",
+        "asset_sha256": "799c65e0c8e8ac8af28fbf01749f8a84d2f87d137e9250a275a2c56043dd22b6"
+      }
+    },
+    "core_before": false,
+    "core_after": true,
+    "abstract_original_body_unchanged_from_official_html": true,
+    "abstract_pdf_comparison": {
+      "same_after_typographic_normalization": false,
+      "same_after_documented_version_difference_handling": true,
+      "normalization": "For comparison only: Unicode NFKC/ligatures, whitespace and source-aligned line-wrap hyphens are normalized. Meaningful hyphens, wording, punctuation and all numbers are retained. Display preserves the complete official HTML abstract.",
+      "pdf_bboxes_in_reading_order_points": [
+        [
+          74,
+          214,
+          273,
+          502
+        ]
+      ],
+      "exact_version_difference": "The complete official HTML abstract retains literal \\textbf{S}, \\textbf{P}, \\textbf{V}, \\textbf{I} and \\textbf{M} wrappers in the spelled-out SPVIM name, and dollar-delimited $\\Theta(n)$ and $n$; the PDF renders bold initials and mathematical symbols instead. The HTML is displayed unchanged. Strict comparison matches only after these seven explicitly documented formatting-version operations, Unicode ligature normalization, whitespace and source-aligned line-wrap handling; no lexical, numerical or punctuation version difference was found."
+    },
+    "abstract_sha256": "d45242a5f67a657d1fc74c61a9bec34792239095cf412273b6627789ed8fe72e",
+    "visible_introduction_field": "summary",
+    "visible_introduction": "本文针对“某项临床测量对总体预测究竟有多重要”提出可计算的 Shapley 总体变量重要性（SPVIM）估计与统计推断，把对全部特征子集的枚举改为按权重抽样，并在正则条件下给出渐近分布、置信区间和检验。其 ICU 研究分析 MIMIC-II 的 4,000 条住院记录，将入院信息及前 48 小时的测量汇总为 37 个特征，以 AUC 衡量院内死亡预测。所选图 2 同时展示梯度提升树和神经网络下的 SPVIM、平均绝对 SHAP 与 LIME：SPVIM 的跨模型排序更一致，GCS 相关特征较突出，但置信区间较宽，不支持精确、稳定的临床优先级。这里的 4,000 是记录数，不是已核实的独立患者数；特征重要性刻画预测关联，不能解释为改变测量或治疗会降低死亡率。原文及补充材料对恰好 30% 缺失的排除边界表述不同，目录保留这一差异，而不替作者修正。",
+    "visible_abstract_notice_label": "Catalogue reuse notice",
+    "authors_preserved": false,
+    "merged_patch_sha256": "41d0ed9fd5604e54b22956326bb765e142f56e3aa7b28d7500fda5413dfb0262",
+    "actual_detail_renderer_validation": {
+      "id": "icml2020-williamson20a",
+      "actual_detail_function_executed": true,
+      "dom_dialog_opened": true,
+      "summary_rendered_exactly": true,
+      "complete_original_abstract_rendered_exactly": true,
+      "reuse_notice_rendered_separately": true,
+      "all_profile_caveats_rendered": true,
+      "source_bound_first_page_and_figure_paths_present": true,
+      "rendered_detail_sha256": "db29f00d230e811c2c656483d05eff27c8886fe4f8e7f501e85613d2cad84544",
+      "test_scope": "Unmodified actual detail() and abstractFootnotes() functions executed with a minimal DOM harness; unrelated resource-link and media-credit helpers mocked. Media permissions validated separately by the unchanged production guard."
+    },
+    "app_js_sha256": "03d88239216891ec772362a2f17301d0e02f06311b4b853192834c953cc5f6a6"
+  }
+]
