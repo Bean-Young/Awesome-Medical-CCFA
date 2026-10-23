@@ -1,0 +1,2502 @@
+[
+  {
+    "file": "20261021_ai4tech_review.json",
+    "sha256": "f1605a42fc1e958f1d41ee424409771780c5810b127cca5f4c9e4f3b59e499f1",
+    "bytes": 5070
+  },
+  {
+    "file": "20261021_social_profiles_b/profiles.json",
+    "sha256": "7918f21a749a9ebde33f6463028cb1e9264bd0f430db10159078fba9a3d01c1b",
+    "bytes": 41992
+  },
+  {
+    "file": "20261021_social_profiles_proposals/profiles.json",
+    "sha256": "7e338b26f74c9cb2ffd582308c45731b8e2664942aabb5cd313eb5dd46cbc1a9",
+    "bytes": 56215
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_02/decisions.json",
+    "sha256": "3106875effcfeedcf8ca80c669f1b90a61b986cfb0b78bfd117c6dc179dcd37c",
+    "bytes": 28191
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_02/records.json",
+    "sha256": "55829390af3f27910e4ddaa16b1615e35ab6a5cd14208cc0c41922492264c999",
+    "bytes": 3980
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_03/decisions.json",
+    "sha256": "3168ba5a31158cc497a1b06e845a6b3a4c742cbc35a6452241cfc6e6c4d693db",
+    "bytes": 25557
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_04/decisions.json",
+    "sha256": "5a443d28c847b213ecb75ee4c98bfc4c6425672a385378431dd33719b00aebda",
+    "bytes": 23410
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_04/records.json",
+    "sha256": "5bbd209afe479d80e35905cee65f08ce54716f84f8fed3306a4b21a1413f55cf",
+    "bytes": 3360
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_05/decisions.json",
+    "sha256": "b79f38fe4114e45e496c76bb22c0f44eb370b44632f9e665583c7174a9d83ac7",
+    "bytes": 23277
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_06/decisions.json",
+    "sha256": "af405899e2a6fd391a6772af65e5253e0be1c950f8a30610955a9c9621aaa602",
+    "bytes": 23394
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_07/decisions.json",
+    "sha256": "4a99aa24329e2f093e7b3d99fc855eeedf9ecde0221c514a93f0575e1a55b72d",
+    "bytes": 24028
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_07/records.json",
+    "sha256": "fdb0e7bcaaa515bd747a6b2f9ff78f7ea538a334e4e148c917f2b6283560e94c",
+    "bytes": 6864
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_08/decisions.json",
+    "sha256": "107703ca2c816e39256015a937542dcfe4be8acdc015dd86fa478109ce159b1b",
+    "bytes": 23508
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_08/records.json",
+    "sha256": "4df6ac0fa7438308d0234ba45c06f10d3ba66dcc8f1f127aef88a022c89dee87",
+    "bytes": 3428
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_09/decisions.json",
+    "sha256": "9c1d0aeabbf1034e88f127133c1fd8dac442d08849bda073737345a89a60df61",
+    "bytes": 23213
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_09/records.json",
+    "sha256": "c6c86c36d2a11eafcd23b4230ce5ad8140ebd79d412f4f6e296be6b69b3f3b08",
+    "bytes": 9505
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_10/decisions.json",
+    "sha256": "dbebf0c2116b75b361ca14fe2a174e11e84b9bf7e2c35c6b1bbfc535f29df420",
+    "bytes": 24282
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_10/records.json",
+    "sha256": "0f4b77555f1cb8a5e7f5d7a300306fa9b3f5d6bf39745c9b5ef14db5843e6e17",
+    "bytes": 19487
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_11/decisions.json",
+    "sha256": "262575a3b6b0f9d4515b8a14a156d546053a52e96685570167d3751b1f352af3",
+    "bytes": 22647
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_11/records.json",
+    "sha256": "18887372cfd09c74459084593a1e9a974148c26c50b041cc624ff48a66e8618d",
+    "bytes": 12416
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_12/decisions.json",
+    "sha256": "ba01f35e2ee4aa4c4518b8d168922deff80b4e9e02760737e76d45041b731f8d",
+    "bytes": 22704
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_12/records.json",
+    "sha256": "9f47b5d3e0a9492cf507d970caf161ecbb5bca43e2522787b9ca22f56afe4ea6",
+    "bytes": 3418
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_13/decisions.json",
+    "sha256": "cbc8d4e941054c2f9a4c990cd3abc99266b9d5421a8c39723400d1ad5be3989b",
+    "bytes": 24664
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_13/decisions_before_scope_correction.json",
+    "sha256": "acddfd1b75703f33b986cffdc32f86105209da970dcb8ff9b6cfc9c8aee938b8",
+    "bytes": 23307
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_13/records.json",
+    "sha256": "7bd8a9572f9b19f3413495b637766ea3ff6d8f2c9345bce3ebc6c80099132b10",
+    "bytes": 16044
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_14/decisions.json",
+    "sha256": "019dca9e5c01b0482caa3dc2d2b112c47b147bdddfe3d27b7172e18ce8cf208c",
+    "bytes": 23513
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_15/decisions.json",
+    "sha256": "70cecdf091ba0ffe5ce885c35fa30430f9108c2f5ac9872255797e6268f6e017",
+    "bytes": 25331
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_15/decisions_before_scope_correction.json",
+    "sha256": "be1f994b73d232286d673538c1d1c27c12ffd789bb6b3925821708c8a517970a",
+    "bytes": 24120
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_15/records.json",
+    "sha256": "54d897188d34813f6f6f76b3610d32696df3516f4b1214e5705fe55ccdffda7b",
+    "bytes": 10607
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_16/decisions.json",
+    "sha256": "7f65cd51bbd257d14e9c2e2fa5efce06670d3c00afbda5039c0c4050d6d4d950",
+    "bytes": 23540
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_16/records.json",
+    "sha256": "0acf29f22a42a20a6f82bceffa10fc46a43f82845ae802067f4c7db2911b875a",
+    "bytes": 3568
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_17/decisions.json",
+    "sha256": "b5544fdfae802a21a782e12a793359bad963363cda2dc1ab9e726b796bb6c314",
+    "bytes": 22947
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_17/records.json",
+    "sha256": "445cf4805a8b378659afc5ce4d5d363e0dddb1b146cf7e80709c85595bec2a40",
+    "bytes": 3218
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_18/decisions.json",
+    "sha256": "ad307fde1754226b69afc1c76f3312a7a65a4d60e18ca14e875accf649ff5ade",
+    "bytes": 23794
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_19/decisions.json",
+    "sha256": "a6307f2e08e1116b329c7a4f57b7a0c3af615af29061a44e88a54972edbde27a",
+    "bytes": 23592
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_19/records.json",
+    "sha256": "a34508044604298eb430637168f7db072e4eb8063b374ca2ad9205bc489dce61",
+    "bytes": 3084
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_20/decisions.json",
+    "sha256": "5c954e718bdb279b72a3942ff73b8807892f138bfdda01194ee0a7ec596255c0",
+    "bytes": 26454
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_20/records.json",
+    "sha256": "d67f48d9d5292ac83f7a3c09b098aa006c6d780c977bf07bd91829852232da4c",
+    "bytes": 3029
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_21/decisions.json",
+    "sha256": "070378ad9928b13e07b21b3e3376efbb625361086d6e8ec81805c957f3f60dc0",
+    "bytes": 23821
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_21/records.json",
+    "sha256": "2547dbaf0d3730f5e3e8743cc341c39727216dac7f3d4c3196dc0968f580cd2a",
+    "bytes": 3496
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_22/decisions.json",
+    "sha256": "8c628fcc932bae4913d0d0322bdea2d87e2f25975e983627346d73b358d889fe",
+    "bytes": 23175
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_22/records.json",
+    "sha256": "e1ed4ebf05454b64f357d7f81ad1d88ae7897934e9d981be45a45f6f9188e10e",
+    "bytes": 3706
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_23/decisions.json",
+    "sha256": "df0cbd04a6606f6f6c7423b82fb4240619e041f557a8ced36410551b9e0adfff",
+    "bytes": 23665
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_23/records.json",
+    "sha256": "0a973cb0bbea22993364dedfebf1c20a73f964acb4ae5cc6db695e4738637cfe",
+    "bytes": 3069
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_24/decisions.json",
+    "sha256": "4b3b55ccb37e47c79751996ef792c74d7cc2fe230dddef7f977a5d6ccd7d6725",
+    "bytes": 25365
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_24/records.json",
+    "sha256": "886a6819b1ef69cab46c2f945e84dc462046047902fbe6ae763b24366c202784",
+    "bytes": 6403
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_25/decisions.json",
+    "sha256": "290a92a730ea8ee68ce7e1d6d3c6dc9274f4e6fca13277440d4c0f7b130f9b1e",
+    "bytes": 23297
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_25/records.json",
+    "sha256": "cde6aea8abd072e62a0a15b536f666106aaa0724da6e5fe255c42f128fc2d085",
+    "bytes": 6127
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_26/decisions.json",
+    "sha256": "1b093d6e94acd5af2cd545020bdb3d16261ce2b06fffca54ca5e6ce63c979c6c",
+    "bytes": 23153
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_26/records.json",
+    "sha256": "9dea39e60e0620fb1001e4f373fea7632f2b0312f5d5d8c7817eba0df596baa5",
+    "bytes": 3596
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_27/decisions.json",
+    "sha256": "ae4ca4be821648d9f3bdf374a1787ec18449753dabb1bb2278e09598c0f4498f",
+    "bytes": 24120
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_27/records.json",
+    "sha256": "5b22e8132166442ed596d49926f1c86639883423cda218843a2a21a8874fe60f",
+    "bytes": 9280
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_28/decisions.json",
+    "sha256": "e82b6744bc67065d282dc985ad54fb16433b441889685ebef39ca212623d3bbc",
+    "bytes": 23137
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_28/records.json",
+    "sha256": "fcfec108c48f039c6b09dc5d2c9921224bf164c2463f7cf091fd00678be0a0b7",
+    "bytes": 6962
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_29/decisions.json",
+    "sha256": "36658ba9ef451375a1078fe29dc2ec30494597dd09c663ac220069443d115677",
+    "bytes": 25528
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_29/records.json",
+    "sha256": "9a137a16882c73150bf179571e183b2e8f2c46f417c8ed11d1702696408a399b",
+    "bytes": 3855
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_30/decisions.json",
+    "sha256": "7d113c5db068deb4804a780f481bc3817f344d796db7a4f825817cad216a3d06",
+    "bytes": 23490
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_30/records.json",
+    "sha256": "f6af07cfcb0052d4d16e07b1cd9d278c93a783f2184d4365430e19990f30eed9",
+    "bytes": 3307
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_31/decisions.json",
+    "sha256": "771b0bc1fa084785943c2a1085ef5c2a13f1c6409d0970acbeabed3238fdb226",
+    "bytes": 31486
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_31/records.json",
+    "sha256": "1579ad3e0c5feb58b45d963458c44f71f4d6fe8b71f6514510e62a9efc22826d",
+    "bytes": 3801
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_32/decisions.json",
+    "sha256": "ae607c7f34bbe7b7a32a2f50f25a7e4bb041f2d53bef2c43f5b8cbfbe1842629",
+    "bytes": 30894
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_32/records.json",
+    "sha256": "ac90e42ff2e16ce34c413af0756c077aa8f07094f067bc2ea3f52583b0743a01",
+    "bytes": 7468
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_33/decisions.json",
+    "sha256": "0d07aea76191313a81c41cee7fa4a2b2d8ac397793a7bf376459249dbf3b0b26",
+    "bytes": 30766
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_33/records.json",
+    "sha256": "dd9fae78e42dae776143e50f9853a44db2c6a461e31eeffaa2998d982e1b05ef",
+    "bytes": 3625
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_34/decisions.json",
+    "sha256": "01fa44753dae30f57b85066789d11b3b0422c64a9ade715ab05d5eb47e529a3c",
+    "bytes": 28609
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_34/records.json",
+    "sha256": "1d78e41fe97ebe7aa4d7f652448197898ace3c658a158340ebf65f81ad15573c",
+    "bytes": 4011
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_35/decisions.json",
+    "sha256": "42651a5f5db128f7165b1e30718b6dac7639571285957233729b8e8325d05a09",
+    "bytes": 29907
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_36/decisions.json",
+    "sha256": "cf12ebe3ebcac15f7055dbce94be846d4f6c8ad37c2eed87304aefe43aaa3cf2",
+    "bytes": 31680
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_36/records.json",
+    "sha256": "11b9774199a28ae9a6d91dfca84256737484fee2d048d2e2e7d4870f074ef71e",
+    "bytes": 7449
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_37/decisions.json",
+    "sha256": "6a95a8d63517d24b695647c1e09051c65b729dcc150df07a247874c81c100de6",
+    "bytes": 31340
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_37/records.json",
+    "sha256": "9f972c6ecdacfac2c5bf8271b0047f40066deb3c28cd93cda479e323ef00809a",
+    "bytes": 14449
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_38/decisions.json",
+    "sha256": "81e75e42ff275cd073d684d421ec58df0f3cf8abcda90fe1d82bfdfc590224e9",
+    "bytes": 29654
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_38/records.json",
+    "sha256": "2d75fb0196429a1a6139d591cde80867d3ee39c72ac3878440996ea0da3678f9",
+    "bytes": 3548
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_39/decisions.json",
+    "sha256": "8739c885ded8387dbee4c727ba5af49e9e454e063f0ef9a248adb3b7babe059c",
+    "bytes": 29692
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_40/decisions.json",
+    "sha256": "0440d4112c80c3918986752e7771b33af8db6f78d501a3cd02c26740ead35b15",
+    "bytes": 30021
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_41/decisions.json",
+    "sha256": "4c4eb64c2322a2d1c344659d7dc1730130cd269ddb6b56bb6f396167962e74c6",
+    "bytes": 30578
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_42/decisions.json",
+    "sha256": "d792b4ab0be49e7b8923daad270ccb467cf75b54a886bc10b57324d6316d1013",
+    "bytes": 32800
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_42/records.json",
+    "sha256": "d3870c428829f8beac753fcc5da9701ff5286fcd1468b19acd710dd29717f9c6",
+    "bytes": 3647
+  },
+  {
+    "file": "aaai2023_current_audit_20261016_43/decisions.json",
+    "sha256": "2ce96428c5bf581da8205c197c38265ebb202c693b50067e9df65bb5902361b0",
+    "bytes": 23830
+  },
+  {
+    "file": "aaai2023_early_current_audit_20261016_01/decisions.json",
+    "sha256": "77a5e15e94c6759c25f989dd57eca29cca0a03b8f098242bdb8ad0db5f42ac11",
+    "bytes": 30232
+  },
+  {
+    "file": "aaai2023_early_current_audit_20261016_02/decisions.json",
+    "sha256": "d4278fe2e3ac9c2a5387ffed0c758eeda3251ad1aa14e47edc67e6238fa9aa5c",
+    "bytes": 28429
+  },
+  {
+    "file": "aaai2023_early_current_audit_20261016_03/decisions.json",
+    "sha256": "95df3ac34ef9b6d54871798a7938cd6d1c3f923aa9d87ada5074559f03a1c370",
+    "bytes": 28666
+  },
+  {
+    "file": "aaai2023_early_current_audit_20261016_04/decisions.json",
+    "sha256": "b9b9fb70f7431068e5e686726db0b59bda51b89092707085527dd966058b5d3a",
+    "bytes": 31764
+  },
+  {
+    "file": "aaai2023_early_current_audit_20261016_05/decisions.json",
+    "sha256": "cca038c5cf2ef5dd3b317953701a08999c956fd9628cd90cbe3d0a9c4f19f8cc",
+    "bytes": 31625
+  },
+  {
+    "file": "aaai2023_early_current_audit_20261016_06/decisions.json",
+    "sha256": "61bfe03e2e066be72fddc6562e827d5aeb6035de15145330b86264ca215e3853",
+    "bytes": 31180
+  },
+  {
+    "file": "aaai2023_early_current_audit_20261016_07/decisions.json",
+    "sha256": "ba09ee8580a841ae7bcae1077072f196e18ea3ec424f8ba68c0b4e4b49d8bcb7",
+    "bytes": 30208
+  },
+  {
+    "file": "aaai2023_early_current_audit_20261016_08/decisions.json",
+    "sha256": "76c48da3ad182fe21bb218106b7ab7159944f6995d3e39289af77417488be8ba",
+    "bytes": 30173
+  },
+  {
+    "file": "aaai2023_early_current_audit_20261016_09/decisions.json",
+    "sha256": "a4b3eb8fb2136acf8e576fdfc4f07834f0858578baa462830d7bfdeaf3311cc6",
+    "bytes": 29680
+  },
+  {
+    "file": "aaai2023_early_current_audit_20261016_10/decisions.json",
+    "sha256": "5e73bd8ebe66ded1b3e9ed871cb09f1fed1bc0c0998ff9ffa5638a5dd1bb3dda",
+    "bytes": 29194
+  },
+  {
+    "file": "aaai2023_early_current_audit_20261016_11/decisions.json",
+    "sha256": "0a30326864694bf0938dd259326c4183945d59ebdb4035ebd22fca4b03fb1569",
+    "bytes": 7093
+  },
+  {
+    "file": "aaai2023_inventory_reconciliation_20261016/census.json",
+    "sha256": "d66efe740de314171f95aa996590c526b952054e0b998a8ce4781abbcca47fb0",
+    "bytes": 24507
+  },
+  {
+    "file": "aaai2023_inventory_reconciliation_20261016/missing_abstract_evidence_inventory.json",
+    "sha256": "681459b62b1db69d6c8d710371f1f375a18c7d151df2949c6b4f28ab8f8640a7",
+    "bytes": 87068
+  },
+  {
+    "file": "aaai2023_licensed_versions1/profile_updates.json",
+    "sha256": "9436c8d329dae424b47dba155175112201568d747140f3feb41d4441c33419b2",
+    "bytes": 48664
+  },
+  {
+    "file": "aaai2023_licensed_versions1_status_fix/profile_updates.json",
+    "sha256": "1bce4fdeec258821cc796382dad8574c60400ece7d9f6b70e2cdb45e219f5fa6",
+    "bytes": 48158
+  },
+  {
+    "file": "aaai2023_licensed_versions2/profile_updates.json",
+    "sha256": "23379104ba637244fe344ed90311be273c960c89df2bfdb53ae13769d806dd82",
+    "bytes": 11301
+  },
+  {
+    "file": "aaai2023_licensed_versions3/profile_updates.json",
+    "sha256": "9c5a3af56da1a66ae4a12edfb4cb43b48753051383020aa8b6e2a4ea4977c1cd",
+    "bytes": 24520
+  },
+  {
+    "file": "aaai2023_licensed_versions4/profile_updates.json",
+    "sha256": "5c5a10fa9a04c0a1716c3ef94b2efa51c389e5d93c81141f4981575a2ffded57",
+    "bytes": 12359
+  },
+  {
+    "file": "aaai2023_licensed_versions5/profile_updates.json",
+    "sha256": "69ffdf6645ccc137c9c97d0aa31773f528cb907136f87f772f15b05be280e035",
+    "bytes": 34996
+  },
+  {
+    "file": "aaai2023_profile_resume1/profile_updates.json",
+    "sha256": "0bc6ec6ff339f2d98fb39eaa98714629d4f224a8482190ffd36567e6e5b80e25",
+    "bytes": 33329
+  },
+  {
+    "file": "aaai2023_profile_resume10/profile_updates.json",
+    "sha256": "331ecfeefacbbf1ee4cf75a6ae9645364d4ec39e629e6bf8b661b60c621a95ad",
+    "bytes": 30805
+  },
+  {
+    "file": "aaai2023_profile_resume11/profile_updates.json",
+    "sha256": "3bee8c04d8ce9204ddfccd0c4c1f24ee4e163ef86bea48118377f5125245e62c",
+    "bytes": 27561
+  },
+  {
+    "file": "aaai2023_profile_resume12/profile_updates.json",
+    "sha256": "335fa5b52fa6aa684b8dd60e845c038c9477f6990937900811894c8b99528831",
+    "bytes": 26255
+  },
+  {
+    "file": "aaai2023_profile_resume13/profile_updates.json",
+    "sha256": "c97163d72a95a5c419f8b9f1993a0e59579e346d810b1bc38ebe3367e81fc644",
+    "bytes": 30918
+  },
+  {
+    "file": "aaai2023_profile_resume14/profile_updates.json",
+    "sha256": "ee715de3aebe4a2a7ce63cb4f1d4fac801af296f9e54ea151de7592cdf02f50e",
+    "bytes": 30160
+  },
+  {
+    "file": "aaai2023_profile_resume15/profile_updates.json",
+    "sha256": "854b063f1d07418a2e04afe90d7875212d5490d39aa895e2b06bdbc00915773b",
+    "bytes": 28643
+  },
+  {
+    "file": "aaai2023_profile_resume16/profile_updates.json",
+    "sha256": "7e553e03c0daa7999fd17768af5b7ab75b79d32833ce675cc61789acb19a019c",
+    "bytes": 27907
+  },
+  {
+    "file": "aaai2023_profile_resume17/profile_updates.json",
+    "sha256": "98dd78f07dde086c108c399736edd2dd76da16c86210cceded996b4312ed67e7",
+    "bytes": 30414
+  },
+  {
+    "file": "aaai2023_profile_resume2/profile_updates.json",
+    "sha256": "2a8d8975458b23021ae508b80f4006c4f81bec2222bbeac57aee8585476098b8",
+    "bytes": 32876
+  },
+  {
+    "file": "aaai2023_profile_resume3/profile_updates.json",
+    "sha256": "e217cf7328fab83ed5494c494218376043c623982e1d575a7ca89f4524bbb338",
+    "bytes": 33203
+  },
+  {
+    "file": "aaai2023_profile_resume4/profile_updates.json",
+    "sha256": "93baf9e035d88cdbfb8775fd899fa11fd0d4c94be1039c47a1518138d1ad2367",
+    "bytes": 29749
+  },
+  {
+    "file": "aaai2023_profile_resume5/profile_updates.json",
+    "sha256": "ced5f8d580f4456791dad373d8a460df894e9580c9a3e1557ce022d65753c78a",
+    "bytes": 29848
+  },
+  {
+    "file": "aaai2023_profile_resume6/profile_updates.json",
+    "sha256": "c20db0d769783398c3fac4af0fe6fd96f1e2b2da45276109c6ecb4bbee39b992",
+    "bytes": 26395
+  },
+  {
+    "file": "aaai2023_profile_resume7/profile_updates.json",
+    "sha256": "b8e110b59bf9f9c08e5aa086e7c99a29dd871bc651d8e378f346f39bc53ea5c9",
+    "bytes": 29502
+  },
+  {
+    "file": "aaai2023_profile_resume8/profile_updates.json",
+    "sha256": "8396473bcf30891b5aea178370b2378f63bb745c9e8fb7b2bca6ed105dfc633a",
+    "bytes": 26022
+  },
+  {
+    "file": "aaai2023_profile_resume9/profile_updates.json",
+    "sha256": "ff12a31ab9e930d70d093d310d9f21611a7927896b479bdd2297e720ad87cd68",
+    "bytes": 27487
+  },
+  {
+    "file": "aaai2023_safe_current_audit_20261016_01/decisions.json",
+    "sha256": "56cd2aac4eebd103c6ad97c4c415dbba14aec6ad5ce9095faee2ee3e167eb2fe",
+    "bytes": 33665
+  },
+  {
+    "file": "aaai2023_safe_current_audit_20261016_01/records.json",
+    "sha256": "f20f89d18e51ce47491b46972e4445ee1065e8a0a71bd9e025913851e84327d9",
+    "bytes": 7807
+  },
+  {
+    "file": "aaai2023_safe_current_audit_20261016_02/decisions.json",
+    "sha256": "4357f784ca9e6e9bc6e54351e62d578aa2e519325a3cbc89e36427ef8ab7790c",
+    "bytes": 35246
+  },
+  {
+    "file": "aaai2023_safe_current_audit_20261016_03/decisions.json",
+    "sha256": "540772cd3b6512c4a919de312ef5c5a123a31868d2ff667dbffcd321f6317617",
+    "bytes": 18965
+  },
+  {
+    "file": "aaai2023_safe_current_audit_20261016_03/records.json",
+    "sha256": "eed0893d5179c49b3a3d2291e434d8b9607b80455b222456debc4a312317a603",
+    "bytes": 3727
+  },
+  {
+    "file": "aaai2023_si_current_audit_20261016_01/decisions.json",
+    "sha256": "2c1ddefb6aaf90da2bcc74bd800050b209804c45e21ea7cceab7ce949e5c5504",
+    "bytes": 29300
+  },
+  {
+    "file": "aaai2023_si_current_audit_20261016_01/records.json",
+    "sha256": "6e45531cec470a7f2d4c0190ebad320a972f630c3b1b51752bcb0dc905ab8ce4",
+    "bytes": 29171
+  },
+  {
+    "file": "aaai2023_si_current_audit_20261016_02/decisions.json",
+    "sha256": "249e8bc73dc9844225e280c4691abe1aaa5fef65b0b7b8147d915880f5685b25",
+    "bytes": 28471
+  },
+  {
+    "file": "aaai2023_si_current_audit_20261016_02/records.json",
+    "sha256": "c60c002c748b819dcec9f166c7c4732b92fe169dda88d75167c16c577f7c2b91",
+    "bytes": 23024
+  },
+  {
+    "file": "aaai2023_si_current_audit_20261016_03/decisions.json",
+    "sha256": "b7512d7f7bce1143a07e4a447aba3b7070c1727fbabc74db0162c7b6339f5f17",
+    "bytes": 5670
+  },
+  {
+    "file": "aaai2023_si_current_audit_20261016_03/records.json",
+    "sha256": "5810e0323f6d7c6bab6d7338acd6fa81257e8c81d8ff19bb62f2d969fae2e32c",
+    "bytes": 3278
+  },
+  {
+    "file": "aaai2024_aisi_integrated_20261021/profiles.json",
+    "sha256": "24fa20ceddb6516d0b37937e0a4798c1fc4e1f24f9c91a25cc3acee0166c6467",
+    "bytes": 88541
+  },
+  {
+    "file": "aaai2024_aisi_integrated_20261021/review_ledger77.json",
+    "sha256": "531a6100fc45857e09e0f81c00d8458388626a2ba2c309692cd246296c1a0918",
+    "bytes": 392522
+  },
+  {
+    "file": "aaai2024_aisi_integrated_20261021/review_summary.json",
+    "sha256": "28f7b78f11650afc66949aaeadfcd29fc208af3a5af8f25b60a60d8a7442a97c",
+    "bytes": 5023
+  },
+  {
+    "file": "aaai2024_aisi_integrated_20261021/validation.json",
+    "sha256": "9886ad918c10aadd35955543666a76db356c937e653a01c92f5402fc3594b121",
+    "bytes": 5623
+  },
+  {
+    "file": "aaai2024_current_audit_20261016_021/decisions.json",
+    "sha256": "05c75b9eb1e2afd99e418f8188f1ec9fe2e6f943f915630512c18974275db397",
+    "bytes": 32276
+  },
+  {
+    "file": "aaai2024_current_audit_20261016_022/decisions.json",
+    "sha256": "f70fe2872e75322a9e82491d784182d70d19209334da75d926cc8f5ae8b5a265",
+    "bytes": 33122
+  },
+  {
+    "file": "aaai2024_current_audit_20261016_022/records.json",
+    "sha256": "11b5cb7c3d0b4abfdfc1451bb3060415ec4798c25bd330007b3a2918ecd30e38",
+    "bytes": 3467
+  },
+  {
+    "file": "aaai2024_current_audit_20261016_023/decisions.json",
+    "sha256": "1cd0d499d7525617f8cb40f99a62a77eda78459336c5d9d525a04d407bd06d75",
+    "bytes": 32204
+  },
+  {
+    "file": "aaai2024_current_audit_20261016_023/records.json",
+    "sha256": "4b105eccb64f0b536f9551eb9c7c16c0c2415f5f3b3ea41faff172e79f014c54",
+    "bytes": 3431
+  },
+  {
+    "file": "aaai2024_final_hold_resolution_20261021/abstract_patch.json",
+    "sha256": "7645726751888fd60258f67b78f5ef7f39722b1a002cd8421499264599127352",
+    "bytes": 6238
+  },
+  {
+    "file": "aaai2024_final_hold_resolution_20261021/adjudication.json",
+    "sha256": "69fbf81c6d178e063db8a307fed5b09285577ba297c3c4f56612d09458042290",
+    "bytes": 6358
+  },
+  {
+    "file": "aaai2024_hold_resolution_20261021/adjudication.json",
+    "sha256": "6e94f7eb08b8a19965deca10e66f381f0db0126e39d8d0a48d5fa2daea63dabd",
+    "bytes": 6284
+  },
+  {
+    "file": "aaai2024_inventory_20261016/inventory.json",
+    "sha256": "4a4f076459aab27e216d82b6197b83c436d1dbbdca23385cba1bfe2bc77c9588",
+    "bytes": 1010443
+  },
+  {
+    "file": "aaai2024_inventory_20261016/main_inventory.json",
+    "sha256": "e3b3aa979dc5e5e7f2dee8c5206b5dd869ed32c29614ab95ce8a8b49b8a3b125",
+    "bytes": 911621
+  },
+  {
+    "file": "aaai2024_inventory_20261016/safe_robust_inventory.json",
+    "sha256": "a7ef58a4d9b789e4dbfd3b76fe16ec0507b96b05b1c88b1875a82692e47b1833",
+    "bytes": 44371
+  },
+  {
+    "file": "aaai2024_inventory_20261016/social_impact_inventory.json",
+    "sha256": "84fd7fbc248b4e9113de77cb01587da84ea40e573eec483db597b8f9004c9ff6",
+    "bytes": 32813
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_01/decisions.json",
+    "sha256": "4f6a2b50cff47fc32c9bd6c96d91c7535cf5d9b36ea9d7c74c300a31cc19c082",
+    "bytes": 34499
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_01/records.json",
+    "sha256": "36fdcf8e6dbf190bec71e706c503afb412abb8ec37c41e26bb0985c3fa934819",
+    "bytes": 31361
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_02/decisions.json",
+    "sha256": "8e28313e9ff399c1ef00704a06ca2f90cf65507bcdb5b6c16496660fdef63bd4",
+    "bytes": 35725
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_02/records.json",
+    "sha256": "20da94f3dc5204f4c142588ab8daa9c2060ed1224c02020b888de14330ed4290",
+    "bytes": 20879
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_03/decisions.json",
+    "sha256": "1c1b716b9c6621b20f31b90dd0e7b9e5de00ebeddfed5d505c57e66c321297a1",
+    "bytes": 34800
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_03/records.json",
+    "sha256": "efa55eeb6e7954fad21997289d2d28cf837bbafc8380622cc4e131a0261c01c7",
+    "bytes": 3804
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_04/decisions.json",
+    "sha256": "8945ef9f20554c6b591f563dfe4f1e134d82d734d21541603388ccfaf39fac85",
+    "bytes": 33825
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_04/records.json",
+    "sha256": "22622bc2507079cfcde54929ee6a00206e23bbed968a881672f89f37ea8b9dbc",
+    "bytes": 6850
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_05/decisions.json",
+    "sha256": "24e63a08bb6054f59beae5c851f202102c6db3e3d4025006ed3cfbebd838a79f",
+    "bytes": 33593
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_05/records.json",
+    "sha256": "3aced8ad18d995f84ab39da97fce22f48a11998c6d5410d8ab43ef03785a6a6c",
+    "bytes": 13805
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_06/decisions.json",
+    "sha256": "7fbab67353ac688e9b2a8b6cfcce4f7b22223cd0b44a5c8e0c5e0cd9db93dd1c",
+    "bytes": 34234
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_06/records.json",
+    "sha256": "d05bd4e2c0519c05f24ce25fd55cb68161fdbeee6de3b6bc95dea93a7eb29d8a",
+    "bytes": 3512
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_07/decisions.json",
+    "sha256": "5f99287bc0c2d2c9540a1af94fc0347dbc6f948aa706330b9ba4f5f3ea2475b0",
+    "bytes": 34301
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_07/records.json",
+    "sha256": "62c9253f24d226e5828a31b7c62318dd11cee125dd37c7762f0f72e16401fd3c",
+    "bytes": 7050
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_08/decisions.json",
+    "sha256": "fba20565f860433efb1c135d0672e514532309f45651d3b30d19df4184c9c97a",
+    "bytes": 33138
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_09/decisions.json",
+    "sha256": "b4e77ada2d7185f18ec6b566480700d4fcb0fd074ae5ee7df07aa0c60fba3f0c",
+    "bytes": 33404
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_09/records.json",
+    "sha256": "0001bdfd547783d3cef592531193b17fd659aadc18a78016c66b33e9978c5ea0",
+    "bytes": 13555
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_10/decisions.json",
+    "sha256": "6832b7b820fdc3a655217a1130f093bd4c6f6bd3e16798655b3f522479ccb39c",
+    "bytes": 33631
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_10/records.json",
+    "sha256": "f0f57fc23ebf19b683ca80228950c2cddde5798cd1f4bdf537bcbac4ff286542",
+    "bytes": 6944
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_11/decisions.json",
+    "sha256": "7e30ffe64e11211c29a3f2699756cbb39ad3d7269e912c9d27cd54dda4c12663",
+    "bytes": 33281
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_12/decisions.json",
+    "sha256": "ecf34b351de13667bad9ae7cb8a19305d31a10270cd8d90288225f8ede13dcdb",
+    "bytes": 33186
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_12/records.json",
+    "sha256": "b0dc3bc3df579b0ebcd4ae5773871a0c488525118cca9e05291342bcafab7798",
+    "bytes": 3508
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_13/decisions.json",
+    "sha256": "bd0676290011cfa7758c0bedead57178485bcf6dbb7ada9e12e57e91b95c1e67",
+    "bytes": 32438
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_13/records.json",
+    "sha256": "088316c302aad997267c9a4d620d0aa06fcb1e02b7618f619175effd318f98be",
+    "bytes": 3504
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_14/decisions.json",
+    "sha256": "72d85a2f25146c51f7aaee4e848a37deb338ac34c0444b1d85530387ab7d309a",
+    "bytes": 33955
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_15/decisions.json",
+    "sha256": "7415c335c82967981e8d54d2e8a72dff1ffd71b8b1a68dbad836f85471b60681",
+    "bytes": 33275
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_15/records.json",
+    "sha256": "6c8ca992ee625846adc30874a2172735ddf3e576cf53e76f6f408167e006e3db",
+    "bytes": 16663
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_16/decisions.json",
+    "sha256": "090334f7f25471cc3f417243845c5f7e2a5b2e630424501c17a4f9f4fc59703f",
+    "bytes": 33058
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_16/records.json",
+    "sha256": "3d667410b6580c1d4348bbda903d3f14b933b4a044e78d24a9daca094c83fdbf",
+    "bytes": 3432
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_17/decisions.json",
+    "sha256": "a89e7c7e060736c596aed7abb6bad2705c2a10fb27d05516a46573a929245dce",
+    "bytes": 32501
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_17/records.json",
+    "sha256": "c3ccc56ba0ea431ba949c30668046c578d42c676e463e0f4a14794a99de091b7",
+    "bytes": 3454
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_18/decisions.json",
+    "sha256": "b5835365f9257616b98190803207cec279edfef86d5d0acb3395f02b9784514b",
+    "bytes": 33260
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_18/records.json",
+    "sha256": "ea52318c179e3fe300c67d0b1f2126e442495b27605c723c8d89f6f434531cc9",
+    "bytes": 9775
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_19/decisions.json",
+    "sha256": "51c0f2763f50e70c00a1aa7d5b6bb51430d67dc0153373e7461353325f9059cd",
+    "bytes": 33432
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_19/records.json",
+    "sha256": "38b47ec4f3d7d9759b148205bde9e577b96109f6e8602b0aa66525853b5674a7",
+    "bytes": 7011
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_20/decisions.json",
+    "sha256": "0e60d743b1998762b39c61d92128caf1fb426affa068c30ee9c3f4b37cbeac4f",
+    "bytes": 32536
+  },
+  {
+    "file": "aaai2024_main_current_audit_20261016_20/records.json",
+    "sha256": "063d05f63c64153a73a56e6360d5dc499cdf6aa76bed06c043bf1425b304feb2",
+    "bytes": 3336
+  },
+  {
+    "file": "aaai5_author_grants_20261019_1618/decision_ledger.json",
+    "sha256": "1a3ca5e8bab1e9c5ba7558612b7a0acd8f704734d248861e3a87aaf57481493d",
+    "bytes": 11050
+  },
+  {
+    "file": "aaai5_author_grants_20261019_1618/history_object_matches.json",
+    "sha256": "bb0d082fd67c312ab4ae5e585313a43339ed00a4fde29167515234999ed8120e",
+    "bytes": 54958
+  },
+  {
+    "file": "aaai5_author_grants_20261019_1618/original_records.json",
+    "sha256": "a00c846eba9a42d81d088686cc45d410142129b72c7dae06ffebae7e1bc72528",
+    "bytes": 45986
+  },
+  {
+    "file": "aaai5_author_grants_20261019_1618/replacement_history_gate.json",
+    "sha256": "747318df8a078df27bf8809a4f22d75c557a00328f9c71475f2d02531b93d7ff",
+    "bytes": 26477
+  },
+  {
+    "file": "aaai5_author_grants_20261019_1618/replacement_original.json",
+    "sha256": "f28e59b92cb74a392c3821602e10e9fa25cc422e1232a4e83c26ee90c151ae4a",
+    "bytes": 7396
+  },
+  {
+    "file": "aaai5_author_grants_followup_20261019_1625/history_objects.json",
+    "sha256": "fcb796b218a174051f62a7184f26df3e56a9cfa20c03810a154f9cf97d340452",
+    "bytes": 1385647
+  },
+  {
+    "file": "aaai5_author_grants_followup_20261019_1625/original_records.json",
+    "sha256": "e75f3ce28e7725342f4d0fc0db7e46d3a7f20574ea74aa2bb3844898cdabd650",
+    "bytes": 70097
+  },
+  {
+    "file": "aaai5_author_grants_followup_20261019_1625/prior_exact_license_allocation_original.json",
+    "sha256": "1517066b8550331d635bac81265806142a34127e282ce8b8e8946ea03f913804",
+    "bytes": 28279
+  },
+  {
+    "file": "aaai_final_main_reconciliation_20261016/main_inventory.json",
+    "sha256": "08b5839647e480ea291b0f4b108058832ba72e20c8b9378b7877148c2427ee5b",
+    "bytes": 442640
+  },
+  {
+    "file": "aaai_final_main_reconciliation_20261016/scope_pending.json",
+    "sha256": "204d53672c3a21f967941cbc3768dfeee925bfea6d5bd049fbe525b2e29351de",
+    "bytes": 4427
+  },
+  {
+    "file": "aaai_final_main_reconciliation_20261016/unread_retracted.json",
+    "sha256": "fe3b7fd903869b6acfc5e715998d1b3564101714fa643e76d5bf694e0a860e25",
+    "bytes": 261
+  },
+  {
+    "file": "aaai_main_pending_adjudication_20261016/before.json",
+    "sha256": "e9d5289096a3c3cf0917b5fb093eca52f60fcea9353a7ce8abc36c83833d3073",
+    "bytes": 8862
+  },
+  {
+    "file": "aaai_main_pending_adjudication_20261016/decisions.json",
+    "sha256": "77dc80c056c0055919ed1e1e3b62e592f3e499b7b48bcabd01c28a36f5db3e84",
+    "bytes": 10199
+  },
+  {
+    "file": "aaai_recent_article_terms_20261019_1704/selected_catalogue_record_snapshot.json",
+    "sha256": "e5798da4c15cdc8f6cdcef56095835699f7b805f9be38f79fb4e02d4f5585e16",
+    "bytes": 8729
+  },
+  {
+    "file": "aaai_special_tracks_reconciliation_20261016/remaining_pending_review.json",
+    "sha256": "d5aba0d81a7ce327067cc7394327f1a61062be139715c88de7e1c02c2767abef",
+    "bytes": 718
+  },
+  {
+    "file": "aaai_unread_recovery_20261016/before.json",
+    "sha256": "e26766b16dc9a94f3cf83057f14fc57e4b5a4e14ad98a95a72a1754d8c0ba21a",
+    "bytes": 6532
+  },
+  {
+    "file": "aaai_unread_recovery_20261016/decisions.json",
+    "sha256": "e0d798b1aec2ecb18256f494623a13012b357b2889e69b058e737f1fe0368304",
+    "bytes": 8775
+  },
+  {
+    "file": "abstract_footnotes_20261017_1955/publication.json",
+    "sha256": "561f69c67fa22545e6c461c9860f7b62be06c8e48b461dfeeff0723a1eaf057f",
+    "bytes": 1707
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/abstract_stage_ledger570.json",
+    "sha256": "191037eb77b60d2b05bb3130567ed9152fe2f8f48c082670b53b1e2a9d3ef4b0",
+    "bytes": 455324
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/active_comparison_input.json",
+    "sha256": "d928f6701e839268af2ad18f9fcb84879182b280095bc8203b88a6d725c088ec",
+    "bytes": 4073
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/body/100_adjudication.json",
+    "sha256": "04eae53d75a98f677ec34672bdee6b0ceb03d3f7e568508a47671d75124b8c82",
+    "bytes": 856
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/body/137_adjudication.json",
+    "sha256": "760070760a548621661647f7e4d70231e265342b23b2f9e3b757e6573fdee044",
+    "bytes": 1355
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/body/141_adjudication.json",
+    "sha256": "42db1b72f7251b7f094a9a12d3abbe4276d1e536382bfd7db3bfe4665a0e0d53",
+    "bytes": 1102
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/body/188_adjudication.json",
+    "sha256": "538d9b35b60cdfb061b03b5905d99a3096e60e83b0db1e511824395d0d1ffd78",
+    "bytes": 1203
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/body/215_adjudication.json",
+    "sha256": "2cee6b16e5d32ddd43a3a3b986280650389e6e94e0c02840c67e7abfe3eeddd4",
+    "bytes": 830
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/body/359_adjudication.json",
+    "sha256": "9c591b9284f06fc9f715430fcb7cc04b93bae90eaba7ea56bb2f0835ead057b2",
+    "bytes": 948
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/body/519_adjudication.json",
+    "sha256": "41750fc266c9f4b6e2bfe8d3db975b4d74ae7ec32fe57a279669e9cf1103a4b1",
+    "bytes": 1734
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/body/525_adjudication.json",
+    "sha256": "ede18fb5f8be0d9c259864026ce1c09007f21ad637c4c0cb06cfc66a99e41776",
+    "bytes": 3934
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/body/525_initial_hold.json",
+    "sha256": "3ea201ced41472d963161b8dd3d1ab765abad30d00b74bfb91d71a966828094a",
+    "bytes": 1995
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/body/624_adjudication.json",
+    "sha256": "011fd5f4a2978d05d862a131a63d79086f3b05ddaa32bf693593e4a53837a70d",
+    "bytes": 836
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/body/740_adjudication.json",
+    "sha256": "0486b1e91a6315d7d11e5ab06a32e63c71b1593726cd5ce099615ce3b78d2575",
+    "bytes": 1330
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/final_ledger570.json",
+    "sha256": "b52068dd4705431b5d0eb67d0c329a4a498543a6371d2d42fbc69225886873b1",
+    "bytes": 493198
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition1.json",
+    "sha256": "e2d0717f0ba10b301cbac5e1cee9fe46f6488703c7a36fd87099d75385154150",
+    "bytes": 327314
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition1_000_019_fulltext.json",
+    "sha256": "4a539e42a8e7399813b28d41c5a220363ec1b0d55c7e233912bbe1ae0d8d575e",
+    "bytes": 35346
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition1_020_039_fulltext.json",
+    "sha256": "c628ec61ea999221eba05193feaa91d0f349e582ba9a99dc6059b23003e8736b",
+    "bytes": 35533
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition1_040_059_fulltext.json",
+    "sha256": "ba280466973d8fbd5050c81b7419196419d16db109ee55ead4027fb2438eeaa7",
+    "bytes": 34138
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition1_060_079_fulltext.json",
+    "sha256": "f82bc2957b3876dcc96f8e1f1e6e832fd1bc0c8120a78967681269f5ebafcc0c",
+    "bytes": 33794
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition1_080_099_fulltext.json",
+    "sha256": "614016b44d3872d38157ae5fd74d1ec3893fc8567424f68436c664b7b0ccfee6",
+    "bytes": 33902
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition1_100_119_fulltext.json",
+    "sha256": "488a61f35d8da6e6e4ef0f43c60bddb1604a7e19e94f40c39baf01d33fb3d229",
+    "bytes": 35827
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition1_120_139_fulltext.json",
+    "sha256": "264ccdecd669bd44e9cd6e6d10b80c767e8f14ab229d65146ff0a847cd302df2",
+    "bytes": 34456
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition1_140_159_fulltext.json",
+    "sha256": "7c42eba1191d90a4f9545690e7e5b335fcfcfb31a1b8c87bbab86dbebc68b16f",
+    "bytes": 34117
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition1_160_179_fulltext.json",
+    "sha256": "c00adbb49076837aefcd1edf47fb4ed1f96970a5bfdd94d032468ea68620fbc6",
+    "bytes": 33046
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition1_180_189_fulltext.json",
+    "sha256": "873c9070f5ffafb7a0aa039f07596217765a8191711dc07af82a1642cf831466",
+    "bytes": 17173
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition1_ledger.json",
+    "sha256": "325815fb1dc39d8936787441f64b7a884196a5ff5274493eb6d3c1885e449ef0",
+    "bytes": 141632
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition2.json",
+    "sha256": "834ac4519e47e983afd1ef5ebfc936140320549632d2764282e5000ba9799afd",
+    "bytes": 331234
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition2_ledger.json",
+    "sha256": "a608980b693abe618a4241492c7370b86beb718f91689016959d50687272fc1d",
+    "bytes": 113047
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition3.json",
+    "sha256": "8d8922a31c6605b884e53ce200b7580ca7c6917e5e2641b49e0b7e39fecbd94e",
+    "bytes": 320050
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition3_ledger.json",
+    "sha256": "84f95be37c6d73d017e67898453db5f026121670fd27d06558fc5b2a54d00c8e",
+    "bytes": 94629
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition3_read_batch1.json",
+    "sha256": "b1c953841df15b87530c18b9e843b8dc859ead6b07687db2a97fafb0d39869b2",
+    "bytes": 35358
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition3_read_batch10.json",
+    "sha256": "3c25e356f26cc84872b6acbb3c96144dd3dcf9d3be47118204083be366b07e79",
+    "bytes": 18260
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition3_read_batch2.json",
+    "sha256": "beacee16c147e98ef8fc6b6a312e9d1fcb20ad8b1b6626cb139000aa1468cdf8",
+    "bytes": 33771
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition3_read_batch3.json",
+    "sha256": "7903c62cc1f25dc9d8d22c4086d73fb8cdadda3794afe180fa139c1c98573634",
+    "bytes": 34905
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition3_read_batch4.json",
+    "sha256": "791488c3d8b9090f9d790fd723a425b920b17e19e4064751843ee25d07564a83",
+    "bytes": 33370
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition3_read_batch5.json",
+    "sha256": "7df0a0f78959556ad08f4e4809a13992a0652acf37f1d818a2d3acf3f063a548",
+    "bytes": 33562
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition3_read_batch6.json",
+    "sha256": "b90ebdfb4cfe1eb3c270c3a884144045f3a6f752e35ddc35e60fa9dbb67fb39b",
+    "bytes": 33083
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition3_read_batch7.json",
+    "sha256": "e9c1d4f3d42dd1b0f8b02c868fc8e60d65c80c3a14eb18a3d6477fae41659189",
+    "bytes": 32118
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition3_read_batch8.json",
+    "sha256": "c4950d37dfd443bf2403bcb037a82e483b578fa6107ed5d49f20601517d47871",
+    "bytes": 33516
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/census/partition3_read_batch9.json",
+    "sha256": "b262a8f58fd7c70026e5ca54bd91dd302fa83a63d75981e23e83178aa4118243",
+    "bytes": 32125
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/official_type_evidence/formal_type_mapping778.json",
+    "sha256": "cd756d4a3d5f6a1d3902e093860da981759d10833ade7d040e4091f4bdd1c816",
+    "bytes": 392845
+  },
+  {
+    "file": "acl2020_long_rereview_integrated_20261021/official_type_evidence/long_only_full_abstract_input570.json",
+    "sha256": "2dc5612f28241d15c8c75d224dc045cbf2343e5f5714a9b28649e4f30c9a1aff",
+    "bytes": 978594
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v1/abstract_stage_ledger_snapshot.json",
+    "sha256": "0b44afff2199f0b84f546a0decff0ac8e7a0eb4d0a5a9f53163a0df7980d24ad",
+    "bytes": 481822
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v1/abstract_stage_reconciliation.json",
+    "sha256": "bad81cd5d9c3c0653530c7a15d59a4bdd21fef84314b5d65156400639debb8c0",
+    "bytes": 5788
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v1/active_comparison_snapshot.json",
+    "sha256": "7307d9f5e3a5fed2f093b6253de3d32963477a1192332fa36233eece98fa7d09",
+    "bytes": 6657
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v1/body_adjudication_2.json",
+    "sha256": "f179de70358fcea707433ea69b3bd5e716614fe16aaa6200836339c3d78a8f26",
+    "bytes": 3576
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v1/body_adjudication_3.json",
+    "sha256": "dec09552931e05f1b86139975c0796306b6759a85afd52de3d60ac2dc0f29b57",
+    "bytes": 6674
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v1/body_adjudication_514.json",
+    "sha256": "34fac86a11884fb1e68ce9ed422ee0a5ad975880d9d66ef8ace24638793ef8c4",
+    "bytes": 3994
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v1/body_audit_1.json",
+    "sha256": "046c4dd2fb59cccc18e5f9d46f351b9b43634ad05687ed79f841fc2143170fff",
+    "bytes": 9916
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v1/combined_ledger.json",
+    "sha256": "85d2478b15fd7cf1c94f00f3341a878e766684cf9a5c799995bf595e2a79e1d7",
+    "bytes": 548501
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v1/focused_body_manifest.json",
+    "sha256": "1b8e157fa973c900b8fabaa350874870660d9f753c01d3966eaa5eff2f72abaf",
+    "bytes": 5417
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v1/ledger_1.json",
+    "sha256": "192b6a1eb967c49ea1126b7b542565bc6ce4778d73be256362d0722ebfc5e74a",
+    "bytes": 135887
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v1/ledger_2.json",
+    "sha256": "68c5274015327148ed6370e4ce5415ba8fd0a0dc83010ca66dd85ec7d2971eeb",
+    "bytes": 120130
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v1/ledger_3.json",
+    "sha256": "4bc4b23becf66a96946efca4906e43a568389e5075ced06658c992e0ef115451",
+    "bytes": 109606
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v1/ledger_4.json",
+    "sha256": "e0c28ebfeec22a8efc60950b9b3f32ea6f4af952a2deb6d0a8de17627399f103",
+    "bytes": 144350
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v2/abstract_stage_ledger_snapshot.json",
+    "sha256": "0b44afff2199f0b84f546a0decff0ac8e7a0eb4d0a5a9f53163a0df7980d24ad",
+    "bytes": 481822
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v2/abstract_stage_reconciliation.json",
+    "sha256": "bad81cd5d9c3c0653530c7a15d59a4bdd21fef84314b5d65156400639debb8c0",
+    "bytes": 5788
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v2/active_comparison_snapshot.json",
+    "sha256": "7307d9f5e3a5fed2f093b6253de3d32963477a1192332fa36233eece98fa7d09",
+    "bytes": 6657
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v2/body_adjudication_2.json",
+    "sha256": "f179de70358fcea707433ea69b3bd5e716614fe16aaa6200836339c3d78a8f26",
+    "bytes": 3576
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v2/body_adjudication_3.json",
+    "sha256": "dec09552931e05f1b86139975c0796306b6759a85afd52de3d60ac2dc0f29b57",
+    "bytes": 6674
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v2/body_adjudication_514.json",
+    "sha256": "34fac86a11884fb1e68ce9ed422ee0a5ad975880d9d66ef8ace24638793ef8c4",
+    "bytes": 3994
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v2/body_audit_1.json",
+    "sha256": "046c4dd2fb59cccc18e5f9d46f351b9b43634ad05687ed79f841fc2143170fff",
+    "bytes": 9916
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v2/combined_ledger.json",
+    "sha256": "7ae2ea1dcf1cad3e6e9774f0c2d7fbe54198b4089908314a5611914bc020fb29",
+    "bytes": 548830
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v2/final_adjudication_82.json",
+    "sha256": "a501b560f0ce80fe6a050b6f796d5168d10118e9ebcc77f4314ee96b82f705a8",
+    "bytes": 1402
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v2/focused_body_manifest.json",
+    "sha256": "6c7beb2e87e4510fde5243ab9ff865b767b6221fd3ba1f605e9cb110d8e5eb07",
+    "bytes": 5583
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v2/ledger_1.json",
+    "sha256": "d46d77ba1b3aebf83e9725e092c8d16a12ec8d5cc4eeec4a26ba8e4617abebd4",
+    "bytes": 136216
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v2/ledger_2.json",
+    "sha256": "68c5274015327148ed6370e4ce5415ba8fd0a0dc83010ca66dd85ec7d2971eeb",
+    "bytes": 120130
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v2/ledger_3.json",
+    "sha256": "4bc4b23becf66a96946efca4906e43a568389e5075ced06658c992e0ef115451",
+    "bytes": 109606
+  },
+  {
+    "file": "acl2021_long_closed_20261021/census_v2/ledger_4.json",
+    "sha256": "e0c28ebfeec22a8efc60950b9b3f32ea6f4af952a2deb6d0a8de17627399f103",
+    "bytes": 144350
+  },
+  {
+    "file": "acl2022_long_reconciled_20261021/census/final_ledger603.json",
+    "sha256": "f3aa4fdd7a1c42403b59745de14c5c8b08e7f2e217bc55278af3ad2ca1c82f1e",
+    "bytes": 574572
+  },
+  {
+    "file": "acl2022_long_reconciled_20261021/census/new11_scope_candidates.json",
+    "sha256": "fb74136f5b707ffdccf9a55cc797a6020bb3c8cd12193f62f992cfa5311bfe81",
+    "bytes": 36565
+  },
+  {
+    "file": "acl2022_long_reconciled_20261021/census/partition1_ledger_final.json",
+    "sha256": "966c32e39122f94ff52e2e80876ac6b887c21a70d640bd83bcd9a194654a9a88",
+    "bytes": 286056
+  },
+  {
+    "file": "acl2022_long_reconciled_20261021/census/partition2_ledger.json",
+    "sha256": "274b60cb0abb9cf595c40b16e2b7d2e8520c98b102e38f5a34f92a179ee1ff5b",
+    "bytes": 152855
+  },
+  {
+    "file": "acl2022_long_reconciled_20261021/census/partition3_ledger.json",
+    "sha256": "8f2663268da4331d6112a39f514795c2078e56312a71692d3634b67c9c7ab31a",
+    "bytes": 135038
+  },
+  {
+    "file": "acl2022_long_reconciled_20261021/census/previous25_retention_removal.json",
+    "sha256": "f0a1187ecf86fddd83a20bce0f8740fc1cb60b1d1d6a62845f7174961cb08036",
+    "bytes": 242758
+  },
+  {
+    "file": "acl2022_long_reconciled_20261021/integrator_independent_24.json",
+    "sha256": "879433205fd0fdeaec75d8e3f7315ce3e94d964d5c441554823613a101931b69",
+    "bytes": 3161
+  },
+  {
+    "file": "acl2022_long_reconciled_20261021/integrator_independent_25.json",
+    "sha256": "ed0ef2dab4590fb0d8c4775646d07d3ff3da77f4eb17bb61bff1530f9435c85b",
+    "bytes": 3495
+  },
+  {
+    "file": "acl2022_long_reconciled_20261021/integrator_independent_257.json",
+    "sha256": "8ab16043eaabb65ffa00f30bb16f38691102109b81f9c7eb7a598bc32233c267",
+    "bytes": 4272
+  },
+  {
+    "file": "acl2022_long_reconciled_20261021/material_evidence/2022.acl-long.182/profile.json",
+    "sha256": "14ffea563762e35c7b3966a8dc0d2d21071216fbe14b78bb93521c7c37449b3b",
+    "bytes": 9824
+  },
+  {
+    "file": "acl2022_long_reconciled_20261021/material_evidence/2022.acl-long.257/profile.json",
+    "sha256": "dfdf4b66df682a94c917a5d6f6408efe027cab15e8dbf48d16e73a7e3714924f",
+    "bytes": 11075
+  },
+  {
+    "file": "acl2022_long_reconciled_20261021/material_evidence/2022.acl-long.274/profile.json",
+    "sha256": "61088aa3381cef41a293df9853f2ed458f6e59d59979efc527a2d70422ea2feb",
+    "bytes": 8982
+  },
+  {
+    "file": "acl2022_long_reconciled_20261021/material_evidence/2022.acl-long.325/profile.json",
+    "sha256": "735a7ee384712a71ca68f9222080260873bfa4e1caca22629f8676be7f3221a2",
+    "bytes": 8273
+  },
+  {
+    "file": "acl2022_long_reconciled_20261021/material_evidence/2022.acl-long.450/profile.json",
+    "sha256": "632cab2e58904d5fc1f2b531d09dbf76043d1f9e346e80d85fe2f18950feeb9a",
+    "bytes": 7734
+  },
+  {
+    "file": "acl2022_long_reconciled_20261021/material_evidence/2022.acl-long.569/profile.json",
+    "sha256": "7c053f9a3c2322df9372b406cccef5273ade87ca7195de0ab4f0d19b77c5901b",
+    "bytes": 15206
+  },
+  {
+    "file": "acl2022_long_reconciled_20261021/material_evidence/2022.acl-long.572/profile.json",
+    "sha256": "3f6782d3279e94a075d24de6e8da5aff928f6313ce020e296b8a111cd0e08aa9",
+    "bytes": 14413
+  },
+  {
+    "file": "acl2022_long_reconciled_20261021/material_evidence/2022.acl-long.59/profile.json",
+    "sha256": "9f639386d65d1af76dfc29804fe13b0b0b891ff54da06ffed8f97484315fdcf1",
+    "bytes": 7641
+  },
+  {
+    "file": "acl2022_long_reconciled_20261021/official_abstracts.json",
+    "sha256": "f061d025e2fe37c06e9447f65ba7b9cea050b50045e4452994a61bec4a990938",
+    "bytes": 912664
+  },
+  {
+    "file": "acl2022_long_reconciled_20261021/removed_old24_record.json",
+    "sha256": "515e4f18af80be7f0691c0cf05d618c3fe796975463e953ae87cdce9bcc28673",
+    "bytes": 5155
+  },
+  {
+    "file": "acl2025_current_audit_20261016_01/decisions.json",
+    "sha256": "d48c99344d0566107c930583def1b8f068e998d6e9f57061ae6d0fb9c71b23c5",
+    "bytes": 11972
+  },
+  {
+    "file": "acl2025_current_audit_20261016_01/records.json",
+    "sha256": "41dc58da8a7d02440fa37fc89b4337b3a09e228bf77a9a60b0429d1bd50bd9f9",
+    "bytes": 41296
+  },
+  {
+    "file": "acl2025_current_audit_20261016_02/decision_ledger.json",
+    "sha256": "8c69be4e689b36a0be3c73962aa9f9db74dc662feaff2ded06d7cb32a0d0ed95",
+    "bytes": 42582
+  },
+  {
+    "file": "acl2025_current_audit_20261016_02/normalized_records.json",
+    "sha256": "503c0ee2331cc1a56e8a736247d2976ec055505fed8db6df2452e820e025e014",
+    "bytes": 141289
+  },
+  {
+    "file": "acl2025_current_audit_20261016_02/records_to_add.json",
+    "sha256": "20ce19025032575ab5fcfba55ffabe173775921f1ed81ddbce13ba8be5c82707",
+    "bytes": 141284
+  },
+  {
+    "file": "acl2025_fast_profiles_20261016_01/merged_profiles.json",
+    "sha256": "9be20049c0173ca378573676b40970f14d62ad951800a15742426677a3d5aabe",
+    "bytes": 53861
+  },
+  {
+    "file": "acl2025_fast_profiles_20261016_02/merged_profiles.json",
+    "sha256": "673bac57e015c81f79a3e1757a7449cc39a0f60f65ad2568ce514e43cc9955df",
+    "bytes": 44012
+  },
+  {
+    "file": "acl2025_fast_profiles_20261016_03/merged_profiles.json",
+    "sha256": "95ef4474cb3e3a97c534ed73691281c81a90a7fe3d35243729f29c47ffa91e29",
+    "bytes": 47832
+  },
+  {
+    "file": "acl2025_fast_profiles_20261016_04/profile_updates.json",
+    "sha256": "eff9edd7f723bf4a8c50cafaafa1841507b63858c237b87c8bdbf698b0ef6afe",
+    "bytes": 48125
+  },
+  {
+    "file": "acl2025_fast_profiles_20261016_05/profile_updates.json",
+    "sha256": "a101cd699637462d524f47fec3235e2ebac2d19a00b45e26af35840c11436a42",
+    "bytes": 65103
+  },
+  {
+    "file": "acl2025_fast_profiles_20261016_06/profile_updates.json",
+    "sha256": "5469334b681696d5d22b5166fbcdd148074eaaf159d169acf8f7d143c509ea77",
+    "bytes": 62905
+  },
+  {
+    "file": "acl2025_fast_profiles_20261016_07/profile_updates.json",
+    "sha256": "028f6b366a47a6937ff9d5ad2f69569bc04449d7334cc026f479dd2a7ce5c7cb",
+    "bytes": 59031
+  },
+  {
+    "file": "acl2025_fast_profiles_20261016_08/profile_updates.json",
+    "sha256": "7a5efdd61beb053ac56f953936d0ea227504f9caff2e791e5d1f70128d22de18",
+    "bytes": 60407
+  },
+  {
+    "file": "acl2025_fast_profiles_20261016_09/profile_updates.json",
+    "sha256": "139d67c88dffa580a3d5bd54277f08b80abb7f1d00dd5ccb8a54b7a647b02be1",
+    "bytes": 62104
+  },
+  {
+    "file": "acl2025_fast_profiles_20261016_10/profile_updates.json",
+    "sha256": "d00612c0adb2c9a8c49a71552a3e8d8de1da923e82776c5cf24fdbe9ecc61e35",
+    "bytes": 66836
+  },
+  {
+    "file": "acl2025_fast_profiles_20261016_11/profile_updates.json",
+    "sha256": "853c4c5d0cad38e9d24ee93b2900bc7269fbaf5ba4723c38f8bfcd0c6805df2a",
+    "bytes": 64901
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_01/decisions.json",
+    "sha256": "45a147320124f16c3cf060e0f9e0b15a812fb851eae756d9236b2f3d61b7d00e",
+    "bytes": 70764
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_01/evidence_batch.json",
+    "sha256": "b369ee234240f3549fea29848e6d87b6e694746127c7a31c61a4ba544c808ab3",
+    "bytes": 73578
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_02/candidates_pending_type.json",
+    "sha256": "526c331eca100fa03840ff343bb332b2cbaa670d7c993d9f1adc39722725a531",
+    "bytes": 2754
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_02/decisions.json",
+    "sha256": "8d2ea3b36c7bd674c6efb83a71ea656bb2275bb39feb8fd5e0701ecf72c67230",
+    "bytes": 79624
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_02/evidence_batch.json",
+    "sha256": "c93c255e96e42c9fbc96a197ad61bf3c82e87a2d92c3be0878e75ebb445ed0a0",
+    "bytes": 81252
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_03/candidates_pending_type.json",
+    "sha256": "70ce7c9cfb20b027ccbc53a2fcf681b3e8f18d1a185c9738d21ee187a8821222",
+    "bytes": 2533
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_03/decisions.json",
+    "sha256": "49dd829a461e8d80407f67ee46118a9862b9feef0a9cf225fea4a338f348942d",
+    "bytes": 76371
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_03/evidence_batch.json",
+    "sha256": "9938f8e680943b841da6e787e6d8d171520c10233964f979c1e8982418491e81",
+    "bytes": 78245
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_04/decisions.json",
+    "sha256": "28ef6e4ee58357ddfd4e263b075bc77e5238761ef5d909865078cbaeeca3c916",
+    "bytes": 73489
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_04/evidence_batch.json",
+    "sha256": "c836afe1581a31ba6ca176fb76c6b96b78c07a98c27863345a1bf10b8fbda97e",
+    "bytes": 75923
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_05/decisions.json",
+    "sha256": "b6cc8fd134df2712b46ece449cc78bf78bc6a4d5a517e5ebdc7127f70f7365d8",
+    "bytes": 73000
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_05/evidence_batch.json",
+    "sha256": "8aa5e0730e7c823d93aeef7a70a708dc0b9df34daeba1ea14d751870956e6c0b",
+    "bytes": 75859
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_06/candidates_pending_type.json",
+    "sha256": "eddb174b035982cdf100b3d384635ffa398cecc52e7478af92c364063a95f611",
+    "bytes": 1622
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_06/decisions.json",
+    "sha256": "a6344cd59fed7e7626e33a22035d8477fa732886cd5078a30053124ccba3e225",
+    "bytes": 73792
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_06/evidence_batch.json",
+    "sha256": "65ba360ca73b847462980550c0110e2a208ded07b5a0ff0d822b6785ad61db9d",
+    "bytes": 77149
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_07/candidates_pending_type.json",
+    "sha256": "786affd081c68dc3d36ddedd658570fa29f737d7d114b164a1bfa4c21a0536ca",
+    "bytes": 1355
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_07/decisions.json",
+    "sha256": "f92382739916d56da98d90bda72063198dae12aeacb58ba84bf6e11ddd1613de",
+    "bytes": 73638
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_07/evidence_batch.json",
+    "sha256": "8840d9996ef46c6f6087a1e2c6dfd85fadfa2ae488eda8eeb161710f48c180bb",
+    "bytes": 76552
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_08/candidates_pending_type.json",
+    "sha256": "46be5b2398d68024d6f9c7a7fc754038ae4680b13da8637e902e943acba444d9",
+    "bytes": 1530
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_08/decisions.json",
+    "sha256": "8db6e3754207f36b5d699ee7c2bb7c01e2f783d28e4dd21885c1d580e1560c81",
+    "bytes": 73695
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_08/evidence_batch.json",
+    "sha256": "69e99f04f27cd7f074017e9294751772b6e8e0f8b72df0f9ee446f6a3d82be25",
+    "bytes": 77168
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_09/decisions.json",
+    "sha256": "4cb22887ddabd7ef2a0888133022287c8108eff0ddecbf54bd0813342867de3c",
+    "bytes": 74464
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_09/evidence_batch.json",
+    "sha256": "6f2152d4b141462e8245c44525710629f5b15f8c1f2bd15618a5a6952e856da9",
+    "bytes": 77886
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_10/candidates_pending_type.json",
+    "sha256": "9d33c48b02c4982d893019d2f06ba6778e3d4e88923b661a5608904ef0cbe033",
+    "bytes": 2940
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_10/decisions.json",
+    "sha256": "9ee35cbb5cb71340c32355b964fa4f4cd8de9367b50fa3b9629de0439cab90d1",
+    "bytes": 79211
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_10/evidence_batch.json",
+    "sha256": "98fe5a436f37ee2c114d1386884498fde5dbeec735b29eb7efcb7381840196f9",
+    "bytes": 82442
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_11/decisions.json",
+    "sha256": "ea96eefea99707afcb05c18219742f817a5feaaaa44222931e99c5f99b0f536f",
+    "bytes": 73568
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_11/evidence_batch.json",
+    "sha256": "96af09eee8976a659cfa767fbf244e72b4b49f1e9647696c84292768442a4140",
+    "bytes": 78063
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_12/candidates_pending_type.json",
+    "sha256": "6820fd613293aee0fcb60e285a93101dc42a55c7bc64a5193545bb3461e8c0ea",
+    "bytes": 1517
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_12/decisions.json",
+    "sha256": "d960285f981d2d360fcfb94eb45459ece1f6d93bcf4d044e435fa69d50b31a34",
+    "bytes": 76544
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_12/evidence_batch.json",
+    "sha256": "78a2aa3edcbd0177dff00c47c0deb85f2a7d0c0ad14fac0f29b09cf0f0719796",
+    "bytes": 80663
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_13/decisions.json",
+    "sha256": "9061308db55b2857d191e7deb62af08053cb3954075c47b08c28489286f4088f",
+    "bytes": 75336
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_13/evidence_batch.json",
+    "sha256": "70e301560987da32fbc923995830ccad925ef22b315cfdbc753cc673197ac39e",
+    "bytes": 79296
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_14/decisions.json",
+    "sha256": "e10d8558c2675039c8aa93f528aa9a82a70c43162d938341de6212a3130f3b9a",
+    "bytes": 73688
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_14/evidence_batch.json",
+    "sha256": "737a0dff2f4ac6357a8220e5a8637b521e4c46e7fc136fca592b5757dfedb8fb",
+    "bytes": 78696
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_15/decisions.json",
+    "sha256": "94007396386e7b588b39efc3d1530f84b27047c10f2cfef58a61920db9c0de4e",
+    "bytes": 74319
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_15/evidence_batch.json",
+    "sha256": "d14a462afab85fdda77d48de53cc0183132e4f775a62f8632a6959889c72f6a8",
+    "bytes": 79056
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_16/candidates_pending_type.json",
+    "sha256": "c8007e83c0c0e7605a9c5811834305fd371b84e48695cc49b0da48d711f6b5a2",
+    "bytes": 2025
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_16/decisions.json",
+    "sha256": "4508f36373f555f823ffc89c7f663f52b7b99ed06cb3c2757c4b3892277cb1ed",
+    "bytes": 79265
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_16/evidence_batch.json",
+    "sha256": "59a4963d5aa17aa1e982e546ffddf9ed7fb6a42ca7f54302bff86c843aeee1f0",
+    "bytes": 84103
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_17/decisions.json",
+    "sha256": "2ff1ed19e5f2912576a624656175d9fc534ffac8ab48226b23194c5b055eb347",
+    "bytes": 73571
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_17/evidence_batch.json",
+    "sha256": "c0974f144d904850a87e2923f316e4a802d4efd39b7e8189f61c2f68bec10b05",
+    "bytes": 78860
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_18/candidates_pending_type.json",
+    "sha256": "4e1060484cb77a3a7c7d2fceaaff0019c1558a4fc1294492f59f7a8894a265d1",
+    "bytes": 4566
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_18/decisions.json",
+    "sha256": "c60bd1030f24ba390c0372e14c8102b3ed2f6df26fc9c76baf02756b8879620a",
+    "bytes": 83997
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_18/evidence_batch.json",
+    "sha256": "ebd04ed76ce1564cc6497ef428b1da221d9da257e9b824d5b9ea9bd678b9c925",
+    "bytes": 88357
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_19/candidates_pending_type.json",
+    "sha256": "af84b648035bb7d37116948b8a7bb106e74e9b463688d2029553224aabd20e5a",
+    "bytes": 1786
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_19/decisions.json",
+    "sha256": "40e4b0c6cfac25ce2110062e8e6ad61c87241d4c315fca644cc847a20b4162a2",
+    "bytes": 80658
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_19/evidence_batch.json",
+    "sha256": "c5a634a8e62af87eb1ff57180dd9a8997b9c12e0295f5692457b00e5983707b4",
+    "bytes": 85930
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_20/candidates_pending_type.json",
+    "sha256": "d49e1781f6d29f20cc34500f42b6a5e1c64c7b3cff12bad5e1179a4bdc977c52",
+    "bytes": 5059
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_20/decisions.json",
+    "sha256": "e8567a645046fb1cc5dff8a8e7aa33e281f51922e25c4255e2fde5a5f65ce5a0",
+    "bytes": 92766
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_20/evidence_batch.json",
+    "sha256": "29b6a14e8a349848cbd59af28c02fb3cdd906fdaf21f4dcc994ce3d622f236a4",
+    "bytes": 97708
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_21/candidates_pending_type.json",
+    "sha256": "dabd5f092db2b59c8ee8b25c233ef0debfd8adaf30436df93d3619d622130987",
+    "bytes": 1828
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_21/decisions.json",
+    "sha256": "fb6ece329dff34938422c0251d40d5f4964f876bd37917c7ddf42333780a561f",
+    "bytes": 80428
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_21/evidence_batch.json",
+    "sha256": "b8c00c1efb4ae9f245aeaf7e1e0abb33765c31452138e52851a37091c1efadf2",
+    "bytes": 86063
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_22/decisions.json",
+    "sha256": "f7a8646950a39adf0d61e6d7dde3b5ff74cc4a3d285296cfaeb6ed2068249820",
+    "bytes": 95003
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_22/evidence_batch.json",
+    "sha256": "085f6092e5d902263f20702e24ebe3c86f8a37efba0ebe0a314a3d1518cbd13b",
+    "bytes": 102632
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_23/decisions.json",
+    "sha256": "5c0ce46b779f415869028d7035471945ac7e1b9b781fd2033e3c1cab67bbe7aa",
+    "bytes": 82667
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_23/evidence_batch.json",
+    "sha256": "c7143e78169a14d3f23a562bd7d290450b031d46a5724fd56a09d1394db09f45",
+    "bytes": 90222
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_24/decisions.json",
+    "sha256": "3e31f80bbd0d35721bb2ea76a31b0a9dfdc75852770885d9068e7a141f7b3a84",
+    "bytes": 82950
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_24/evidence_batch.json",
+    "sha256": "f47cd13f353bc7a9e4e305a72c6f33645688cb5e4440f94382169568040c1046",
+    "bytes": 89745
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_25/candidates_pending_type.json",
+    "sha256": "112b9b5c2cba1b22bc5f5fd0739a809a0b3ff55079d10ce5704845ba51db1b82",
+    "bytes": 4152
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_25/decisions.json",
+    "sha256": "97b8a116b31930575682503ffe795a498f63eee76622c188e04fc89fa6b88bd0",
+    "bytes": 87698
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_25/evidence_batch.json",
+    "sha256": "95f25b3b3b4f96462179a87f28235466cc52da41c39bb1acf625f6839994225d",
+    "bytes": 94455
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_26/candidates_pending_type.json",
+    "sha256": "bbcce156d0060fe26ad2b74a1538ee910f5dabd98c6cde799d4dcde71bf8a174",
+    "bytes": 3850
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_26/decisions.json",
+    "sha256": "7de786a21e482be8836a2b176f958280bdd50ad6bbbc21c87c8a7c146a7a3776",
+    "bytes": 95201
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_26/evidence_batch.json",
+    "sha256": "de3699b6de225109242194570622984e46f7f15a846e1b42004b037e38cd94a6",
+    "bytes": 107113
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_27/candidates_pending_type.json",
+    "sha256": "ba0462ead8a2cae87b9a1ad01c876ba3b3065146bde6ef4e04e7b9f51a89eed0",
+    "bytes": 4004
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_27/decisions.json",
+    "sha256": "f2e41d1c47900e50e9a84e85efc5b080e68a46b79de1aff01de0df61c76f5f80",
+    "bytes": 90555
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_27/evidence_batch.json",
+    "sha256": "9c5e210b0b197a6b15cd40a77781d8237156391e12e232846968842314a1fc81",
+    "bytes": 98281
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_28/candidates_pending_type.json",
+    "sha256": "b5d7f1a50d3f9ccb391ae511d0457bdbd1b0ed65b80f829e46c957622a5cc434",
+    "bytes": 3921
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_28/decisions.json",
+    "sha256": "b971e04a70564ff52efe72251b8573ab359e75ae5002ee48865e2191b0b8ab43",
+    "bytes": 88060
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_28/evidence_batch.json",
+    "sha256": "da773bce5116e5559128bf1c0ae1b5d347be2f54f8d62c652f9089dc50713896",
+    "bytes": 95167
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_29/decisions.json",
+    "sha256": "a90a75e8741babca9de60a68526000de71995271343c8e9306525e4604206f77",
+    "bytes": 72619
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_29/evidence_batch.json",
+    "sha256": "fb5544a95f433701e4516a3abb4ea160bd33cc797b574171cbce4f4415ba7849",
+    "bytes": 82781
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_30/decisions.json",
+    "sha256": "da0d871d3194f0bdd5a7e3639b1f7f5e80ba8b163569bb3d3336cbc2d4c3167a",
+    "bytes": 195814
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261017_30/evidence_batch.json",
+    "sha256": "5c1f841e5bfec156e6eeb0b677c33dde33d1b86913b6817d3a9953d173c73845",
+    "bytes": 198507
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_31/actual_abstract_reads_pre_dedup.json",
+    "sha256": "fe34a8e3e39931704924dcd88f2c82cfbdd0b4c1da7f3101fb66b36492cf3f2d",
+    "bytes": 37502
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_31/decisions.json",
+    "sha256": "5a20a2c897c0ae8c771ac34cc4a8aa5c8a56a97bab3706c9c60d12582ac11e05",
+    "bytes": 159436
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_31/evidence_batch.json",
+    "sha256": "f07d3b2efd49223722fc290f435fec2c7e828856c2b4b19dfe3bd3b66db3e069",
+    "bytes": 175562
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_31/machine_extracted_abstracts.json",
+    "sha256": "4f798efd17103b31e5e8cc92ea4cf24fcfa4d6ba07948a44fa473d24673f5bae",
+    "bytes": 33342
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_31/screening_decisions_pre_dedup.json",
+    "sha256": "cdca875d3462d6f990de26ffc538ca7c06d1539b24773ca89b58e26e20e17421",
+    "bytes": 51650
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_31/type_evidence/type_status_601_620.json",
+    "sha256": "b2106c36d682f74d4a7dbbd5200f3603f1d5950ad8901f26be1aa07630977740",
+    "bytes": 16173
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_32/candidates_pending_type.json",
+    "sha256": "55e12b8aaacbaf794368523f9fe451af73b689430c60a82218bde8dc0ac8e069",
+    "bytes": 9297
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_32/decisions.json",
+    "sha256": "1548ae171641bbf813e5b591ec983c5783a344674386899ba6f1f81d3046fff1",
+    "bytes": 148243
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_32/evidence_batch.json",
+    "sha256": "d916becf498b7beac029678e2dde69a3318b8c006ac2e1f598d85b594890b746",
+    "bytes": 186901
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_32/machine_acquisition.json",
+    "sha256": "7e2094191caa3b22205103cbafa3654ebadfaeb92a8d76f18abe84f262405160",
+    "bytes": 72615
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_32/machine_acquisition_initial.json",
+    "sha256": "e2a74b5c910cec8c87ef95afbd100c63c19e6807a95a534667ce9922ed033100",
+    "bytes": 132796
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_33/actual_abstract_reads_pre_dedup.json",
+    "sha256": "b9c590082e8c6aa464fbb323c8e5f326b86a2195d28ea08561166baa723e7bae",
+    "bytes": 36453
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_33/decisions.json",
+    "sha256": "23cf5b40f7c04a50a76ebdd8b35732d06a775e54e7697b92361f4fd67c4f2e2b",
+    "bytes": 169092
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_33/evidence_batch.json",
+    "sha256": "28908d6801091a4fa5b970b8c307b4a6c0b518496ddccced05c6ab13795841c2",
+    "bytes": 185328
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_33/machine_extracted_abstracts.json",
+    "sha256": "c3bf4a917ca3086440c423fc1f6b4b3a9b8acad9d6a56d988030450ca8bea795",
+    "bytes": 31672
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_33/screening_decisions_pre_dedup.json",
+    "sha256": "91b6548261db1cff2115ae24da0df7a6a521e6de97c39a8c9265e03beeacdeb8",
+    "bytes": 15047
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_34/candidates_pending_type.json",
+    "sha256": "f62fe3232c3e4a227c6107fe3a1cd73ecc8496c4b0fad50e32d56dac760c0bd7",
+    "bytes": 17408
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_34/decisions.json",
+    "sha256": "c8805f6bc93ef3749b9aa30f0e795e1ef7047702304ab3baaa6b84fa3ef3389f",
+    "bytes": 146442
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_34/evidence_batch.json",
+    "sha256": "17c35a09dbf5a765d16a7630759957f8ff846ea9d7b7777336034e1845edc53f",
+    "bytes": 187082
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_34/machine_acquisition.json",
+    "sha256": "f6ae24a7974a6a948a8deca4cd0f4cc8447edb0c35d4368065f5b5ed364df52c",
+    "bytes": 70240
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_35/actual_abstract_reads_pre_dedup.json",
+    "sha256": "12eb01c39300d7c85cf88f529372e2946d173497db0fd79bde0486adf7dbe21a",
+    "bytes": 35411
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_35/candidates_pending_type.json",
+    "sha256": "c7c20703b754afcfa4ed2a09b37615da0becab7cf5b2aab3261b4974393958d4",
+    "bytes": 10607
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_35/decisions.json",
+    "sha256": "51bfb494e910b8d71d156bf9d12fc346fb982aff64e3affa84ea151024518611",
+    "bytes": 167089
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_35/evidence_batch.json",
+    "sha256": "94a0efa185cc7ad35fec3375ed11dc127fe393db6008dbc828866616bbc0f79a",
+    "bytes": 184058
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_35/machine_extracted_abstracts.json",
+    "sha256": "8a96fca5918afee3712fb72013269a8016a24798eea34d72acb6ceff50fd2b4d",
+    "bytes": 30630
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_35/profiles/2025.findings-acl.685/profile_candidate.json",
+    "sha256": "4eff354439dfdeea2b9f22dbae262ba9971fa4877230b85096fb51b047fa3827",
+    "bytes": 9921
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_35/screening_decisions_pre_dedup.json",
+    "sha256": "eaf664ef846a2bac0a36386d82809fcd76e72a7cbb25f60b5c8ccd5e4acef644",
+    "bytes": 15060
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_36/candidates_pending_type.json",
+    "sha256": "ffed4d11f5455291cf0c423ef81e3ffcf7929b1db856f31420e80f7b3cbf7c19",
+    "bytes": 17291
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_36/decisions.json",
+    "sha256": "3234251e4ef3542e964be3d45c56e4b710ef48045d396dad7d4e3b456c1493e5",
+    "bytes": 149558
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_36/evidence_batch.json",
+    "sha256": "f3411064c92baf6a2b36a1d9479b9382981965f1b2e9d7100dd9a815e505f050",
+    "bytes": 197292
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_36/machine_acquisition.json",
+    "sha256": "cf221e8657527fbe96bddac97aba01e1a83c28a6e3d640c1c33d02a035473d01",
+    "bytes": 72838
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_37/actual_abstract_reads_pre_dedup.json",
+    "sha256": "4e97f9dd89dffd7c94811648d0c3caaf85a47b48b34f4643d6ee112868e6bccb",
+    "bytes": 38505
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_37/candidates_pending_type.json",
+    "sha256": "01a19072d734a21474030867b8e3da8b75cfac98af1270212009d09a5a0551f2",
+    "bytes": 36718
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_37/decisions.json",
+    "sha256": "4f6c8967ad5fc6015414e4a7caa107d35435206e118d5827d8a49d403f9fd41d",
+    "bytes": 173346
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_37/evidence_batch.json",
+    "sha256": "f5a8d1e6bd388ea64fb172b4ca162328a80795d0abea6bf17b9b6922752b7575",
+    "bytes": 190897
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_37/machine_extracted_abstracts.json",
+    "sha256": "3dd2af1c742933a7d7ef20944e3dcf8f7997985d8791e521c2c3db9347237376",
+    "bytes": 33724
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_37/screening_decisions_pre_dedup.json",
+    "sha256": "a0d2d538d1045bf4f9f22c99edfd6c1de3868764a45d8a5e4d1f93e8e4a983a8",
+    "bytes": 14643
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_38/candidates_pending_type.json",
+    "sha256": "14a94ce04e167c9026baa17caafee7ac5ce2910a7af2e3bcc4bebed09ee603ac",
+    "bytes": 33128
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_38/decisions.json",
+    "sha256": "ffeb801a2cce4709647b4e75aa6f5586be2d0fa795fe2d859b0d371a1a8cd7ea",
+    "bytes": 152073
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_38/evidence_batch.json",
+    "sha256": "0a2008b19d5d9eae43fd3b0b4c6d681e73116dea052777d0100d60901da55806",
+    "bytes": 203725
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_38/machine_acquisition.json",
+    "sha256": "b54e9eb92904daa0ad5366abd9a3ad5634313ae9e43ddefcfc380d28709baaa5",
+    "bytes": 74575
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_39/actual_abstract_reads_pre_dedup.json",
+    "sha256": "a97df40e3485f81d25cb0e5d9c03aed7f7575f78249a2b925968228e5ef64616",
+    "bytes": 34700
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_39/candidates_pending_type.json",
+    "sha256": "51570ccec940c02020ed360edf59ecc440b7477d089c9164048302aa0e58270b",
+    "bytes": 18806
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_39/decisions.json",
+    "sha256": "950acf01652615208e34363bb97441b1f237eb90d0c13b74bafe56facc50b0f3",
+    "bytes": 166716
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_39/evidence_batch.json",
+    "sha256": "32bf862eadde6c0e2064d9121bf509d70034d35c40b823e274fafe97529c874b",
+    "bytes": 184895
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_39/machine_extracted_abstracts.json",
+    "sha256": "66beabad1226989aa840f1604e597b765f87d30313822f88f585a0ba7250db3a",
+    "bytes": 29919
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_39/screening_decisions_pre_dedup.json",
+    "sha256": "8c78285d1fe0aa2d105c6d7b4972116837edee635bf3970193866f0c680ce178",
+    "bytes": 14744
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_40/decisions.json",
+    "sha256": "a32ce59b6652119be672ea1abd5112abb98f3768f7eae0cd178f43658c2a42e2",
+    "bytes": 146434
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_40/evidence_batch.json",
+    "sha256": "1fa3a1acb8ad1e9cb023080d08f2d6c85544fcd665e52eb96af8abe40079dd22",
+    "bytes": 201848
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_40/machine_acquisition.json",
+    "sha256": "9b0a8601cf4e64a44ecce2cbf5d687fc25f2be128c7d7481bb6d9d1ac768fbcf",
+    "bytes": 73876
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_41/actual_abstract_reads_pre_dedup.json",
+    "sha256": "9eb8efec89e41d90f96b51c02b0333714610183d532d2cfcd9f2ba5f7a9e24b6",
+    "bytes": 36570
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_41/decisions.json",
+    "sha256": "6f0270effb2fb524be319e703fad6f8fe75b2850371aeed7412ef95632e772dd",
+    "bytes": 167001
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_41/evidence_batch.json",
+    "sha256": "9f1c472952ba2f135113c84573de44bd3a1a38381696f740ce3478aac8500556",
+    "bytes": 184902
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_41/machine_extracted_abstracts.json",
+    "sha256": "0ff292983d294a155d68f482deefef758bb3dcb5f58e038bf434bb04c6eeac2a",
+    "bytes": 31789
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_41/screening_decisions_pre_dedup.json",
+    "sha256": "3467950b7c9cae35571bc0b29a1daade7c7ca15150eb3bf6bebd38772758a72c",
+    "bytes": 13985
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_42/candidates_pending_type.json",
+    "sha256": "2963b84ac90ea4b6ff13ca5b56b9d86280c10650ba834a169d9a103860e5b6a7",
+    "bytes": 9210
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_42/decisions.json",
+    "sha256": "f0b01de431e3b87b76f3f5665022a305969e58830b27200491fda9fb0cf0df44",
+    "bytes": 150253
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_42/evidence_batch.json",
+    "sha256": "0e837b35d2fb6a8c651729b883391ca7b7f555916ed7226fd834fb9476427734",
+    "bytes": 206647
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_42/machine_acquisition.json",
+    "sha256": "667205d8551a7b989703e3521030fcc69321bc5880033992452f75a08eb5bf9d",
+    "bytes": 77708
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_43/actual_abstract_reads_pre_dedup.json",
+    "sha256": "648004d87b6c933a0ad5ab908b473ce06f7447a0a45e14c754f7c9c902a28f18",
+    "bytes": 38263
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_43/candidates_pending_type.json",
+    "sha256": "7fd5b0da7f7a150b0bb0d3e152d5fd44f43a94a8d049fd9e1b43e9ba372a356a",
+    "bytes": 30237
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_43/decisions.json",
+    "sha256": "48840edf28d2ce886db9164d2f995a50e279a4f8f39ac63de15961d2f9dc8cd0",
+    "bytes": 172112
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_43/evidence_batch.json",
+    "sha256": "a3a7b53d55c5fea17437ecffc69d101173ca5b6fa1bc7a9850abf482cd6b3988",
+    "bytes": 190820
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_43/machine_extracted_abstracts.json",
+    "sha256": "2b5427b318081dbacf469c8c24d3662c00f9de3996139ca592f841b6b7df2910",
+    "bytes": 33482
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_43/screening_decisions_pre_dedup.json",
+    "sha256": "3f539a82ab2ee954715e737763ffc9bd1e15a5a04f9074787fe6918b2b50616b",
+    "bytes": 14316
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_44/candidates_pending_type.json",
+    "sha256": "261e03f01582258736f992bcde8a924010fc83bf34125b534e10ba83cf8616b2",
+    "bytes": 8197
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_44/decisions.json",
+    "sha256": "6d4cde5656382844d2d20d7feab4253b041759105a303fa694ccb90b15665925",
+    "bytes": 147765
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_44/evidence_batch.json",
+    "sha256": "b3350a3abc839c6361ea683508d6525ddf3e32d37adb7ad4e74e3db2be2e8431",
+    "bytes": 210005
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_44/machine_acquisition.json",
+    "sha256": "960ce7fdcefb9454faf7ed116d00542d95cc4c43da00028241a0fa2421824e56",
+    "bytes": 74579
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_45/actual_abstract_reads_pre_dedup.json",
+    "sha256": "f362061b9802ff2f9a48d09b3655df26f5febc6b927a0d6af707a5b73835f450",
+    "bytes": 33399
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_45/candidates_pending_type.json",
+    "sha256": "b317ab4be89fd06ae109ab2ae0d21257ce550b0151bebe6af90cbadbccdce9b0",
+    "bytes": 26252
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_45/decisions.json",
+    "sha256": "8411378e60c384f8e797a45c08d52c198bb5cbff124ef19ffd939b879d3717cb",
+    "bytes": 163333
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_45/evidence_batch.json",
+    "sha256": "c0a5f1e21aa4a1e9784d1873fad77d5f47ebcd81ddf86a5ded5b4d7ae814e417",
+    "bytes": 183147
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_45/machine_extracted_abstracts.json",
+    "sha256": "915510710b04dce976da07023caebadadaccdf37bd6908de53eb8f9a5978a1ef",
+    "bytes": 28618
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_45/screening_decisions_pre_dedup.json",
+    "sha256": "ef0c598cae7a631f228bbdc5f24bd0c75dc2d5a98015b22ed4765c4409b83974",
+    "bytes": 14463
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_46/candidates_pending_type.json",
+    "sha256": "f367ebef3f2d2e3261ffe6827528406652ffa20cd813051375301e01dbb7314a",
+    "bytes": 25431
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_46/decisions.json",
+    "sha256": "f1acea095a962acc9894b15b987877a02c8598a6fe55a12a95c2d2cdb76ad445",
+    "bytes": 150920
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_46/evidence_batch.json",
+    "sha256": "3db1c3e28ee5dc489ea7fea751c6f3756f81530a96e670147fe1d0fe091172aa",
+    "bytes": 217030
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_46/machine_acquisition.json",
+    "sha256": "708523d010300bc4bf0c4da6d56d65a6e702aa9061369f2f8f15a4c216ca98c1",
+    "bytes": 76136
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_47/actual_abstract_reads_pre_dedup.json",
+    "sha256": "56645381f5f1e699a129d769b00fadeaa4b3aed49b331821a46aff4888526932",
+    "bytes": 36271
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_47/decisions.json",
+    "sha256": "3682b0c20c95c5791b117cd28e60692967ed6df5a17a786e327ac7f2dab1a715",
+    "bytes": 165696
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_47/evidence_batch.json",
+    "sha256": "78d06a03166ee919c6aef0f2c2f917278e075203389dadc109df367bbc9eb75e",
+    "bytes": 185276
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_47/machine_extracted_abstracts.json",
+    "sha256": "c36185945383ac7d4a781e080b9647911265851a919046699c04466688891a31",
+    "bytes": 31490
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_47/screening_decisions_pre_dedup.json",
+    "sha256": "ea8c797dddf44f165c91ce0171a206216625ff3e8fdd2af6dffc950aedd67c47",
+    "bytes": 13493
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_48/decisions.json",
+    "sha256": "d6412e2a98fc1316a45110d41bb2addd7764aaac25d15cd3b4eed67c09b041c0",
+    "bytes": 150284
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_48/evidence_batch.json",
+    "sha256": "ade7d2ee4d3b57daa9169aeaf550b9036ab823741fba8889557eeb51c268727e",
+    "bytes": 221212
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_48/machine_acquisition.json",
+    "sha256": "349868309f4960c46e1cbcb1b61503deaf2fcee4d52cf19c325b81479fd74d72",
+    "bytes": 75056
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_49/actual_abstract_reads_pre_dedup.json",
+    "sha256": "23abe872db02ccc7900b4a128a4642817ad03d5edcf6dd822f444cbfaaa544bb",
+    "bytes": 37028
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_49/candidates_pending_type.json",
+    "sha256": "f8ecf756eed61f6f6c41541fc6f632629dba08623633e06cfa7f0d45e991cbc9",
+    "bytes": 18460
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_49/decisions.json",
+    "sha256": "589e81dbe532d10009c982b8618cf780bdd68c009a70145cbb3793ff8df5cf59",
+    "bytes": 170342
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_49/evidence_batch.json",
+    "sha256": "6f04480fe260d7a0362af0947698f8bd92c7de1f720ca8397c653f655096f7d2",
+    "bytes": 191410
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_49/machine_extracted_abstracts.json",
+    "sha256": "8157fbab111ac75ec1761e9b4e8c82ed78e186c138a9b5fa39867a69ce3dd552",
+    "bytes": 32247
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_49/screening_decisions_pre_dedup.json",
+    "sha256": "f87e5b1aadf7d0a71086a8343e84caf98e8913b816710c893789fdec91472517",
+    "bytes": 14773
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_50/candidates_pending_type.json",
+    "sha256": "6b17a17d963883101dc480407ca605c3c857fd6f3df92d2f4b1c700858904e38",
+    "bytes": 9057
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_50/decisions.json",
+    "sha256": "0f30aa73252bdd8462674c239668aadb605c75b8e8c9ac4af8fb83d86320f97a",
+    "bytes": 148540
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_50/evidence_batch.json",
+    "sha256": "09759d779e3751812887a2940fc9909939098d177b31efb2920a22124cbd5a38",
+    "bytes": 221247
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_50/machine_acquisition.json",
+    "sha256": "aff40e2a798e3a5b0d5a93fb8ef15cb69b148b2049ba9c817a8967cd364beb1c",
+    "bytes": 75753
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_51/actual_abstract_reads_pre_dedup.json",
+    "sha256": "b3dcd4416e135523453d14bf7afbc4c737d6ebf5c5838a560088a24d620be45f",
+    "bytes": 37194
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_51/decisions.json",
+    "sha256": "9bedd6410e70822ee4f15bfe3cf153bd3eaaa2224a5ff6c3ed165cc89c019a43",
+    "bytes": 169164
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_51/evidence_batch.json",
+    "sha256": "ef51c906efde655609cf41743449269f93e2a78818d795956a9bbc29dcde4354",
+    "bytes": 190089
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_51/machine_extracted_abstracts.json",
+    "sha256": "1f0a60bb7f955de7ce450ae16b4647143580179d62d8b61b834eed174ca718fa",
+    "bytes": 32413
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_51/screening_decisions_pre_dedup.json",
+    "sha256": "45dec087c6b447368e536b14fe9224b98cd5ed6461ba426511f3970d8e7a3344",
+    "bytes": 13843
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_52/candidates_pending_type.json",
+    "sha256": "19abbd4eaddd0514f32bfe165e1b3c6f6d2ea30ec8d4821ae469690fb0728d17",
+    "bytes": 8673
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_52/decisions.json",
+    "sha256": "4932d8e0d61dc19432a8207542050fa7db4191c3d8de0c9670d76bc329ff4d74",
+    "bytes": 148209
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_52/evidence_batch.json",
+    "sha256": "8b336952f672933cc107dde4067952dfa2e9e1817115557feb1d4c87e8c3c4c6",
+    "bytes": 221923
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_52/machine_acquisition.json",
+    "sha256": "d4ce0f9eeac78822b640be11083a2b1a6ca549162e618816813310e798941329",
+    "bytes": 75247
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_53/actual_abstract_reads_pre_dedup.json",
+    "sha256": "35b2e7384b8fc298cc2f00a8439852240968b4a03037f86abdb04da525415655",
+    "bytes": 35954
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_53/candidates_pending_type.json",
+    "sha256": "77432e88c47f4f99a0f9a2235948b3a72a4fcb047bbfdea0599fe81131cde128",
+    "bytes": 9000
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_53/decisions.json",
+    "sha256": "4b3bffe14f5efc8c2af11452f16d618c874761a541e6e124b41019c31caffba5",
+    "bytes": 166559
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_53/evidence_batch.json",
+    "sha256": "749f280d1ae038dd30059b0c4b795d3ecdcd2b793fce213559e283bf9d421fa3",
+    "bytes": 187580
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_53/machine_extracted_abstracts.json",
+    "sha256": "686122a4c1106acc9277ab8f19ac565ba7ed69c718a58b3fc246022099687460",
+    "bytes": 31173
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_53/screening_decisions_pre_dedup.json",
+    "sha256": "a2f44b9cec9cf42f833a1c2780e0ea7bc7721a6d2f994274c21ee75c6329007e",
+    "bytes": 13719
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_54/candidates_pending_type.json",
+    "sha256": "e930d3fb257bb28929a43d06d1cd908a53a67851af91e288446c7137e6ca0561",
+    "bytes": 9150
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_54/decisions.json",
+    "sha256": "043cd1ca1042475b88431d7c832c371c15ecfc663c09db405208090bb846703f",
+    "bytes": 152522
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_54/evidence_batch.json",
+    "sha256": "7d6b55476289a6e241812baf0c56927aa72f06c4567fb99c4f93e6c6e7473034",
+    "bytes": 234171
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_54/machine_acquisition.json",
+    "sha256": "c85c433f9633f0b5f5b5e5fc41a7a0fec606f3842c0faf83344957559dd77237",
+    "bytes": 78549
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_55/actual_abstract_reads_pre_dedup.json",
+    "sha256": "a17c631dfbe3ad43020ced345487a26070b7897f0e3985b04a20a7f02cdcc06d",
+    "bytes": 38170
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_55/decisions.json",
+    "sha256": "b15f40b8182e2a88dd3794265ab86d8cfda884af04c6ad876f08d65e7eb0e93d",
+    "bytes": 172386
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_55/evidence_batch.json",
+    "sha256": "553039654901e18d177d562a390a3a3dcabe7b19b1e15f62a512ee124c291476",
+    "bytes": 195124
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_55/machine_extracted_abstracts.json",
+    "sha256": "d0d8170d89da1a10e87ce466014d1d2e564205962825e53f69b6a79e0a3e3aaa",
+    "bytes": 33389
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_55/screening_decisions_pre_dedup.json",
+    "sha256": "0902b5c33fbf23f728a4558769b2ca02d0e95a005a1960e71f8386d35cca3003",
+    "bytes": 14071
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_56/candidates_pending_type.json",
+    "sha256": "71397a8a2d611bd8bdd6f4b6b92be16e070def09d8ea3dbd119011e39d2b230e",
+    "bytes": 17588
+  },
+  {
+    "file": "acl2025_findings_current_audit_20261018_56/decisions.json",
+    "sha256": "b1d59435ed1d37415bee483e949173658b48e360c74a887c311dea804c2731f0",
+    "bytes": 148318
+  }
+]
