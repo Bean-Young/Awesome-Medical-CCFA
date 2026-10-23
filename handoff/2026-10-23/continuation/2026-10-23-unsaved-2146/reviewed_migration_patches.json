@@ -1,0 +1,1817 @@
+[
+  {
+    "id": "icml2021-meirom21a",
+    "expected_baseline_record_sha256": "97157acbafbff8859e0d887d8bfc244450fe51d138fb2ba7342c2a530779d9c9",
+    "set": {
+      "authors": [
+        "Eli A. Meirom",
+        "Haggai Maron",
+        "Shie Mannor",
+        "Gal Chechik"
+      ],
+      "authors_verified": true,
+      "authors_status": "verified_printed_pdf_with_documented_html_name_difference",
+      "authors_pdf": [
+        "Eli A. Meirom",
+        "Haggai Maron",
+        "Shie Mannor",
+        "Gal Chechik"
+      ],
+      "authors_official_html": [
+        "Eli Meirom",
+        "Haggai Maron",
+        "Shie Mannor",
+        "Gal Chechik"
+      ],
+      "authors_source": "https://proceedings.mlr.press/v139/meirom21a/meirom21a.pdf",
+      "authors_source_page": 1,
+      "authors_source_sha256": "c7d1e1efc04572be8db35250c3a6bbdbdf352dd9734da963493df2028ee53cc7",
+      "first_author": "Eli A. Meirom",
+      "first_institution": "NVIDIA Research",
+      "first_institution_display": "NVIDIA Research",
+      "first_institution_display_basis": "First author’s first printed unit, with country removed only.",
+      "first_institution_raw": "NVIDIA Research, Israel",
+      "first_institution_verified": true,
+      "first_institution_source": "https://proceedings.mlr.press/v139/meirom21a/meirom21a.pdf",
+      "first_institution_evidence": {
+        "author": "Eli A. Meirom",
+        "source_url": "https://proceedings.mlr.press/v139/meirom21a/meirom21a.pdf",
+        "source_page": 1,
+        "source_pdf_sha256": "c7d1e1efc04572be8db35250c3a6bbdbdf352dd9734da963493df2028ee53cc7",
+        "superscripts": [
+          1
+        ],
+        "selected_first_unit": 1,
+        "printed_first_affiliation": "NVIDIA Research, Israel",
+        "method": "Direct visual mapping of Eli A. Meirom superscript 1 to shared printed unit 1; display removes country only, retaining NVIDIA Research."
+      },
+      "first_author_affiliation_as_printed": "NVIDIA Research, Israel",
+      "affiliations": [
+        {
+          "author": "Eli A. Meirom",
+          "affiliations": [
+            "NVIDIA Research, Israel"
+          ]
+        },
+        {
+          "author": "Haggai Maron",
+          "affiliations": [
+            "NVIDIA Research, Israel"
+          ]
+        },
+        {
+          "author": "Shie Mannor",
+          "affiliations": [
+            "NVIDIA Research, Israel"
+          ]
+        },
+        {
+          "author": "Gal Chechik",
+          "affiliations": [
+            "NVIDIA Research, Israel"
+          ]
+        }
+      ],
+      "affiliations_status": "verified_official_pdf",
+      "affiliations_source": "https://proceedings.mlr.press/v139/meirom21a/meirom21a.pdf",
+      "affiliations_evidence": {
+        "source_url": "https://proceedings.mlr.press/v139/meirom21a/meirom21a.pdf",
+        "source_page": 1,
+        "source_pdf_sha256": "c7d1e1efc04572be8db35250c3a6bbdbdf352dd9734da963493df2028ee53cc7",
+        "printed_units": {
+          "1": "NVIDIA Research, Israel"
+        },
+        "author_markers": [
+          {
+            "author": "Eli A. Meirom",
+            "markers": [
+              "1"
+            ]
+          },
+          {
+            "author": "Haggai Maron",
+            "markers": [
+              "1"
+            ]
+          },
+          {
+            "author": "Shie Mannor",
+            "markers": [
+              "1"
+            ]
+          },
+          {
+            "author": "Gal Chechik",
+            "markers": [
+              "1"
+            ]
+          }
+        ]
+      },
+      "equal_contribution_authors": [],
+      "co_first_authors": [],
+      "authors_equal_contribution": {
+        "authors": [],
+        "finding": "No equal-contribution marker appears in the printed byline or footnotes."
+      },
+      "senior_authorship_authors": [],
+      "author_order_evidence": {
+        "source_url": "https://proceedings.mlr.press/v139/meirom21a/meirom21a.pdf",
+        "source_page": 1,
+        "official_html_url": "https://proceedings.mlr.press/v139/meirom21a.html",
+        "finding": "The first printed author is Eli A. Meirom; official HTML and the PDF correspondence line use Eli Meirom without the middle initial. The displayed byline follows the printed author line. All four authors have marker 1, NVIDIA Research, Israel. No equal-contribution marker appears."
+      },
+      "co_first_author_evidence": {
+        "source_url": "https://proceedings.mlr.press/v139/meirom21a/meirom21a.pdf",
+        "source_page": 1,
+        "finding": "No co-first marker printed; none inferred."
+      },
+      "summary": "本文把有限检测资源下的疫情控制写成部分可观测动态图上的强化学习问题：局部传播 GNN 跟踪接触扩散，长程信息 GNN 更新远端感染信念，再按节点评分选择检测对象，以后续传播而非即时检出人数训练策略。疫情研究是本文的主要实证部分之一，另有非医学的影响力最大化测试。接触追踪实验只用 2020 年 4 月匿名汇总统计生成合成网络，并未使用真实接触图开展干预；其他大型网络也只承载模拟传播。优势主要出现在中等难度网络，过密网络和传播概率偏移会削弱效果。正文与补充材料对遏制阈值、初始感染比例及部分实验时长的表述并不完全一致，均在限制说明中保留。结果不能证明真实 COVID-19 检测、隔离政策的安全性或患者获益。",
+      "summary_zh": "本文把有限检测资源下的疫情控制写成部分可观测动态图上的强化学习问题：局部传播 GNN 跟踪接触扩散，长程信息 GNN 更新远端感染信念，再按节点评分选择检测对象，以后续传播而非即时检出人数训练策略。疫情研究是本文的主要实证部分之一，另有非医学的影响力最大化测试。接触追踪实验只用 2020 年 4 月匿名汇总统计生成合成网络，并未使用真实接触图开展干预；其他大型网络也只承载模拟传播。优势主要出现在中等难度网络，过密网络和传播概率偏移会削弱效果。正文与补充材料对遏制阈值、初始感染比例及部分实验时长的表述并不完全一致，均在限制说明中保留。结果不能证明真实 COVID-19 检测、隔离政策的安全性或患者获益。",
+      "summary_en": "RLGN learns testing priorities on partially observed temporal epidemic graphs using separate local-diffusion and long-range-information GNNs plus reinforcement learning from downstream spread. Its substantive epidemic study includes simulation across network types and contact-statistics-generated synthetic graphs, alongside a separate nonmedical influence-maximization task. It is not a deployed contact-tracing intervention, and performance depends on network difficulty and epidemiological shift.",
+      "summary_language": "zh-CN",
+      "introduction_zh": "本文把有限检测资源下的疫情控制写成部分可观测动态图上的强化学习问题：局部传播 GNN 跟踪接触扩散，长程信息 GNN 更新远端感染信念，再按节点评分选择检测对象，以后续传播而非即时检出人数训练策略。疫情研究是本文的主要实证部分之一，另有非医学的影响力最大化测试。接触追踪实验只用 2020 年 4 月匿名汇总统计生成合成网络，并未使用真实接触图开展干预；其他大型网络也只承载模拟传播。优势主要出现在中等难度网络，过密网络和传播概率偏移会削弱效果。正文与补充材料对遏制阈值、初始感染比例及部分实验时长的表述并不完全一致，均在限制说明中保留。结果不能证明真实 COVID-19 检测、隔离政策的安全性或患者获益。",
+      "contribution_introduction_zh": "本文把有限检测资源下的疫情控制写成部分可观测动态图上的强化学习问题：局部传播 GNN 跟踪接触扩散，长程信息 GNN 更新远端感染信念，再按节点评分选择检测对象，以后续传播而非即时检出人数训练策略。疫情研究是本文的主要实证部分之一，另有非医学的影响力最大化测试。接触追踪实验只用 2020 年 4 月匿名汇总统计生成合成网络，并未使用真实接触图开展干预；其他大型网络也只承载模拟传播。优势主要出现在中等难度网络，过密网络和传播概率偏移会削弱效果。正文与补充材料对遏制阈值、初始感染比例及部分实验时长的表述并不完全一致，均在限制说明中保留。结果不能证明真实 COVID-19 检测、隔离政策的安全性或患者获益。",
+      "summary_source": "https://proceedings.mlr.press/v139/meirom21a/meirom21a.pdf",
+      "summary_zh_source": "https://proceedings.mlr.press/v139/meirom21a/meirom21a.pdf",
+      "summary_method": "Independent contribution paraphrase from Sections 3.2, 4, 5.1, 7 and Supplement D; no new scientific-reading credit.",
+      "abstract": "We consider the problem of controlling a partially-observed dynamic process on a graph by a limited number of interventions. This problem naturally arises in contexts such as scheduling virus tests to curb an epidemic; targeted marketing in order to promote a product; and manually inspecting posts to detect fake news spreading on social networks. We formulate this setup as a sequential decision problem over a temporal graph process. In face of an exponential state space, combinatorial action space and partial observability, we design a novel tractable scheme to control dynamical processes on temporal graphs. We successfully apply our approach to two popular problems that fall into our framework: prioritizing which nodes should be tested in order to curb the spread of an epidemic, and influence maximization on a graph.",
+      "abstract_source": "https://proceedings.mlr.press/v139/meirom21a.html",
+      "abstract_version": "publisher_original",
+      "abstract_display_type": "original_licensed",
+      "abstract_display_label": "Original abstract (CC BY 4.0)",
+      "abstract_license": "CC-BY-4.0",
+      "abstract_license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "abstract_permission_status": "cleared",
+      "abstract_permission_checked_at": "2026-10-23",
+      "abstract_attribution": "Eli A. Meirom, Haggai Maron, Shie Mannor, Gal Chechik. Controlling Graph Dynamics with Reinforcement Learning and Graph Neural Networks. Proceedings of the 38th International Conference on Machine Learning, PMLR 139:7565–7577, 2021. Copyright 2021 by the authors. Original publication: https://proceedings.mlr.press/v139/meirom21a.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+      "abstract_changes": "Complete original publisher HTML abstract, with whitespace normalization only; wording and punctuation retained.",
+      "abstract_permission_evidence": {
+        "source_url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+        "supporting_sources": [
+          "https://proceedings.mlr.press/v139/meirom21a.html",
+          "https://proceedings.mlr.press/v139/meirom21a/meirom21a.pdf",
+          "https://proceedings.mlr.press/faq.html"
+        ],
+        "basis": "This exact article is officially published in PMLR 139 and its first page prints author copyright. The official FAQ requires signed publication-permission forms and links the inspected agreement. Paragraph 2 grants CC BY 4.0 in the article to the general public; paragraph 3 requires original-publication citation and hyperlink; paragraph 5 includes publisher edits; paragraph 6 states the authors’ right-to-grant warranty. Applicability is inferred through that mandatory publisher chain, not an inspected individual signed form or the copyright footer alone. Each selected embedded component is separately inspected; underlying networks, contact records, software, cited external works and unselected media are outside this inference.",
+        "publication_html_sha256": "b585c605d9b5824034904446f73b2d3cc12b8c7b78802255f875d99005cd86e2",
+        "source_pdf_sha256": "c7d1e1efc04572be8db35250c3a6bbdbdf352dd9734da963493df2028ee53cc7",
+        "abstract_matches_official_html": true
+      },
+      "abstract_sha256": "b41954cd74168ff384e2c1d1cde67120429dd9a74577e86a7bfd9ae76d067903",
+      "abstract_source_html_sha256": "b585c605d9b5824034904446f73b2d3cc12b8c7b78802255f875d99005cd86e2",
+      "abstract_source_pdf_sha256": "c7d1e1efc04572be8db35250c3a6bbdbdf352dd9734da963493df2028ee53cc7",
+      "abstract_verified_against_pdf": true,
+      "abstract_pdf_comparison": {
+        "same_after_typographic_normalization": true,
+        "normalization": "Unicode ligatures, whitespace and source-aligned line-wrap hyphens only.",
+        "pdf_bbox_points": [
+          74,
+          211,
+          273,
+          420
+        ],
+        "comparison_note": "The complete original publisher HTML abstract matches the printed PDF after Unicode ligature, whitespace and explicitly source-aligned line-wrap handling only. Wording, numbers, punctuation and meaningful hyphens agree; no lexical or mathematical difference was found."
+      },
+      "abstract_footnotes": [
+        {
+          "marker": "Catalogue reuse notice",
+          "text": "Catalogue-added notice, not part of the original abstract: Eli A. Meirom, Haggai Maron, Shie Mannor, Gal Chechik. Controlling Graph Dynamics with Reinforcement Learning and Graph Neural Networks. Proceedings of the 38th International Conference on Machine Learning, PMLR 139:7565–7577, 2021. Copyright 2021 by the authors. Original publication: https://proceedings.mlr.press/v139/meirom21a.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Complete publisher HTML abstract; whitespace normalized only. No endorsement implied.",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "source_url": "https://proceedings.mlr.press/v139/meirom21a.html"
+        }
+      ],
+      "source_html_sha256": "b585c605d9b5824034904446f73b2d3cc12b8c7b78802255f875d99005cd86e2",
+      "source_pdf_sha256": "c7d1e1efc04572be8db35250c3a6bbdbdf352dd9734da963493df2028ee53cc7",
+      "source_checked_at": "2026-10-23",
+      "first_page": "assets/pmlr-reviewed-20261023-2146/icml2021-meirom21a-firstpage.webp",
+      "first_page_source": "https://proceedings.mlr.press/v139/meirom21a/meirom21a.pdf",
+      "first_page_license": "CC-BY-4.0",
+      "first_page_license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "first_page_permission_status": "cleared",
+      "first_page_attribution": "Eli A. Meirom, Haggai Maron, Shie Mannor, Gal Chechik. Controlling Graph Dynamics with Reinforcement Learning and Graph Neural Networks. Proceedings of the 38th International Conference on Machine Learning, PMLR 139:7565–7577, 2021. Copyright 2021 by the authors. Original publication: https://proceedings.mlr.press/v139/meirom21a.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+      "first_page_changes": "The complete official PDF first page was rasterized to lossless WebP at 144 dpi; no page content was removed or altered.",
+      "first_page_sha256": "e594a2cd6890ad9374d8312a1241ab65331272f4b765247c4eb66250b6d22bf8",
+      "first_page_dimensions": [
+        1224,
+        1584
+      ],
+      "main_figure": {
+        "path": "assets/pmlr-reviewed-20261023-2146/icml2021-meirom21a-mainfigure.webp",
+        "label": "Figure 4",
+        "type": "figure",
+        "source_url": "https://proceedings.mlr.press/v139/meirom21a/meirom21a.pdf",
+        "publication_url": "https://proceedings.mlr.press/v139/meirom21a.html",
+        "page": 4,
+        "version": "publisher_final_pdf",
+        "source_pdf_sha256": "c7d1e1efc04572be8db35250c3a6bbdbdf352dd9734da963493df2028ee53cc7",
+        "asset_sha256": "3ddd0a9bf0ce0b2d0f8abb1d15c0b541e437967de69bb691b57a3370574d6a65",
+        "crop_rect_points": [
+          305,
+          67,
+          545,
+          315
+        ],
+        "selection_rationale": "Figure 4 captures the complete proposed contribution, linking temporal graph observations, learned ranking, sampled interventions and downstream epidemic feedback. Figure 1 only motivates the problem, Figures 2–3 isolate information propagation or a toy example, and Figure 5 covers only the ranking submodule. Figure 6 and Tables 1–2 report simulated epidemic outcomes rather than the full mechanism. The complete Figure 4 and its full caption are selected without cropping out any graph state, arrow, module or feedback loop.",
+        "caption": "Figure 4. Schematic of our approach. The Ranking module receives as input a sequence of graphs and outputs scores over nodes. Scores are then used to sample actions, selecting nodes for intervention. Here, the person circled in blue is selected for quarantine and its connections are canceled (dashed blue lines). The downstream effect on epidemic progression is then fed as a loss to the ranking module.",
+        "display_caption": "Figure 4. Schematic of our approach. The Ranking module receives as input a sequence of graphs and outputs scores over nodes. Scores are then used to sample actions, selecting nodes for intervention. Here, the person circled in blue is selected for quarantine and its connections are canceled (dashed blue lines). The downstream effect on epidemic progression is then fed as a loss to the ranking module.",
+        "caption_in_image": true,
+        "license": "CC-BY-4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "permission_status": "cleared",
+        "attribution": "Eli A. Meirom, Haggai Maron, Shie Mannor, Gal Chechik. Controlling Graph Dynamics with Reinforcement Learning and Graph Neural Networks. Proceedings of the 38th International Conference on Machine Learning, PMLR 139:7565–7577, 2021. Copyright 2021 by the authors. Original publication: https://proceedings.mlr.press/v139/meirom21a.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+        "changes": "The complete Figure 4 and its full original caption were cropped from physical PDF page 4 and rasterized to lossless WebP at 216 dpi; surrounding article text was excluded, with no diagram content changed.",
+        "visually_inspected": true
+      },
+      "main_figure_permission_status": "cleared",
+      "main_figure_status": "core_contribution_figure_visually_inspected",
+      "figure_selection_verified": true,
+      "media_rights_review": {
+        "first_page": {
+          "status": "cleared",
+          "asset_path": "assets/pmlr-reviewed-20261023-2146/icml2021-meirom21a-firstpage.webp",
+          "asset_sha256": "e594a2cd6890ad9374d8312a1241ab65331272f4b765247c4eb66250b6d22bf8",
+          "source_url": "https://proceedings.mlr.press/v139/meirom21a/meirom21a.pdf",
+          "source_pdf_sha256": "c7d1e1efc04572be8db35250c3a6bbdbdf352dd9734da963493df2028ee53cc7",
+          "source_page": 1,
+          "publication_url": "https://proceedings.mlr.press/v139/meirom21a.html",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "attribution": "Eli A. Meirom, Haggai Maron, Shie Mannor, Gal Chechik. Controlling Graph Dynamics with Reinforcement Learning and Graph Neural Networks. Proceedings of the 38th International Conference on Machine Learning, PMLR 139:7565–7577, 2021. Copyright 2021 by the authors. Original publication: https://proceedings.mlr.press/v139/meirom21a.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+          "changes": "The complete official PDF first page was rasterized to lossless WebP at 144 dpi; no page content was removed or altered.",
+          "evidence_url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+          "scope": "exact_first_page",
+          "embedded_materials_review": "The entire first page includes the title, four-author printed byline, original abstract, introduction, shared affiliation, author copyright and complete embedded Figure 1. Figure 1 is a newly composed three-time-step schematic of the epidemic-control problem: simple outlined human-shaped node symbols, directed connections, state colors, a quarantine ring and a four-state legend. Its caption explicitly describes the example as illustrating this paper’s general framework. It contains no patient photograph, map, institution logo, live contact-tracing record or reproduced clinical chart. The inspected caption, surrounding explanation and full-source component scan identify no external illustration owner, reproduction/adaptation credit or component-specific restriction. Article-authored composition coverage is inferred from that context and the scoped article grant; no separate license to an outside icon collection or source dataset is asserted.",
+          "reviewed_at": "2026-10-23",
+          "evidence_basis": "This exact article is officially published in PMLR 139 and its first page prints author copyright. The official FAQ requires signed publication-permission forms and links the inspected agreement. Paragraph 2 grants CC BY 4.0 in the article to the general public; paragraph 3 requires original-publication citation and hyperlink; paragraph 5 includes publisher edits; paragraph 6 states the authors’ right-to-grant warranty. Applicability is inferred through that mandatory publisher chain, not an inspected individual signed form or the copyright footer alone. Each selected embedded component is separately inspected; underlying networks, contact records, software, cited external works and unselected media are outside this inference.",
+          "evidence_urls": [
+            "https://proceedings.mlr.press/v139/meirom21a.html",
+            "https://proceedings.mlr.press/v139/meirom21a/meirom21a.pdf",
+            "https://proceedings.mlr.press/faq.html",
+            "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+            "https://creativecommons.org/licenses/by/4.0/"
+          ]
+        },
+        "main_figure": {
+          "status": "cleared",
+          "asset_path": "assets/pmlr-reviewed-20261023-2146/icml2021-meirom21a-mainfigure.webp",
+          "asset_sha256": "3ddd0a9bf0ce0b2d0f8abb1d15c0b541e437967de69bb691b57a3370574d6a65",
+          "source_url": "https://proceedings.mlr.press/v139/meirom21a/meirom21a.pdf",
+          "source_pdf_sha256": "c7d1e1efc04572be8db35250c3a6bbdbdf352dd9734da963493df2028ee53cc7",
+          "source_page": 4,
+          "publication_url": "https://proceedings.mlr.press/v139/meirom21a.html",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "attribution": "Eli A. Meirom, Haggai Maron, Shie Mannor, Gal Chechik. Controlling Graph Dynamics with Reinforcement Learning and Graph Neural Networks. Proceedings of the 38th International Conference on Machine Learning, PMLR 139:7565–7577, 2021. Copyright 2021 by the authors. Original publication: https://proceedings.mlr.press/v139/meirom21a.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+          "changes": "The complete Figure 4 and its full original caption were cropped from physical PDF page 4 and rasterized to lossless WebP at 216 dpi; surrounding article text was excluded, with no diagram content changed.",
+          "evidence_url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+          "scope": "exact_main_figure",
+          "embedded_materials_review": "The complete Figure 4 is the authors’ schematic of their new control loop: temporal graph input, learned node ranking, action sampling, quarantine, subsequent dynamics and loss feedback. Section 4 expressly introduces this approach and Figure 4’s caption calls it our approach. Its small people/node pictograms and graph snapshots are symbolic mechanism illustrations reused consistently from Figure 1, not real individuals or empirical contact records. No external-artwork attribution, reproduced/adapted figure credit or component-specific contrary notice was found in the caption, surrounding text or source-wide credit scan. The grant inference covers this exact authored diagram only; it does not grant the network datasets, software, contact records or third-party figures.",
+          "reviewed_at": "2026-10-23",
+          "evidence_basis": "This exact article is officially published in PMLR 139 and its first page prints author copyright. The official FAQ requires signed publication-permission forms and links the inspected agreement. Paragraph 2 grants CC BY 4.0 in the article to the general public; paragraph 3 requires original-publication citation and hyperlink; paragraph 5 includes publisher edits; paragraph 6 states the authors’ right-to-grant warranty. Applicability is inferred through that mandatory publisher chain, not an inspected individual signed form or the copyright footer alone. Each selected embedded component is separately inspected; underlying networks, contact records, software, cited external works and unselected media are outside this inference.",
+          "evidence_urls": [
+            "https://proceedings.mlr.press/v139/meirom21a.html",
+            "https://proceedings.mlr.press/v139/meirom21a/meirom21a.pdf",
+            "https://proceedings.mlr.press/faq.html",
+            "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+            "https://creativecommons.org/licenses/by/4.0/"
+          ]
+        }
+      },
+      "illustrated_profile": true,
+      "metadata_ready": true,
+      "core_complete": true,
+      "profile_status": "Full original abstract, entire first page with Figure 1, complete Figure 4 and printed authors/first unit verified.",
+      "profile_verified_at": "2026-10-23",
+      "metadata_blockers": [],
+      "profile_caveats": [
+        "Clinical boundary: all epidemic-control outcomes are simulations. Supplement D.1 explicitly says the authors had no access to live contact-tracing graphs; April 2020 anonymized high-level distributions were used to generate synthetic networks and activity patterns. No prospective testing/quarantine trial, diagnostic validation, observed reduction in human infection or patient benefit is established. Graph nodes and simulation repetitions are not clinical participant counts.",
+        "The first printed author is Eli A. Meirom; official HTML and the PDF correspondence line use Eli Meirom without the middle initial. The displayed byline follows the printed author line. All four authors have marker 1, NVIDIA Research, Israel. No equal-contribution marker appears.",
+        "The complete original publisher HTML abstract matches the printed PDF after Unicode ligature, whitespace and explicitly source-aligned line-wrap handling only. Wording, numbers, punctuation and meaningful hyphens agree; no lexical or mathematical difference was found.",
+        "The testing model assumes that a tested latent or infectious node is identified and removed from the graph; quarantine lasts beyond the episode. This is not a validated test-sensitivity, adherence or real-world isolation model. The agent observes all past graph interactions and test results, an information assumption that is stronger than what a deployed system may possess.",
+        "The source itself limits success to intermediate regimes: Figure S4 includes a network where all tested methods fail to contain spread, and Section 5.1 expects little advantage in extremely sparse or dense networks. Figure S1 shows deterioration under test-time transmission shifts; its caption describes higher test-time transmission while the horizontal ratio is printed as mean p_train divided by mean p_test. That directional-label discrepancy is not silently repaired.",
+        "Source metric discrepancy: main Section 5.1 defines containment using cumulative infected fraction below α=0.4. Supplement D.2 instead states α=0.6 for all experiments except three-community graphs, where α=0.4. Therefore a reported contained-epidemic percentage is not a single uniform threshold across every result. Figure 6’s approximately 60% training-curve description is distinct from Table S5’s three-community 53±13% result; no identical-run claim is made.",
+        "Source configuration discrepancy: Supplement D.3 says Table S6 includes 4% initial infection, but its first column and Table S7 say 5%. Main Table 2 evaluates healthy-node fractions after 20 steps, whereas Supplement D.7 describes 25-step episodes. These are retained as printed descriptions without inventing an unreported reconciliation. Main text samples transmission probabilities in [0.5,1]; Table S7 separately gives U[0.2,0.6] for its edge-inclusion probability-distribution row, so those differently labeled quantities are not automatically treated as the same parameter.",
+        "Large network sizes are 5,242 to 103,425 nodes, not enrolled patient counts. The group labeled real-world datasets includes a compartment-generated Portland network as well as social, email, collaboration and WiFi-based networks. Simulating disease on those structures does not establish fidelity to contemporary population contacts. At least three trained seeds and at least 100 evaluation episodes per model are reported; the source describes its errors as standard deviation of the mean, not clinical confidence intervals.",
+        "A general superiority claim is not supported across both tasks: nonmedical Table 3 reports RLGN 31.3±0.6 on Enron versus degree centrality 31.6±0.6, and 9.1±0.5 on CA-HEPTh versus 9.2±0.3 for several baselines. The selected Figure 4 is a mechanism schematic, not performance evidence or proof of optimal intervention.",
+        "The conclusion states that relying on k-hop neighborhoods may degrade performance when long-range correlations matter, and leaves generalization across graph size/correlation and privacy-preserving deployment to future work. No privacy guarantee follows from using aggregate node-neighborhood information.",
+        "PMLR article rights are inferred through the mandatory publication-agreement chain; an individual signed form was not inspected. Only the whole first page with original Figure 1 and complete Figure 4 are cleared by the exact component evidence. No grant to underlying contact networks, patient records, third-party works, software or unselected media is inferred."
+      ],
+      "new_paper_credit": 0,
+      "new_abstract_read_credit": 0,
+      "new_full_paper_read_credit": 0,
+      "metadata_pending": []
+    },
+    "unset": [
+      "media_display_permissions"
+    ]
+  },
+  {
+    "id": "icml2020-gottesman20a",
+    "expected_baseline_record_sha256": "3b5c495054952be0e64f1711af99c8403b0078a3af675afc8651e2f7d02ff48a",
+    "set": {
+      "authors": [
+        "Omer Gottesman",
+        "Joseph Futoma",
+        "Yao Liu",
+        "Sonali Parbhoo",
+        "Leo Anthony Celi",
+        "Emma Brunskill",
+        "Finale Doshi-Velez"
+      ],
+      "authors_verified": true,
+      "authors_status": "verified_official_pdf_with_html_name_variant",
+      "authors_pdf": [
+        "Omer Gottesman",
+        "Joseph Futoma",
+        "Yao Liu",
+        "Sonali Parbhoo",
+        "Leo Anthony Celi",
+        "Emma Brunskill",
+        "Finale Doshi-Velez"
+      ],
+      "authors_official_html": [
+        "Omer Gottesman",
+        "Joseph Futoma",
+        "Yao Liu",
+        "Sonali Parbhoo",
+        "Leo Celi",
+        "Emma Brunskill",
+        "Finale Doshi-Velez"
+      ],
+      "authors_source": "https://proceedings.mlr.press/v119/gottesman20a/gottesman20a.pdf",
+      "authors_source_page": 1,
+      "authors_source_sha256": "6d17e17f869dec04ca6a350ab956f5f4f2abae60311b8e5e4f851544dc36704e",
+      "author_order_evidence": "The seven printed PDF authors are retained in order. The fifth author is printed Leo Anthony Celi in the PDF but Leo Celi in official HTML. This is a source name variant, not an additional author. No equal-contribution marker is printed.",
+      "first_institution": "Harvard University",
+      "first_institution_raw": "Harvard University",
+      "first_institution_verified": true,
+      "first_institution_source": "https://proceedings.mlr.press/v119/gottesman20a/gottesman20a.pdf",
+      "first_institution_evidence": {
+        "first_author": "Omer Gottesman",
+        "first_author_printed_affiliation_markers": "1",
+        "selected_affiliation_marker": "1",
+        "printed_first_affiliation": "Harvard University",
+        "reason": "Omer Gottesman carries affiliation marker 1, whose complete printed first unit is Harvard University. No department or laboratory is printed, so none is invented. The coauthors’ Stanford University and MIT affiliations are not substituted.",
+        "source_url": "https://proceedings.mlr.press/v119/gottesman20a/gottesman20a.pdf",
+        "source_page": 1,
+        "source_pdf_sha256": "6d17e17f869dec04ca6a350ab956f5f4f2abae60311b8e5e4f851544dc36704e",
+        "raw_pdf_extraction": "1Harvard University 2Stanford University 3MIT. Correspon-\ndence to: Omer Gottesman <gottesman@fas.harvard.edu>.\n",
+        "raw_pdf_extraction_bbox_points": [
+          54,
+          655,
+          292,
+          678
+        ]
+      },
+      "first_author": "Omer Gottesman",
+      "first_author_affiliation_as_printed": "Harvard University",
+      "affiliations": [
+        {
+          "author": "Omer Gottesman",
+          "affiliations": [
+            "Harvard University"
+          ]
+        },
+        {
+          "author": "Joseph Futoma",
+          "affiliations": [
+            "Harvard University"
+          ]
+        },
+        {
+          "author": "Yao Liu",
+          "affiliations": [
+            "Stanford University"
+          ]
+        },
+        {
+          "author": "Sonali Parbhoo",
+          "affiliations": [
+            "Harvard University"
+          ]
+        },
+        {
+          "author": "Leo Anthony Celi",
+          "affiliations": [
+            "MIT"
+          ]
+        },
+        {
+          "author": "Emma Brunskill",
+          "affiliations": [
+            "Stanford University"
+          ]
+        },
+        {
+          "author": "Finale Doshi-Velez",
+          "affiliations": [
+            "Harvard University"
+          ]
+        }
+      ],
+      "affiliations_status": "verified_official_pdf",
+      "affiliations_source": "https://proceedings.mlr.press/v119/gottesman20a/gottesman20a.pdf",
+      "affiliations_evidence": {
+        "source_url": "https://proceedings.mlr.press/v119/gottesman20a/gottesman20a.pdf",
+        "source_page": 1,
+        "source_pdf_sha256": "6d17e17f869dec04ca6a350ab956f5f4f2abae60311b8e5e4f851544dc36704e",
+        "printed_units": {
+          "1": "Harvard University",
+          "2": "Stanford University",
+          "3": "MIT"
+        },
+        "author_markers": [
+          {
+            "author": "Omer Gottesman",
+            "markers": [
+              "1"
+            ]
+          },
+          {
+            "author": "Joseph Futoma",
+            "markers": [
+              "1"
+            ]
+          },
+          {
+            "author": "Yao Liu",
+            "markers": [
+              "2"
+            ]
+          },
+          {
+            "author": "Sonali Parbhoo",
+            "markers": [
+              "1"
+            ]
+          },
+          {
+            "author": "Leo Anthony Celi",
+            "markers": [
+              "3"
+            ]
+          },
+          {
+            "author": "Emma Brunskill",
+            "markers": [
+              "2"
+            ]
+          },
+          {
+            "author": "Finale Doshi-Velez",
+            "markers": [
+              "1"
+            ]
+          }
+        ],
+        "raw_pdf_extraction": "1Harvard University 2Stanford University 3MIT. Correspon-\ndence to: Omer Gottesman <gottesman@fas.harvard.edu>.\n"
+      },
+      "summary": "离线策略评估给出一个数值，并不说明这个数值是否由少数异常记录支撑。本文把删除单个转移或轨迹后估计值的变化作为影响度，为核方法、线性最小二乘的拟合 Q 评估以及重要性采样推导精确计算，并用它筛出需要领域专家检查的片段。图 3 用癌症模拟区分可接受、缺乏覆盖、需要专家确认及异常转移等情况；真实应用则与重症医生共同审查 MIMIC-III 急性低血压数据。筛选后的 1,733 次 ICU 入院又下采样为训练和评估各 346 条轨迹，分别含 6,777 与 6,863 个转移，不能把转移数当作患者数。方法帮助发现测量异常和时间错位，但不证明治疗获益，也不能消除未测混杂或替代不确定性界。来源差异保留：图 5 左例标 28% 影响度，正文写 29%；作者 PDF 印为 Leo Anthony Celi，官网 HTML 为 Leo Celi。",
+      "summary_en": "Influence analysis measures how removing a transition or trajectory changes an off-policy evaluation estimate, with exact computations for kernel and linear least-squares fitted Q-evaluation and importance sampling. Figure 3 distinguishes four expert-facing diagnostics using simulated cancer dynamics. The real application examines MIMIC-III acute hypotension with an intensivist: 1,733 eligible ICU admissions are downsampled to 346 training trajectories (6,777 transitions) and 346 evaluation trajectories (6,863 transitions). These are different sampling units, not thousands of independent patients. Flagging measurement and timing artifacts does not establish treatment benefit, remove unmeasured confounding or replace uncertainty bounds. Figure 5 labels the left example 28% influence while the prose says 29%; PDF author Leo Anthony Celi appears as Leo Celi in HTML.",
+      "summary_zh": "离线策略评估给出一个数值，并不说明这个数值是否由少数异常记录支撑。本文把删除单个转移或轨迹后估计值的变化作为影响度，为核方法、线性最小二乘的拟合 Q 评估以及重要性采样推导精确计算，并用它筛出需要领域专家检查的片段。图 3 用癌症模拟区分可接受、缺乏覆盖、需要专家确认及异常转移等情况；真实应用则与重症医生共同审查 MIMIC-III 急性低血压数据。筛选后的 1,733 次 ICU 入院又下采样为训练和评估各 346 条轨迹，分别含 6,777 与 6,863 个转移，不能把转移数当作患者数。方法帮助发现测量异常和时间错位，但不证明治疗获益，也不能消除未测混杂或替代不确定性界。来源差异保留：图 5 左例标 28% 影响度，正文写 29%；作者 PDF 印为 Leo Anthony Celi，官网 HTML 为 Leo Celi。",
+      "introduction_zh": "离线策略评估给出一个数值，并不说明这个数值是否由少数异常记录支撑。本文把删除单个转移或轨迹后估计值的变化作为影响度，为核方法、线性最小二乘的拟合 Q 评估以及重要性采样推导精确计算，并用它筛出需要领域专家检查的片段。图 3 用癌症模拟区分可接受、缺乏覆盖、需要专家确认及异常转移等情况；真实应用则与重症医生共同审查 MIMIC-III 急性低血压数据。筛选后的 1,733 次 ICU 入院又下采样为训练和评估各 346 条轨迹，分别含 6,777 与 6,863 个转移，不能把转移数当作患者数。方法帮助发现测量异常和时间错位，但不证明治疗获益，也不能消除未测混杂或替代不确定性界。来源差异保留：图 5 左例标 28% 影响度，正文写 29%；作者 PDF 印为 Leo Anthony Celi，官网 HTML 为 Leo Celi。",
+      "contribution_introduction_zh": "离线策略评估给出一个数值，并不说明这个数值是否由少数异常记录支撑。本文把删除单个转移或轨迹后估计值的变化作为影响度，为核方法、线性最小二乘的拟合 Q 评估以及重要性采样推导精确计算，并用它筛出需要领域专家检查的片段。图 3 用癌症模拟区分可接受、缺乏覆盖、需要专家确认及异常转移等情况；真实应用则与重症医生共同审查 MIMIC-III 急性低血压数据。筛选后的 1,733 次 ICU 入院又下采样为训练和评估各 346 条轨迹，分别含 6,777 与 6,863 个转移，不能把转移数当作患者数。方法帮助发现测量异常和时间错位，但不证明治疗获益，也不能消除未测混杂或替代不确定性界。来源差异保留：图 5 左例标 28% 影响度，正文写 29%；作者 PDF 印为 Leo Anthony Celi，官网 HTML 为 Leo Celi。",
+      "summary_language": "zh-CN",
+      "summary_method": "Independent contribution paraphrase checked against existing screened source, methods, empirical/supplementary evidence and scientific limitations; zero new-paper or scientific-reading credit.",
+      "summary_source": "https://proceedings.mlr.press/v119/gottesman20a/gottesman20a.pdf",
+      "summary_zh_source": "https://proceedings.mlr.press/v119/gottesman20a/gottesman20a.pdf",
+      "summary_zh_evidence": {
+        "basis": "Original abstract, Figure 3 and associated methods; no clinical efficacy or new scope claim.",
+        "method": "An original Chinese contribution introduction preserving computational and clinical limitations, not an abstract translation.",
+        "checked_at": "2026-10-23",
+        "new_paper_credit": 0,
+        "new_reading_credit": 0
+      },
+      "abstract": "Off-policy evaluation in reinforcement learning offers the chance of using observational data to improve future outcomes in domains such as healthcare and education, but safe deployment in high stakes settings requires ways of assessing its validity. Traditional measures such as confidence intervals may be insufficient due to noise, limited data and confounding. In this paper we develop a method that could serve as a hybrid human-AI system, to enable human experts to analyze the validity of policy evaluation estimates. This is accomplished by highlighting observations in the data whose removal will have a large effect on the OPE estimate, and formulating a set of rules for choosing which ones to present to domain experts for validation. We develop methods to compute exactly the influence functions for fitted Q-evaluation with two different function classes: kernel-based and linear least squares, as well as importance sampling methods. Experiments on medical simulations and real-world intensive care unit data demonstrate that our method can be used to identify limitations in the evaluation process and make evaluation more robust.",
+      "abstract_source": "https://proceedings.mlr.press/v119/gottesman20a.html",
+      "abstract_version": "publisher_original",
+      "abstract_display_type": "original_licensed",
+      "abstract_display_label": "Original abstract (CC BY 4.0)",
+      "abstract_license": "CC-BY-4.0",
+      "abstract_license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "abstract_permission_status": "cleared",
+      "abstract_permission_checked_at": "2026-10-23",
+      "abstract_attribution": "Omer Gottesman, Joseph Futoma, Yao Liu, Sonali Parbhoo, Leo Anthony Celi, Emma Brunskill, Finale Doshi-Velez. Interpretable Off-Policy Evaluation in Reinforcement Learning by Highlighting Influential Transitions. ICML 2020, Proceedings of Machine Learning Research 119, pp. 3658–3667. © 2020 the authors. Original publication: https://proceedings.mlr.press/v119/gottesman20a.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+      "abstract_changes": "Original publisher HTML abstract body reproduced in full with outer whitespace removed and internal whitespace normalized. Literal mathematical markup, wording, punctuation and numbers retained; no PDF-only text added.",
+      "abstract_permission_note": "The official PMLR article page identifies this exact article and links the inspected publisher PDF. PMLR FAQ requires signed publication-permission forms from authors and links the inspected agreement: paragraph 2 grants the general public CC BY 4.0 rights in the article; paragraph 3 requires the original proceedings citation and hyperlink; paragraph 5 includes publisher edits; paragraph 6 gives originality and right-to-grant warranties. Clearance is an inference from the mandatory publisher-agreement chain and component inspection, not inspection of an individual signed agreement and not the author-copyright footer alone.",
+      "abstract_attribution_conditions": [
+        "Credit all listed authors, title, ICML edition, PMLR volume/pages and original article hyperlink; link CC BY 4.0 and identify changes; retain notices and do not imply endorsement."
+      ],
+      "abstract_license_evidence": [
+        {
+          "url": "https://proceedings.mlr.press/faq.html",
+          "finding": "Requires signed author publication-permission forms and links the inspected agreement."
+        },
+        {
+          "url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+          "finding": "Paragraph 2 grants CC BY 4.0 in the article to the general public; paragraphs 3, 5 and 6 address original citation/link, publisher edits and right-to-grant warranties."
+        },
+        {
+          "url": "https://proceedings.mlr.press/v119/gottesman20a.html",
+          "finding": "Exact article title, authors, original abstract and linked official PDF match the inspected publisher files."
+        }
+      ],
+      "abstract_sha256": "c36b949e5612f508fa3ecb282d4e75e9fdeb8648ce2ac8630de50cc3ae20eb1c",
+      "abstract_source_html_sha256": "95d076970fa1cac7ad76a7ec4f063ae9987c774218b22a5eed272f58eebabca7",
+      "abstract_source_pdf_sha256": "6d17e17f869dec04ca6a350ab956f5f4f2abae60311b8e5e4f851544dc36704e",
+      "abstract_verified_against_pdf": true,
+      "abstract_pdf_comparison": {
+        "same_after_typographic_normalization": true,
+        "same_after_documented_version_difference_handling": true,
+        "normalization": "For comparison only: Unicode NFKC/ligatures, whitespace and source-aligned line-wrap hyphens are normalized. Meaningful hyphens, wording, punctuation and all numbers are retained. Display preserves the complete official HTML abstract.",
+        "pdf_bboxes_in_reading_order_points": [
+          [
+            74,
+            222,
+            273,
+            509
+          ]
+        ],
+        "exact_version_difference": "The complete official HTML abstract and printed PDF abstract agree after Unicode ligature, source-aligned line-wrap hyphen and whitespace handling. Wording, punctuation, meaningful hyphens and numbers are preserved; no lexical substitution is made.",
+        "documented_html_emphasis_comparison_only_replacements": []
+      },
+      "abstract_footnotes": [
+        {
+          "marker": "Catalogue reuse notice",
+          "text": "Catalogue-added notice, not part of the original abstract: Omer Gottesman, Joseph Futoma, Yao Liu, Sonali Parbhoo, Leo Anthony Celi, Emma Brunskill, Finale Doshi-Velez. Interpretable Off-Policy Evaluation in Reinforcement Learning by Highlighting Influential Transitions. ICML 2020, Proceedings of Machine Learning Research 119, pp. 3658–3667. © 2020 the authors. Original publication: https://proceedings.mlr.press/v119/gottesman20a.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Changes: Original publisher HTML abstract body reproduced in full with outer whitespace removed and internal whitespace normalized. Literal mathematical markup, wording, punctuation and numbers retained; no PDF-only text added. No endorsement implied.",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "source_url": "https://proceedings.mlr.press/v119/gottesman20a.html"
+        }
+      ],
+      "source_html_sha256": "95d076970fa1cac7ad76a7ec4f063ae9987c774218b22a5eed272f58eebabca7",
+      "source_pdf_sha256": "6d17e17f869dec04ca6a350ab956f5f4f2abae60311b8e5e4f851544dc36704e",
+      "source_checked_at": "2026-10-23",
+      "first_page": "assets/pmlr-reviewed-20261023-2146/icml2020-gottesman20a-firstpage.webp",
+      "first_page_permission_status": "cleared",
+      "first_page_license": "CC-BY-4.0",
+      "first_page_license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "first_page_source": "https://proceedings.mlr.press/v119/gottesman20a/gottesman20a.pdf",
+      "first_page_attribution": "Omer Gottesman, Joseph Futoma, Yao Liu, Sonali Parbhoo, Leo Anthony Celi, Emma Brunskill, Finale Doshi-Velez. Interpretable Off-Policy Evaluation in Reinforcement Learning by Highlighting Influential Transitions. ICML 2020, Proceedings of Machine Learning Research 119, pp. 3658–3667. © 2020 the authors. Original publication: https://proceedings.mlr.press/v119/gottesman20a.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+      "first_page_changes": "The complete, uncropped official PDF first page was rasterized at 144 dpi and losslessly encoded as WebP. No printed content was removed or retouched.",
+      "first_page_sha256": "d41a33f2b3de6d4d043d96afea987352db6da04af6a149755f4b30531c321353",
+      "first_page_dimensions": [
+        1224,
+        1584
+      ],
+      "main_figure": {
+        "path": "assets/pmlr-reviewed-20261023-2146/icml2020-gottesman20a-mainfigure.webp",
+        "label": "Figure 3",
+        "source_url": "https://proceedings.mlr.press/v119/gottesman20a/gottesman20a.pdf",
+        "page": 7,
+        "status": "core_contribution_figure_visually_inspected",
+        "display_caption": "Figure 3. Influence analysis for simulated cancer data. Analysis of synthetic cancer simulations demonstrates how influence analysis can differentiate between different diagnostics of the OPE process.",
+        "selection_rationale": "Figure 3 displays all four cancer-simulation diagnostic cases of the proposed influence analysis: no influential transitions, a dead-end sequence, influential but reliable transitions, and influential problematic transitions. Its four rows and two state-variable panels per row directly explain when expert review may help, whereas Figure 1 is a schematic sequence, Figure 2 is a generic 2D illustration, Figure 4 compares IS estimators, and Figure 5 gives two narrower individual ICU examples. The selected plot retains all eight panels, axes, expected/observed curves, red highlights, panel labels and complete caption. These are simulated tumor dynamics, not actual patient trajectories.",
+        "license": "CC-BY-4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "license_evidence_url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+        "attribution": "Omer Gottesman, Joseph Futoma, Yao Liu, Sonali Parbhoo, Leo Anthony Celi, Emma Brunskill, Finale Doshi-Velez. Interpretable Off-Policy Evaluation in Reinforcement Learning by Highlighting Influential Transitions. ICML 2020, Proceedings of Machine Learning Research 119, pp. 3658–3667. © 2020 the authors. Original publication: https://proceedings.mlr.press/v119/gottesman20a.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+        "changes": "Figure 3 and its complete printed caption were cropped together from physical PDF page 7, rasterized at 288 dpi and losslessly encoded as WebP. Surrounding article body and page header were excluded; component content, colors, labels, legend or table cells, and caption are unchanged.",
+        "asset_sha256": "dbaa474c6d18a5a8d4f85458cebc8ef5e08d996c4540f5b52f40359a48192cd3",
+        "source_pdf_sha256": "6d17e17f869dec04ca6a350ab956f5f4f2abae60311b8e5e4f851544dc36704e",
+        "crop_rect_pdf_points_top_left": [
+          53,
+          63,
+          294,
+          446
+        ],
+        "caption_transcription_note": "Complete printed caption transcribed with Unicode ligatures, whitespace and line-wrap-only hyphens normalized. Original wording, numerical values and grammatical forms are retained. All original pixels and mathematical glyphs remain unchanged in the lossless asset."
+      },
+      "main_figure_permission_status": "cleared",
+      "main_figure_status": "core_contribution_figure_visually_inspected",
+      "figure_selection_verified": true,
+      "illustrated_profile": true,
+      "metadata_ready": true,
+      "core_complete": true,
+      "profile_status": "Original publisher HTML abstract and documented PDF comparison, complete first page, contribution-selected figure and author first-unit metadata verified; exact-asset media rights reviewed.",
+      "profile_verified_at": "2026-10-23",
+      "metadata_blockers": [],
+      "profile_caveats": [
+        "The selected figure is a cancer simulation, not a patient-outcome trial. The actual clinical study is acute hypotension in MIMIC-III, not a sepsis-treatment efficacy trial: the authors and an intensivist investigate influential observations and possible measurement or timestamp artifacts in retrospective policy evaluation. The method complements, rather than replaces, statistical uncertainty bounds and cannot establish clinical safety or treatment benefit.",
+        "The complete official HTML abstract and printed PDF abstract agree after Unicode ligature, source-aligned line-wrap hyphen and whitespace handling. Wording, punctuation, meaningful hyphens and numbers are preserved; no lexical substitution is made.",
+        "The PMLR rights basis is inferred from the mandatory publisher-agreement chain; the individual signed agreement was not inspected.",
+        "Appendix 4.1 begins with 1,733 eligible distinct ICU admissions, then uses 20% (346) for policy learning and another 20% (346) for evaluation. Section 7.2 reports 6,777 and 6,863 transitions in those two sets. Admission/stay, trajectory and transition counts are different units; the large transition counts are not counts of independent patients. The study uses the initial 48 hours for long stays.",
+        "The clinical setup uses 29 state variables, 16 discretized fluid/vasopressor actions and blood-pressure-based rewards. The evaluation policy is the most common action among 50 nearest neighbors, not a prospectively validated treatment policy. Six transitions exceed the stated influence threshold 0.05; clinician judgments and edits in two illustrated cases do not verify that all confounding or measurement artifacts are resolved.",
+        "Source numerical discrepancy: Figure 5 labels the left clinical example “Influence of Flagged Transition: 28%”, whereas the adjacent text says 29%. Both are retained as printed; no rounding explanation or corrected value is invented. The right figure label is 12%.",
+        "The four selected cancer-simulation cases have reported OPE errors less than 1%, 38%, 8% and 23%, respectively. Those are illustrative scenarios under model assumptions, not clinical error bounds or performance estimates across real patients. Influence depends on both the estimator and the dataset, as Figure 4 demonstrates.",
+        "The seven printed PDF authors are retained in order. The fifth author is printed Leo Anthony Celi in the PDF but Leo Celi in official HTML. This is a source name variant, not an additional author. No equal-contribution marker is printed."
+      ],
+      "new_paper_credit": 0,
+      "new_abstract_read_credit": 0,
+      "new_full_paper_read_credit": 0,
+      "media_rights_review": {
+        "first_page": {
+          "status": "cleared",
+          "asset_path": "assets/pmlr-reviewed-20261023-2146/icml2020-gottesman20a-firstpage.webp",
+          "asset_sha256": "d41a33f2b3de6d4d043d96afea987352db6da04af6a149755f4b30531c321353",
+          "source_url": "https://proceedings.mlr.press/v119/gottesman20a/gottesman20a.pdf",
+          "source_pdf_sha256": "6d17e17f869dec04ca6a350ab956f5f4f2abae60311b8e5e4f851544dc36704e",
+          "source_page": 1,
+          "publication_url": "https://proceedings.mlr.press/v119/gottesman20a.html",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "attribution": "Omer Gottesman, Joseph Futoma, Yao Liu, Sonali Parbhoo, Leo Anthony Celi, Emma Brunskill, Finale Doshi-Velez. Interpretable Off-Policy Evaluation in Reinforcement Learning by Highlighting Influential Transitions. ICML 2020, Proceedings of Machine Learning Research 119, pp. 3658–3667. © 2020 the authors. Original publication: https://proceedings.mlr.press/v119/gottesman20a.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+          "changes": "The complete, uncropped official PDF first page was rasterized at 144 dpi and losslessly encoded as WebP. No printed content was removed or retouched.",
+          "evidence_url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+          "scope": "exact_first_page",
+          "embedded_materials_review": "The complete first page contains the title, ordered author byline and affiliation markers, affiliation/correspondence footnote, full original abstract, original article prose, bibliographic citations and author copyright notice. No embedded figure, photograph, scan, patient-record facsimile, individual clinical measurement plot, clinical data table or separately credited external illustration is present. Citations are not reproductions of the cited works. Clearance is for this complete article page, not for underlying datasets or referenced publications.",
+          "reviewed_at": "2026-10-23",
+          "evidence_basis": "The official PMLR article page identifies this exact article and links the inspected publisher PDF. PMLR FAQ requires signed publication-permission forms from authors and links the inspected agreement: paragraph 2 grants the general public CC BY 4.0 rights in the article; paragraph 3 requires the original proceedings citation and hyperlink; paragraph 5 includes publisher edits; paragraph 6 gives originality and right-to-grant warranties. Clearance is an inference from the mandatory publisher-agreement chain and component inspection, not inspection of an individual signed agreement and not the author-copyright footer alone.",
+          "evidence_urls": [
+            "https://proceedings.mlr.press/v119/gottesman20a.html",
+            "https://proceedings.mlr.press/v119/gottesman20a/gottesman20a.pdf",
+            "https://proceedings.mlr.press/faq.html",
+            "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+            "https://creativecommons.org/licenses/by/4.0/"
+          ]
+        },
+        "main_figure": {
+          "status": "cleared",
+          "asset_path": "assets/pmlr-reviewed-20261023-2146/icml2020-gottesman20a-mainfigure.webp",
+          "asset_sha256": "dbaa474c6d18a5a8d4f85458cebc8ef5e08d996c4540f5b52f40359a48192cd3",
+          "source_url": "https://proceedings.mlr.press/v119/gottesman20a/gottesman20a.pdf",
+          "source_pdf_sha256": "6d17e17f869dec04ca6a350ab956f5f4f2abae60311b8e5e4f851544dc36704e",
+          "source_page": 7,
+          "publication_url": "https://proceedings.mlr.press/v119/gottesman20a.html",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "attribution": "Omer Gottesman, Joseph Futoma, Yao Liu, Sonali Parbhoo, Leo Anthony Celi, Emma Brunskill, Finale Doshi-Velez. Interpretable Off-Policy Evaluation in Reinforcement Learning by Highlighting Influential Transitions. ICML 2020, Proceedings of Machine Learning Research 119, pp. 3658–3667. © 2020 the authors. Original publication: https://proceedings.mlr.press/v119/gottesman20a.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+          "changes": "Figure 3 and its complete printed caption were cropped together from physical PDF page 7, rasterized at 288 dpi and losslessly encoded as WebP. Surrounding article body and page header were excluded; component content, colors, labels, legend or table cells, and caption are unchanged.",
+          "evidence_url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+          "scope": "exact_main_figure",
+          "embedded_materials_review": "Exact Figure 3 on physical PDF page 7 was visually inspected with all eight plots, black expected trajectories, gray simulated trajectories, red highlighted transitions, axes, four subcaptions and the complete caption. It is an authored rendering of synthetic cancer-dynamics experiments, not a clinical-record image or a figure reproduced from an external source. Section 7.1 cites the Ribba et al. (2012) tumor model as the simulation basis; this is model provenance, not an adapted/reproduced-figure credit. No separate artwork copyright, photograph, logo or restrictive component notice is printed. The article grant covers this authored result rendering only; no rights in Ribba’s original publication, source model implementation, MIMIC-III data, individual patient records or software are inferred.",
+          "reviewed_at": "2026-10-23",
+          "evidence_basis": "The official PMLR article page identifies this exact article and links the inspected publisher PDF. PMLR FAQ requires signed publication-permission forms from authors and links the inspected agreement: paragraph 2 grants the general public CC BY 4.0 rights in the article; paragraph 3 requires the original proceedings citation and hyperlink; paragraph 5 includes publisher edits; paragraph 6 gives originality and right-to-grant warranties. Clearance is an inference from the mandatory publisher-agreement chain and component inspection, not inspection of an individual signed agreement and not the author-copyright footer alone.",
+          "evidence_urls": [
+            "https://proceedings.mlr.press/v119/gottesman20a.html",
+            "https://proceedings.mlr.press/v119/gottesman20a/gottesman20a.pdf",
+            "https://proceedings.mlr.press/faq.html",
+            "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+            "https://creativecommons.org/licenses/by/4.0/"
+          ]
+        }
+      },
+      "media_display_permissions": {
+        "first_page": {
+          "status": "cleared",
+          "reason": "exact_asset_review",
+          "asset_path": "assets/pmlr-reviewed-20261023-2146/icml2020-gottesman20a-firstpage.webp",
+          "asset_sha256": "d41a33f2b3de6d4d043d96afea987352db6da04af6a149755f4b30531c321353",
+          "credit": {
+            "status": "cleared",
+            "asset_path": "assets/pmlr-reviewed-20261023-2146/icml2020-gottesman20a-firstpage.webp",
+            "asset_sha256": "d41a33f2b3de6d4d043d96afea987352db6da04af6a149755f4b30531c321353",
+            "source_url": "https://proceedings.mlr.press/v119/gottesman20a/gottesman20a.pdf",
+            "source_pdf_sha256": "6d17e17f869dec04ca6a350ab956f5f4f2abae60311b8e5e4f851544dc36704e",
+            "source_page": 1,
+            "publication_url": "https://proceedings.mlr.press/v119/gottesman20a.html",
+            "license": "CC-BY-4.0",
+            "license_url": "https://creativecommons.org/licenses/by/4.0/",
+            "attribution": "Omer Gottesman, Joseph Futoma, Yao Liu, Sonali Parbhoo, Leo Anthony Celi, Emma Brunskill, Finale Doshi-Velez. Interpretable Off-Policy Evaluation in Reinforcement Learning by Highlighting Influential Transitions. ICML 2020, Proceedings of Machine Learning Research 119, pp. 3658–3667. © 2020 the authors. Original publication: https://proceedings.mlr.press/v119/gottesman20a.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+            "changes": "The complete, uncropped official PDF first page was rasterized at 144 dpi and losslessly encoded as WebP. No printed content was removed or retouched.",
+            "evidence_url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+            "scope": "exact_first_page",
+            "embedded_materials_review": "The complete first page contains the title, ordered author byline and affiliation markers, affiliation/correspondence footnote, full original abstract, original article prose, bibliographic citations and author copyright notice. No embedded figure, photograph, scan, patient-record facsimile, individual clinical measurement plot, clinical data table or separately credited external illustration is present. Citations are not reproductions of the cited works. Clearance is for this complete article page, not for underlying datasets or referenced publications.",
+            "reviewed_at": "2026-10-23",
+            "evidence_basis": "The official PMLR article page identifies this exact article and links the inspected publisher PDF. PMLR FAQ requires signed publication-permission forms from authors and links the inspected agreement: paragraph 2 grants the general public CC BY 4.0 rights in the article; paragraph 3 requires the original proceedings citation and hyperlink; paragraph 5 includes publisher edits; paragraph 6 gives originality and right-to-grant warranties. Clearance is an inference from the mandatory publisher-agreement chain and component inspection, not inspection of an individual signed agreement and not the author-copyright footer alone.",
+            "evidence_urls": [
+              "https://proceedings.mlr.press/v119/gottesman20a.html",
+              "https://proceedings.mlr.press/v119/gottesman20a/gottesman20a.pdf",
+              "https://proceedings.mlr.press/faq.html",
+              "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+              "https://creativecommons.org/licenses/by/4.0/"
+            ]
+          }
+        },
+        "main_figure": {
+          "status": "cleared",
+          "reason": "exact_asset_review",
+          "asset_path": "assets/pmlr-reviewed-20261023-2146/icml2020-gottesman20a-mainfigure.webp",
+          "asset_sha256": "dbaa474c6d18a5a8d4f85458cebc8ef5e08d996c4540f5b52f40359a48192cd3",
+          "credit": {
+            "status": "cleared",
+            "asset_path": "assets/pmlr-reviewed-20261023-2146/icml2020-gottesman20a-mainfigure.webp",
+            "asset_sha256": "dbaa474c6d18a5a8d4f85458cebc8ef5e08d996c4540f5b52f40359a48192cd3",
+            "source_url": "https://proceedings.mlr.press/v119/gottesman20a/gottesman20a.pdf",
+            "source_pdf_sha256": "6d17e17f869dec04ca6a350ab956f5f4f2abae60311b8e5e4f851544dc36704e",
+            "source_page": 7,
+            "publication_url": "https://proceedings.mlr.press/v119/gottesman20a.html",
+            "license": "CC-BY-4.0",
+            "license_url": "https://creativecommons.org/licenses/by/4.0/",
+            "attribution": "Omer Gottesman, Joseph Futoma, Yao Liu, Sonali Parbhoo, Leo Anthony Celi, Emma Brunskill, Finale Doshi-Velez. Interpretable Off-Policy Evaluation in Reinforcement Learning by Highlighting Influential Transitions. ICML 2020, Proceedings of Machine Learning Research 119, pp. 3658–3667. © 2020 the authors. Original publication: https://proceedings.mlr.press/v119/gottesman20a.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+            "changes": "Figure 3 and its complete printed caption were cropped together from physical PDF page 7, rasterized at 288 dpi and losslessly encoded as WebP. Surrounding article body and page header were excluded; component content, colors, labels, legend or table cells, and caption are unchanged.",
+            "evidence_url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+            "scope": "exact_main_figure",
+            "embedded_materials_review": "Exact Figure 3 on physical PDF page 7 was visually inspected with all eight plots, black expected trajectories, gray simulated trajectories, red highlighted transitions, axes, four subcaptions and the complete caption. It is an authored rendering of synthetic cancer-dynamics experiments, not a clinical-record image or a figure reproduced from an external source. Section 7.1 cites the Ribba et al. (2012) tumor model as the simulation basis; this is model provenance, not an adapted/reproduced-figure credit. No separate artwork copyright, photograph, logo or restrictive component notice is printed. The article grant covers this authored result rendering only; no rights in Ribba’s original publication, source model implementation, MIMIC-III data, individual patient records or software are inferred.",
+            "reviewed_at": "2026-10-23",
+            "evidence_basis": "The official PMLR article page identifies this exact article and links the inspected publisher PDF. PMLR FAQ requires signed publication-permission forms from authors and links the inspected agreement: paragraph 2 grants the general public CC BY 4.0 rights in the article; paragraph 3 requires the original proceedings citation and hyperlink; paragraph 5 includes publisher edits; paragraph 6 gives originality and right-to-grant warranties. Clearance is an inference from the mandatory publisher-agreement chain and component inspection, not inspection of an individual signed agreement and not the author-copyright footer alone.",
+            "evidence_urls": [
+              "https://proceedings.mlr.press/v119/gottesman20a.html",
+              "https://proceedings.mlr.press/v119/gottesman20a/gottesman20a.pdf",
+              "https://proceedings.mlr.press/faq.html",
+              "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+              "https://creativecommons.org/licenses/by/4.0/"
+            ]
+          }
+        }
+      },
+      "author_order_evidence_raw_pdf": "Omer Gottesman 1 Joseph Futoma 1 Yao Liu 2 Sonali Parbhoo 1 Leo Anthony Celi 3 Emma Brunskill 2\nFinale Doshi-Velez 1\n",
+      "authors_equal_contribution": [],
+      "pages": "3658–3667",
+      "metadata_pending": []
+    },
+    "unset": []
+  },
+  {
+    "id": "icml2020-shi20c",
+    "expected_baseline_record_sha256": "c827819ff1148cd06ed31e8268ad196b08426ecdb8b94b61b23ff1b308d0bf42",
+    "set": {
+      "authors": [
+        "Chengchun Shi",
+        "Runzhe Wan",
+        "Rui Song",
+        "Wenbin Lu",
+        "Ling Leng"
+      ],
+      "authors_verified": true,
+      "authors_status": "verified_official_pdf_and_html",
+      "authors_pdf": [
+        "Chengchun Shi",
+        "Runzhe Wan",
+        "Rui Song",
+        "Wenbin Lu",
+        "Ling Leng"
+      ],
+      "authors_official_html": [
+        "Chengchun Shi",
+        "Runzhe Wan",
+        "Rui Song",
+        "Wenbin Lu",
+        "Ling Leng"
+      ],
+      "authors_source": "https://proceedings.mlr.press/v119/shi20c/shi20c.pdf",
+      "authors_source_page": 1,
+      "authors_source_sha256": "2bed4fa878331f11096fdb4653d4c5a602f7d08d35303807d885039382bbbe59",
+      "author_order_evidence": "All five printed PDF names match the official HTML in the same order. No equal-contribution marker is printed.",
+      "first_institution": "Department of Statistics, London School of Economics and Political Science",
+      "first_institution_raw": "Department of Statistics, London School of Economics and Political Science, UK",
+      "first_institution_verified": true,
+      "first_institution_source": "https://proceedings.mlr.press/v119/shi20c/shi20c.pdf",
+      "first_institution_evidence": {
+        "first_author": "Chengchun Shi",
+        "first_author_printed_affiliation_markers": "1",
+        "selected_affiliation_marker": "1",
+        "printed_first_affiliation": "Department of Statistics, London School of Economics and Political Science, UK",
+        "reason": "Chengchun Shi is marked 1. His first and only printed affiliation is the Department of Statistics, London School of Economics and Political Science, UK. Normalize only the country suffix out of the display unit and retain the full department-level unit rather than replacing it with the parent school alone; preserve UK in raw evidence.",
+        "source_url": "https://proceedings.mlr.press/v119/shi20c/shi20c.pdf",
+        "source_page": 1,
+        "source_pdf_sha256": "2bed4fa878331f11096fdb4653d4c5a602f7d08d35303807d885039382bbbe59",
+        "raw_pdf_extraction": "1Department of Statistics, London School of Economics and Po-\nlitical Science, UK 2Department of Statistics, North Carolina State\nUniversity, USA 3Amazon, USA. Correspondence to: Chengchun\nShi <c.shi7@lse.ac.uk>.\n",
+        "raw_pdf_extraction_bbox_points": [
+          54,
+          635,
+          292,
+          678
+        ]
+      },
+      "first_author": "Chengchun Shi",
+      "first_author_affiliation_as_printed": "Department of Statistics, London School of Economics and Political Science, UK",
+      "affiliations": [
+        {
+          "author": "Chengchun Shi",
+          "affiliations": [
+            "Department of Statistics, London School of Economics and Political Science, UK"
+          ]
+        },
+        {
+          "author": "Runzhe Wan",
+          "affiliations": [
+            "Department of Statistics, North Carolina State University, USA"
+          ]
+        },
+        {
+          "author": "Rui Song",
+          "affiliations": [
+            "Department of Statistics, North Carolina State University, USA"
+          ]
+        },
+        {
+          "author": "Wenbin Lu",
+          "affiliations": [
+            "Department of Statistics, North Carolina State University, USA"
+          ]
+        },
+        {
+          "author": "Ling Leng",
+          "affiliations": [
+            "Amazon, USA"
+          ]
+        }
+      ],
+      "affiliations_status": "verified_official_pdf",
+      "affiliations_source": "https://proceedings.mlr.press/v119/shi20c/shi20c.pdf",
+      "affiliations_evidence": {
+        "source_url": "https://proceedings.mlr.press/v119/shi20c/shi20c.pdf",
+        "source_page": 1,
+        "source_pdf_sha256": "2bed4fa878331f11096fdb4653d4c5a602f7d08d35303807d885039382bbbe59",
+        "printed_units": {
+          "1": "Department of Statistics, London School of Economics and Political Science, UK",
+          "2": "Department of Statistics, North Carolina State University, USA",
+          "3": "Amazon, USA"
+        },
+        "author_markers": [
+          {
+            "author": "Chengchun Shi",
+            "markers": [
+              "1"
+            ]
+          },
+          {
+            "author": "Runzhe Wan",
+            "markers": [
+              "2"
+            ]
+          },
+          {
+            "author": "Rui Song",
+            "markers": [
+              "2"
+            ]
+          },
+          {
+            "author": "Wenbin Lu",
+            "markers": [
+              "2"
+            ]
+          },
+          {
+            "author": "Ling Leng",
+            "markers": [
+              "3"
+            ]
+          }
+        ],
+        "raw_pdf_extraction": "1Department of Statistics, London School of Economics and Po-\nlitical Science, UK 2Department of Statistics, North Carolina State\nUniversity, USA 3Amazon, USA. Correspondence to: Chengchun\nShi <c.shi7@lse.ac.uk>.\n"
+      },
+      "summary": "强化学习常把当前状态当作充分信息，但需要保留多少历史并不能只靠惯例决定。本文用前向与后向条件特征函数构造双重稳健检验，再逐步增加历史阶数，为马尔可夫状态表示提供数据驱动的诊断。图 2 在由糖尿病数据校准的四阶模拟中展示检验功效与第一类错误率；它汇总 500 次模拟，不是 500 名患者。唯一真实应用来自 OhioT1DM 的 6 名 1 型糖尿病患者、8 周监测，分析取每条轨迹 1,100 个小时决策点，第四阶首次未被拒绝。这个结果不证明真实系统一定是四阶马尔可夫过程。离线价值比较枚举 20 种三人训练／三人测试划分，且补充材料还用模拟初始轨迹平均拟合 Q 价值；它不是实际临床获益。原文称四阶优于多数阶数，但补充材料明确五阶与八阶差异不显著，其余比较使用单侧 0.1 显著性水平。",
+      "summary_en": "Forward-backward learning combines conditional characteristic functions in a doubly robust Markov-assumption test, then increases history length to diagnose a suitable state representation. Figure 2 reports power and type-I error across 500 fourth-order diabetes-calibrated simulations, not 500 patients. The only real application uses eight weeks from six OhioT1DM patients with type 1 diabetes, with 1,100 hourly decision points per trajectory used in analysis. Non-rejection first at order four does not prove the true system is fourth-order Markov. Offline value estimates enumerate 20 three-patient training/three-patient test splits and additionally average fitted Q values over simulated initial trajectories. The source reports no significant advantage over orders five and eight, and uses a one-sided 0.1 level for the other comparisons; clinical benefit is unproven.",
+      "summary_zh": "强化学习常把当前状态当作充分信息，但需要保留多少历史并不能只靠惯例决定。本文用前向与后向条件特征函数构造双重稳健检验，再逐步增加历史阶数，为马尔可夫状态表示提供数据驱动的诊断。图 2 在由糖尿病数据校准的四阶模拟中展示检验功效与第一类错误率；它汇总 500 次模拟，不是 500 名患者。唯一真实应用来自 OhioT1DM 的 6 名 1 型糖尿病患者、8 周监测，分析取每条轨迹 1,100 个小时决策点，第四阶首次未被拒绝。这个结果不证明真实系统一定是四阶马尔可夫过程。离线价值比较枚举 20 种三人训练／三人测试划分，且补充材料还用模拟初始轨迹平均拟合 Q 价值；它不是实际临床获益。原文称四阶优于多数阶数，但补充材料明确五阶与八阶差异不显著，其余比较使用单侧 0.1 显著性水平。",
+      "introduction_zh": "强化学习常把当前状态当作充分信息，但需要保留多少历史并不能只靠惯例决定。本文用前向与后向条件特征函数构造双重稳健检验，再逐步增加历史阶数，为马尔可夫状态表示提供数据驱动的诊断。图 2 在由糖尿病数据校准的四阶模拟中展示检验功效与第一类错误率；它汇总 500 次模拟，不是 500 名患者。唯一真实应用来自 OhioT1DM 的 6 名 1 型糖尿病患者、8 周监测，分析取每条轨迹 1,100 个小时决策点，第四阶首次未被拒绝。这个结果不证明真实系统一定是四阶马尔可夫过程。离线价值比较枚举 20 种三人训练／三人测试划分，且补充材料还用模拟初始轨迹平均拟合 Q 价值；它不是实际临床获益。原文称四阶优于多数阶数，但补充材料明确五阶与八阶差异不显著，其余比较使用单侧 0.1 显著性水平。",
+      "contribution_introduction_zh": "强化学习常把当前状态当作充分信息，但需要保留多少历史并不能只靠惯例决定。本文用前向与后向条件特征函数构造双重稳健检验，再逐步增加历史阶数，为马尔可夫状态表示提供数据驱动的诊断。图 2 在由糖尿病数据校准的四阶模拟中展示检验功效与第一类错误率；它汇总 500 次模拟，不是 500 名患者。唯一真实应用来自 OhioT1DM 的 6 名 1 型糖尿病患者、8 周监测，分析取每条轨迹 1,100 个小时决策点，第四阶首次未被拒绝。这个结果不证明真实系统一定是四阶马尔可夫过程。离线价值比较枚举 20 种三人训练／三人测试划分，且补充材料还用模拟初始轨迹平均拟合 Q 价值；它不是实际临床获益。原文称四阶优于多数阶数，但补充材料明确五阶与八阶差异不显著，其余比较使用单侧 0.1 显著性水平。",
+      "summary_language": "zh-CN",
+      "summary_method": "Independent contribution paraphrase checked against existing screened source, methods, empirical/supplementary evidence and scientific limitations; zero new-paper or scientific-reading credit.",
+      "summary_source": "https://proceedings.mlr.press/v119/shi20c/shi20c.pdf",
+      "summary_zh_source": "https://proceedings.mlr.press/v119/shi20c/shi20c.pdf",
+      "summary_zh_evidence": {
+        "basis": "Original abstract, Figure 2 and associated methods; no clinical efficacy or new scope claim.",
+        "method": "An original Chinese contribution introduction preserving computational and clinical limitations, not an abstract translation.",
+        "checked_at": "2026-10-23",
+        "new_paper_credit": 0,
+        "new_reading_credit": 0
+      },
+      "abstract": "The Markov assumption (MA) is fundamental to the empirical validity of reinforcement learning. In this paper, we propose a novel Forward-Backward Learning procedure to test MA in sequential decision making. The proposed test does not assume any parametric form on the joint distribution of the observed data and plays an important role for identifying the optimal policy in high-order Markov decision processes (MDPs) and partially observable MDPs. Theoretically, we establish the validity of our test. Empirically, we apply our test to both synthetic datasets and a real data example from mobile health studies to illustrate its usefulness.",
+      "abstract_source": "https://proceedings.mlr.press/v119/shi20c.html",
+      "abstract_version": "publisher_original",
+      "abstract_display_type": "original_licensed",
+      "abstract_display_label": "Original abstract (CC BY 4.0)",
+      "abstract_license": "CC-BY-4.0",
+      "abstract_license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "abstract_permission_status": "cleared",
+      "abstract_permission_checked_at": "2026-10-23",
+      "abstract_attribution": "Chengchun Shi, Runzhe Wan, Rui Song, Wenbin Lu, Ling Leng. Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making. ICML 2020, Proceedings of Machine Learning Research 119, pp. 8807–8817. © 2020 the authors. Original publication: https://proceedings.mlr.press/v119/shi20c.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+      "abstract_changes": "Original publisher HTML abstract body reproduced in full with outer whitespace removed and internal whitespace normalized. Literal mathematical markup, wording, punctuation and numbers retained; no PDF-only text added.",
+      "abstract_permission_note": "The official PMLR article page identifies this exact article and links the inspected publisher PDF. PMLR FAQ requires signed publication-permission forms from authors and links the inspected agreement: paragraph 2 grants the general public CC BY 4.0 rights in the article; paragraph 3 requires the original proceedings citation and hyperlink; paragraph 5 includes publisher edits; paragraph 6 gives originality and right-to-grant warranties. Clearance is an inference from the mandatory publisher-agreement chain and component inspection, not inspection of an individual signed agreement and not the author-copyright footer alone.",
+      "abstract_attribution_conditions": [
+        "Credit all listed authors, title, ICML edition, PMLR volume/pages and original article hyperlink; link CC BY 4.0 and identify changes; retain notices and do not imply endorsement."
+      ],
+      "abstract_license_evidence": [
+        {
+          "url": "https://proceedings.mlr.press/faq.html",
+          "finding": "Requires signed author publication-permission forms and links the inspected agreement."
+        },
+        {
+          "url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+          "finding": "Paragraph 2 grants CC BY 4.0 in the article to the general public; paragraphs 3, 5 and 6 address original citation/link, publisher edits and right-to-grant warranties."
+        },
+        {
+          "url": "https://proceedings.mlr.press/v119/shi20c.html",
+          "finding": "Exact article title, authors, original abstract and linked official PDF match the inspected publisher files."
+        }
+      ],
+      "abstract_sha256": "eef0a0742cd7865182e2887240522dbbc7bf2cc91f3a999ee816daf410afe057",
+      "abstract_source_html_sha256": "592c4773da96e08ce6ba48035ee5aa6cc6116ab2691f536baa2e2bb88769ca25",
+      "abstract_source_pdf_sha256": "2bed4fa878331f11096fdb4653d4c5a602f7d08d35303807d885039382bbbe59",
+      "abstract_verified_against_pdf": true,
+      "abstract_pdf_comparison": {
+        "same_after_typographic_normalization": true,
+        "same_after_documented_version_difference_handling": true,
+        "normalization": "For comparison only: Unicode NFKC/ligatures, whitespace and source-aligned line-wrap hyphens are normalized. Meaningful hyphens, wording, punctuation and all numbers are retained. Display preserves the complete official HTML abstract.",
+        "pdf_bboxes_in_reading_order_points": [
+          [
+            74,
+            231,
+            273,
+            399
+          ]
+        ],
+        "exact_version_difference": "The complete official HTML and printed PDF abstracts agree after Unicode ligature, source-aligned line-wrap hyphen and whitespace handling. Meaningful hyphens, wording, punctuation and numbers match; no lexical or numerical substitutions are used.",
+        "documented_html_emphasis_comparison_only_replacements": []
+      },
+      "abstract_footnotes": [
+        {
+          "marker": "Catalogue reuse notice",
+          "text": "Catalogue-added notice, not part of the original abstract: Chengchun Shi, Runzhe Wan, Rui Song, Wenbin Lu, Ling Leng. Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making. ICML 2020, Proceedings of Machine Learning Research 119, pp. 8807–8817. © 2020 the authors. Original publication: https://proceedings.mlr.press/v119/shi20c.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Changes: Original publisher HTML abstract body reproduced in full with outer whitespace removed and internal whitespace normalized. Literal mathematical markup, wording, punctuation and numbers retained; no PDF-only text added. No endorsement implied.",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "source_url": "https://proceedings.mlr.press/v119/shi20c.html"
+        }
+      ],
+      "source_html_sha256": "592c4773da96e08ce6ba48035ee5aa6cc6116ab2691f536baa2e2bb88769ca25",
+      "source_pdf_sha256": "2bed4fa878331f11096fdb4653d4c5a602f7d08d35303807d885039382bbbe59",
+      "source_checked_at": "2026-10-23",
+      "first_page": "assets/pmlr-reviewed-20261023-2146/icml2020-shi20c-firstpage.webp",
+      "first_page_permission_status": "cleared",
+      "first_page_license": "CC-BY-4.0",
+      "first_page_license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "first_page_source": "https://proceedings.mlr.press/v119/shi20c/shi20c.pdf",
+      "first_page_attribution": "Chengchun Shi, Runzhe Wan, Rui Song, Wenbin Lu, Ling Leng. Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making. ICML 2020, Proceedings of Machine Learning Research 119, pp. 8807–8817. © 2020 the authors. Original publication: https://proceedings.mlr.press/v119/shi20c.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+      "first_page_changes": "The complete, uncropped official PDF first page was rasterized at 144 dpi and losslessly encoded as WebP. No printed content was removed or retouched.",
+      "first_page_sha256": "95c35b67f374d8e51e8def963c4d089913d266eb7ccc24ece76b78ddf70a7fe2",
+      "first_page_dimensions": [
+        1224,
+        1584
+      ],
+      "main_figure": {
+        "path": "assets/pmlr-reviewed-20261023-2146/icml2020-shi20c-mainfigure.webp",
+        "label": "Figure 2",
+        "source_url": "https://proceedings.mlr.press/v119/shi20c/shi20c.pdf",
+        "page": 8,
+        "status": "core_contribution_figure_visually_inspected",
+        "display_caption": "Figure 2. Empirical rejection rates aggregated over 500 simulations with different combinations of α, n and k. α = (0.05, 0.1) from left plot to right plot. When k < 4, the alternative hypothesis holds, the empirical rejection rates correspond to the power of the test. When k ≥4, the null holds, the empirical rejection rates corresponds to the type-I error rate.",
+        "selection_rationale": "Figure 2 directly demonstrates the core test’s power for insufficient history k<4 and type-I error when k≥4, under a fourth-order diabetes-calibrated simulation. Both significance-level panels, all n=10/15/20 curves, alternative/null labels and complete caption are retained. It is more diagnostic of the proposed testing contribution than Figure 1’s background graphs, Figure 3’s downstream value comparison or Table 1’s very small-cohort offline estimates. Figure 4 supplies a separate nonmedical Tiger POMDP test. Figure 2 summarizes 500 simulations, not outcomes of 500 patients.",
+        "license": "CC-BY-4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "license_evidence_url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+        "attribution": "Chengchun Shi, Runzhe Wan, Rui Song, Wenbin Lu, Ling Leng. Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making. ICML 2020, Proceedings of Machine Learning Research 119, pp. 8807–8817. © 2020 the authors. Original publication: https://proceedings.mlr.press/v119/shi20c.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+        "changes": "Figure 2 and its complete printed caption were cropped together from physical PDF page 8, rasterized at 288 dpi and losslessly encoded as WebP. Surrounding article body and page header were excluded; component content, colors, labels, legend or table cells, and caption are unchanged.",
+        "asset_sha256": "7e80d1867bcb1ba318dcf9ecf3b5263e89db8fbcab6000120561526280c511ba",
+        "source_pdf_sha256": "2bed4fa878331f11096fdb4653d4c5a602f7d08d35303807d885039382bbbe59",
+        "crop_rect_pdf_points_top_left": [
+          53,
+          135,
+          294,
+          310
+        ],
+        "caption_transcription_note": "Complete printed caption transcribed with Unicode ligatures, whitespace and line-wrap-only hyphens normalized. Original wording, numerical values and grammatical forms are retained. All original pixels and mathematical glyphs remain unchanged in the lossless asset."
+      },
+      "main_figure_permission_status": "cleared",
+      "main_figure_status": "core_contribution_figure_visually_inspected",
+      "figure_selection_verified": true,
+      "illustrated_profile": true,
+      "metadata_ready": true,
+      "core_complete": true,
+      "profile_status": "Original publisher HTML abstract and documented PDF comparison, complete first page, contribution-selected figure and author first-unit metadata verified; exact-asset media rights reviewed.",
+      "profile_verified_at": "2026-10-23",
+      "metadata_blockers": [],
+      "profile_caveats": [
+        "OhioT1DM contributes only six patients with type 1 diabetes over eight weeks. The recorded trajectory lengths are 1,119–1,288, and analysis truncates to T=1,100 hourly decision points per trajectory. Twenty overlapping three-training/three-testing splits are not 20 independent cohorts. The 500 repetitions and n=10,15,20 in selected Figure 2 are generated simulation samples, not additional real patients.",
+        "The complete official HTML and printed PDF abstracts agree after Unicode ligature, source-aligned line-wrap hyphen and whitespace handling. Meaningful hyphens, wording, punctuation and numbers match; no lexical or numerical substitutions are used.",
+        "The PMLR rights basis is inferred from the mandatory publisher-agreement chain; the individual signed agreement was not inspected.",
+        "With model-selection alpha=0.01, the first four reported p-values are 0, 0, 0.001 and 0.068. The algorithm stops at k=4 because the null is not rejected; this is not proof that the real process is truly fourth-order Markov, that there is no latent confounding, or that the learned insulin policy is safe.",
+        "Main Table 1’s best offline value is −52.57 at k=4. Supplement B.3 fits FQI/FQE on three real trajectories each, but computes each reported value by averaging over 100 length-10 initial trajectories generated from the simulation model, then averages 20 overlapping splits; discount gamma=0.9. These model-based/offline values are not observed glycemic outcomes under deployed interventions.",
+        "Supplement B.4 explicitly finds no significant value gain over orders five or eight. Its other comparisons use a one-sided Z-test at significance 0.1, with standard errors based on the 20 overlapping splits. Preserve those qualifications rather than claim uniformly significant superiority or independent clinical validation.",
+        "Figure 2 evaluates a fourth-order simulator calibrated from the same six-patient dataset, with n=10,15,20 generated trajectories, T=1,344 plus 10 burn-in points, and 500 simulations. Its alpha panels are 0.05 and 0.1, distinct from model selection alpha=0.01. The theoretical guarantees require the stated regularity, dependence and nuisance-estimation conditions; they are not finite-sample certainty for the six-patient cohort."
+      ],
+      "new_paper_credit": 0,
+      "new_abstract_read_credit": 0,
+      "new_full_paper_read_credit": 0,
+      "media_rights_review": {
+        "first_page": {
+          "status": "cleared",
+          "asset_path": "assets/pmlr-reviewed-20261023-2146/icml2020-shi20c-firstpage.webp",
+          "asset_sha256": "95c35b67f374d8e51e8def963c4d089913d266eb7ccc24ece76b78ddf70a7fe2",
+          "source_url": "https://proceedings.mlr.press/v119/shi20c/shi20c.pdf",
+          "source_pdf_sha256": "2bed4fa878331f11096fdb4653d4c5a602f7d08d35303807d885039382bbbe59",
+          "source_page": 1,
+          "publication_url": "https://proceedings.mlr.press/v119/shi20c.html",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "attribution": "Chengchun Shi, Runzhe Wan, Rui Song, Wenbin Lu, Ling Leng. Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making. ICML 2020, Proceedings of Machine Learning Research 119, pp. 8807–8817. © 2020 the authors. Original publication: https://proceedings.mlr.press/v119/shi20c.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+          "changes": "The complete, uncropped official PDF first page was rasterized at 144 dpi and losslessly encoded as WebP. No printed content was removed or retouched.",
+          "evidence_url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+          "scope": "exact_first_page",
+          "embedded_materials_review": "The complete first page contains the title, ordered author byline and affiliation markers, affiliation/correspondence footnote, full original abstract, original article prose, bibliographic citations and author copyright notice. No embedded figure, photograph, scan, patient-record facsimile, individual clinical measurement plot, clinical data table or separately credited external illustration is present. Citations are not reproductions of the cited works. Clearance is for this complete article page, not for underlying datasets or referenced publications.",
+          "reviewed_at": "2026-10-23",
+          "evidence_basis": "The official PMLR article page identifies this exact article and links the inspected publisher PDF. PMLR FAQ requires signed publication-permission forms from authors and links the inspected agreement: paragraph 2 grants the general public CC BY 4.0 rights in the article; paragraph 3 requires the original proceedings citation and hyperlink; paragraph 5 includes publisher edits; paragraph 6 gives originality and right-to-grant warranties. Clearance is an inference from the mandatory publisher-agreement chain and component inspection, not inspection of an individual signed agreement and not the author-copyright footer alone.",
+          "evidence_urls": [
+            "https://proceedings.mlr.press/v119/shi20c.html",
+            "https://proceedings.mlr.press/v119/shi20c/shi20c.pdf",
+            "https://proceedings.mlr.press/faq.html",
+            "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+            "https://creativecommons.org/licenses/by/4.0/"
+          ]
+        },
+        "main_figure": {
+          "status": "cleared",
+          "asset_path": "assets/pmlr-reviewed-20261023-2146/icml2020-shi20c-mainfigure.webp",
+          "asset_sha256": "7e80d1867bcb1ba318dcf9ecf3b5263e89db8fbcab6000120561526280c511ba",
+          "source_url": "https://proceedings.mlr.press/v119/shi20c/shi20c.pdf",
+          "source_pdf_sha256": "2bed4fa878331f11096fdb4653d4c5a602f7d08d35303807d885039382bbbe59",
+          "source_page": 8,
+          "publication_url": "https://proceedings.mlr.press/v119/shi20c.html",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "attribution": "Chengchun Shi, Runzhe Wan, Rui Song, Wenbin Lu, Ling Leng. Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making. ICML 2020, Proceedings of Machine Learning Research 119, pp. 8807–8817. © 2020 the authors. Original publication: https://proceedings.mlr.press/v119/shi20c.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+          "changes": "Figure 2 and its complete printed caption were cropped together from physical PDF page 8, rasterized at 288 dpi and losslessly encoded as WebP. Surrounding article body and page header were excluded; component content, colors, labels, legend or table cells, and caption are unchanged.",
+          "evidence_url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+          "scope": "exact_main_figure",
+          "embedded_materials_review": "Exact Figure 2 on physical PDF page 8 was visually inspected with both alpha panels, the n=10/15/20 color legend, all curves, axes, alternative/null labels, boundary at k=4 and full caption. This is an authored aggregate plot over 500 generated simulations calibrated from OhioT1DM, not a reproduced dataset figure, individual glucose trace or patient record. OhioT1DM is cited as the source of model-estimation data, not as separately reproduced artwork. No external figure credit, photograph, scan, logo or separate component restriction appears. The article grant is applied only to this authored simulation-result rendering; no rights to OhioT1DM data, participant records, source publications or software are inferred.",
+          "reviewed_at": "2026-10-23",
+          "evidence_basis": "The official PMLR article page identifies this exact article and links the inspected publisher PDF. PMLR FAQ requires signed publication-permission forms from authors and links the inspected agreement: paragraph 2 grants the general public CC BY 4.0 rights in the article; paragraph 3 requires the original proceedings citation and hyperlink; paragraph 5 includes publisher edits; paragraph 6 gives originality and right-to-grant warranties. Clearance is an inference from the mandatory publisher-agreement chain and component inspection, not inspection of an individual signed agreement and not the author-copyright footer alone.",
+          "evidence_urls": [
+            "https://proceedings.mlr.press/v119/shi20c.html",
+            "https://proceedings.mlr.press/v119/shi20c/shi20c.pdf",
+            "https://proceedings.mlr.press/faq.html",
+            "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+            "https://creativecommons.org/licenses/by/4.0/"
+          ]
+        }
+      },
+      "media_display_permissions": {
+        "first_page": {
+          "status": "cleared",
+          "reason": "exact_asset_review",
+          "asset_path": "assets/pmlr-reviewed-20261023-2146/icml2020-shi20c-firstpage.webp",
+          "asset_sha256": "95c35b67f374d8e51e8def963c4d089913d266eb7ccc24ece76b78ddf70a7fe2",
+          "credit": {
+            "status": "cleared",
+            "asset_path": "assets/pmlr-reviewed-20261023-2146/icml2020-shi20c-firstpage.webp",
+            "asset_sha256": "95c35b67f374d8e51e8def963c4d089913d266eb7ccc24ece76b78ddf70a7fe2",
+            "source_url": "https://proceedings.mlr.press/v119/shi20c/shi20c.pdf",
+            "source_pdf_sha256": "2bed4fa878331f11096fdb4653d4c5a602f7d08d35303807d885039382bbbe59",
+            "source_page": 1,
+            "publication_url": "https://proceedings.mlr.press/v119/shi20c.html",
+            "license": "CC-BY-4.0",
+            "license_url": "https://creativecommons.org/licenses/by/4.0/",
+            "attribution": "Chengchun Shi, Runzhe Wan, Rui Song, Wenbin Lu, Ling Leng. Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making. ICML 2020, Proceedings of Machine Learning Research 119, pp. 8807–8817. © 2020 the authors. Original publication: https://proceedings.mlr.press/v119/shi20c.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+            "changes": "The complete, uncropped official PDF first page was rasterized at 144 dpi and losslessly encoded as WebP. No printed content was removed or retouched.",
+            "evidence_url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+            "scope": "exact_first_page",
+            "embedded_materials_review": "The complete first page contains the title, ordered author byline and affiliation markers, affiliation/correspondence footnote, full original abstract, original article prose, bibliographic citations and author copyright notice. No embedded figure, photograph, scan, patient-record facsimile, individual clinical measurement plot, clinical data table or separately credited external illustration is present. Citations are not reproductions of the cited works. Clearance is for this complete article page, not for underlying datasets or referenced publications.",
+            "reviewed_at": "2026-10-23",
+            "evidence_basis": "The official PMLR article page identifies this exact article and links the inspected publisher PDF. PMLR FAQ requires signed publication-permission forms from authors and links the inspected agreement: paragraph 2 grants the general public CC BY 4.0 rights in the article; paragraph 3 requires the original proceedings citation and hyperlink; paragraph 5 includes publisher edits; paragraph 6 gives originality and right-to-grant warranties. Clearance is an inference from the mandatory publisher-agreement chain and component inspection, not inspection of an individual signed agreement and not the author-copyright footer alone.",
+            "evidence_urls": [
+              "https://proceedings.mlr.press/v119/shi20c.html",
+              "https://proceedings.mlr.press/v119/shi20c/shi20c.pdf",
+              "https://proceedings.mlr.press/faq.html",
+              "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+              "https://creativecommons.org/licenses/by/4.0/"
+            ]
+          }
+        },
+        "main_figure": {
+          "status": "cleared",
+          "reason": "exact_asset_review",
+          "asset_path": "assets/pmlr-reviewed-20261023-2146/icml2020-shi20c-mainfigure.webp",
+          "asset_sha256": "7e80d1867bcb1ba318dcf9ecf3b5263e89db8fbcab6000120561526280c511ba",
+          "credit": {
+            "status": "cleared",
+            "asset_path": "assets/pmlr-reviewed-20261023-2146/icml2020-shi20c-mainfigure.webp",
+            "asset_sha256": "7e80d1867bcb1ba318dcf9ecf3b5263e89db8fbcab6000120561526280c511ba",
+            "source_url": "https://proceedings.mlr.press/v119/shi20c/shi20c.pdf",
+            "source_pdf_sha256": "2bed4fa878331f11096fdb4653d4c5a602f7d08d35303807d885039382bbbe59",
+            "source_page": 8,
+            "publication_url": "https://proceedings.mlr.press/v119/shi20c.html",
+            "license": "CC-BY-4.0",
+            "license_url": "https://creativecommons.org/licenses/by/4.0/",
+            "attribution": "Chengchun Shi, Runzhe Wan, Rui Song, Wenbin Lu, Ling Leng. Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making. ICML 2020, Proceedings of Machine Learning Research 119, pp. 8807–8817. © 2020 the authors. Original publication: https://proceedings.mlr.press/v119/shi20c.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+            "changes": "Figure 2 and its complete printed caption were cropped together from physical PDF page 8, rasterized at 288 dpi and losslessly encoded as WebP. Surrounding article body and page header were excluded; component content, colors, labels, legend or table cells, and caption are unchanged.",
+            "evidence_url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+            "scope": "exact_main_figure",
+            "embedded_materials_review": "Exact Figure 2 on physical PDF page 8 was visually inspected with both alpha panels, the n=10/15/20 color legend, all curves, axes, alternative/null labels, boundary at k=4 and full caption. This is an authored aggregate plot over 500 generated simulations calibrated from OhioT1DM, not a reproduced dataset figure, individual glucose trace or patient record. OhioT1DM is cited as the source of model-estimation data, not as separately reproduced artwork. No external figure credit, photograph, scan, logo or separate component restriction appears. The article grant is applied only to this authored simulation-result rendering; no rights to OhioT1DM data, participant records, source publications or software are inferred.",
+            "reviewed_at": "2026-10-23",
+            "evidence_basis": "The official PMLR article page identifies this exact article and links the inspected publisher PDF. PMLR FAQ requires signed publication-permission forms from authors and links the inspected agreement: paragraph 2 grants the general public CC BY 4.0 rights in the article; paragraph 3 requires the original proceedings citation and hyperlink; paragraph 5 includes publisher edits; paragraph 6 gives originality and right-to-grant warranties. Clearance is an inference from the mandatory publisher-agreement chain and component inspection, not inspection of an individual signed agreement and not the author-copyright footer alone.",
+            "evidence_urls": [
+              "https://proceedings.mlr.press/v119/shi20c.html",
+              "https://proceedings.mlr.press/v119/shi20c/shi20c.pdf",
+              "https://proceedings.mlr.press/faq.html",
+              "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+              "https://creativecommons.org/licenses/by/4.0/"
+            ]
+          }
+        }
+      },
+      "author_order_evidence_raw_pdf": "Chengchun Shi 1 Runzhe Wan 2 Rui Song 2 Wenbin Lu 2 Ling Leng 3\n",
+      "authors_equal_contribution": [],
+      "pages": "8807–8817",
+      "metadata_pending": []
+    },
+    "unset": []
+  },
+  {
+    "id": "icml2021-morrill21b",
+    "expected_baseline_record_sha256": "3c3fbe61c05141349f96612a0a83a820afa6bc155865f0dad787408c49402a4e",
+    "set": {
+      "authors": [
+        "James Morrill",
+        "Cristopher Salvi",
+        "Patrick Kidger",
+        "James Foster"
+      ],
+      "authors_verified": true,
+      "authors_status": "verified_official_pdf_and_html",
+      "authors_pdf": [
+        "James Morrill",
+        "Cristopher Salvi",
+        "Patrick Kidger",
+        "James Foster"
+      ],
+      "authors_official_html": [
+        "James Morrill",
+        "Cristopher Salvi",
+        "Patrick Kidger",
+        "James Foster"
+      ],
+      "authors_source": "https://proceedings.mlr.press/v139/morrill21b/morrill21b.pdf",
+      "authors_source_page": 1,
+      "authors_source_sha256": "1a3fc7bb9adbd857e1127c40e859276bbfbffeaa3da942092d6de67d3644f86b",
+      "author_order_evidence": "All four author names, spellings and their order agree between the printed PDF byline and official HTML. Preserve Cristopher Salvi exactly, without adding an h.",
+      "first_institution": "University of Oxford",
+      "first_institution_raw": "Mathematical Institute, University of Oxford, UK",
+      "first_institution_verified": true,
+      "first_institution_source": "https://proceedings.mlr.press/v139/morrill21b/morrill21b.pdf",
+      "first_institution_evidence": {
+        "first_author": "James Morrill",
+        "first_author_printed_affiliation_markers": "1 2",
+        "selected_affiliation_marker": "1",
+        "printed_first_affiliation": "Mathematical Institute, University of Oxford, UK",
+        "reason": "The first printed author, James Morrill, bears markers 1 and 2. Select the first printed unit, marker 1, Mathematical Institute, University of Oxford, UK, and normalize its expressly named parent institution to University of Oxford. The second Alan Turing Institute affiliation does not replace the first unit.",
+        "source_url": "https://proceedings.mlr.press/v139/morrill21b/morrill21b.pdf",
+        "source_page": 1,
+        "source_pdf_sha256": "1a3fc7bb9adbd857e1127c40e859276bbfbffeaa3da942092d6de67d3644f86b"
+      },
+      "first_author": "James Morrill",
+      "first_author_affiliation_as_printed": "Mathematical Institute, University of Oxford, UK",
+      "affiliations": [
+        {
+          "author": "James Morrill",
+          "affiliations": [
+            "Mathematical Institute, University of Oxford, UK",
+            "The Alan Turing Institute, British Library, UK"
+          ]
+        },
+        {
+          "author": "Cristopher Salvi",
+          "affiliations": [
+            "Mathematical Institute, University of Oxford, UK",
+            "The Alan Turing Institute, British Library, UK"
+          ]
+        },
+        {
+          "author": "Patrick Kidger",
+          "affiliations": [
+            "Mathematical Institute, University of Oxford, UK",
+            "The Alan Turing Institute, British Library, UK"
+          ]
+        },
+        {
+          "author": "James Foster",
+          "affiliations": [
+            "Mathematical Institute, University of Oxford, UK",
+            "The Alan Turing Institute, British Library, UK"
+          ]
+        }
+      ],
+      "affiliations_status": "verified_official_pdf",
+      "affiliations_source": "https://proceedings.mlr.press/v139/morrill21b/morrill21b.pdf",
+      "affiliations_evidence": {
+        "source_url": "https://proceedings.mlr.press/v139/morrill21b/morrill21b.pdf",
+        "source_page": 1,
+        "source_pdf_sha256": "1a3fc7bb9adbd857e1127c40e859276bbfbffeaa3da942092d6de67d3644f86b",
+        "printed_units": {
+          "1": "Mathematical Institute, University of Oxford, UK",
+          "2": "The Alan Turing Institute, British Library, UK"
+        },
+        "author_markers": [
+          {
+            "author": "James Morrill",
+            "markers": [
+              "1",
+              "2"
+            ]
+          },
+          {
+            "author": "Cristopher Salvi",
+            "markers": [
+              "1",
+              "2"
+            ]
+          },
+          {
+            "author": "Patrick Kidger",
+            "markers": [
+              "1",
+              "2"
+            ]
+          },
+          {
+            "author": "James Foster",
+            "markers": [
+              "1",
+              "2"
+            ]
+          }
+        ],
+        "printed_context_note": "The first-page footnote prints “*Equal contribution” but no asterisk appears beside any author in the inspected byline. The notice is retained as raw evidence; no equal-contribution assignment to particular authors is invented. All authors visibly bear both affiliation numbers 1 and 2."
+      },
+      "summary": "本文提出神经粗糙微分方程（Neural RDE），把长时间序列每个区间压缩为对数签名，用这些保留路径作用信息的统计量驱动隐状态，从而在不逐点积分的情况下延续 Neural CDE 的连续时间建模与伴随反向传播。实证研究全部使用生物或生理数据：EigenWorms 根据 17,984 点运动序列区分野生型与四类突变线虫；BIDMC 研究用 125 Hz、每段 4,000 点的 PPG/ECG 预测呼吸频率、心率及血氧饱和度。所选表 2 同时比较预测损失、训练时间、显存和三次重复的波动，显示合适的对数签名深度与区间步长能提高效率和预测表现，但不是步长越大越好，也不保证对所有基线都更省显存。补充材料仅说明 70%/15%/15% 数据集划分，未明确按患者隔离，不能据此认定跨患者泛化或排除同人信号跨集合。结果属于回顾性基准预测，不是临床误差校准、诊断准确性或患者获益证据。",
+      "summary_en": "Neural RDEs replace pointwise driving of a Neural CDE with interval log-signatures, reducing effective sequence length while retaining continuous dynamics and adjoint backpropagation. The empirical programme uses EigenWorms biological phenotype classification and three BIDMC PPG/ECG vital-sign prediction tasks. Table 2 quantifies the loss, training-time and memory trade-offs over model depth and step size. Benefits depend on hyperparameters; larger steps are not universally better. Dataset-level splits do not establish patient-separated evaluation, and retrospective benchmark gains are not clinical validation.",
+      "summary_zh": "本文提出神经粗糙微分方程（Neural RDE），把长时间序列每个区间压缩为对数签名，用这些保留路径作用信息的统计量驱动隐状态，从而在不逐点积分的情况下延续 Neural CDE 的连续时间建模与伴随反向传播。实证研究全部使用生物或生理数据：EigenWorms 根据 17,984 点运动序列区分野生型与四类突变线虫；BIDMC 研究用 125 Hz、每段 4,000 点的 PPG/ECG 预测呼吸频率、心率及血氧饱和度。所选表 2 同时比较预测损失、训练时间、显存和三次重复的波动，显示合适的对数签名深度与区间步长能提高效率和预测表现，但不是步长越大越好，也不保证对所有基线都更省显存。补充材料仅说明 70%/15%/15% 数据集划分，未明确按患者隔离，不能据此认定跨患者泛化或排除同人信号跨集合。结果属于回顾性基准预测，不是临床误差校准、诊断准确性或患者获益证据。",
+      "introduction_zh": "本文提出神经粗糙微分方程（Neural RDE），把长时间序列每个区间压缩为对数签名，用这些保留路径作用信息的统计量驱动隐状态，从而在不逐点积分的情况下延续 Neural CDE 的连续时间建模与伴随反向传播。实证研究全部使用生物或生理数据：EigenWorms 根据 17,984 点运动序列区分野生型与四类突变线虫；BIDMC 研究用 125 Hz、每段 4,000 点的 PPG/ECG 预测呼吸频率、心率及血氧饱和度。所选表 2 同时比较预测损失、训练时间、显存和三次重复的波动，显示合适的对数签名深度与区间步长能提高效率和预测表现，但不是步长越大越好，也不保证对所有基线都更省显存。补充材料仅说明 70%/15%/15% 数据集划分，未明确按患者隔离，不能据此认定跨患者泛化或排除同人信号跨集合。结果属于回顾性基准预测，不是临床误差校准、诊断准确性或患者获益证据。",
+      "contribution_introduction_zh": "本文提出神经粗糙微分方程（Neural RDE），把长时间序列每个区间压缩为对数签名，用这些保留路径作用信息的统计量驱动隐状态，从而在不逐点积分的情况下延续 Neural CDE 的连续时间建模与伴随反向传播。实证研究全部使用生物或生理数据：EigenWorms 根据 17,984 点运动序列区分野生型与四类突变线虫；BIDMC 研究用 125 Hz、每段 4,000 点的 PPG/ECG 预测呼吸频率、心率及血氧饱和度。所选表 2 同时比较预测损失、训练时间、显存和三次重复的波动，显示合适的对数签名深度与区间步长能提高效率和预测表现，但不是步长越大越好，也不保证对所有基线都更省显存。补充材料仅说明 70%/15%/15% 数据集划分，未明确按患者隔离，不能据此认定跨患者泛化或排除同人信号跨集合。结果属于回顾性基准预测，不是临床误差校准、诊断准确性或患者获益证据。",
+      "summary_language": "zh-CN",
+      "summary_method": "Independent Chinese contribution paraphrase checked against the existing screened record, full official source, biomedical evaluations and supplementary limitations; no new scientific reading credit.",
+      "summary_source": "https://proceedings.mlr.press/v139/morrill21b/morrill21b.pdf",
+      "summary_zh_source": "https://proceedings.mlr.press/v139/morrill21b/morrill21b.pdf",
+      "summary_zh_evidence": {
+        "basis": "Original abstract, Table 2, full empirical study, associated methods and supplementary limitations; no clinical efficacy or new scope claim.",
+        "method": "An original Chinese contribution introduction preserving computational and clinical limitations, not an abstract translation.",
+        "checked_at": "2026-10-23",
+        "new_paper_credit": 0,
+        "new_reading_credit": 0
+      },
+      "abstract": "Neural controlled differential equations (CDEs) are the continuous-time analogue of recurrent neural networks, as Neural ODEs are to residual networks, and offer a memory-efficient continuous-time way to model functions of potentially irregular time series. Existing methods for computing the forward pass of a Neural CDE involve embedding the incoming time series into path space, often via interpolation, and using evaluations of this path to drive the hidden state. Here, we use rough path theory to extend this formulation. Instead of directly embedding into path space, we instead represent the input signal over small time intervals through its \\textit{log-signature}, which are statistics describing how the signal drives a CDE. This is the approach for solving \\textit{rough differential equations} (RDEs), and correspondingly we describe our main contribution as the introduction of Neural RDEs. This extension has a purpose: by generalising the Neural CDE approach to a broader class of driving signals, we demonstrate particular advantages for tackling long time series. In this regime, we demonstrate efficacy on problems of length up to 17k observations and observe significant training speed-ups, improvements in model performance, and reduced memory requirements compared to existing approaches.",
+      "abstract_source": "https://proceedings.mlr.press/v139/morrill21b.html",
+      "abstract_version": "publisher_original",
+      "abstract_display_type": "original_licensed",
+      "abstract_display_label": "Original abstract (CC BY 4.0)",
+      "abstract_license": "CC-BY-4.0",
+      "abstract_license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "abstract_permission_status": "cleared",
+      "abstract_permission_checked_at": "2026-10-23",
+      "abstract_attribution": "James Morrill, Cristopher Salvi, Patrick Kidger, James Foster. Neural Rough Differential Equations for Long Time Series. ICML 2021, Proceedings of Machine Learning Research 139, pp. 7829–7838. © 2021 the authors. Original publication: https://proceedings.mlr.press/v139/morrill21b.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+      "abstract_changes": "Original publisher HTML abstract body reproduced in full with outer whitespace removed and internal whitespace normalized. Literal mathematical markup, wording, punctuation and numbers retained; no PDF-only text added.",
+      "abstract_permission_note": "The official PMLR article page identifies this exact article and links the inspected publisher PDF. PMLR FAQ requires signed publication-permission forms from authors and links the inspected agreement: paragraph 2 grants the general public CC BY 4.0 rights in the article; paragraph 3 requires the original proceedings citation and hyperlink; paragraph 5 includes publisher edits; paragraph 6 gives originality and right-to-grant warranties. Clearance is an inference from the mandatory publisher-agreement chain and component inspection, not inspection of an individual signed agreement and not the author-copyright footer alone.",
+      "abstract_attribution_conditions": [
+        "Credit all listed authors, title, ICML edition, PMLR volume/pages and original article hyperlink; link CC BY 4.0 and identify changes; retain notices and do not imply endorsement."
+      ],
+      "abstract_license_evidence": [
+        {
+          "url": "https://proceedings.mlr.press/faq.html",
+          "finding": "Requires signed author publication-permission forms and links the inspected agreement."
+        },
+        {
+          "url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+          "finding": "Paragraph 2 grants CC BY 4.0 in the article to the general public; paragraphs 3, 5 and 6 address original citation/link, publisher edits and right-to-grant warranties."
+        },
+        {
+          "url": "https://proceedings.mlr.press/v139/morrill21b.html",
+          "finding": "Exact article title, authors, original abstract and linked official PDF match the inspected publisher files."
+        }
+      ],
+      "abstract_sha256": "b1fe25880761df8a2aa01e826a26559cf8770171aa9d0049b8d70ab6f172915d",
+      "abstract_source_html_sha256": "24ebf973f24d3d51aa9e1b134ded47124e1da472656a667e46e3694f6e138c60",
+      "abstract_source_pdf_sha256": "1a3fc7bb9adbd857e1127c40e859276bbfbffeaa3da942092d6de67d3644f86b",
+      "abstract_verified_against_pdf": true,
+      "abstract_pdf_comparison": {
+        "same_after_typographic_normalization": false,
+        "same_after_documented_version_difference_handling": true,
+        "normalization": "For comparison only: Unicode NFKC/ligatures, whitespace and source-aligned line-wrap hyphens are normalized. Meaningful hyphens, wording, punctuation and all numbers are retained. Display preserves the complete official HTML abstract.",
+        "pdf_bboxes_in_reading_order_points": [
+          [
+            74,
+            193,
+            273,
+            517
+          ]
+        ],
+        "exact_version_difference": "The full official HTML abstract includes literal \\textit{log-signature} and \\textit{rough differential equations}; the PDF prints those phrases in italics without the TeX wrapper. The HTML display preserves both literal wrappers. A strict comparison matches after only these two explicit formatting-version operations, Unicode ligature normalization, whitespace and source-aligned line-wrap handling; no lexical, numerical or punctuation difference was found."
+      },
+      "abstract_footnotes": [
+        {
+          "marker": "Catalogue reuse notice",
+          "text": "Catalogue-added notice, not part of the original abstract: James Morrill, Cristopher Salvi, Patrick Kidger, James Foster. Neural Rough Differential Equations for Long Time Series. ICML 2021, Proceedings of Machine Learning Research 139, pp. 7829–7838. © 2021 the authors. Original publication: https://proceedings.mlr.press/v139/morrill21b.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Changes: Original publisher HTML abstract body reproduced in full with outer whitespace removed and internal whitespace normalized. Literal mathematical markup, wording, punctuation and numbers retained; no PDF-only text added. No endorsement implied.",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "source_url": "https://proceedings.mlr.press/v139/morrill21b.html"
+        }
+      ],
+      "source_html_sha256": "24ebf973f24d3d51aa9e1b134ded47124e1da472656a667e46e3694f6e138c60",
+      "source_pdf_sha256": "1a3fc7bb9adbd857e1127c40e859276bbfbffeaa3da942092d6de67d3644f86b",
+      "source_checked_at": "2026-10-23",
+      "first_page": "assets/pmlr-reviewed-20261023-2146-timeseries/icml2021-morrill21b-firstpage.webp",
+      "first_page_permission_status": "cleared",
+      "first_page_license": "CC-BY-4.0",
+      "first_page_license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "first_page_source": "https://proceedings.mlr.press/v139/morrill21b/morrill21b.pdf",
+      "first_page_attribution": "James Morrill, Cristopher Salvi, Patrick Kidger, James Foster. Neural Rough Differential Equations for Long Time Series. ICML 2021, Proceedings of Machine Learning Research 139, pp. 7829–7838. © 2021 the authors. Original publication: https://proceedings.mlr.press/v139/morrill21b.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+      "first_page_changes": "The complete, uncropped official PDF first page was rasterized at 144 dpi and losslessly encoded as WebP. No printed content was removed or retouched.",
+      "first_page_sha256": "3d8c1adb87ea9eccf3cb89506834f8f93474f7c083e24de0878c04515f33e966",
+      "first_page_dimensions": [
+        1224,
+        1584
+      ],
+      "main_figure": {
+        "path": "assets/pmlr-reviewed-20261023-2146-timeseries/icml2021-morrill21b-mainfigure.webp",
+        "label": "Table 2",
+        "source_url": "https://proceedings.mlr.press/v139/morrill21b/morrill21b.pdf",
+        "page": 8,
+        "status": "core_contribution_figure_visually_inspected",
+        "display_caption": "Table 2. The three experiments on BIDMC datasets: mean ± standard deviation of test set L2 loss, measured over three repeats, over each of three different vital signs prediction tasks (RR, HR, SpO2). Also reported are the memory usage and training time. Only mean times are shown for space. For all models a variety of step sizes are considered. For the Neural RDE we additionally investigate varying depths. (Recalling that the NCDE is a depth-1 NRDE.) ‘–’ denotes that the model could not be run within GPU memory. Bold denotes the best model score for a given step size, and ∗denotes that the score was the best achieved over all models and step sizes.",
+        "selection_rationale": "Table 2 is the contribution-specific empirical comparison showing how interval log-signature modelling trades depth and step size against vital-sign prediction error, training time and memory on all three BIDMC tasks. It includes the NCDE baseline, folded ODE-RNN, depth-2 and depth-3 NRDE variants, uncertainty over three runs, and memory failures. Figure 4 is the best complementary explanation of the log-ODE mechanism but does not quantify its practical effects; Figure 5 shows normalized depth/step heatmaps without absolute losses, times, memory or standard deviations. Table 1 covers the biological worm classification study, while Figures 1–3 explain the general formulation and existing theory. Supplementary Tables 3–8 provide architecture selection and full grids. Selection is based on the reported contribution, not on figure order or visual appeal.",
+        "license": "CC-BY-4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "license_evidence_url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+        "attribution": "James Morrill, Cristopher Salvi, Patrick Kidger, James Foster. Neural Rough Differential Equations for Long Time Series. ICML 2021, Proceedings of Machine Learning Research 139, pp. 7829–7838. © 2021 the authors. Original publication: https://proceedings.mlr.press/v139/morrill21b.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+        "changes": "Table 2 and its complete printed caption were cropped together from physical PDF page 8, rasterized at 216 dpi and losslessly encoded as WebP. Surrounding article body and page header were excluded; component content, colors, labels, legend or table cells, and caption are unchanged.",
+        "asset_sha256": "d440d6cd012dca572d362f40f27c5bbb5dee33994db36085e3b80ee0c2879ba2",
+        "source_pdf_sha256": "1a3fc7bb9adbd857e1127c40e859276bbfbffeaa3da942092d6de67d3644f86b",
+        "crop_rect_pdf_points_top_left": [
+          54,
+          65,
+          544,
+          324
+        ],
+        "caption_transcription_note": "The complete printed caption is transcribed with Unicode ligatures and whitespace normalized. The printed superscript in L² is represented as L2 and the subscript in SpO₂ as SpO2 in plain text. Mean ± standard deviation, dashes, asterisk notation, boldface explanations and all numerical table cells are preserved without change in the source-rendered lossless image. No separate footnote lies outside the caption."
+      },
+      "main_figure_permission_status": "cleared",
+      "main_figure_status": "core_contribution_figure_visually_inspected",
+      "figure_selection_verified": true,
+      "illustrated_profile": true,
+      "metadata_ready": true,
+      "core_complete": true,
+      "profile_status": "Original publisher HTML abstract and documented PDF comparison, complete first page, contribution-selected figure and author first-unit metadata verified; exact-asset media rights reviewed.",
+      "profile_verified_at": "2026-10-23",
+      "metadata_blockers": [],
+      "profile_caveats": [
+        "Clinical-evidence boundary: BIDMC PPG/ECG examples are retrospective time-series segments sampled at 125 Hz with 4,000 observations each, not 4,000 patients. The three outputs are respiratory rate, heart rate and SpO2 at the sample endpoint. Three repeats are training/evaluation repeats, not three clinical cohorts. Loss and compute comparisons do not establish calibrated clinical measurement accuracy, diagnosis, deployment safety or patient benefit.",
+        "The full official HTML abstract includes literal \\textit{log-signature} and \\textit{rough differential equations}; the PDF prints those phrases in italics without the TeX wrapper. The HTML display preserves both literal wrappers. A strict comparison matches after only these two explicit formatting-version operations, Unicode ligature normalization, whitespace and source-aligned line-wrap handling; no lexical, numerical or punctuation difference was found.",
+        "The PMLR rights basis is inferred from the mandatory publisher-agreement chain; the individual signed agreement was not inspected.",
+        "Supplementary Section C specifies 70%/15%/15% train/validation/test dataset splits and normalization statistics estimated on training data. It does not identify a patient-separated splitting rule or report a patient count. Patient-independent generalization and absence of subject overlap cannot be assumed.",
+        "The EigenWorms result is biological mutant-class classification, not a human clinical study. Its exact sequence length in Section 4.1 is 17,984, whereas the abstract and conclusion round the length to 17k or 17,000. All evaluated problems are regularly sampled; the experiment does not separately validate irregular sampling.",
+        "The apparent efficiency gain is a depth/step trade-off, not a guarantee: higher log-signature depth increases dimensionality and input-channel growth is exponential. Table 2 shows some NRDE settings use more memory than an NCDE with the same step size; Figure 5 and the full supplementary grid show degradation at very large steps.",
+        "The main experimental description lists step sizes through 1,024, while supplementary Tables 7–8 and the Figure 5 axis additionally include 2,048. The displayed Table 2 is explicitly a subset of settings, and its highlighted comparisons are not a universal ranking across the complete grid. Training times are hardware- and configuration-specific.",
+        "The official PDF includes an unassigned “*Equal contribution” footnote, but its author byline has no asterisks. No equal-contribution authors are inferred. The main text and supplement leave their code-location references redacted; no verified code destination is invented.",
+        "The article-level CC BY inference covers only the inspected original article composition. Table 2 is an author-created aggregate performance table, not a reproduced patient record, waveform trace, imported figure or external dataset table. BIDMC/TSR source data, EigenWorms data, software and trained models require their own rights assessment and are not cleared here."
+      ],
+      "new_paper_credit": 0,
+      "new_abstract_read_credit": 0,
+      "new_full_paper_read_credit": 0,
+      "media_rights_review": {
+        "first_page": {
+          "status": "cleared",
+          "asset_path": "assets/pmlr-reviewed-20261023-2146-timeseries/icml2021-morrill21b-firstpage.webp",
+          "asset_sha256": "3d8c1adb87ea9eccf3cb89506834f8f93474f7c083e24de0878c04515f33e966",
+          "source_url": "https://proceedings.mlr.press/v139/morrill21b/morrill21b.pdf",
+          "source_pdf_sha256": "1a3fc7bb9adbd857e1127c40e859276bbfbffeaa3da942092d6de67d3644f86b",
+          "source_page": 1,
+          "publication_url": "https://proceedings.mlr.press/v139/morrill21b.html",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "attribution": "James Morrill, Cristopher Salvi, Patrick Kidger, James Foster. Neural Rough Differential Equations for Long Time Series. ICML 2021, Proceedings of Machine Learning Research 139, pp. 7829–7838. © 2021 the authors. Original publication: https://proceedings.mlr.press/v139/morrill21b.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+          "changes": "The complete, uncropped official PDF first page was rasterized at 144 dpi and losslessly encoded as WebP. No printed content was removed or retouched.",
+          "evidence_url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+          "scope": "exact_first_page",
+          "embedded_materials_review": "The complete physical first page was visually inspected. It contains the article title, ordered printed author byline, affiliations, original abstract, original explanatory prose, mathematical definitions and equations, scholarly citations, correspondence, an unassigned equal-contribution footnote and the author copyright notice. No figure, photograph, biological image, patient record, clinical-note excerpt, waveform recording, measurement table or separately credited third-party artwork is embedded. Cited definitions and scholarly references are not imported visual components. The copyright footer alone is not the license grant.",
+          "reviewed_at": "2026-10-23",
+          "evidence_basis": "The official PMLR article page identifies this exact article and links the inspected publisher PDF. PMLR FAQ requires signed publication-permission forms from authors and links the inspected agreement: paragraph 2 grants the general public CC BY 4.0 rights in the article; paragraph 3 requires the original proceedings citation and hyperlink; paragraph 5 includes publisher edits; paragraph 6 gives originality and right-to-grant warranties. Clearance is an inference from the mandatory publisher-agreement chain and component inspection, not inspection of an individual signed agreement and not the author-copyright footer alone.",
+          "evidence_urls": [
+            "https://proceedings.mlr.press/v139/morrill21b.html",
+            "https://proceedings.mlr.press/v139/morrill21b/morrill21b.pdf",
+            "https://proceedings.mlr.press/faq.html",
+            "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+            "https://creativecommons.org/licenses/by/4.0/"
+          ]
+        },
+        "main_figure": {
+          "status": "cleared",
+          "asset_path": "assets/pmlr-reviewed-20261023-2146-timeseries/icml2021-morrill21b-mainfigure.webp",
+          "asset_sha256": "d440d6cd012dca572d362f40f27c5bbb5dee33994db36085e3b80ee0c2879ba2",
+          "source_url": "https://proceedings.mlr.press/v139/morrill21b/morrill21b.pdf",
+          "source_pdf_sha256": "1a3fc7bb9adbd857e1127c40e859276bbfbffeaa3da942092d6de67d3644f86b",
+          "source_page": 8,
+          "publication_url": "https://proceedings.mlr.press/v139/morrill21b.html",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "attribution": "James Morrill, Cristopher Salvi, Patrick Kidger, James Foster. Neural Rough Differential Equations for Long Time Series. ICML 2021, Proceedings of Machine Learning Research 139, pp. 7829–7838. © 2021 the authors. Original publication: https://proceedings.mlr.press/v139/morrill21b.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+          "changes": "Table 2 and its complete printed caption were cropped together from physical PDF page 8, rasterized at 216 dpi and losslessly encoded as WebP. Surrounding article body and page header were excluded; component content, colors, labels, legend or table cells, and caption are unchanged.",
+          "evidence_url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+          "scope": "exact_main_figure",
+          "embedded_materials_review": "Exact selected component: Table 2 contains the authors’ aggregate numerical outcomes for their NCDE, folded ODE-RNN and NRDE benchmark runs, with method labels, step sizes, L2 losses and standard deviations, training times, memory values, failure dashes, bold/asterisk emphasis and the complete author-written caption. Section 4.2 credits TSR and the original BIDMC data source. The table does not contain actual patient-level data, waveform traces, medical imagery, externally reproduced plots or separately credited artwork. External data used as experimental inputs do not automatically restrict this newly authored aggregate composition; the scoped article grant can cover these numerical results without granting rights to the underlying records. No data, software, model or unselected-media grant is inferred.",
+          "reviewed_at": "2026-10-23",
+          "evidence_basis": "The official PMLR article page identifies this exact article and links the inspected publisher PDF. PMLR FAQ requires signed publication-permission forms from authors and links the inspected agreement: paragraph 2 grants the general public CC BY 4.0 rights in the article; paragraph 3 requires the original proceedings citation and hyperlink; paragraph 5 includes publisher edits; paragraph 6 gives originality and right-to-grant warranties. Clearance is an inference from the mandatory publisher-agreement chain and component inspection, not inspection of an individual signed agreement and not the author-copyright footer alone.",
+          "evidence_urls": [
+            "https://proceedings.mlr.press/v139/morrill21b.html",
+            "https://proceedings.mlr.press/v139/morrill21b/morrill21b.pdf",
+            "https://proceedings.mlr.press/faq.html",
+            "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+            "https://creativecommons.org/licenses/by/4.0/"
+          ]
+        }
+      },
+      "media_display_permissions": {
+        "first_page": {
+          "status": "cleared",
+          "reason": "exact_asset_review",
+          "asset_path": "assets/pmlr-reviewed-20261023-2146-timeseries/icml2021-morrill21b-firstpage.webp",
+          "asset_sha256": "3d8c1adb87ea9eccf3cb89506834f8f93474f7c083e24de0878c04515f33e966",
+          "credit": {
+            "status": "cleared",
+            "asset_path": "assets/pmlr-reviewed-20261023-2146-timeseries/icml2021-morrill21b-firstpage.webp",
+            "asset_sha256": "3d8c1adb87ea9eccf3cb89506834f8f93474f7c083e24de0878c04515f33e966",
+            "source_url": "https://proceedings.mlr.press/v139/morrill21b/morrill21b.pdf",
+            "source_pdf_sha256": "1a3fc7bb9adbd857e1127c40e859276bbfbffeaa3da942092d6de67d3644f86b",
+            "source_page": 1,
+            "publication_url": "https://proceedings.mlr.press/v139/morrill21b.html",
+            "license": "CC-BY-4.0",
+            "license_url": "https://creativecommons.org/licenses/by/4.0/",
+            "attribution": "James Morrill, Cristopher Salvi, Patrick Kidger, James Foster. Neural Rough Differential Equations for Long Time Series. ICML 2021, Proceedings of Machine Learning Research 139, pp. 7829–7838. © 2021 the authors. Original publication: https://proceedings.mlr.press/v139/morrill21b.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+            "changes": "The complete, uncropped official PDF first page was rasterized at 144 dpi and losslessly encoded as WebP. No printed content was removed or retouched.",
+            "evidence_url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+            "scope": "exact_first_page",
+            "embedded_materials_review": "The complete physical first page was visually inspected. It contains the article title, ordered printed author byline, affiliations, original abstract, original explanatory prose, mathematical definitions and equations, scholarly citations, correspondence, an unassigned equal-contribution footnote and the author copyright notice. No figure, photograph, biological image, patient record, clinical-note excerpt, waveform recording, measurement table or separately credited third-party artwork is embedded. Cited definitions and scholarly references are not imported visual components. The copyright footer alone is not the license grant.",
+            "reviewed_at": "2026-10-23",
+            "evidence_basis": "The official PMLR article page identifies this exact article and links the inspected publisher PDF. PMLR FAQ requires signed publication-permission forms from authors and links the inspected agreement: paragraph 2 grants the general public CC BY 4.0 rights in the article; paragraph 3 requires the original proceedings citation and hyperlink; paragraph 5 includes publisher edits; paragraph 6 gives originality and right-to-grant warranties. Clearance is an inference from the mandatory publisher-agreement chain and component inspection, not inspection of an individual signed agreement and not the author-copyright footer alone.",
+            "evidence_urls": [
+              "https://proceedings.mlr.press/v139/morrill21b.html",
+              "https://proceedings.mlr.press/v139/morrill21b/morrill21b.pdf",
+              "https://proceedings.mlr.press/faq.html",
+              "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+              "https://creativecommons.org/licenses/by/4.0/"
+            ]
+          }
+        },
+        "main_figure": {
+          "status": "cleared",
+          "reason": "exact_asset_review",
+          "asset_path": "assets/pmlr-reviewed-20261023-2146-timeseries/icml2021-morrill21b-mainfigure.webp",
+          "asset_sha256": "d440d6cd012dca572d362f40f27c5bbb5dee33994db36085e3b80ee0c2879ba2",
+          "credit": {
+            "status": "cleared",
+            "asset_path": "assets/pmlr-reviewed-20261023-2146-timeseries/icml2021-morrill21b-mainfigure.webp",
+            "asset_sha256": "d440d6cd012dca572d362f40f27c5bbb5dee33994db36085e3b80ee0c2879ba2",
+            "source_url": "https://proceedings.mlr.press/v139/morrill21b/morrill21b.pdf",
+            "source_pdf_sha256": "1a3fc7bb9adbd857e1127c40e859276bbfbffeaa3da942092d6de67d3644f86b",
+            "source_page": 8,
+            "publication_url": "https://proceedings.mlr.press/v139/morrill21b.html",
+            "license": "CC-BY-4.0",
+            "license_url": "https://creativecommons.org/licenses/by/4.0/",
+            "attribution": "James Morrill, Cristopher Salvi, Patrick Kidger, James Foster. Neural Rough Differential Equations for Long Time Series. ICML 2021, Proceedings of Machine Learning Research 139, pp. 7829–7838. © 2021 the authors. Original publication: https://proceedings.mlr.press/v139/morrill21b.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+            "changes": "Table 2 and its complete printed caption were cropped together from physical PDF page 8, rasterized at 216 dpi and losslessly encoded as WebP. Surrounding article body and page header were excluded; component content, colors, labels, legend or table cells, and caption are unchanged.",
+            "evidence_url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+            "scope": "exact_main_figure",
+            "embedded_materials_review": "Exact selected component: Table 2 contains the authors’ aggregate numerical outcomes for their NCDE, folded ODE-RNN and NRDE benchmark runs, with method labels, step sizes, L2 losses and standard deviations, training times, memory values, failure dashes, bold/asterisk emphasis and the complete author-written caption. Section 4.2 credits TSR and the original BIDMC data source. The table does not contain actual patient-level data, waveform traces, medical imagery, externally reproduced plots or separately credited artwork. External data used as experimental inputs do not automatically restrict this newly authored aggregate composition; the scoped article grant can cover these numerical results without granting rights to the underlying records. No data, software, model or unselected-media grant is inferred.",
+            "reviewed_at": "2026-10-23",
+            "evidence_basis": "The official PMLR article page identifies this exact article and links the inspected publisher PDF. PMLR FAQ requires signed publication-permission forms from authors and links the inspected agreement: paragraph 2 grants the general public CC BY 4.0 rights in the article; paragraph 3 requires the original proceedings citation and hyperlink; paragraph 5 includes publisher edits; paragraph 6 gives originality and right-to-grant warranties. Clearance is an inference from the mandatory publisher-agreement chain and component inspection, not inspection of an individual signed agreement and not the author-copyright footer alone.",
+            "evidence_urls": [
+              "https://proceedings.mlr.press/v139/morrill21b.html",
+              "https://proceedings.mlr.press/v139/morrill21b/morrill21b.pdf",
+              "https://proceedings.mlr.press/faq.html",
+              "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+              "https://creativecommons.org/licenses/by/4.0/"
+            ]
+          }
+        }
+      },
+      "authors_equal_contribution": [],
+      "pages": "7829–7838",
+      "metadata_pending": []
+    },
+    "unset": []
+  },
+  {
+    "id": "icml2020-williamson20a",
+    "expected_baseline_record_sha256": "2b3feed982ca5b331e0e8b6e523f72c9f70ba3d1923dbd543477a866cd85246b",
+    "set": {
+      "authors": [
+        "Brian D. Williamson",
+        "Jean Feng"
+      ],
+      "authors_verified": true,
+      "authors_status": "verified_official_pdf_with_html_name_variant",
+      "authors_pdf": [
+        "Brian D. Williamson",
+        "Jean Feng"
+      ],
+      "authors_official_html": [
+        "Brian Williamson",
+        "Jean Feng"
+      ],
+      "authors_source": "https://proceedings.mlr.press/v119/williamson20a/williamson20a.pdf",
+      "authors_source_page": 1,
+      "authors_source_sha256": "79b118d515eca1686b95f6721b12174937a7421738a8d06ab1819529cde21f75",
+      "author_order_evidence": "The official HTML credits Brian Williamson, whereas the printed PDF byline and correspondence print Brian D. Williamson. Author order is unchanged. Display the printed full name with its middle initial; retain the HTML variant as evidence. Both authors have asterisks mapped to the printed Equal contribution footnote.",
+      "first_institution": "Fred Hutchinson Cancer Research Center",
+      "first_institution_raw": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA",
+      "first_institution_verified": true,
+      "first_institution_source": "https://proceedings.mlr.press/v119/williamson20a/williamson20a.pdf",
+      "first_institution_evidence": {
+        "first_author": "Brian D. Williamson",
+        "first_author_printed_affiliation_markers": "* 1",
+        "selected_affiliation_marker": "1",
+        "printed_first_affiliation": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA",
+        "reason": "The first printed author is Brian D. Williamson, bearing affiliation marker 1 and an equal-contribution asterisk. His first printed unit is Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA. Normalize to the explicitly printed parent institution Fred Hutchinson Cancer Research Center, without replacing its historical printed name with a later institutional name.",
+        "source_url": "https://proceedings.mlr.press/v119/williamson20a/williamson20a.pdf",
+        "source_page": 1,
+        "source_pdf_sha256": "79b118d515eca1686b95f6721b12174937a7421738a8d06ab1819529cde21f75"
+      },
+      "first_author": "Brian D. Williamson",
+      "first_author_affiliation_as_printed": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA",
+      "affiliations": [
+        {
+          "author": "Brian D. Williamson",
+          "affiliations": [
+            "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA"
+          ]
+        },
+        {
+          "author": "Jean Feng",
+          "affiliations": [
+            "Department of Biostatistics, University of Washington, Seattle, WA"
+          ]
+        }
+      ],
+      "affiliations_status": "verified_official_pdf",
+      "affiliations_source": "https://proceedings.mlr.press/v119/williamson20a/williamson20a.pdf",
+      "affiliations_evidence": {
+        "source_url": "https://proceedings.mlr.press/v119/williamson20a/williamson20a.pdf",
+        "source_page": 1,
+        "source_pdf_sha256": "79b118d515eca1686b95f6721b12174937a7421738a8d06ab1819529cde21f75",
+        "printed_units": {
+          "1": "Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA",
+          "2": "Department of Biostatistics, University of Washington, Seattle, WA"
+        },
+        "author_markers": [
+          {
+            "author": "Brian D. Williamson",
+            "markers": [
+              "*",
+              "1"
+            ]
+          },
+          {
+            "author": "Jean Feng",
+            "markers": [
+              "*",
+              "2"
+            ]
+          }
+        ]
+      },
+      "summary": "本文针对“某项临床测量对总体预测究竟有多重要”提出可计算的 Shapley 总体变量重要性（SPVIM）估计与统计推断，把对全部特征子集的枚举改为按权重抽样，并在正则条件下给出渐近分布、置信区间和检验。其 ICU 研究分析 MIMIC-II 的 4,000 条住院记录，将入院信息及前 48 小时的测量汇总为 37 个特征，以 AUC 衡量院内死亡预测。所选图 2 同时展示梯度提升树和神经网络下的 SPVIM、平均绝对 SHAP 与 LIME：SPVIM 的跨模型排序更一致，GCS 相关特征较突出，但置信区间较宽，不支持精确、稳定的临床优先级。这里的 4,000 是记录数，不是已核实的独立患者数；特征重要性刻画预测关联，不能解释为改变测量或治疗会降低死亡率。原文及补充材料对恰好 30% 缺失的排除边界表述不同，目录保留这一差异，而不替作者修正。",
+      "summary_en": "The paper estimates Shapley population variable importance through sampled feature subsets and derives uncertainty under regularity conditions. Its dedicated ICU study analyses 4,000 MIMIC-II records and 37 extracted features for in-hospital mortality prediction, comparing boosted-tree and neural-network estimates against SHAP and LIME. Figure 2 shows stronger cross-model ranking agreement and the prominence of GCS, but wide intervals limit precise interpretation. The analysis is predictive rather than causal, does not verify a unique-patient count or clinical benefit, and retains the sources’ differing missingness-threshold descriptions.",
+      "summary_zh": "本文针对“某项临床测量对总体预测究竟有多重要”提出可计算的 Shapley 总体变量重要性（SPVIM）估计与统计推断，把对全部特征子集的枚举改为按权重抽样，并在正则条件下给出渐近分布、置信区间和检验。其 ICU 研究分析 MIMIC-II 的 4,000 条住院记录，将入院信息及前 48 小时的测量汇总为 37 个特征，以 AUC 衡量院内死亡预测。所选图 2 同时展示梯度提升树和神经网络下的 SPVIM、平均绝对 SHAP 与 LIME：SPVIM 的跨模型排序更一致，GCS 相关特征较突出，但置信区间较宽，不支持精确、稳定的临床优先级。这里的 4,000 是记录数，不是已核实的独立患者数；特征重要性刻画预测关联，不能解释为改变测量或治疗会降低死亡率。原文及补充材料对恰好 30% 缺失的排除边界表述不同，目录保留这一差异，而不替作者修正。",
+      "introduction_zh": "本文针对“某项临床测量对总体预测究竟有多重要”提出可计算的 Shapley 总体变量重要性（SPVIM）估计与统计推断，把对全部特征子集的枚举改为按权重抽样，并在正则条件下给出渐近分布、置信区间和检验。其 ICU 研究分析 MIMIC-II 的 4,000 条住院记录，将入院信息及前 48 小时的测量汇总为 37 个特征，以 AUC 衡量院内死亡预测。所选图 2 同时展示梯度提升树和神经网络下的 SPVIM、平均绝对 SHAP 与 LIME：SPVIM 的跨模型排序更一致，GCS 相关特征较突出，但置信区间较宽，不支持精确、稳定的临床优先级。这里的 4,000 是记录数，不是已核实的独立患者数；特征重要性刻画预测关联，不能解释为改变测量或治疗会降低死亡率。原文及补充材料对恰好 30% 缺失的排除边界表述不同，目录保留这一差异，而不替作者修正。",
+      "contribution_introduction_zh": "本文针对“某项临床测量对总体预测究竟有多重要”提出可计算的 Shapley 总体变量重要性（SPVIM）估计与统计推断，把对全部特征子集的枚举改为按权重抽样，并在正则条件下给出渐近分布、置信区间和检验。其 ICU 研究分析 MIMIC-II 的 4,000 条住院记录，将入院信息及前 48 小时的测量汇总为 37 个特征，以 AUC 衡量院内死亡预测。所选图 2 同时展示梯度提升树和神经网络下的 SPVIM、平均绝对 SHAP 与 LIME：SPVIM 的跨模型排序更一致，GCS 相关特征较突出，但置信区间较宽，不支持精确、稳定的临床优先级。这里的 4,000 是记录数，不是已核实的独立患者数；特征重要性刻画预测关联，不能解释为改变测量或治疗会降低死亡率。原文及补充材料对恰好 30% 缺失的排除边界表述不同，目录保留这一差异，而不替作者修正。",
+      "summary_language": "zh-CN",
+      "summary_method": "Independent Chinese contribution paraphrase checked against the existing screened record, full official source, biomedical evaluations and supplementary limitations; no new scientific reading credit.",
+      "summary_source": "https://proceedings.mlr.press/v119/williamson20a/williamson20a.pdf",
+      "summary_zh_source": "https://proceedings.mlr.press/v119/williamson20a/williamson20a.pdf",
+      "summary_zh_evidence": {
+        "basis": "Original abstract, Figure 2, full empirical study, associated methods and supplementary limitations; no clinical efficacy or new scope claim.",
+        "method": "An original Chinese contribution introduction preserving computational and clinical limitations, not an abstract translation.",
+        "checked_at": "2026-10-23",
+        "new_paper_credit": 0,
+        "new_reading_credit": 0
+      },
+      "abstract": "The true population-level importance of a variable in a prediction task provides useful knowledge about the underlying data-generating mechanism and can help in deciding which measurements to collect in subsequent experiments. Valid statistical inference on this importance is a key component in understanding the population of interest. We present a computationally efficient procedure for estimating and obtaining valid statistical inference on the \\textbf{S}hapley \\textbf{P}opulation \\textbf{V}ariable \\textbf{I}mportance \\textbf{M}easure (SPVIM). Although the computational complexity of the true SPVIM scales exponentially with the number of variables, we propose an estimator based on randomly sampling only $\\Theta(n)$ feature subsets given $n$ observations. We prove that our estimator converges at an asymptotically optimal rate. Moreover, by deriving the asymptotic distribution of our estimator, we construct valid confidence intervals and hypothesis tests. Our procedure has good finite-sample performance in simulations, and for an in-hospital mortality prediction task produces similar variable importance estimates when different machine learning algorithms are applied.",
+      "abstract_source": "https://proceedings.mlr.press/v119/williamson20a.html",
+      "abstract_version": "publisher_original",
+      "abstract_display_type": "original_licensed",
+      "abstract_display_label": "Original abstract (CC BY 4.0)",
+      "abstract_license": "CC-BY-4.0",
+      "abstract_license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "abstract_permission_status": "cleared",
+      "abstract_permission_checked_at": "2026-10-23",
+      "abstract_attribution": "Brian D. Williamson, Jean Feng. Efficient nonparametric statistical inference on population feature importance using Shapley values. ICML 2020, Proceedings of Machine Learning Research 119, pp. 10282–10291. © 2020 the authors. Original publication: https://proceedings.mlr.press/v119/williamson20a.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+      "abstract_changes": "Original publisher HTML abstract body reproduced in full with outer whitespace removed and internal whitespace normalized. Literal mathematical markup, wording, punctuation and numbers retained; no PDF-only text added.",
+      "abstract_permission_note": "The official PMLR article page identifies this exact article and links the inspected publisher PDF. PMLR FAQ requires signed publication-permission forms from authors and links the inspected agreement: paragraph 2 grants the general public CC BY 4.0 rights in the article; paragraph 3 requires the original proceedings citation and hyperlink; paragraph 5 includes publisher edits; paragraph 6 gives originality and right-to-grant warranties. Clearance is an inference from the mandatory publisher-agreement chain and component inspection, not inspection of an individual signed agreement and not the author-copyright footer alone.",
+      "abstract_attribution_conditions": [
+        "Credit all listed authors, title, ICML edition, PMLR volume/pages and original article hyperlink; link CC BY 4.0 and identify changes; retain notices and do not imply endorsement."
+      ],
+      "abstract_license_evidence": [
+        {
+          "url": "https://proceedings.mlr.press/faq.html",
+          "finding": "Requires signed author publication-permission forms and links the inspected agreement."
+        },
+        {
+          "url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+          "finding": "Paragraph 2 grants CC BY 4.0 in the article to the general public; paragraphs 3, 5 and 6 address original citation/link, publisher edits and right-to-grant warranties."
+        },
+        {
+          "url": "https://proceedings.mlr.press/v119/williamson20a.html",
+          "finding": "Exact article title, authors, original abstract and linked official PDF match the inspected publisher files."
+        }
+      ],
+      "abstract_sha256": "d45242a5f67a657d1fc74c61a9bec34792239095cf412273b6627789ed8fe72e",
+      "abstract_source_html_sha256": "3d230b7af5d4acfb478530bb6587b9e26ef280cbb670785ffed2a52dd4bcf959",
+      "abstract_source_pdf_sha256": "79b118d515eca1686b95f6721b12174937a7421738a8d06ab1819529cde21f75",
+      "abstract_verified_against_pdf": true,
+      "abstract_pdf_comparison": {
+        "same_after_typographic_normalization": false,
+        "same_after_documented_version_difference_handling": true,
+        "normalization": "For comparison only: Unicode NFKC/ligatures, whitespace and source-aligned line-wrap hyphens are normalized. Meaningful hyphens, wording, punctuation and all numbers are retained. Display preserves the complete official HTML abstract.",
+        "pdf_bboxes_in_reading_order_points": [
+          [
+            74,
+            214,
+            273,
+            502
+          ]
+        ],
+        "exact_version_difference": "The complete official HTML abstract retains literal \\textbf{S}, \\textbf{P}, \\textbf{V}, \\textbf{I} and \\textbf{M} wrappers in the spelled-out SPVIM name, and dollar-delimited $\\Theta(n)$ and $n$; the PDF renders bold initials and mathematical symbols instead. The HTML is displayed unchanged. Strict comparison matches only after these seven explicitly documented formatting-version operations, Unicode ligature normalization, whitespace and source-aligned line-wrap handling; no lexical, numerical or punctuation version difference was found."
+      },
+      "abstract_footnotes": [
+        {
+          "marker": "Catalogue reuse notice",
+          "text": "Catalogue-added notice, not part of the original abstract: Brian D. Williamson, Jean Feng. Efficient nonparametric statistical inference on population feature importance using Shapley values. ICML 2020, Proceedings of Machine Learning Research 119, pp. 10282–10291. © 2020 the authors. Original publication: https://proceedings.mlr.press/v119/williamson20a.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Changes: Original publisher HTML abstract body reproduced in full with outer whitespace removed and internal whitespace normalized. Literal mathematical markup, wording, punctuation and numbers retained; no PDF-only text added. No endorsement implied.",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "source_url": "https://proceedings.mlr.press/v119/williamson20a.html"
+        }
+      ],
+      "source_html_sha256": "3d230b7af5d4acfb478530bb6587b9e26ef280cbb670785ffed2a52dd4bcf959",
+      "source_pdf_sha256": "79b118d515eca1686b95f6721b12174937a7421738a8d06ab1819529cde21f75",
+      "source_checked_at": "2026-10-23",
+      "first_page": "assets/pmlr-reviewed-20261023-2146-timeseries/icml2020-williamson20a-firstpage.webp",
+      "first_page_permission_status": "cleared",
+      "first_page_license": "CC-BY-4.0",
+      "first_page_license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "first_page_source": "https://proceedings.mlr.press/v119/williamson20a/williamson20a.pdf",
+      "first_page_attribution": "Brian D. Williamson, Jean Feng. Efficient nonparametric statistical inference on population feature importance using Shapley values. ICML 2020, Proceedings of Machine Learning Research 119, pp. 10282–10291. © 2020 the authors. Original publication: https://proceedings.mlr.press/v119/williamson20a.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+      "first_page_changes": "The complete, uncropped official PDF first page was rasterized at 144 dpi and losslessly encoded as WebP. No printed content was removed or retouched.",
+      "first_page_sha256": "d2c7f3f8298d0859b0f235812ae9e259f6cf45b728ec22e9b21a34065efce1ea",
+      "first_page_dimensions": [
+        1224,
+        1584
+      ],
+      "main_figure": {
+        "path": "assets/pmlr-reviewed-20261023-2146-timeseries/icml2020-williamson20a-mainfigure.webp",
+        "label": "Figure 2",
+        "source_url": "https://proceedings.mlr.press/v119/williamson20a/williamson20a.pdf",
+        "page": 9,
+        "status": "core_contribution_figure_visually_inspected",
+        "display_caption": "Figure 2. We estimated importance of features for predicting in-hospital death in the ICU using our statistical inference procedure for SPVIM with respect to AUC (A), the mean absolute SHAP value (B), and LIME (C). Gray circles and blue triangles denote estimates from fitting boosted trees and neural networks, respectively. The features are ordered from top to bottom by their point estimate from the neural networks procedure. 95% confidence intervals only appear in (A) since there is no statistical inference procedure for mean absolute SHAP values or LIME.",
+        "selection_rationale": "Figure 2 directly displays the substantive ICU mortality feature-importance contribution: population SPVIM estimates with 95% confidence intervals and comparison to mean absolute SHAP and LIME, using both boosted trees and neural networks. It shows agreement, uncertainty and correlated clinical measurements rather than a single generic benchmark score. Figure 1 is the important synthetic estimator-validation comparison but lacks the real clinical research question. Supplementary Figure 1 supplies further synthetic estimates; supplementary Table 1 documents clinical feature extraction and omissions. Algorithm 1 explains the estimator but is not empirical evidence. The complete Figure 2 is selected for contribution relevance, not its figure number or appearance.",
+        "license": "CC-BY-4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "license_evidence_url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+        "attribution": "Brian D. Williamson, Jean Feng. Efficient nonparametric statistical inference on population feature importance using Shapley values. ICML 2020, Proceedings of Machine Learning Research 119, pp. 10282–10291. © 2020 the authors. Original publication: https://proceedings.mlr.press/v119/williamson20a.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+        "changes": "Figure 2 and its complete printed caption were cropped together from physical PDF page 9, rasterized at 216 dpi and losslessly encoded as WebP. Surrounding article body and page header were excluded; component content, colors, labels, legend or table cells, and caption are unchanged.",
+        "asset_sha256": "799c65e0c8e8ac8af28fbf01749f8a84d2f87d137e9250a275a2c56043dd22b6",
+        "source_pdf_sha256": "79b118d515eca1686b95f6721b12174937a7421738a8d06ab1819529cde21f75",
+        "crop_rect_pdf_points_top_left": [
+          54,
+          64,
+          544,
+          342
+        ],
+        "caption_transcription_note": "The complete caption is transcribed with Unicode ligatures and whitespace normalized. All panel letters, gray circle/blue triangle symbols, feature labels, ranking order, axis scales, SPVIM confidence intervals and the complete printed caption remain unchanged in the source-rendered lossless image. No numerical results or table cells are fabricated and no separate caption note is omitted."
+      },
+      "main_figure_permission_status": "cleared",
+      "main_figure_status": "core_contribution_figure_visually_inspected",
+      "figure_selection_verified": true,
+      "illustrated_profile": true,
+      "metadata_ready": true,
+      "core_complete": true,
+      "profile_status": "Original publisher HTML abstract and documented PDF comparison, complete first page, contribution-selected figure and author first-unit metadata verified; exact-asset media rights reviewed.",
+      "profile_verified_at": "2026-10-23",
+      "metadata_blockers": [],
+      "profile_caveats": [
+        "Clinical-evidence boundary: the MIMIC-II analysis uses 4,000 ICU records, not a verified count of unique patients, and 37 extracted features from admission information and the first 48 hours. In-hospital mortality is an observational prediction target. SPVIM is population predictive importance, not a causal effect, treatment recommendation, established measurement-selection policy or evidence of improved outcomes.",
+        "The complete official HTML abstract retains literal \\textbf{S}, \\textbf{P}, \\textbf{V}, \\textbf{I} and \\textbf{M} wrappers in the spelled-out SPVIM name, and dollar-delimited $\\Theta(n)$ and $n$; the PDF renders bold initials and mathematical symbols instead. The HTML is displayed unchanged. Strict comparison matches only after these seven explicitly documented formatting-version operations, Unicode ligature normalization, whitespace and source-aligned line-wrap handling; no lexical, numerical or punctuation version difference was found.",
+        "The PMLR rights basis is inferred from the mandatory publisher-agreement chain; the individual signed agreement was not inspected.",
+        "Figure 2 SPVIM confidence intervals are wide, and the top GCS summary differs by fitted algorithm: mean for trees and maximum for neural networks. Greater ranking agreement does not make the estimates exact or establish stable deployment performance. The reported Kendall rank correlations are 0.71 for SPVIM, 0.37 for SHAP and 0.39 for LIME in this study only.",
+        "The simulation evaluates 200 covariates with known synthetic dependence, across 1,000 generated datasets per sample size; it is not additional patient evidence. Large-sample guarantees rely on the stated regularity and estimator conditions. At null importance the paper uses a separate sample-splitting construction rather than naively applying a nondegenerate Wald test.",
+        "Source difference retained: main Section 6 removes variables measured in fewer than 70% of patients, and supplementary Table 1 plus its footnote say missingness > 0.3; supplementary Section 4 instead says greater than or equal to 30%. Whether exactly 30% missingness is included is not reconciled.",
+        "Main Section 6 describes minimum, average and maximum summaries; supplementary Section 4 and Table 1 specify minimum, weighted mean and maximum, with the weighted mean defined by a linear-regression estimate at mean measurement time. The supplementary table also documents impossible-value removal and excluded variables. No unstated imputation procedure or patient-disjoint validation scheme is invented.",
+        "The displayed byline follows the PDF’s Brian D. Williamson, while official HTML omits the middle initial. The two printed asterisks support equal contribution by both authors. The first institution is retained under its printed 2020 name, Fred Hutchinson Cancer Research Center.",
+        "Figure 2 is an original authored aggregate analysis, not a copy of MIMIC-II records, individual patient traces or external artwork. The article grant does not establish permission to reuse the underlying clinical database, code or models; those rights are separate.",
+        "The official HTML credits Brian Williamson, whereas the printed PDF byline and correspondence print Brian D. Williamson. Author order is unchanged. Display the printed full name with its middle initial; retain the HTML variant as evidence. Both authors have asterisks mapped to the printed Equal contribution footnote."
+      ],
+      "new_paper_credit": 0,
+      "new_abstract_read_credit": 0,
+      "new_full_paper_read_credit": 0,
+      "media_rights_review": {
+        "first_page": {
+          "status": "cleared",
+          "asset_path": "assets/pmlr-reviewed-20261023-2146-timeseries/icml2020-williamson20a-firstpage.webp",
+          "asset_sha256": "d2c7f3f8298d0859b0f235812ae9e259f6cf45b728ec22e9b21a34065efce1ea",
+          "source_url": "https://proceedings.mlr.press/v119/williamson20a/williamson20a.pdf",
+          "source_pdf_sha256": "79b118d515eca1686b95f6721b12174937a7421738a8d06ab1819529cde21f75",
+          "source_page": 1,
+          "publication_url": "https://proceedings.mlr.press/v119/williamson20a.html",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "attribution": "Brian D. Williamson, Jean Feng. Efficient nonparametric statistical inference on population feature importance using Shapley values. ICML 2020, Proceedings of Machine Learning Research 119, pp. 10282–10291. © 2020 the authors. Original publication: https://proceedings.mlr.press/v119/williamson20a.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+          "changes": "The complete, uncropped official PDF first page was rasterized at 144 dpi and losslessly encoded as WebP. No printed content was removed or retouched.",
+          "evidence_url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+          "scope": "exact_first_page",
+          "embedded_materials_review": "The complete physical first page was visually inspected. It contains the article title, printed ordered author byline and matching equal-contribution markers, affiliations, the original abstract, original article prose and mathematical notation, scholarly citations, correspondence and the author copyright notice. No figure, photograph, patient record, clinical-note excerpt, medical measurement table, biological image or separately credited external artwork is embedded. Cited scientific literature is not an imported image component. The footer alone is not the rights grant.",
+          "reviewed_at": "2026-10-23",
+          "evidence_basis": "The official PMLR article page identifies this exact article and links the inspected publisher PDF. PMLR FAQ requires signed publication-permission forms from authors and links the inspected agreement: paragraph 2 grants the general public CC BY 4.0 rights in the article; paragraph 3 requires the original proceedings citation and hyperlink; paragraph 5 includes publisher edits; paragraph 6 gives originality and right-to-grant warranties. Clearance is an inference from the mandatory publisher-agreement chain and component inspection, not inspection of an individual signed agreement and not the author-copyright footer alone.",
+          "evidence_urls": [
+            "https://proceedings.mlr.press/v119/williamson20a.html",
+            "https://proceedings.mlr.press/v119/williamson20a/williamson20a.pdf",
+            "https://proceedings.mlr.press/faq.html",
+            "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+            "https://creativecommons.org/licenses/by/4.0/"
+          ]
+        },
+        "main_figure": {
+          "status": "cleared",
+          "asset_path": "assets/pmlr-reviewed-20261023-2146-timeseries/icml2020-williamson20a-mainfigure.webp",
+          "asset_sha256": "799c65e0c8e8ac8af28fbf01749f8a84d2f87d137e9250a275a2c56043dd22b6",
+          "source_url": "https://proceedings.mlr.press/v119/williamson20a/williamson20a.pdf",
+          "source_pdf_sha256": "79b118d515eca1686b95f6721b12174937a7421738a8d06ab1819529cde21f75",
+          "source_page": 9,
+          "publication_url": "https://proceedings.mlr.press/v119/williamson20a.html",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "attribution": "Brian D. Williamson, Jean Feng. Efficient nonparametric statistical inference on population feature importance using Shapley values. ICML 2020, Proceedings of Machine Learning Research 119, pp. 10282–10291. © 2020 the authors. Original publication: https://proceedings.mlr.press/v119/williamson20a.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+          "changes": "Figure 2 and its complete printed caption were cropped together from physical PDF page 9, rasterized at 216 dpi and losslessly encoded as WebP. Surrounding article body and page header were excluded; component content, colors, labels, legend or table cells, and caption are unchanged.",
+          "evidence_url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+          "scope": "exact_main_figure",
+          "embedded_materials_review": "Exact selected component: Figure 2 is an author-created three-panel aggregate numerical plot of model-derived feature-importance estimates for 37 extracted ICU variables, with author-computed confidence intervals in panel A, feature labels, axes, legend and a full original caption. MIMIC-II data are credited to Silva et al. in Section 6 and the supplementary clinical preprocessing section. There are no raw patient records, individualized measurement traces, clinical photographs, copied third-party figures or separate external artwork credits in this component. Input clinical data rights are not automatically restrictions on the authors’ new aggregate plotted analysis. The scoped article-level grant covers this original composition without licensing the underlying clinical records, code or models.",
+          "reviewed_at": "2026-10-23",
+          "evidence_basis": "The official PMLR article page identifies this exact article and links the inspected publisher PDF. PMLR FAQ requires signed publication-permission forms from authors and links the inspected agreement: paragraph 2 grants the general public CC BY 4.0 rights in the article; paragraph 3 requires the original proceedings citation and hyperlink; paragraph 5 includes publisher edits; paragraph 6 gives originality and right-to-grant warranties. Clearance is an inference from the mandatory publisher-agreement chain and component inspection, not inspection of an individual signed agreement and not the author-copyright footer alone.",
+          "evidence_urls": [
+            "https://proceedings.mlr.press/v119/williamson20a.html",
+            "https://proceedings.mlr.press/v119/williamson20a/williamson20a.pdf",
+            "https://proceedings.mlr.press/faq.html",
+            "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+            "https://creativecommons.org/licenses/by/4.0/"
+          ]
+        }
+      },
+      "media_display_permissions": {
+        "first_page": {
+          "status": "cleared",
+          "reason": "exact_asset_review",
+          "asset_path": "assets/pmlr-reviewed-20261023-2146-timeseries/icml2020-williamson20a-firstpage.webp",
+          "asset_sha256": "d2c7f3f8298d0859b0f235812ae9e259f6cf45b728ec22e9b21a34065efce1ea",
+          "credit": {
+            "status": "cleared",
+            "asset_path": "assets/pmlr-reviewed-20261023-2146-timeseries/icml2020-williamson20a-firstpage.webp",
+            "asset_sha256": "d2c7f3f8298d0859b0f235812ae9e259f6cf45b728ec22e9b21a34065efce1ea",
+            "source_url": "https://proceedings.mlr.press/v119/williamson20a/williamson20a.pdf",
+            "source_pdf_sha256": "79b118d515eca1686b95f6721b12174937a7421738a8d06ab1819529cde21f75",
+            "source_page": 1,
+            "publication_url": "https://proceedings.mlr.press/v119/williamson20a.html",
+            "license": "CC-BY-4.0",
+            "license_url": "https://creativecommons.org/licenses/by/4.0/",
+            "attribution": "Brian D. Williamson, Jean Feng. Efficient nonparametric statistical inference on population feature importance using Shapley values. ICML 2020, Proceedings of Machine Learning Research 119, pp. 10282–10291. © 2020 the authors. Original publication: https://proceedings.mlr.press/v119/williamson20a.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+            "changes": "The complete, uncropped official PDF first page was rasterized at 144 dpi and losslessly encoded as WebP. No printed content was removed or retouched.",
+            "evidence_url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+            "scope": "exact_first_page",
+            "embedded_materials_review": "The complete physical first page was visually inspected. It contains the article title, printed ordered author byline and matching equal-contribution markers, affiliations, the original abstract, original article prose and mathematical notation, scholarly citations, correspondence and the author copyright notice. No figure, photograph, patient record, clinical-note excerpt, medical measurement table, biological image or separately credited external artwork is embedded. Cited scientific literature is not an imported image component. The footer alone is not the rights grant.",
+            "reviewed_at": "2026-10-23",
+            "evidence_basis": "The official PMLR article page identifies this exact article and links the inspected publisher PDF. PMLR FAQ requires signed publication-permission forms from authors and links the inspected agreement: paragraph 2 grants the general public CC BY 4.0 rights in the article; paragraph 3 requires the original proceedings citation and hyperlink; paragraph 5 includes publisher edits; paragraph 6 gives originality and right-to-grant warranties. Clearance is an inference from the mandatory publisher-agreement chain and component inspection, not inspection of an individual signed agreement and not the author-copyright footer alone.",
+            "evidence_urls": [
+              "https://proceedings.mlr.press/v119/williamson20a.html",
+              "https://proceedings.mlr.press/v119/williamson20a/williamson20a.pdf",
+              "https://proceedings.mlr.press/faq.html",
+              "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+              "https://creativecommons.org/licenses/by/4.0/"
+            ]
+          }
+        },
+        "main_figure": {
+          "status": "cleared",
+          "reason": "exact_asset_review",
+          "asset_path": "assets/pmlr-reviewed-20261023-2146-timeseries/icml2020-williamson20a-mainfigure.webp",
+          "asset_sha256": "799c65e0c8e8ac8af28fbf01749f8a84d2f87d137e9250a275a2c56043dd22b6",
+          "credit": {
+            "status": "cleared",
+            "asset_path": "assets/pmlr-reviewed-20261023-2146-timeseries/icml2020-williamson20a-mainfigure.webp",
+            "asset_sha256": "799c65e0c8e8ac8af28fbf01749f8a84d2f87d137e9250a275a2c56043dd22b6",
+            "source_url": "https://proceedings.mlr.press/v119/williamson20a/williamson20a.pdf",
+            "source_pdf_sha256": "79b118d515eca1686b95f6721b12174937a7421738a8d06ab1819529cde21f75",
+            "source_page": 9,
+            "publication_url": "https://proceedings.mlr.press/v119/williamson20a.html",
+            "license": "CC-BY-4.0",
+            "license_url": "https://creativecommons.org/licenses/by/4.0/",
+            "attribution": "Brian D. Williamson, Jean Feng. Efficient nonparametric statistical inference on population feature importance using Shapley values. ICML 2020, Proceedings of Machine Learning Research 119, pp. 10282–10291. © 2020 the authors. Original publication: https://proceedings.mlr.press/v119/williamson20a.html. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+            "changes": "Figure 2 and its complete printed caption were cropped together from physical PDF page 9, rasterized at 216 dpi and losslessly encoded as WebP. Surrounding article body and page header were excluded; component content, colors, labels, legend or table cells, and caption are unchanged.",
+            "evidence_url": "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+            "scope": "exact_main_figure",
+            "embedded_materials_review": "Exact selected component: Figure 2 is an author-created three-panel aggregate numerical plot of model-derived feature-importance estimates for 37 extracted ICU variables, with author-computed confidence intervals in panel A, feature labels, axes, legend and a full original caption. MIMIC-II data are credited to Silva et al. in Section 6 and the supplementary clinical preprocessing section. There are no raw patient records, individualized measurement traces, clinical photographs, copied third-party figures or separate external artwork credits in this component. Input clinical data rights are not automatically restrictions on the authors’ new aggregate plotted analysis. The scoped article-level grant covers this original composition without licensing the underlying clinical records, code or models.",
+            "reviewed_at": "2026-10-23",
+            "evidence_basis": "The official PMLR article page identifies this exact article and links the inspected publisher PDF. PMLR FAQ requires signed publication-permission forms from authors and links the inspected agreement: paragraph 2 grants the general public CC BY 4.0 rights in the article; paragraph 3 requires the original proceedings citation and hyperlink; paragraph 5 includes publisher edits; paragraph 6 gives originality and right-to-grant warranties. Clearance is an inference from the mandatory publisher-agreement chain and component inspection, not inspection of an individual signed agreement and not the author-copyright footer alone.",
+            "evidence_urls": [
+              "https://proceedings.mlr.press/v119/williamson20a.html",
+              "https://proceedings.mlr.press/v119/williamson20a/williamson20a.pdf",
+              "https://proceedings.mlr.press/faq.html",
+              "https://proceedings.mlr.press/pmlr-license-agreement.pdf",
+              "https://creativecommons.org/licenses/by/4.0/"
+            ]
+          }
+        }
+      },
+      "authors_equal_contribution": [
+        "Brian D. Williamson",
+        "Jean Feng"
+      ],
+      "pages": "10282–10291",
+      "metadata_pending": []
+    },
+    "unset": []
+  }
+]
