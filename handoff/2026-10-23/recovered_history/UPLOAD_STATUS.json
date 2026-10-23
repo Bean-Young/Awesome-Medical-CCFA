@@ -1,54 +1,14 @@
 {
-  "status": "in_progress",
-  "updated_at_utc": "2026-10-23T16:39:35Z",
-  "planned_event_parts": 198,
-  "committed_event_parts": 11,
-  "committed": [
-    {
-      "name": "events.part0001.jsonl",
-      "commit_sha": "9f6b27fd08bb41d09cd0f45971af4fce373e8b16"
-    },
-    {
-      "name": "events.part0002.jsonl",
-      "commit_sha": "425a536643d3dc623f1804b46cce8409219406a2"
-    },
-    {
-      "name": "events.part0003.jsonl",
-      "commit_sha": "29127994bddc2a480a696f7a999a4b7f2607f6e9"
-    },
-    {
-      "name": "events.part0004.jsonl",
-      "commit_sha": "208f9a08676406a407aeeed3fb8cfbaaa2edde26"
-    },
-    {
-      "name": "events.part0005.jsonl",
-      "commit_sha": "5a79cdf1a7b27d0752791f802faf2a7c1f16b1c2"
-    },
-    {
-      "name": "events.part0006.jsonl",
-      "commit_sha": "e0c5e0ecd18e3dd2d6b2ed95a9073ae81b915fb2"
-    },
-    {
-      "name": "events.part0007.jsonl",
-      "commit_sha": "5e94dcc28392f67df968129015456f2a0298bcbb"
-    },
-    {
-      "name": "events.part0008.jsonl",
-      "commit_sha": "bb4a4a225f3c92e6cf570a49b2d3a81b37dd4d8c"
-    },
-    {
-      "name": "events.part0009.jsonl",
-      "commit_sha": "75ae98dd3c22763cdb095681b2d5bbfcbcee79f9"
-    },
-    {
-      "name": "events.part0010.jsonl",
-      "commit_sha": "94dcdff755235e4c00b016a8e8011e7e5557871e"
-    },
-    {
-      "name": "events.part0011.jsonl",
-      "commit_sha": "6c917e3eadeb6e086d743ad666614df9523eb889"
-    }
-  ],
-  "complete": false,
-  "notes": "Readme and selected initial parts are published. Remaining event parts, inventory and final manifest are not yet committed. Do not treat this partial directory as the complete reconstructed history."
+  "status": "complete_for_reconstructed_scope",
+  "verified_at_utc": "2026-10-23T17:16:17Z",
+  "verified_content_commit": "7524e10c971e2774b2265e65a4a75568c1cb9494",
+  "verified_files": 206,
+  "event_parts": 198,
+  "selected_records": 46815,
+  "source_occurrences": 75687,
+  "referenced_sources": 2857,
+  "remote_git_blob_hashes_match_all_local_files": true,
+  "original_complete_history": false,
+  "source_site_version": "b2a08baf8e005a6931a7ebb31a11ed13598e1a27",
+  "scope": "Complete delivery of this validated selected-field reconstruction only. Not all original history, not unique papers read; later website updates and later continuation remain separate."
 }
