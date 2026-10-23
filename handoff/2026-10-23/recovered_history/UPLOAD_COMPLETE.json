@@ -1,0 +1,14 @@
+{
+  "status": "complete_for_reconstructed_scope",
+  "verified_at_utc": "2026-10-23T17:16:17Z",
+  "verified_content_commit": "7524e10c971e2774b2265e65a4a75568c1cb9494",
+  "verified_files": 206,
+  "event_parts": 198,
+  "selected_records": 46815,
+  "source_occurrences": 75687,
+  "referenced_sources": 2857,
+  "remote_git_blob_hashes_match_all_local_files": true,
+  "original_complete_history": false,
+  "source_site_version": "b2a08baf8e005a6931a7ebb31a11ed13598e1a27",
+  "scope": "Complete delivery of this validated selected-field reconstruction only. Not all original history, not unique papers read; later website updates and later continuation remain separate."
+}
