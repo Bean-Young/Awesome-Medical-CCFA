@@ -1,0 +1,94 @@
+{
+  "as_of_utc": "2026-10-23T23:06:00Z",
+  "status": "UNINTEGRATED; conditional technical pass; HOLD source integration and save pending latest-data revalidation and supported real-browser QA",
+  "source_integrated": false,
+  "browser_pass": false,
+  "deployment_authorized": false,
+  "uploaded_to_github": false,
+  "production_version": "v299",
+  "patch_generation_baseline": {
+    "version": "v324",
+    "commit": "a458d71212a81dd771e7c5f6b7e00f6ccf98626d"
+  },
+  "independent_validation_baseline": {
+    "version": "v325",
+    "commit": "f4e40dfdae8b946111ce8547447115d7afdba956",
+    "counts": {
+      "core_complete": 981,
+      "licensed_abstracts": 1518,
+      "papers": 2008
+    },
+    "source_hashes": {
+      "data/papers.json": {
+        "bytes": 32869134,
+        "sha256": "1a89c684bf8d16da15b8e4c43edde14dcdf089c623d377335bedb976aa9f19a5"
+      },
+      "data/snapshot.json": {
+        "bytes": 33209800,
+        "sha256": "fa22249bfc8a90deac900cdd6e13f988809fdd2290113f50e9933cbd51e8334d"
+      },
+      "data/snapshot.js": {
+        "bytes": 33209861,
+        "sha256": "6ade2fcf2d42378a457eb731df3739a3a7a40a64609fc2c24a36e42041db755b"
+      },
+      "data/catalogue-source/manifest.json": {
+        "bytes": 1415,
+        "sha256": "a867fe284bdc50eb36f2299cfd0c25b6bd7de729d188314065117a1a9361acf8"
+      }
+    },
+    "guarded_paths_unchanged": 36
+  },
+  "latest_saved_source_identified_for_handoff": {
+    "version": "v326",
+    "commit": "f7d117696cf28ee40781f269d2df989660ddf314",
+    "counts": {
+      "papers": 2008,
+      "core_complete": 983,
+      "licensed_abstracts": 1520
+    },
+    "regeneration_required": true
+  },
+  "validation": {
+    "paging_tests_passed": 34,
+    "paging_tests_total": 34,
+    "source_storage_tests_passed": 15,
+    "independent_negative_cases_passed": 16,
+    "runtime_harness": "Node VM; not real browser",
+    "known_baseline_failure": "validate_data.py relevance_tier assertion: CVPR 2021 Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization; unchanged and not waived."
+  },
+  "historical_v325_runtime": {
+    "manifest_sha256": "27bb410491d3954205d9327e41c2460b7088cb9f02ecabe902b8a4001f132e2e",
+    "page_count": 8,
+    "page_max_raw_bytes": 4191954,
+    "aggregate_bytes": 33209670,
+    "full_raw_bytes": 32869134,
+    "full_raw_sha256": "1a89c684bf8d16da15b8e4c43edde14dcdf089c623d377335bedb976aa9f19a5",
+    "legacy_gzip_bytes": 5453921,
+    "legacy_gzip_sha256": "e817380b12bf589a931e792c25159d1d287c975ec1510f193a2cea2a7bcd927c",
+    "remaining_legacy_raw_bytes": 685298,
+    "unchanged_legacy_raw_cap": 33554432,
+    "unchanged_legacy_gzip_cap": 8388608
+  },
+  "historical_v325_package": {
+    "passed": true,
+    "baseline_commit": "f4e40dfdae8b946111ce8547447115d7afdba956",
+    "expanded_tar_bytes": 254822400,
+    "regular_file_bytes": 253946281,
+    "unchanged_cap_bytes": 268435456,
+    "headroom_bytes": 13613056,
+    "archive_bytes": 222365418,
+    "archive_sha256": "86d3750c9af44d165afb4c2f781f310e0235335e120e52ab362c576b5c5f86da",
+    "active_and_isolated_scientific_runtime_guard_unchanged": true
+  },
+  "remaining_gate": "Supported real-browser server-loading, full/global Insights, every-page failure/no partial exposure, retry/late abort, exact native Blob download, no-JS recovery, and current/over-cap memory and responsiveness. No VM result substitutes for this.",
+  "handoff_integrity": {
+    "frozen_file_count": 12,
+    "frozen_overlay_bytes": 71725,
+    "all_file_hashes_verified": true,
+    "patch_overlay_roundtrip_verified": true,
+    "functional_code_modified": false,
+    "current_data_or_browser_revalidation_performed_for_packaging": false,
+    "optional_full_overlay_included": false,
+    "omission_reason": "An unchanged source file contains an environment-specific packager locator outside the safe exact patch diff. Functional code was not modified."
+  }
+}
