@@ -880,5 +880,15 @@
     }
   ],
   "integration_instruction": "Before any authorized integration, verify baseline bytes and all complete-record canonical preimages; verify exact patch and asset hashes; apply only listed field and asset allowlists; recompute with the unchanged production guard including the independently validated mixed component case; verify isolated counts and visible fields. Do not deploy.",
-  "independent_review_approved_at": "2026-10-23T21:56:15Z"
+  "independent_review_approved_at": "2026-10-23T21:56:15Z",
+  "public_backup_derivative": {
+    "original_approved_patch_sha256": "41d0ed9fd5604e54b22956326bb765e142f56e3aa7b28d7500fda5413dfb0262",
+    "public_redacted_patch_sha256": "5eb449a5343d88ea8d1a0902f8bb67d9961de20ef01a88c7d8f147bc9c2e8a08",
+    "changes": "Only four raw_pdf_extraction correspondence/email lines removed; all non-contact evidence retained. Do not expect the public derivative bytes to match the original approved patch hash.",
+    "history_notice": "The original prior commit remains accessible in Git history; this correction does not erase history.",
+    "full_sanitized_evidence_uploaded": false,
+    "minimized_evidence_sha256": "69eed6a4ebf7803c8944dbb35659b6479b4bde0cfc73823b3ddf9bb819cd41e5",
+    "images_uploaded": false,
+    "status": "UNSAVED_NOT_PUBLISHED"
+  }
 }
