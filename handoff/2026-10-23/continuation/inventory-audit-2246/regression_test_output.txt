@@ -1,0 +1,24 @@
+test_26_record_packet_is_not_all_42 (__main__.FrozenEvidenceRegression.test_26_record_packet_is_not_all_42) ... ok
+test_absence_is_separate_from_clearance (__main__.FrozenEvidenceRegression.test_absence_is_separate_from_clearance) ... ok
+test_all_years_and_42_incomplete (__main__.FrozenEvidenceRegression.test_all_years_and_42_incomplete) ... ok
+test_current_40_observation_separate_from_baseline_42 (__main__.FrozenEvidenceRegression.test_current_40_observation_separate_from_baseline_42) ... ok
+test_exact_baseline_binding (__main__.FrozenEvidenceRegression.test_exact_baseline_binding) ... ok
+test_guard_is_independent_and_no_mismatch (__main__.FrozenEvidenceRegression.test_guard_is_independent_and_no_mismatch) ... ok
+test_langbein_mixed_absent_cleared (__main__.FrozenEvidenceRegression.test_langbein_mixed_absent_cleared) ... ok
+test_no_new_credit_no_exhaustion_no_deployed_fix (__main__.FrozenEvidenceRegression.test_no_new_credit_no_exhaustion_no_deployed_fix) ... ok
+test_report_sanitized (__main__.FrozenEvidenceRegression.test_report_sanitized) ... ok
+test_source_and_id_collisions_reported_not_merged (__main__.FrozenEvidenceRegression.test_source_and_id_collisions_reported_not_merged) ... ok
+test_three_uppercase_ids_retained_without_new_scope_claim (__main__.FrozenEvidenceRegression.test_three_uppercase_ids_retained_without_new_scope_claim) ... ok
+test_all_years_tracks_and_unknown_publication_types (__main__.SelectorRegression.test_all_years_tracks_and_unknown_publication_types) ... ok
+test_case_insensitive_venue (__main__.SelectorRegression.test_case_insensitive_venue) ... ok
+test_collision_report_never_merges (__main__.SelectorRegression.test_collision_report_never_merges) ... ok
+test_exact_venue_not_substring_or_whitespace_alias (__main__.SelectorRegression.test_exact_venue_not_substring_or_whitespace_alias) ... ok
+test_false_is_not_missing_zero_or_null (__main__.SelectorRegression.test_false_is_not_missing_zero_or_null) ... ok
+test_preserve_case_sensitive_ids_source_ids_and_duplicate_rows (__main__.SelectorRegression.test_preserve_case_sensitive_ids_source_ids_and_duplicate_rows) ... ok
+test_source_identity_is_not_catalogue_identity (__main__.SelectorRegression.test_source_identity_is_not_catalogue_identity) ... ok
+test_venue_not_id_prefix (__main__.SelectorRegression.test_venue_not_id_prefix) ... ok
+
+----------------------------------------------------------------------
+Ran 19 tests in 0.002s
+
+OK
