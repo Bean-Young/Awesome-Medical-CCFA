@@ -356,7 +356,7 @@
         "source_url": "https://proceedings.mlr.press/v119/gottesman20a/gottesman20a.pdf",
         "source_page": 1,
         "source_pdf_sha256": "6d17e17f869dec04ca6a350ab956f5f4f2abae60311b8e5e4f851544dc36704e",
-        "raw_pdf_extraction": "1Harvard University 2Stanford University 3MIT. Correspon-\ndence to: Omer Gottesman <gottesman@fas.harvard.edu>.\n",
+        "raw_pdf_extraction": "1Harvard University 2Stanford University 3MIT.\n",
         "raw_pdf_extraction_bbox_points": [
           54,
           655,
@@ -465,7 +465,7 @@
             ]
           }
         ],
-        "raw_pdf_extraction": "1Harvard University 2Stanford University 3MIT. Correspon-\ndence to: Omer Gottesman <gottesman@fas.harvard.edu>.\n"
+        "raw_pdf_extraction": "1Harvard University 2Stanford University 3MIT.\n"
       },
       "summary": "离线策略评估给出一个数值，并不说明这个数值是否由少数异常记录支撑。本文把删除单个转移或轨迹后估计值的变化作为影响度，为核方法、线性最小二乘的拟合 Q 评估以及重要性采样推导精确计算，并用它筛出需要领域专家检查的片段。图 3 用癌症模拟区分可接受、缺乏覆盖、需要专家确认及异常转移等情况；真实应用则与重症医生共同审查 MIMIC-III 急性低血压数据。筛选后的 1,733 次 ICU 入院又下采样为训练和评估各 346 条轨迹，分别含 6,777 与 6,863 个转移，不能把转移数当作患者数。方法帮助发现测量异常和时间错位，但不证明治疗获益，也不能消除未测混杂或替代不确定性界。来源差异保留：图 5 左例标 28% 影响度，正文写 29%；作者 PDF 印为 Leo Anthony Celi，官网 HTML 为 Leo Celi。",
       "summary_en": "Influence analysis measures how removing a transition or trajectory changes an off-policy evaluation estimate, with exact computations for kernel and linear least-squares fitted Q-evaluation and importance sampling. Figure 3 distinguishes four expert-facing diagnostics using simulated cancer dynamics. The real application examines MIMIC-III acute hypotension with an intensivist: 1,733 eligible ICU admissions are downsampled to 346 training trajectories (6,777 transitions) and 346 evaluation trajectories (6,863 transitions). These are different sampling units, not thousands of independent patients. Flagging measurement and timing artifacts does not establish treatment benefit, remove unmeasured confounding or replace uncertainty bounds. Figure 5 labels the left example 28% influence while the prose says 29%; PDF author Leo Anthony Celi appears as Leo Celi in HTML.",
@@ -766,7 +766,7 @@
         "source_url": "https://proceedings.mlr.press/v119/shi20c/shi20c.pdf",
         "source_page": 1,
         "source_pdf_sha256": "2bed4fa878331f11096fdb4653d4c5a602f7d08d35303807d885039382bbbe59",
-        "raw_pdf_extraction": "1Department of Statistics, London School of Economics and Po-\nlitical Science, UK 2Department of Statistics, North Carolina State\nUniversity, USA 3Amazon, USA. Correspondence to: Chengchun\nShi <c.shi7@lse.ac.uk>.\n",
+        "raw_pdf_extraction": "1Department of Statistics, London School of Economics and Po-\nlitical Science, UK 2Department of Statistics, North Carolina State\nUniversity, USA 3Amazon, USA.\n",
         "raw_pdf_extraction_bbox_points": [
           54,
           635,
@@ -851,7 +851,7 @@
             ]
           }
         ],
-        "raw_pdf_extraction": "1Department of Statistics, London School of Economics and Po-\nlitical Science, UK 2Department of Statistics, North Carolina State\nUniversity, USA 3Amazon, USA. Correspondence to: Chengchun\nShi <c.shi7@lse.ac.uk>.\n"
+        "raw_pdf_extraction": "1Department of Statistics, London School of Economics and Po-\nlitical Science, UK 2Department of Statistics, North Carolina State\nUniversity, USA 3Amazon, USA.\n"
       },
       "summary": "强化学习常把当前状态当作充分信息，但需要保留多少历史并不能只靠惯例决定。本文用前向与后向条件特征函数构造双重稳健检验，再逐步增加历史阶数，为马尔可夫状态表示提供数据驱动的诊断。图 2 在由糖尿病数据校准的四阶模拟中展示检验功效与第一类错误率；它汇总 500 次模拟，不是 500 名患者。唯一真实应用来自 OhioT1DM 的 6 名 1 型糖尿病患者、8 周监测，分析取每条轨迹 1,100 个小时决策点，第四阶首次未被拒绝。这个结果不证明真实系统一定是四阶马尔可夫过程。离线价值比较枚举 20 种三人训练／三人测试划分，且补充材料还用模拟初始轨迹平均拟合 Q 价值；它不是实际临床获益。原文称四阶优于多数阶数，但补充材料明确五阶与八阶差异不显著，其余比较使用单侧 0.1 显著性水平。",
       "summary_en": "Forward-backward learning combines conditional characteristic functions in a doubly robust Markov-assumption test, then increases history length to diagnose a suitable state representation. Figure 2 reports power and type-I error across 500 fourth-order diabetes-calibrated simulations, not 500 patients. The only real application uses eight weeks from six OhioT1DM patients with type 1 diabetes, with 1,100 hourly decision points per trajectory used in analysis. Non-rejection first at order four does not prove the true system is fourth-order Markov. Offline value estimates enumerate 20 three-patient training/three-patient test splits and additionally average fitted Q values over simulated initial trajectories. The source reports no significant advantage over orders five and eight, and uses a one-sided 0.1 level for the other comparisons; clinical benefit is unproven.",
