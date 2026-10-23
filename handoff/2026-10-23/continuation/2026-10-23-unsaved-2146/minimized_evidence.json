@@ -1,0 +1,112 @@
+{
+  "status": "UNSAVED_NOT_PUBLISHED",
+  "scope": "Five existing paper profiles; zero new papers or reading credits. Minimized backup, not a full evidence archive. Images are not backed up here.",
+  "original_evidence_sha256": "55d86a8aa3bd792428f3254e8e1efd5f36bedbfc4227cee12befd80ea8a7a53f",
+  "records": [
+    {
+      "id": "icml2021-meirom21a",
+      "paper_url": "https://proceedings.mlr.press/v139/meirom21a.html",
+      "paper_html_sha256": "b585c605d9b5824034904446f73b2d3cc12b8c7b78802255f875d99005cd86e2",
+      "pdf_url": "https://proceedings.mlr.press/v139/meirom21a/meirom21a.pdf",
+      "pdf_sha256": "c7d1e1efc04572be8db35250c3a6bbdbdf352dd9734da963493df2028ee53cc7",
+      "license_decision": "Scoped article reuse inferred from mandatory PMLR publication agreement and component review; individual signed form not inspected. No dataset, participant record or separate third-party license implied.",
+      "readiness": "independently approved locally; not saved to source service or published",
+      "assets": [
+        {
+          "component": "first_page",
+          "sha256": "e594a2cd6890ad9374d8312a1241ab65331272f4b765247c4eb66250b6d22bf8",
+          "decision": "exact component cleared in reviewed local patch; binary not included"
+        },
+        {
+          "component": "main_figure",
+          "sha256": "3ddd0a9bf0ce0b2d0f8abb1d15c0b541e437967de69bb691b57a3370574d6a65",
+          "decision": "exact component cleared in reviewed local patch; binary not included"
+        }
+      ]
+    },
+    {
+      "id": "icml2020-gottesman20a",
+      "paper_url": "https://proceedings.mlr.press/v119/gottesman20a.html",
+      "paper_html_sha256": "95d076970fa1cac7ad76a7ec4f063ae9987c774218b22a5eed272f58eebabca7",
+      "pdf_url": "https://proceedings.mlr.press/v119/gottesman20a/gottesman20a.pdf",
+      "pdf_sha256": "6d17e17f869dec04ca6a350ab956f5f4f2abae60311b8e5e4f851544dc36704e",
+      "license_decision": "Scoped article reuse inferred from mandatory PMLR publication agreement and component review; individual signed form not inspected. No dataset, participant record or separate third-party license implied.",
+      "readiness": "independently approved locally; not saved to source service or published",
+      "assets": [
+        {
+          "component": "first_page",
+          "sha256": "d41a33f2b3de6d4d043d96afea987352db6da04af6a149755f4b30531c321353",
+          "decision": "exact component cleared in reviewed local patch; binary not included"
+        },
+        {
+          "component": "main_figure",
+          "sha256": "dbaa474c6d18a5a8d4f85458cebc8ef5e08d996c4540f5b52f40359a48192cd3",
+          "decision": "exact component cleared in reviewed local patch; binary not included"
+        }
+      ]
+    },
+    {
+      "id": "icml2020-shi20c",
+      "paper_url": "https://proceedings.mlr.press/v119/shi20c.html",
+      "paper_html_sha256": "592c4773da96e08ce6ba48035ee5aa6cc6116ab2691f536baa2e2bb88769ca25",
+      "pdf_url": "https://proceedings.mlr.press/v119/shi20c/shi20c.pdf",
+      "pdf_sha256": "2bed4fa878331f11096fdb4653d4c5a602f7d08d35303807d885039382bbbe59",
+      "license_decision": "Scoped article reuse inferred from mandatory PMLR publication agreement and component review; individual signed form not inspected. No dataset, participant record or separate third-party license implied.",
+      "readiness": "independently approved locally; not saved to source service or published",
+      "assets": [
+        {
+          "component": "first_page",
+          "sha256": "95c35b67f374d8e51e8def963c4d089913d266eb7ccc24ece76b78ddf70a7fe2",
+          "decision": "exact component cleared in reviewed local patch; binary not included"
+        },
+        {
+          "component": "main_figure",
+          "sha256": "7e80d1867bcb1ba318dcf9ecf3b5263e89db8fbcab6000120561526280c511ba",
+          "decision": "exact component cleared in reviewed local patch; binary not included"
+        }
+      ]
+    },
+    {
+      "id": "icml2021-morrill21b",
+      "paper_url": "https://proceedings.mlr.press/v139/morrill21b.html",
+      "paper_html_sha256": "24ebf973f24d3d51aa9e1b134ded47124e1da472656a667e46e3694f6e138c60",
+      "pdf_url": "https://proceedings.mlr.press/v139/morrill21b/morrill21b.pdf",
+      "pdf_sha256": "1a3fc7bb9adbd857e1127c40e859276bbfbffeaa3da942092d6de67d3644f86b",
+      "license_decision": "Scoped article reuse inferred from mandatory PMLR publication agreement and component review; individual signed form not inspected. No dataset, participant record or separate third-party license implied.",
+      "readiness": "independently approved locally; not saved to source service or published",
+      "assets": [
+        {
+          "component": "first_page",
+          "sha256": "3d8c1adb87ea9eccf3cb89506834f8f93474f7c083e24de0878c04515f33e966",
+          "decision": "exact component cleared in reviewed local patch; binary not included"
+        },
+        {
+          "component": "main_figure",
+          "sha256": "d440d6cd012dca572d362f40f27c5bbb5dee33994db36085e3b80ee0c2879ba2",
+          "decision": "exact component cleared in reviewed local patch; binary not included"
+        }
+      ]
+    },
+    {
+      "id": "icml2020-williamson20a",
+      "paper_url": "https://proceedings.mlr.press/v119/williamson20a.html",
+      "paper_html_sha256": "3d230b7af5d4acfb478530bb6587b9e26ef280cbb670785ffed2a52dd4bcf959",
+      "pdf_url": "https://proceedings.mlr.press/v119/williamson20a/williamson20a.pdf",
+      "pdf_sha256": "79b118d515eca1686b95f6721b12174937a7421738a8d06ab1819529cde21f75",
+      "license_decision": "Scoped article reuse inferred from mandatory PMLR publication agreement and component review; individual signed form not inspected. No dataset, participant record or separate third-party license implied.",
+      "readiness": "independently approved locally; not saved to source service or published",
+      "assets": [
+        {
+          "component": "first_page",
+          "sha256": "d2c7f3f8298d0859b0f235812ae9e259f6cf45b728ec22e9b21a34065efce1ea",
+          "decision": "exact component cleared in reviewed local patch; binary not included"
+        },
+        {
+          "component": "main_figure",
+          "sha256": "799c65e0c8e8ac8af28fbf01749f8a84d2f87d137e9250a275a2c56043dd22b6",
+          "decision": "exact component cleared in reviewed local patch; binary not included"
+        }
+      ]
+    }
+  ]
+}
