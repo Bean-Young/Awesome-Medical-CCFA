@@ -1,0 +1,65 @@
+{
+  "baseline_commit": "a458d71212a81dd771e7c5f6b7e00f6ccf98626d",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 6021,
+      "sha256": "c9ed910480e6f1142fb77c756e3db65a1c0a1e88da4be0406193a1d8bee54f2d"
+    },
+    {
+      "path": "build/sites-worker.ts",
+      "bytes": 3048,
+      "sha256": "cc26c72be4e26e8436d56c4957f3a7fb110d7dd8b2806c1d5eff0c9365fba3e5"
+    },
+    {
+      "path": "build/catalogue-routing.mjs",
+      "bytes": 1741,
+      "sha256": "5ae879c6700fccc64d18be718d4c244753d451ef2c8bd21f64760c19a6401362"
+    },
+    {
+      "path": "scripts/build_static.py",
+      "bytes": 2399,
+      "sha256": "e41d20b66c7836a845f27fbf1526e18748a82ab628494ebc986886ba883764b6"
+    },
+    {
+      "path": "scripts/prepare-catalogue-assets.py",
+      "bytes": 5738,
+      "sha256": "409817995038713096cc4e16a294294320af30feb96ff1124cac791b17ce43f4"
+    },
+    {
+      "path": "scripts/test_build_assets.py",
+      "bytes": 3530,
+      "sha256": "03a577a1c4ed543d2ac115acf5d1afefc6575f8c6f91987b3d9d2201592f9fc7"
+    },
+    {
+      "path": "scripts/test_public_data_privacy.py",
+      "bytes": 3089,
+      "sha256": "549023d3a67534e62611a9c741224f9795de6e68f26da9af53ef595a4c7e81ac"
+    },
+    {
+      "path": "scripts/test_raw_artifact.cjs",
+      "bytes": 295,
+      "sha256": "c334cbb4cc87de57cfb0de715cbb905e5c4e81e9026608c8119194181990339d"
+    },
+    {
+      "path": "scripts/build_paged_bootstrap.cjs",
+      "bytes": 20850,
+      "sha256": "ecb609674b3deb86789bc60c5bbee1cbb1f90ff9767f13eba2cc522558aece10"
+    },
+    {
+      "path": "scripts/test_catalogue_routing.mjs",
+      "bytes": 3335,
+      "sha256": "c2a534e9b04bf8c5437c6f3920b0cc234a7e1f892a0fe4987798c7903eea7c04"
+    },
+    {
+      "path": "scripts/test_paged_runtime.cjs",
+      "bytes": 17847,
+      "sha256": "017542705a6a4e363951cd9d0a82c61b4481ab3b7f99e9848fb339027d49b8dc"
+    },
+    {
+      "path": "scripts/verify_paged_data.py",
+      "bytes": 3832,
+      "sha256": "d13b83d3fa49a75b36cc55edb4e069c719c6661326f647a4e1c2000548328646"
+    }
+  ]
+}
