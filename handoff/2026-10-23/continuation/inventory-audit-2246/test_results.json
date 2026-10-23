@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "tests_run": 19,
+  "failures": 0,
+  "errors": 0,
+  "regression_scope": "staged inventory selector and frozen evidence consistency; not deployed browser filter",
+  "baseline_papers_sha256": "1a89c684bf8d16da15b8e4c43edde14dcdf089c623d377335bedb976aa9f19a5",
+  "later_saved_version": "v326",
+  "later_papers_sha256": "8ad448e88dee4620d832457bf7d9f6a80663ea98c2880ffae04c979c7b1a10e0"
+}
