@@ -1,4 +1,4 @@
-Upload status: IN PROGRESS. Do not assume the full manifest is present until UPLOAD_COMPLETE.json exists and every manifest hash is verified.
+Upload status: COMPLETE for this bounded reconstructed scope. All 206 files were verified against local Git blob hashes at commit 7524e10c971e2774b2265e65a4a75568c1cb9494. See UPLOAD_COMPLETE.json. This is not a claim that all original project history was recovered.
 
 # Recovered review facts, 2026-10-23
 
