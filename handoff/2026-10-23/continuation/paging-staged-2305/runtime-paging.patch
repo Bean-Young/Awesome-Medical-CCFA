@@ -1,0 +1,486 @@
+diff --git a/README.md b/README.md
+index 68cd0cd3..cb43b99d 100644
+--- a/README.md
++++ b/README.md
+@@ -60,3 +60,11 @@ Year means the official conference edition label (e.g. CVPR 2020), regardless of
+ ## Lossless source storage
+ 
+ See [the source storage protocol](scripts/CATALOGUE_SOURCE_STORAGE.md). Source shards preserve every original byte and field. The three legacy working files are ignored generated copies; existing editing and QA scripts keep their APIs. After a deliberate data update, validate and capture it before building or saving source. Hydration never overwrites uncaptured edits. This storage change does not increase the existing 32 MiB raw or 8 MiB gzip application limits.
++
++## Versioned complete-data interface
++
++The hosted catalogue loads all records from `/data/papers-v1/manifest.json` and content-addressed bounded pages. It exposes no partial catalogue or partial Insights. `/data/papers-v1/download.html` provides a complete byte-exact JSON download after length/hash verification, plus accessible ordered page links without JavaScript. The original `/data/papers.json` keeps its exact full-array, GET/HEAD/range/ETag behavior while the complete response fits its existing 32 MiB raw and 8 MiB gzip bounds.
++
++If either bound is exceeded, the hosted Worker returns HTTP 409 with a `catalogue_requires_paging` problem and links to the versioned complete-data alternatives. It never substitutes a subset, manifest, redirect or stale array. HEAD has the same status/links and no body; POST remains 405. Clients should use the versioned manifest and verify the complete ordered page set, or use the verified complete download.
++
++Above the legacy bounds, generic static hosting/GitHub Pages is not supported without an equivalent reviewed non-200 error route. An explicitly static hosting configuration fails the build. Deploy only the official Worker artifact, not the preparatory static directory. No existing response or package limit is raised.
+diff --git a/build/catalogue-routing.mjs b/build/catalogue-routing.mjs
+new file mode 100644
+index 00000000..4ddee9c3
+--- /dev/null
++++ b/build/catalogue-routing.mjs
+@@ -0,0 +1,12 @@
++import { createCatalogueHandler } from './catalogue-handler.mjs';
++// Existing legacy handler and its 32 MiB raw / 8 MiB gzip checks are unchanged.
++export function createCatalogueRouter(manifest) {
++  if (manifest.available !== false) return createCatalogueHandler(manifest);
++  if (!Number.isSafeInteger(manifest.rawBytes) || !Number.isSafeInteger(manifest.gzipBytes) || manifest.rawBytes < 1 || manifest.gzipBytes < 1 || (manifest.rawBytes <= 32 * 1024 * 1024 && manifest.gzipBytes <= 8 * 1024 * 1024) || manifest.manifestPath !== '/data/papers-v1/manifest.json' || manifest.downloadPath !== '/data/papers-v1/download.html') throw Error('Invalid unavailable legacy representation');
++  const body = JSON.stringify({error:'catalogue_requires_paging',message:'The complete catalogue exceeds this endpoint\'s unchanged single-response limits. No partial or stale catalogue is returned. Use the versioned manifest or the complete verified download.',manifest:manifest.manifestPath,complete_download:manifest.downloadPath,raw_limit_bytes:32*1024*1024,gzip_limit_bytes:8*1024*1024});
++  return async function handle(request, env) {
++    if (new URL(request.url).pathname !== '/data/papers.json') return env.ASSETS.fetch(request);
++    if (!['GET','HEAD'].includes(request.method)) return new Response('Method not allowed',{status:405,headers:{Allow:'GET, HEAD','Cache-Control':'no-store'}});
++    return new Response(request.method==='HEAD'?null:body,{status:409,headers:{'Content-Type':'application/problem+json; charset=utf-8','Cache-Control':'no-store','X-Content-Type-Options':'nosniff','Link':'</data/papers-v1/manifest.json>; rel="alternate"; type="application/json", </data/papers-v1/download.html>; rel="alternate"; type="text/html"'}});
++  };
++}
+diff --git a/build/sites-worker.ts b/build/sites-worker.ts
+index 3d3bf869..cd64a47d 100644
+--- a/build/sites-worker.ts
++++ b/build/sites-worker.ts
+@@ -3,9 +3,9 @@ import mediaManifest from "./media-manifest.json";
+ import { migrationPage } from "./media-verification-page.mjs";
+ const mediaPaths = new Set(mediaManifest.map(x=>x.path));
+ const mediaHandler = createMediaHandler(mediaManifest);
+-import { createCatalogueHandler } from "./catalogue-handler.mjs";
++import { createCatalogueRouter } from "./catalogue-routing.mjs";
+ import catalogueManifest from "./catalogue-manifest.json";
+-const catalogue = createCatalogueHandler(catalogueManifest);
++const catalogue = createCatalogueRouter(catalogueManifest);
+ import handler from "vinext/server/fetch-handler";
+ import { runWithConnectorBinding } from "../lib/connector-context";
+ import type { ConnectorBinding } from "../lib/connector-contract.mjs";
+diff --git a/scripts/build_paged_bootstrap.cjs b/scripts/build_paged_bootstrap.cjs
+new file mode 100644
+index 00000000..c01511ae
+--- /dev/null
++++ b/scripts/build_paged_bootstrap.cjs
+@@ -0,0 +1,123 @@
++'use strict';
++// Build-only standard-library generator. No source data or existing response cap changes.
++const fs=require('node:fs'),path=require('node:path'),crypto=require('node:crypto'),zlib=require('node:zlib'),assert=require('node:assert/strict');
++const sha=b=>crypto.createHash('sha256').update(b).digest('hex');
++const LIMITS=Object.freeze({page_bytes:4*1024*1024,page_gzip_bytes:2*1024*1024,aggregate_bytes:48*1024*1024,manifest_bytes:64*1024,pages:16,records:5000,sidecar_bytes:2*1024*1024,timeout_ms:30000});
++function splitPapers(raw,limits=LIMITS){
++ assert(raw.length>0&&raw.length<=limits.aggregate_bytes,'Raw collection byte bound');
++ const records=JSON.parse(new TextDecoder('utf-8',{fatal:true}).decode(raw));assert(Array.isArray(records)&&records.length>0&&records.length<=limits.records,'Record bounds');
++ const ids=records.map(p=>p?.id);assert(ids.every(x=>typeof x==='string'&&x.length>0)&&new Set(ids).size===ids.length,'Unique string IDs required');
++ let open=0,close=raw.length-1;while([9,10,13,32].includes(raw[open]))open++;while([9,10,13,32].includes(raw[close]))close--;
++ assert(raw[open]===91&&raw[close]===93,'Expected JSON array');
++ const spans=[];let start=open+1,depth=0,quoted=false,escaped=false;
++ for(let i=start;i<close;i++){const c=raw[i];if(quoted){if(escaped)escaped=false;else if(c===92)escaped=true;else if(c===34)quoted=false;}else if(c===34)quoted=true;else if(c===91||c===123)depth++;else if(c===93||c===125)depth--;else if(c===44&&depth===0){spans.push([start,i]);start=i+1;}assert(depth>=0,'Invalid nesting');}
++ spans.push([start,close]);assert(spans.length===records.length&&!quoted&&depth===0,'Record boundary mismatch');
++ const pages=[];
++ function add(a,b){const bytes=Buffer.concat([Buffer.from('['),raw.subarray(spans[a][0],spans[b-1][1]),Buffer.from(']')]);const compressed=zlib.gzipSync(bytes,{level:9,mtime:0});if(bytes.length>limits.page_bytes||compressed.length>limits.page_gzip_bytes){assert(b-a>1,'Single record exceeds page budget; no truncation allowed');const m=a+Math.floor((b-a)/2);add(a,m);add(m,b);return;}pages.push({bytes,gzipBytes:compressed.length,start:a,count:b-a});}
++ let a=0;for(let i=0;i<spans.length;i++){if(spans[i][1]-spans[a][0]+2>limits.page_bytes&&i>a){add(a,i);a=i;}}add(a,spans.length);
++ assert(pages.length<=limits.pages,'Page-count bound');
++ const prefix=raw.subarray(0,open+1),suffix=raw.subarray(close);
++ const rebuilt=Buffer.concat([prefix,...pages.flatMap((p,i)=>[...(i?[Buffer.from(',')]:[]),p.bytes.subarray(1,-1)]),suffix]);assert(raw.equals(rebuilt),'Exact raw reconstruction');
++ return {pages,prefix,suffix,records,ids};
++}
++
++// The exact same client implementation drives the catalogue and complete download.
++function browserRuntime(C){
++ 'use strict';
++ const B={page_bytes:4194304,aggregate_bytes:50331648,manifest_bytes:65536,pages:16,records:5000,sidecar_bytes:2097152};
++ const base=new URL(C.root_path,document.currentScript.src),enc=typeof TextEncoder==='function'?new TextEncoder():null;
++ let busy=false,attempt=0,appAttempted=false;
++ const controls=[...document.querySelectorAll('#filters input, #filters select, #filters button, #export, #sort, #more')],oldDisabled=controls.map(e=>e.disabled);
++ const results=document.querySelector('#resultsCount'),cards=document.querySelector('#papers'),download=document.querySelector('#downloadComplete');
++ const failAssert=(ok,message)=>{if(!ok)throw Error(message);};
++ const hash=async b=>[...new Uint8Array(await window.crypto.subtle.digest('SHA-256',b))].map(x=>x.toString(16).padStart(2,'0')).join('');
++ const bytes64=s=>Uint8Array.from(atob(s),c=>c.charCodeAt(0));
++ const decode=b=>new TextDecoder('utf-8',{fatal:true}).decode(b);
++ function notice(message,retry){if(results)results.textContent=message;if(cards){cards.replaceChildren();const p=document.createElement('p');p.textContent=message;cards.appendChild(p);const a=document.createElement('a');a.href=new URL(C.recovery_url,base).href;a.textContent='Open complete catalogue data and download options';cards.appendChild(a);if(retry){const b=document.createElement('button');b.type='button';b.id='dataRetry';b.textContent=appAttempted?'Reload page':'Retry loading';b.onclick=appAttempted?()=>window.location.reload():()=>{window.ATLAS_BOOTSTRAP_READY=start(false);};cards.appendChild(b);}}}
++ function validateManifest(M){
++  const int=(x,min,max)=>Number.isSafeInteger(x)&&x>=min&&x<=max,hex=x=>typeof x==='string'&&/^[a-f0-9]{64}$/.test(x);
++  failAssert(M.schema_version===1&&M.protocol==='medical-ccfa-papers-v1','Unknown paging protocol');
++  failAssert(int(M.paper_count,1,B.records)&&Array.isArray(M.pages)&&int(M.pages.length,1,B.pages),'Collection count bounds');
++  failAssert(Array.isArray(M.keys)&&new Set(M.keys).size===M.keys.length&&M.keys.every(k=>typeof k==='string')&&['papers','coverage','scope'].every(k=>M.keys.includes(k)),'Snapshot keys');
++  failAssert(M.scalars&&typeof M.scalars==='object'&&!Array.isArray(M.scalars)&&Object.keys(M.scalars).length===M.keys.length-3&&M.keys.every(k=>['papers','coverage','scope'].includes(k)||Object.prototype.hasOwnProperty.call(M.scalars,k)),'Snapshot scalars');
++  let offset=0,total=0;const urls=new Set();
++  M.pages.forEach((p,i)=>{failAssert(p.index===i&&p.start===offset&&int(p.count,1,B.records)&&int(p.bytes,2,B.page_bytes)&&hex(p.sha256)&&p.url==='data/papers-v1/pages/'+p.sha256+'.json'&&!urls.has(p.url),'Page sequence, identity or bounds');offset+=p.count;total+=p.bytes;urls.add(p.url);});
++  failAssert(offset===M.paper_count&&hex(M.ordered_ids_sha256),'Record sequence bounds');
++  failAssert(Array.isArray(M.sidecars)&&M.sidecars.length===2,'Sidecar count');
++  M.sidecars.forEach((f,i)=>{const key=['coverage','scope'][i];failAssert(f.key===key&&f.url==='data/'+key+'.json'&&int(f.bytes,1,B.sidecar_bytes)&&hex(f.sha256),'Sidecar identity or bounds');total+=f.bytes;});
++  failAssert(total===M.aggregate_bytes&&int(total,1,B.aggregate_bytes),'Aggregate byte bound');
++  const prefix=bytes64(M.raw.prefix_b64),suffix=bytes64(M.raw.suffix_b64);
++  failAssert(/^[ \t\r\n]*\[$/.test(decode(prefix))&&/^\][ \t\r\n]*$/.test(decode(suffix)),'Reconstruction affixes');
++  failAssert(M.raw.bytes===prefix.length+suffix.length+M.pages.reduce((n,p)=>n+p.bytes-2,0)+M.pages.length-1&&int(M.raw.bytes,1,B.aggregate_bytes)&&hex(M.raw.sha256),'Complete raw bounds');
++  return {prefix,suffix};
++ }
++ async function bounded(file,max,controller,token){
++  failAssert(Number.isSafeInteger(file.bytes)&&file.bytes>0&&file.bytes<=max,'Response allocation bound');
++  const u=new URL(file.url,base);failAssert(u.origin===base.origin&&u.href.startsWith(base.href),'Same-site source required');
++  const response=await fetch(u.href,{cache:'no-cache',credentials:'same-origin',signal:controller.signal});
++  failAssert(response.ok,'HTTP '+response.status+' loading data');const declared=response.headers.get('Content-Length'),encoding=response.headers.get('Content-Encoding'),declaredMax=encoding&&encoding!=='identity'?8388608:max;failAssert(declared===null||(/^[0-9]+$/.test(declared)&&Number(declared)<=declaredMax),'Declared response bound');failAssert(response.body&&typeof response.body.getReader==='function','Streaming response required');
++  const reader=response.body.getReader(),out=new Uint8Array(file.bytes);let offset=0;
++  try{for(;;){const {done,value}=await reader.read();if(done)break;failAssert(token===attempt&&!controller.signal.aborted,'Expired loading attempt');if(offset+value.byteLength>out.length){await reader.cancel();throw Error('Oversized data response');}out.set(value,offset);offset+=value.byteLength;}}finally{reader.releaseLock();}
++  failAssert(offset===file.bytes,'Truncated data response');failAssert(await hash(out)===file.sha256,'Data hash mismatch');failAssert(token===attempt&&!controller.signal.aborted,'Expired loading attempt');return out;
++ }
++ async function readGeneration(controller,token,forDownload){
++  const rawManifest=await bounded({url:C.manifest_url,bytes:C.manifest_bytes,sha256:C.manifest_sha256},B.manifest_bytes,controller,token);
++  const M=JSON.parse(decode(rawManifest)),affixes=validateManifest(M),ids=[],seen=new Set(),papers=[],parts=forDownload?[affixes.prefix]:null;
++  for(const p of M.pages){
++   const bytes=await bounded(p,B.page_bytes,controller,token);failAssert(bytes[0]===91&&bytes[bytes.length-1]===93,'Page array framing');
++   const records=JSON.parse(decode(bytes));failAssert(Array.isArray(records)&&records.length===p.count,'Page record count');
++   for(const record of records){failAssert(record&&typeof record==='object'&&!Array.isArray(record)&&typeof record.id==='string'&&record.id.length>0&&!seen.has(record.id),'Duplicate or invalid record ID');seen.add(record.id);ids.push(record.id);if(!forDownload)papers.push(record);}
++   if(forDownload){if(p.index)parts.push(new Uint8Array([44]));parts.push(new Blob([bytes.subarray(1,-1)]));}
++   failAssert(token===attempt&&!controller.signal.aborted,'Expired loading attempt');
++  }
++  failAssert(ids.length===M.paper_count&&await hash(enc.encode(JSON.stringify(ids)))===M.ordered_ids_sha256,'Ordered record identity mismatch');
++  if(forDownload){parts.push(affixes.suffix);const blob=new Blob(parts,{type:'application/json'});failAssert(blob.size===M.raw.bytes,'Complete download length');const full=await blob.arrayBuffer();failAssert(await hash(full)===M.raw.sha256,'Complete download hash');failAssert(token===attempt&&!controller.signal.aborted,'Expired loading attempt');return {blob,manifest:M};}
++  const fetched={papers};for(const f of M.sidecars)fetched[f.key]=JSON.parse(decode(await bounded(f,B.sidecar_bytes,controller,token)));
++  failAssert(Array.isArray(fetched.coverage)&&fetched.scope&&typeof fetched.scope==='object'&&!Array.isArray(fetched.scope),'Sidecar shape mismatch');
++  const data={};for(const key of M.keys)Object.defineProperty(data,key,{value:Object.prototype.hasOwnProperty.call(fetched,key)?fetched[key]:M.scalars[key],enumerable:true,writable:true,configurable:true});
++  failAssert(token===attempt&&!controller.signal.aborted,'Expired loading attempt');return {data,manifest:M};
++ }
++ function loadApp(){return new Promise((resolve,reject)=>{appAttempted=true;const s=document.createElement('script');s.src=new URL(C.app_url,base).href;s.async=false;let settled=false;function finish(error){if(settled)return;settled=true;clearTimeout(timer);window.removeEventListener('error',onError);s.onload=null;s.onerror=null;if(error){s.remove();reject(error);}else resolve();}const onError=e=>{if(e.filename&&new URL(e.filename,base).href===s.src)finish(Error('Application initialization failed'));};const timer=setTimeout(()=>finish(Error('Application script timed out')),C.timeout_ms);window.addEventListener('error',onError);s.onload=()=>finish();s.onerror=()=>finish(Error('Application script could not load'));controls.forEach((e,i)=>{e.disabled=oldDisabled[i];});document.body.appendChild(s);});}
++ async function start(forDownload){
++  if(busy||(!forDownload&&appAttempted))return false;busy=true;const token=++attempt;controls.forEach(e=>{e.disabled=true;});if(download)download.disabled=true;notice(forDownload?'Preparing and verifying the complete download…':'Loading research records…',false);if(results)results.setAttribute('data-load-state','loading');
++  let controller,timer;
++  try{failAssert(enc&&typeof fetch==='function'&&typeof AbortController==='function'&&typeof TextDecoder==='function'&&window.crypto?.subtle,'Required browser APIs unavailable');controller=new AbortController();timer=setTimeout(()=>controller.abort(),C.timeout_ms);const result=await readGeneration(controller,token,forDownload);clearTimeout(timer);failAssert(token===attempt&&!controller.signal.aborted,'Expired loading attempt');
++   if(forDownload){const a=document.createElement('a'),url=URL.createObjectURL(result.blob);a.href=url;a.download='medical-ccfa-complete.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);notice('Complete download verified: '+result.manifest.paper_count+' records. SHA-256 '+result.manifest.raw.sha256,false);}
++   else{window.ATLAS_DATA=result.data;await loadApp();}
++   if(results)results.setAttribute('data-load-state','ready');return true;
++  }catch(error){if(controller)controller.abort();if(timer)clearTimeout(timer);if(appAttempted){const blocked=Error('Catalogue initialization failed. Reload the page.');Object.defineProperty(window,'ATLAS_DATA',{configurable:true,get(){throw blocked;}});}controls.forEach(e=>{e.disabled=true;});notice('Catalogue data could not be loaded completely. No partial catalogue is shown. Retry, or open the complete data options.',!forDownload);if(results)results.setAttribute('data-load-state','error');console.error('Catalogue loading failed:',error);return false;
++  }finally{busy=false;if(download)download.disabled=false;}
++ }
++ if(C.mode==='download'){download.disabled=false;download.onclick=()=>{window.ATLAS_DOWNLOAD_READY=start(true);};}else window.ATLAS_BOOTSTRAP_READY=start(false);
++}
++
++function prepare(dist,snapshot){
++ const papersPath=path.join(dist,'data/papers.json');assert(fs.statSync(papersPath).size>0&&fs.statSync(papersPath).size<=LIMITS.aggregate_bytes,'Raw collection byte bound');
++ const rawSnapshot=fs.readFileSync(snapshot),data=JSON.parse(new TextDecoder('utf-8',{fatal:true}).decode(rawSnapshot)),raw=fs.readFileSync(path.join(dist,'data/papers.json'));
++ const split=splitPapers(raw);assert.deepEqual(split.records,data.papers,'Papers/snapshot mismatch');
++ const sidecars=['coverage','scope'].map(key=>{const file=path.join(dist,'data',key+'.json');assert(fs.statSync(file).size>0&&fs.statSync(file).size<=LIMITS.sidecar_bytes,'Sidecar byte bound');const bytes=fs.readFileSync(file);assert.deepEqual(JSON.parse(new TextDecoder('utf-8',{fatal:true}).decode(bytes)),data[key]);assert(bytes.length<=LIMITS.sidecar_bytes);return {key,url:'data/'+key+'.json',bytes:bytes.length,sha256:sha(bytes)};});
++ const pages=split.pages.map((p,index)=>({index,start:p.start,count:p.count,bytes:p.bytes.length,sha256:sha(p.bytes),url:'data/papers-v1/pages/'+sha(p.bytes)+'.json'}));
++ const legacyGzip=zlib.gzipSync(raw,{level:9,mtime:0});
++ const manifest={legacy:{url:'data/papers.json',available:raw.length<=32*1024*1024&&legacyGzip.length<=8*1024*1024,raw_limit_bytes:32*1024*1024,gzip_limit_bytes:8*1024*1024},schema_version:1,protocol:'medical-ccfa-papers-v1',paper_count:split.records.length,pages,ordered_ids_sha256:sha(Buffer.from(JSON.stringify(split.ids))),sidecars,keys:Object.keys(data),scalars:Object.fromEntries(Object.entries(data).filter(([k])=>!['papers','coverage','scope'].includes(k))),aggregate_bytes:pages.reduce((n,p)=>n+p.bytes,0)+sidecars.reduce((n,p)=>n+p.bytes,0),raw:{bytes:raw.length,sha256:sha(raw),prefix_b64:split.prefix.toString('base64'),suffix_b64:split.suffix.toString('base64')}};
++ assert(manifest.aggregate_bytes<=LIMITS.aggregate_bytes,'Aggregate byte bound');
++ const manifestBytes=Buffer.from(JSON.stringify(manifest)+'\n');assert(manifestBytes.length<=LIMITS.manifest_bytes,'Manifest byte bound');const manifestSha=sha(manifestBytes),manifestUrl='data/papers-v1/manifest.'+manifestSha+'.json',recovery='data/papers-v1/download.'+manifestSha+'.html';
++ const config={manifest_url:manifestUrl,manifest_bytes:manifestBytes.length,manifest_sha256:manifestSha,recovery_url:recovery,root_path:'../',app_url:'app.js?v=atlas22',timeout_ms:LIMITS.timeout_ms,mode:'catalogue'};
++ const script='/* Complete, bounded, hash-verified paged catalogue. */\n('+browserRuntime.toString()+')('+JSON.stringify(config)+');\n';
++ const old=fs.readFileSync(path.join(dist,'index.html'),'utf8'),pattern=/<script src="data\/snapshot\.js\?v=atlas22"><\/script><script src="app\.js\?v=atlas22"><\/script>/g;assert.equal((old.match(pattern)||[]).length,1);
++ let html=old.replace(pattern,'<noscript><p>JavaScript is required for the interactive catalogue. <a href="'+recovery+'">Open all catalogue data pages and download options</a>.</p></noscript><script src="data/bootstrap.js?v=paged1"></script>');html=html.replace('<a href="data/papers.json" download>Open data ↓</a>','<a href="'+recovery+'">Download complete data ↓</a>');
++ const downloadConfig={...config,root_path:'../../',mode:'download'},downloadScript='('+browserRuntime.toString()+')('+JSON.stringify(downloadConfig)+');\n';
++ const downloadHtml='<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Complete Medical CCFA data</title></head><body><h1>Complete catalogue data</h1><p>'+manifest.paper_count+' records. Coverage is partial; every indexed record and all public evidence are included. The download is assembled from bounded pages and verified before saving.</p><button id="downloadComplete" disabled>Download complete JSON</button><p id="resultsCount" role="status" aria-live="polite">Enable JavaScript for a single verified download, or open every numbered data page below.</p><div id="papers"></div><noscript><p>The following pages together contain the complete catalogue in the listed order. No page alone is the complete dataset.</p></noscript><p>Complete file SHA-256: '+manifest.raw.sha256+'</p><p><a href="manifest.'+manifestSha+'.json">Versioned manifest, checksums and exact assembly instructions</a></p><ol>'+pages.map(p=>'<li><a href="pages/'+p.sha256+'.json">Page '+(p.index+1)+' of '+pages.length+'</a>: records '+(p.start+1)+'–'+(p.start+p.count)+'; SHA-256 '+p.sha256+'</li>').join('')+'</ol><p><a href="../coverage.json">Coverage ledger</a> · <a href="../scope.json">Scope</a> · <a href="../../">Back to catalogue</a></p><script src="download.'+manifestSha+'.js"></script></body></html>';
++ return {script,html,manifest,manifestBytes,manifestSha,manifestUrl,recovery,downloadHtml,downloadScript,split,config,source_snapshot_sha256:sha(rawSnapshot)};
++}
++function guardOutput(dist,snapshot,targets=[]){
++ const output=path.resolve(dist),source=fs.realpathSync(snapshot);
++ assert(!fs.lstatSync(output).isSymbolicLink()&&fs.realpathSync(output)===output,'Output directory must not resolve through a symlink');
++ assert(source!==output&&!source.startsWith(output+path.sep)&&output!==path.resolve(path.dirname(source),'..'),'Never write a paging artifact into its source root');
++ for(const rel of ['index.html','data','data/bootstrap.js','data/snapshot.js','data/papers.json','data/papers-v1','data/papers-v1/pages',...targets]){
++  const target=path.resolve(output,rel);assert(target.startsWith(output+path.sep),'Output path escape');let current=target;
++  while(current!==output){let stat;try{stat=fs.lstatSync(current);}catch(e){if(e.code!=='ENOENT')throw e;}if(stat)assert(!stat.isSymbolicLink(),'Output target must not be a symlink');current=path.dirname(current);}
++ }
++}
++function write(dist,snapshot,report){guardOutput(dist,snapshot);const r=prepare(dist,snapshot),dir=path.join(dist,'data/papers-v1');const hosting=path.resolve(path.dirname(snapshot),'../.openai/hosting.json');if(!r.manifest.legacy.available&&fs.existsSync(hosting))assert(!JSON.parse(fs.readFileSync(hosting)).static,'Over-cap deployment requires the reviewed Worker error route; static hosting is unsupported');guardOutput(dist,snapshot,[...r.manifest.pages.map(p=>p.url),r.manifestUrl,'data/papers-v1/manifest.json',r.recovery,'data/papers-v1/download.html','data/papers-v1/download.'+r.manifestSha+'.js']);fs.mkdirSync(path.join(dir,'pages'),{recursive:true});for(let i=0;i<r.split.pages.length;i++)fs.writeFileSync(path.join(dist,r.manifest.pages[i].url),r.split.pages[i].bytes);fs.writeFileSync(path.join(dist,r.manifestUrl),r.manifestBytes);fs.writeFileSync(path.join(dir,'manifest.json'),r.manifestBytes);for(const name of ['download.'+r.manifestSha+'.html','download.html'])fs.writeFileSync(path.join(dir,name),r.downloadHtml);fs.writeFileSync(path.join(dir,'download.'+r.manifestSha+'.js'),r.downloadScript);fs.writeFileSync(path.join(dist,'data/bootstrap.js'),r.script);fs.writeFileSync(path.join(dist,'index.html'),r.html);const redundant=path.join(dist,'data/snapshot.js');if(fs.existsSync(redundant))fs.unlinkSync(redundant);const output={schema_version:1,paper_count:r.manifest.paper_count,page_count:r.manifest.pages.length,aggregate_bytes:r.manifest.aggregate_bytes,raw_bytes:r.manifest.raw.bytes,raw_sha256:r.manifest.raw.sha256,manifest_sha256:r.manifestSha,source_snapshot_sha256:r.source_snapshot_sha256,legacy_raw_unchanged:true,source_unchanged:sha(fs.readFileSync(snapshot))===r.source_snapshot_sha256};assert(output.source_unchanged);if(!r.manifest.legacy.available)fs.unlinkSync(path.join(dist,'data/papers.json'));if(report)fs.writeFileSync(report,JSON.stringify(output,null,2)+'\n');return output;}
++if(require.main===module){const a=process.argv.slice(2);assert(a.length===2||a.length===3);console.log(JSON.stringify(write(path.resolve(a[0]),path.resolve(a[1]),a[2]),null,2));}
++module.exports={LIMITS,splitPapers,browserRuntime,prepare,write,sha};
+diff --git a/scripts/build_static.py b/scripts/build_static.py
+index 8eb0901c..20ce93aa 100644
+--- a/scripts/build_static.py
++++ b/scripts/build_static.py
+@@ -27,9 +27,14 @@ print(f"Lossless JSON whitespace/string-pool compaction saved {compact_dist(dist
+ 
+ # Keep all public raw JSON routes and source snapshots; load raw data once at runtime.
+ # The generated loader validates byte length and SHA-256 before starting unchanged app.js.
+-subprocess.run(['node',str(root/'scripts/build_raw_bootstrap.cjs'),
++subprocess.run(['node',str(root/'scripts/build_paged_bootstrap.cjs'),
+  str(dist),str(root/'data/snapshot.json')],check=True)
+ 
++# A generic static host cannot provide the explicit bounded legacy error route.
++if not (dist/'data/papers.json').exists():
++ hosting=json.loads((root/'.openai/hosting.json').read_text())
++ assert hosting.get('project_id') and not hosting.get('static'), 'Over-cap catalogue requires the reviewed Worker error route, not generic static hosting'
++
+ # QA fixtures remain in source for local regression tests, not production payload.
+ # Set INCLUDE_SYNTHETIC_QA=1 only for a dedicated local QA build.
+ import os
+diff --git a/scripts/prepare-catalogue-assets.py b/scripts/prepare-catalogue-assets.py
+index b061aca0..f1062aaa 100644
+--- a/scripts/prepare-catalogue-assets.py
++++ b/scripts/prepare-catalogue-assets.py
+@@ -13,14 +13,25 @@ assert hosting.get('project_id') and not hosting.get('static')
+ assert hosting.get('d1') is None and hosting.get('r2') in (None, 'FILES'), 'Unexpected storage binding'
+ subprocess.run([sys.executable, str(root/'scripts/build_static.py')], cwd=root, check=True)
+ static = root/'dist'
+-raw = (static/'data/papers.json').read_bytes()
++from compact_static_json import compact
++# Local complete evidence is not a network response. Never publish it above the legacy bounds.
++raw = (static/'data/papers.json').read_bytes() if (static/'data/papers.json').exists() else (compact((root/'data/papers.json').read_text())+'\n').encode()
+ papers = json.loads(raw)
+ assert isinstance(papers,list) and papers, 'Missing catalogue data'
+ compressed = gzip.compress(raw, compresslevel=9, mtime=0)
+ assert gzip.decompress(compressed) == raw
+ sha = lambda b: hashlib.sha256(b).hexdigest()
+ manifest = {'rawSha256':sha(raw),'rawBytes':len(raw),'gzipSha256':sha(compressed),'gzipBytes':len(compressed),'gzipPath':'/_catalogue/papers.'+sha(raw)+'.gz'}
+-assert len(raw) <= 32*1024*1024 and len(compressed) <= 8*1024*1024
++legacy_available = len(raw) <= 32*1024*1024 and len(compressed) <= 8*1024*1024
++paged = json.loads((static/'data/papers-v1/manifest.json').read_text())
++assert paged['raw']['bytes']==len(raw) and paged['raw']['sha256']==sha(raw)
++assert paged['legacy']['available'] is legacy_available
++if legacy_available:
++ assert len(raw) <= 32*1024*1024 and len(compressed) <= 8*1024*1024
++ manifest['available']=True
++else:
++ assert not (static/'data/papers.json').exists(), 'Oversized legacy response must not be emitted'
++ manifest={'available':False,'rawBytes':len(raw),'gzipBytes':len(compressed),'rawSha256':sha(raw),'manifestPath':'/data/papers-v1/manifest.json','downloadPath':'/data/papers-v1/download.html'}
+ if public.exists(): shutil.rmtree(public)
+ public.mkdir()
+ files=[]
+@@ -31,10 +42,11 @@ for source in sorted(static.rglob('*')):
+  if rel.parts[0]=='.openai' or str(rel)=='data/papers.json': continue
+  target=public/rel;target.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(source,target)
+  files.append({'path':str(rel),'bytes':source.stat().st_size,'sha256':sha(source.read_bytes())})
+-target=public/manifest['gzipPath'].lstrip('/');target.parent.mkdir(parents=True,exist_ok=True);target.write_bytes(compressed)
++if legacy_available:
++ target=public/manifest['gzipPath'].lstrip('/');target.parent.mkdir(parents=True,exist_ok=True);target.write_bytes(compressed)
+ (root/'build/catalogue-manifest.json').write_text(json.dumps(manifest,indent=2)+'\n')
+ state=root/'.sites-runtime';state.mkdir(exist_ok=True)
+-(state/'catalogue-assets.json').write_text(json.dumps({'records':len(papers),'raw_path':'/data/papers.json','manifest':manifest,'unchanged_static_files':files,'gross_saving_bytes':len(raw)-len(compressed)},indent=2)+'\n')
++(state/'catalogue-assets.json').write_text(json.dumps({'records':len(papers),'raw_path':'/data/papers.json','manifest':manifest,'unchanged_static_files':files,'gross_saving_bytes':len(raw)-(len(compressed) if legacy_available else 0)},indent=2)+'\n')
+ assert not (public/'data/papers.json').exists()
+ print(f'Catalogue: {len(papers)} records; raw {len(raw):,} B -> gzip {len(compressed):,} B; unchanged {len(files)} assets.')
+ 
+diff --git a/scripts/test_build_assets.py b/scripts/test_build_assets.py
+index 5aeb4477..bf61be2d 100644
+--- a/scripts/test_build_assets.py
++++ b/scripts/test_build_assets.py
+@@ -2,7 +2,7 @@
+ import json,pathlib
+ root=pathlib.Path(__file__).resolve().parents[1];dist=root/'dist'
+ from asset_references import referenced_assets
+-papers=json.loads((dist/'data/papers.json').read_text());expected=referenced_assets(papers,root)
++papers=json.loads((root/'data/papers.json').read_text());expected=referenced_assets(papers,root)
+ actual={str(p.relative_to(dist)) for p in (dist/'assets').rglob('*') if p.is_file()}
+ assert actual==expected,{'missing':sorted(expected-actual),'unreferenced':sorted(actual-expected)}
+ assert not (dist/'data/curated_metadata.json').exists()
+diff --git a/scripts/test_catalogue_routing.mjs b/scripts/test_catalogue_routing.mjs
+new file mode 100644
+index 00000000..d0ffe4ba
+--- /dev/null
++++ b/scripts/test_catalogue_routing.mjs
+@@ -0,0 +1,20 @@
++import fs from 'node:fs';import path from 'node:path';import assert from 'node:assert/strict';import {webcrypto,createHash} from 'node:crypto';import {createCatalogueRouter} from '../build/catalogue-routing.mjs';import {createCatalogueHandler} from '../build/catalogue-handler.mjs';
++globalThis.crypto ||= webcrypto;
++const root=path.resolve(new URL('..',import.meta.url).pathname),m=JSON.parse(fs.readFileSync(path.join(root,'build/catalogue-manifest.json')));
++const request=(method='GET',headers={})=>new Request('https://example.test/data/papers.json',{method,headers});
++if(m.available!==false){const gzip=fs.readFileSync(path.join(root,'public',m.gzipPath)),env={ASSETS:{fetch:async()=>new Response(gzip)}},legacy=createCatalogueHandler(m),router=createCatalogueRouter(m);
++ for(const [method,headers] of [['GET',{}],['HEAD',{}],['GET',{Range:'bytes=0-127'}],['GET',{Range:'bytes=-128'}],['GET',{Range:'bytes=999999999-'}],['GET',{'If-None-Match':'W/"sha256-'+m.rawSha256+'"'}],['GET',{Range:'bytes=0-127','If-Range':'anything'}],['POST',{}]]){
++  const a=await legacy(request(method,headers),env),b=await router(request(method,headers),env);assert.equal(b.status,a.status);assert.deepEqual([...b.headers],[...a.headers]);assert.deepEqual(Buffer.from(await b.arrayBuffer()),Buffer.from(await a.arrayBuffer()));
++ }
++ const response=await router(request(),env),raw=Buffer.from(await response.arrayBuffer());assert.equal(createHash('sha256').update(raw).digest('hex'),m.rawSha256);assert.deepEqual(JSON.parse(raw),JSON.parse(fs.readFileSync(path.join(root,'data/papers.json'))));console.log('PASS: below-cap legacy GET/HEAD/range/suffix/If-Range/ETag/405 headers and complete raw bytes unchanged.');
++}
++for(const metadata of [{rawBytes:33554433,gzipBytes:6000000},{rawBytes:30000000,gzipBytes:8388609}]){
++ const router=createCatalogueRouter({available:false,...metadata,manifestPath:'/data/papers-v1/manifest.json',downloadPath:'/data/papers-v1/download.html'});let fetches=0;const env={ASSETS:{fetch:async()=>{fetches++;throw Error('Must not access stale data');}}};
++ for(const headers of [{},{'If-None-Match':'*'},{Range:'bytes=0-127'},{Range:'bytes=-128'},{Range:'bytes=0-127','If-Range':'anything'}]){
++  const r=await router(request('GET',headers),env);assert.equal(r.status,409);assert.equal(r.headers.get('Cache-Control'),'no-store');assert(r.headers.get('Link').includes('/data/papers-v1/manifest.json'));const b=await r.text();assert(Buffer.byteLength(b)<2048);assert.equal(JSON.parse(b).error,'catalogue_requires_paging');
++ }
++ const h=await router(request('HEAD',{'If-None-Match':'*',Range:'bytes=0-127'}),env);assert.equal(h.status,409);assert.equal((await h.arrayBuffer()).byteLength,0);assert(h.headers.get('Link').includes('download.html'));assert.equal((await router(request('POST'),env)).status,405);assert.equal(fetches,0);
++}
++assert.throws(()=>createCatalogueRouter({available:false,rawBytes:1,gzipBytes:1,manifestPath:'/data/papers-v1/manifest.json',downloadPath:'/data/papers-v1/download.html'}));
++assert.throws(()=>createCatalogueHandler({...m,rawBytes:33554433}));assert.throws(()=>createCatalogueHandler({...m,gzipBytes:8388609}));
++console.log('PASS: either over-cap condition returns bounded honest 409 even with old ETag/range headers; HEAD has no body, POST 405, no stale fetch, unchanged legacy cap enforcement.');
+diff --git a/scripts/test_paged_runtime.cjs b/scripts/test_paged_runtime.cjs
+new file mode 100644
+index 00000000..3122993a
+--- /dev/null
++++ b/scripts/test_paged_runtime.cjs
+@@ -0,0 +1,76 @@
++'use strict';
++const fs=require('node:fs'),path=require('node:path'),os=require('node:os'),vm=require('node:vm'),assert=require('node:assert/strict'),{webcrypto}=require('node:crypto');
++const {LIMITS,splitPapers,browserRuntime,prepare,write,sha}=require('./build_paged_bootstrap.cjs');
++function harness({config,files,script,fetchOverride,mode='catalogue',cryptoOverride,appFailure=false,timeout=30000}){
++ const elements=new Map(),controls=[{disabled:false},{disabled:true}],downloads=[],requests=[],blobs=new Map();let appLoads=0,errors=0;
++ const el=id=>{if(!elements.has(id))elements.set(id,{id,disabled:false,textContent:'',state:null,children:[],setAttribute(k,v){if(k==='data-load-state')this.state=v;},replaceChildren(){this.children=[];},appendChild(c){this.children.push(c);if(c.id)elements.set('#'+c.id,c);},remove(){}});return elements.get(id);};
++ const window={crypto:cryptoOverride||webcrypto,addEventListener(){},removeEventListener(){},location:{reload(){}}};
++ class URL2 extends URL {static createObjectURL(blob){const key='blob:test-'+blobs.size;blobs.set(key,blob);return key;}static revokeObjectURL(key){blobs.delete(key);}}
++ const document={baseURI:'https://example.test/sub/',currentScript:{src:'https://example.test/sub/data/'+(mode==='download'?'papers-v1/download.js':'bootstrap.js')},querySelector:el,querySelectorAll:()=>controls,createElement:tag=>({tag,remove(){},click(){downloads.push({filename:this.download,blob:blobs.get(this.href)});}}),body:{appendChild(s){assert.equal(s.src,'https://example.test/sub/app.js?v=atlas22');assert(window.ATLAS_DATA);appLoads++;if(appFailure)s.onerror();else s.onload();}}};
++ const actualFetch=async(url,opts)=>{const rel=new URL(url).pathname.replace('/sub/','');requests.push(rel);assert.equal(opts.cache,'no-cache');assert.equal(opts.credentials,'same-origin');return fetchOverride?fetchOverride(rel,opts,files,window):new Response(files.get(rel)||'not found',{status:files.has(rel)?200:404});};
++ const ctx=vm.createContext({window,document,fetch:actualFetch,AbortController,TextEncoder,TextDecoder,Uint8Array,Blob,URL:URL2,atob,setTimeout,clearTimeout,console:{error(){errors++;}},JSON},{codeGeneration:{strings:false,wasm:false}});
++ const c={...config,mode,timeout_ms:timeout,root_path:mode==='download'?'../../':'../'};
++ vm.runInContext(script||'('+browserRuntime.toString()+')('+JSON.stringify(c)+');',ctx);
++ return {window,el,controls,downloads,requests,ctx,get appLoads(){return appLoads},get errors(){return errors},startDownload(){el('#downloadComplete').onclick();return window.ATLAS_DOWNLOAD_READY;}};
++}
++function fixture({big=false,multi=false,pretty=false}={}){
++ const container=fs.mkdtempSync(path.join(os.tmpdir(),'ccfa-paging-test-')),dir=path.join(container,'dist');fs.mkdirSync(path.join(dir,'data'),{recursive:true});
++ const n=big?3600:multi?12:4,records=Array.from({length:n},(_,i)=>({id:'record-'+i,title:'医学 👩🏽‍⚕️ e\u0301 </script> '+i,nested:{flag:true,n:null,num:1.0},evidence:'x'.repeat(big?11000:multi?400000:100)}));
++ const snapshot={papers:records,coverage:[{venue:'fixture',count:n}],scope:{years:[2026]},pending_candidate_count:7,excluded_candidate_count:9,built_at:'unchanged',additional_metadata:{nested:[true,false,null,1,'é']}};
++ const raw=Buffer.from((pretty?' \n'+JSON.stringify(records,null,2).replaceAll('"num": 1','"num": 1.0')+' \n':JSON.stringify(records)+'\n'));
++ for(const [key,value]of Object.entries({papers:raw,coverage:Buffer.from(JSON.stringify(snapshot.coverage)),scope:Buffer.from(JSON.stringify(snapshot.scope))}))fs.writeFileSync(path.join(dir,'data',key+'.json'),value);
++ fs.mkdirSync(path.join(container,'data'));const snapshotPath=path.join(container,'data/snapshot.json');fs.writeFileSync(snapshotPath,JSON.stringify(snapshot));fs.writeFileSync(path.join(dir,'index.html'),'<script src="data/snapshot.js?v=atlas22"></script><script src="app.js?v=atlas22"></script>');
++ const result=prepare(dir,snapshotPath),files=new Map(result.manifest.pages.map((p,i)=>[p.url,result.split.pages[i].bytes]));files.set(result.manifestUrl,result.manifestBytes);for(const f of result.manifest.sidecars)files.set(f.url,fs.readFileSync(path.join(dir,f.url)));
++ return {dir,snapshotPath,snapshot,raw,result,files,config:{...result.config},manifest:JSON.parse(result.manifestBytes),cleanup(){fs.rmSync(container,{recursive:true,force:true});}};
++}
++function resign(f){const bytes=Buffer.from(JSON.stringify(f.manifest)+'\n');f.config.manifest_bytes=bytes.length;f.config.manifest_sha256=sha(bytes);f.files.set(f.config.manifest_url,bytes);}
++function replacePage(f,index,bytes){const p=f.manifest.pages[index],old=p.url;p.bytes=bytes.length;p.sha256=sha(bytes);p.url='data/papers-v1/pages/'+p.sha256+'.json';f.files.delete(old);f.files.set(p.url,bytes);f.manifest.aggregate_bytes=f.manifest.pages.reduce((n,x)=>n+x.bytes,0)+f.manifest.sidecars.reduce((n,x)=>n+x.bytes,0);f.manifest.raw.bytes=Buffer.from(f.manifest.raw.prefix_b64,'base64').length+Buffer.from(f.manifest.raw.suffix_b64,'base64').length+f.manifest.pages.reduce((n,x)=>n+x.bytes-2,0)+f.manifest.pages.length-1;resign(f);}
++async function rejected(f,opts={}){const h=harness({config:f.config,files:f.files,...opts});assert.equal(await h.window.ATLAS_BOOTSTRAP_READY,false);assert.equal(h.appLoads,0);assert.equal(Object.prototype.hasOwnProperty.call(h.window,'ATLAS_DATA'),false);assert(h.controls.every(x=>x.disabled));assert.equal(h.el('#resultsCount').state,'error');return h;}
++async function verifyArtifact(root){
++ const dist=path.join(root,'dist'),m=JSON.parse(fs.readFileSync(path.join(dist,'data/papers-v1/manifest.json'))),mb=Buffer.from(JSON.stringify(m)+'\n');
++ const files=new Map(m.pages.map(p=>[p.url,fs.readFileSync(path.join(dist,p.url))]));for(const f of m.sidecars)files.set(f.url,fs.readFileSync(path.join(dist,f.url)));const mu='data/papers-v1/manifest.'+sha(mb)+'.json';files.set(mu,mb);
++ const script=fs.readFileSync(path.join(dist,'data/bootstrap.js'),'utf8');const h=harness({files,script});assert.equal(await h.window.ATLAS_BOOTSTRAP_READY,true);assert.equal(h.appLoads,1);assert.equal(JSON.stringify(h.window.ATLAS_DATA),JSON.stringify(JSON.parse(fs.readFileSync(path.join(root,'data/snapshot.json')))));
++ const config={manifest_url:mu,manifest_bytes:mb.length,manifest_sha256:sha(mb),recovery_url:'data/papers-v1/download.html',app_url:'app.js?v=atlas22',root_path:'../../',timeout_ms:30000};const d=harness({config,files,mode:'download'});assert.equal(await d.startDownload(),true);assert.equal(d.downloads.length,1);const raw=Buffer.from(await d.downloads[0].blob.arrayBuffer());assert.equal(sha(raw),m.raw.sha256);assert.equal(raw.length,m.raw.bytes);assert.equal(d.appLoads,0);assert(!Object.prototype.hasOwnProperty.call(d.window,'ATLAS_DATA'));
++ console.log(`PASS: generated paged loader exposes all snapshot keys/scalars, ${m.paper_count} complete records and original sidecars exactly once; exact ${raw.length}-byte complete download verified.`);
++}
++async function suite(){let count=0;async function test(name,run){await run();count++;console.log('PASS: '+name);}
++ await test('exact pretty/Unicode bytes and numeric formats',async()=>{const f=fixture({pretty:true});try{const h=harness({config:f.config,files:f.files});assert(await h.window.ATLAS_BOOTSTRAP_READY);assert.equal(JSON.stringify(h.window.ATLAS_DATA),JSON.stringify(f.snapshot));const d=harness({config:f.config,files:f.files,mode:'download'});assert(await d.startDownload());assert(Buffer.from(await d.downloads[0].blob.arrayBuffer()).equals(f.raw));}finally{f.cleanup();}});
++ for(const [name,mutate]of [
++ ['missing page',f=>f.files.delete(f.manifest.pages[0].url)],
++ ['tampered page',f=>{const p=f.manifest.pages[0],b=Buffer.from(f.files.get(p.url));b[2]^=1;f.files.set(p.url,b);}],
++ ['truncated page',f=>{const p=f.manifest.pages[0];f.files.set(p.url,f.files.get(p.url).subarray(0,-1));}],
++ ['oversized streamed page',f=>{const p=f.manifest.pages[0];f.files.set(p.url,Buffer.concat([f.files.get(p.url),Buffer.from('extra')]));}],
++ ['invalid UTF-8 with valid declared hash',f=>{const p=f.manifest.pages[0],b=Buffer.from(f.files.get(p.url));b[3]=255;replacePage(f,0,b);}],
++ ['invalid JSON with valid declared hash',f=>{const b=Buffer.from('[broken]');replacePage(f,0,b);}],
++ ['duplicate IDs with valid page hash',f=>{const p=f.manifest.pages[0],a=JSON.parse(f.files.get(p.url));a[1].id=a[0].id;replacePage(f,0,Buffer.from(JSON.stringify(a)));}],
++ ['record order mismatch',f=>{const p=f.manifest.pages[0],a=JSON.parse(f.files.get(p.url));a.reverse();replacePage(f,0,Buffer.from(JSON.stringify(a)));}],
++ ['page index mismatch',f=>{f.manifest.pages[0].index=1;resign(f);}],
++ ['page offset mismatch',f=>{f.manifest.pages[0].start=1;resign(f);}],
++ ['declared per-page byte excess',f=>{f.manifest.pages[0].bytes=LIMITS.page_bytes+1;resign(f);}],
++ ['aggregate limit excess',f=>{f.manifest.aggregate_bytes=LIMITS.aggregate_bytes+1;resign(f);}],
++ ['record count excess',f=>{f.manifest.paper_count=LIMITS.records+1;resign(f);}],
++ ['snapshot scalar omission',f=>{delete f.manifest.scalars.built_at;resign(f);}],
++ ['coverage hash mismatch',f=>f.files.set('data/coverage.json',Buffer.from('[]'))],
++ ['manifest trusted-hash mismatch',f=>{const b=Buffer.from(f.files.get(f.config.manifest_url));b[3]^=1;f.files.set(f.config.manifest_url,b);}],
++ ['oversized declared manifest',f=>{f.config.manifest_bytes=LIMITS.manifest_bytes+1;}],
++ ])await test(name+' never exposes partial data/app',async()=>{const f=fixture();try{mutate(f);await rejected(f);}finally{f.cleanup();}});
++ await test('failure then retry recovers once without overlapping publication',async()=>{const f=fixture();let bad=true;try{const h=await rejected(f,{fetchOverride:async(rel,opts,files)=>new Response(bad&&rel===f.manifest.pages[0].url?'not found':files.get(rel),{status:bad&&rel===f.manifest.pages[0].url?404:200})});bad=false;const retained=h.el('#dataRetry').onclick;retained();assert(await h.window.ATLAS_BOOTSTRAP_READY);assert.equal(h.appLoads,1);retained();assert.equal(await h.window.ATLAS_BOOTSTRAP_READY,false);assert.equal(h.appLoads,1);assert.equal(JSON.stringify(h.window.ATLAS_DATA),JSON.stringify(f.snapshot));}finally{f.cleanup();}});
++ await test('retained retry cannot restart app after failed initialization',async()=>{const f=fixture();let bad=true;try{const h=await rejected(f,{appFailure:true,fetchOverride:async(rel,opts,files)=>new Response(bad&&rel===f.manifest.pages[0].url?'not found':files.get(rel),{status:bad&&rel===f.manifest.pages[0].url?404:200})});bad=false;const retained=h.el('#dataRetry').onclick;retained();assert.equal(await h.window.ATLAS_BOOTSTRAP_READY,false);assert.equal(h.appLoads,1);retained();assert.equal(await h.window.ATLAS_BOOTSTRAP_READY,false);assert.equal(h.appLoads,1);}finally{f.cleanup();}});
++ await test('every page failure keeps catalogue and download unpublished',async()=>{const f=fixture({multi:true});try{assert(f.manifest.pages.length>1);for(const p of f.manifest.pages){const bytes=f.files.get(p.url);f.files.delete(p.url);await rejected(f);const h=harness({config:f.config,files:f.files,mode:'download'});assert.equal(await h.startDownload(),false);assert.equal(h.downloads.length,0);assert.equal(h.appLoads,0);assert(!Object.prototype.hasOwnProperty.call(h.window,'ATLAS_DATA'));f.files.set(p.url,bytes);}}finally{f.cleanup();}});
++ await test('later pending page cannot expose already verified records',async()=>{const f=fixture({multi:true});let release,reached;const gate=new Promise(r=>release=r),seen=new Promise(r=>reached=r);try{const target=f.manifest.pages[1].url;const h=harness({config:f.config,files:f.files,fetchOverride:async(rel,opts,files)=>{if(rel===target){reached();await gate;}return new Response(files.get(rel));}});await seen;assert.equal(h.appLoads,0);assert(!Object.prototype.hasOwnProperty.call(h.window,'ATLAS_DATA'));release();assert(await h.window.ATLAS_BOOTSTRAP_READY);assert.equal(h.appLoads,1);}finally{release();f.cleanup();}});
++ await test('duplicate IDs across pages fail before publication',async()=>{const f=fixture({multi:true});try{const a=JSON.parse(f.files.get(f.manifest.pages[1].url));a[0].id=f.snapshot.papers[0].id;replacePage(f,1,Buffer.from(JSON.stringify(a)));await rejected(f);}finally{f.cleanup();}});
++ await test('invalid manifest bounds reject before any page fetch',async()=>{const f=fixture();try{f.manifest.aggregate_bytes=LIMITS.aggregate_bytes+1;resign(f);const h=await rejected(f);assert.deepEqual(h.requests,[f.config.manifest_url]);}finally{f.cleanup();}});
++ await test('oversized declared response rejects even with small body',async()=>{const f=fixture();try{await rejected(f,{fetchOverride:async(rel,opts,files)=>new Response(files.get(rel),{headers:{'Content-Length':String(LIMITS.aggregate_bytes+1)}})});}finally{f.cleanup();}});
++ await test('compressed length is distinct from decoded manifest bytes',async()=>{const f=fixture();try{const h=harness({config:f.config,files:f.files,fetchOverride:async(rel,opts,files)=>new Response(files.get(rel),{headers:{'Content-Encoding':'gzip','Content-Length':String(rel===f.config.manifest_url?LIMITS.manifest_bytes+1:files.get(rel).length+20)}})});assert(await h.window.ATLAS_BOOTSTRAP_READY);assert.equal(h.appLoads,1);}finally{f.cleanup();}});
++ await test('no-JS recovery exposes every numbered page and sidecar',async()=>{const f=fixture({multi:true});try{assert(f.result.html.includes('<noscript>'));for(const p of f.manifest.pages)assert(f.result.downloadHtml.includes('pages/'+p.sha256+'.json'));assert(f.result.downloadHtml.includes('../coverage.json'));assert(f.result.downloadHtml.includes('../scope.json'));assert(f.result.downloadHtml.includes('No page alone is the complete dataset'));}finally{f.cleanup();}});
++ await test('timeout and late completion never publish partial data',async()=>{const f=fixture();try{await rejected(f,{timeout:5,fetchOverride:async(rel,opts,files)=>{await new Promise(r=>setTimeout(r,15));return new Response(files.get(rel));}});}finally{f.cleanup();}});
++ await test('bad final complete-download hash never creates link',async()=>{const f=fixture();try{f.manifest.raw.sha256='0'.repeat(64);resign(f);const h=harness({config:f.config,files:f.files,mode:'download'});assert.equal(await h.startDownload(),false);assert.equal(h.downloads.length,0);assert.equal(h.appLoads,0);assert(!Object.prototype.hasOwnProperty.call(h.window,'ATLAS_DATA'));}finally{f.cleanup();}});
++ await test('above-32-MiB fixture loads complete data and downloads exact bytes in bounded pages',async()=>{const f=fixture({big:true});try{assert(f.raw.length>32*1024*1024);assert.equal(f.manifest.legacy.available,false);assert(f.manifest.pages.every(p=>p.bytes<=4*1024*1024));const h=harness({config:f.config,files:f.files});assert(await h.window.ATLAS_BOOTSTRAP_READY);assert.equal(JSON.stringify(h.window.ATLAS_DATA),JSON.stringify(f.snapshot));const d=harness({config:f.config,files:f.files,mode:'download'});assert(await d.startDownload());assert(Buffer.from(await d.downloads[0].blob.arrayBuffer()).equals(f.raw));const hc=path.resolve(path.dirname(f.snapshotPath),'../.openai');fs.mkdirSync(hc);fs.writeFileSync(path.join(hc,'hosting.json'),JSON.stringify({static:true}));assert.throws(()=>write(f.dir,f.snapshotPath),/Worker error route/);assert(fs.existsSync(path.join(f.dir,'data/papers.json')));assert(!fs.existsSync(path.join(f.dir,'data/papers-v1')));fs.unlinkSync(path.join(hc,'hosting.json'));write(f.dir,f.snapshotPath);assert(!fs.existsSync(path.join(f.dir,'data/papers.json')),'Oversized legacy artifact survived');}finally{f.cleanup();}});
++ await test('build rejects single oversized record and aggregate/count excess without truncation',async()=>{assert.throws(()=>splitPapers(Buffer.from(JSON.stringify([{id:'huge',evidence:'x'.repeat(4*1024*1024)}]))),/Single record/);assert.throws(()=>splitPapers(Buffer.from(JSON.stringify(Array.from({length:5001},(_,i)=>({id:String(i)}))))),/Record bounds/);});
++ await test('raw aggregate preflight rejects before parse or snapshot read',async()=>{assert.throws(()=>splitPapers(Buffer.alloc(LIMITS.aggregate_bytes+1)),/Raw collection byte bound/);const f=fixture();try{fs.truncateSync(path.join(f.dir,'data/papers.json'),LIMITS.aggregate_bytes+1);assert.throws(()=>prepare(f.dir,path.join(f.dir,'missing-snapshot.json')),/Raw collection byte bound/);}finally{f.cleanup();}});
++ await test('generator rejects malformed UTF-8 before output',async()=>{assert.throws(()=>splitPapers(Buffer.from([91,123,34,105,100,34,58,34,255,34,125,93])),/encoded data|encoding/i);});
++ await test('source-root and symlink output guards fail before writes',async()=>{const root=fs.mkdtempSync(path.join(os.tmpdir(),'ccfa-paging-guard-'));try{fs.mkdirSync(path.join(root,'data'));const snapshot=path.join(root,'data/snapshot.json');fs.writeFileSync(snapshot,'{}');fs.writeFileSync(path.join(root,'index.html'),'KEEP SOURCE');assert.throws(()=>write(root,snapshot),/source root/);assert.equal(fs.readFileSync(path.join(root,'index.html'),'utf8'),'KEEP SOURCE');assert.equal(fs.readFileSync(snapshot,'utf8'),'{}');const out=path.join(root,'output');fs.mkdirSync(out);fs.symlinkSync(path.join(root,'data'),path.join(out,'data'));assert.throws(()=>write(out,snapshot),/symlink/);assert.equal(fs.readFileSync(snapshot,'utf8'),'{}');fs.unlinkSync(path.join(out,'data'));fs.mkdirSync(path.join(out,'data'));fs.symlinkSync(path.join(root,'missing'),path.join(out,'data/bootstrap.js'));assert.throws(()=>write(out,snapshot),/symlink/);assert(!fs.existsSync(path.join(root,'missing')),'Dangling output link wrote outside artifact');}finally{fs.rmSync(root,{recursive:true,force:true});}});
++ console.log(`PASS: ${count} paged loader/generator adversarial and positive tests.`);
++}
++module.exports={harness,fixture,verifyArtifact,suite};
++if(require.main===module)suite().catch(e=>{console.error(e);process.exitCode=1;});
+diff --git a/scripts/test_public_data_privacy.py b/scripts/test_public_data_privacy.py
+index 7274dad5..40aaf164 100644
+--- a/scripts/test_public_data_privacy.py
++++ b/scripts/test_public_data_privacy.py
+@@ -15,19 +15,34 @@ check((R/'data/snapshot.js').read_text(),'source snapshot.js')
+ snapshot=json.loads((R/'data/snapshot.json').read_text())
+ assert snapshot['papers']==json.loads((R/'data/papers.json').read_text())
+ assert len(snapshot['papers'])==len({p['id']for p in snapshot['papers']})
+-if (R/'dist/data/papers.json').exists():
++if (R/'dist/data/bootstrap.js').exists():
+  for f in (R/'dist').rglob('*'):
+   if f.is_file() and f.suffix.lower() in {'.json','.js','.html','.txt','.md','.css'}:check(f.read_text(),str(f.relative_to(R)))
+- assert json.loads((R/'dist/data/papers.json').read_text())==snapshot['papers']
+- # Exact transport equivalent, without altering deployment files or loader.
+- raw=(R/'dist/data/papers.json').read_bytes();z=gzip.compress(raw,compresslevel=9,mtime=0)
+- assert gzip.decompress(z)==raw and len(raw)<=32*1024*1024 and len(z)<=8*1024*1024
+- check(gzip.decompress(z).decode(),'static raw transport roundtrip')
++ from verify_paged_data import verify_paged
++ page_result=verify_paged(R,R/'dist')
++ if (R/'dist/data/papers.json').exists():
++  assert page_result['legacy_available'] is True
++  assert json.loads((R/'dist/data/papers.json').read_text())==snapshot['papers']
++  raw=(R/'dist/data/papers.json').read_bytes();z=gzip.compress(raw,compresslevel=9,mtime=0)
++  assert gzip.decompress(z)==raw and len(raw)<=32*1024*1024 and len(z)<=8*1024*1024
++  check(gzip.decompress(z).decode(),'static raw transport roundtrip')
++ else:
++  assert page_result['legacy_available'] is False, 'Missing below-cap legacy representation'
+ if '--worker' in sys.argv:
+- m=json.loads((R/'build/catalogue-manifest.json').read_text());z=(R/'public'/m['gzipPath'].lstrip('/')).read_bytes();raw=gzip.decompress(z)
+- assert len(z)==m['gzipBytes'] and len(raw)==m['rawBytes']
+- assert hashlib.sha256(z).hexdigest()==m['gzipSha256'] and hashlib.sha256(raw).hexdigest()==m['rawSha256']
+- check(raw.decode(),'Worker recovered JSON');assert json.loads(raw)==snapshot['papers']
++ from verify_paged_data import verify_paged
++ page_result=verify_paged(R,R/'public')
++ m=json.loads((R/'build/catalogue-manifest.json').read_text())
++ if m.get('available') is not False:
++  assert page_result['legacy_available'] is True
++  z=(R/'public'/m['gzipPath'].lstrip('/')).read_bytes();raw=gzip.decompress(z)
++  assert len(z)==m['gzipBytes'] and len(raw)==m['rawBytes']
++  assert len(raw)<=32*1024*1024 and len(z)<=8*1024*1024
++  assert hashlib.sha256(z).hexdigest()==m['gzipSha256'] and hashlib.sha256(raw).hexdigest()==m['rawSha256']
++  check(raw.decode(),'Worker recovered JSON');assert json.loads(raw)==snapshot['papers']
++ else:
++  assert page_result['legacy_available'] is False and (m['rawBytes']>32*1024*1024 or m['gzipBytes']>8*1024*1024)
++  assert not (R/'public/data/papers.json').exists() and not list((R/'public/_catalogue').glob('papers.*.gz'))
++  assert m['manifestPath']=='/data/papers-v1/manifest.json' and m['downloadPath']=='/data/papers-v1/download.html'
+  for f in (R/'public').rglob('*'):
+   if f.is_file()and f.suffix.lower() in {'.json','.js','.html','.txt','.md','.css'}:check(f.read_text(),str(f.relative_to(R)))
+-print('PASS: public source/static privacy, snapshot identity, unchanged transport caps;'+(' actual Worker gzip verified.'if '--worker'in sys.argv else' Worker artifact check requires --worker after framework preparation.'))
++print('PASS: public source/static privacy, snapshot identity, unchanged transport caps;'+(' actual Worker legacy-or-paged representation verified.'if '--worker'in sys.argv else' Worker artifact check requires --worker after framework preparation.'))
+diff --git a/scripts/test_raw_artifact.cjs b/scripts/test_raw_artifact.cjs
+index af51ef3c..1ca0f436 100644
+--- a/scripts/test_raw_artifact.cjs
++++ b/scripts/test_raw_artifact.cjs
+@@ -1,12 +1,4 @@
+ 'use strict';
+-// Build assertion only: actual browser validation remains a separate release gate.
+-const fs=require('node:fs'),path=require('node:path'),vm=require('node:vm'),assert=require('node:assert/strict'),{webcrypto}=require('node:crypto');
+-const root=path.resolve(process.argv[2]||path.join(__dirname,'..')),dist=path.join(root,'dist'),expected=JSON.parse(fs.readFileSync(path.join(root,'data/snapshot.json')));
+-(async()=>{
+- assert(!fs.existsSync(path.join(dist,'data/snapshot.js')));const code=fs.readFileSync(path.join(dist,'data/bootstrap.js'),'utf8'),html=fs.readFileSync(path.join(dist,'index.html'),'utf8');
+- assert(html.includes('data/bootstrap.js?v=raw1'));assert(!html.includes('src="data/snapshot.js'));assert(!html.includes('src="app.js'));assert(html.includes('href="data/papers.json"'));assert(html.includes('<noscript>'));
+- let appLoads=0;const els=new Map(),el=id=>{if(!els.has(id))els.set(id,{disabled:false,textContent:'',setAttribute(){},replaceChildren(){},appendChild(){},remove(){}});return els.get(id);};
+- const window={crypto:webcrypto,addEventListener(){},removeEventListener(){},location:{reload(){}}};
+- const ctx=vm.createContext({window,document:{baseURI:'https://example.test/',querySelector:el,querySelectorAll:()=>[],createElement:()=>({remove(){}}),body:{appendChild(s){assert.equal(s.src,'app.js?v=atlas22');appLoads++;s.onload();}}},fetch:async(url,opts)=>{assert(['data/papers.json','data/coverage.json','data/scope.json'].includes(url));assert.equal(opts.cache,'no-cache');const b=fs.readFileSync(path.join(dist,url));return {ok:true,arrayBuffer:async()=>b.buffer.slice(b.byteOffset,b.byteOffset+b.length)};},AbortController,TextDecoder,Uint8Array,URL,setTimeout,clearTimeout,console},{codeGeneration:{strings:false,wasm:false}});
+- vm.runInContext(code,ctx);assert.equal(await window.ATLAS_BOOTSTRAP_READY,true);assert.equal(appLoads,1);assert(JSON.stringify(window.ATLAS_DATA)===JSON.stringify(expected),'Every raw-loaded field matches source snapshot');assert.equal(el('#resultsCount').textContent,'Loading research records…');console.log(`PASS: raw bootstrap loads ${expected.papers.length} complete records field-for-field before app; unchanged public raw URLs; source snapshot retained.`);
+-})().catch(e=>{console.error(e);process.exitCode=1;});
++// Local JavaScript verification, not actual browser or production-memory certification.
++const path=require('node:path');
++require('./test_paged_runtime.cjs').verifyArtifact(path.resolve(process.argv[2]||path.join(__dirname,'..'))).catch(e=>{console.error(e);process.exitCode=1;});
+diff --git a/scripts/verify_paged_data.py b/scripts/verify_paged_data.py
+new file mode 100644
+index 00000000..08e93ac0
+--- /dev/null
++++ b/scripts/verify_paged_data.py
+@@ -0,0 +1,44 @@
++"""Verify every emitted versioned page, full bytes, snapshot fields and bounded transport."""
++from pathlib import Path
++import base64,gzip,hashlib,json,re
++from catalogue_source import parse_json,same_json
++from compact_static_json import compact
++
++def verify_paged(root,runtime):
++ root=Path(root);runtime=Path(runtime);directory=runtime/'data/papers-v1'
++ mb=(directory/'manifest.json').read_bytes();assert len(mb)<=65536
++ sha=lambda b:hashlib.sha256(b).hexdigest();mh=sha(mb);m=parse_json(mb)
++ assert (directory/f'manifest.{mh}.json').read_bytes()==mb
++ bootstrap=(runtime/'data/bootstrap.js').read_text();assert f'"manifest_sha256":"{mh}"' in bootstrap and f'"manifest_bytes":{len(mb)}' in bootstrap
++ assert m['schema_version']==1 and m['protocol']=='medical-ccfa-papers-v1'
++ assert 1<=len(m['pages'])<=16 and 1<=m['paper_count']<=5000
++ prefix=base64.b64decode(m['raw']['prefix_b64'],validate=True);suffix=base64.b64decode(m['raw']['suffix_b64'],validate=True)
++ assert re.fullmatch(rb'[ \t\r\n]*\[',prefix) and re.fullmatch(rb'\][ \t\r\n]*',suffix)
++ parts=[];papers=[];ids=[];offset=0;total=0;expected={f'manifest.{mh}.json','manifest.json',f'download.{mh}.html','download.html',f'download.{mh}.js'}
++ for i,p in enumerate(m['pages']):
++  assert p['index']==i and p['start']==offset and type(p['count']) is int and p['count']>0
++  assert type(p['bytes'])is int and 2<=p['bytes']<=4*1024*1024
++  assert re.fullmatch('[0-9a-f]{64}',p['sha256']);assert p['url']==f"data/papers-v1/pages/{p['sha256']}.json"
++  b=(runtime/p['url']).read_bytes();assert len(b)==p['bytes'] and sha(b)==p['sha256'] and b[:1]==b'[' and b[-1:]==b']'
++  assert len(gzip.compress(b,compresslevel=9,mtime=0))<=2*1024*1024
++  data=parse_json(b.decode('utf-8'));assert isinstance(data,list) and len(data)==p['count'];papers.extend(data);ids.extend(x['id']for x in data)
++  parts.append(b[1:-1]);offset+=len(data);total+=len(b);expected.add(f"pages/{p['sha256']}.json")
++ assert offset==m['paper_count'] and len(set(ids))==len(ids) and all(type(x)is str and x for x in ids)
++ assert sha(json.dumps(ids,ensure_ascii=False,separators=(',',':')).encode())==m['ordered_ids_sha256']
++ raw=prefix+b','.join(parts)+suffix;assert len(raw)==m['raw']['bytes'] and sha(raw)==m['raw']['sha256']
++ source_raw=(compact((root/'data/papers.json').read_text())+'\n').encode();assert raw==source_raw,'Exact public JSON bytes changed'
++ snapshot=parse_json((root/'data/snapshot.json').read_bytes());assert same_json(papers,snapshot['papers'])
++ assert m['keys']==list(snapshot) and same_json(m['scalars'],{k:v for k,v in snapshot.items()if k not in ('papers','coverage','scope')})
++ for i,key in enumerate(('coverage','scope')):
++  f=m['sidecars'][i];assert f['key']==key and f['url']==f'data/{key}.json' and 1<=f['bytes']<=2*1024*1024
++  b=(runtime/f['url']).read_bytes();assert len(b)==f['bytes'] and sha(b)==f['sha256'];assert same_json(parse_json(b),snapshot[key]);total+=len(b)
++ assert total==m['aggregate_bytes'] and total<=48*1024*1024
++ assert m['legacy']=={'url':'data/papers.json','available':len(raw)<=32*1024*1024 and len(gzip.compress(raw,compresslevel=9,mtime=0))<=8*1024*1024,'raw_limit_bytes':32*1024*1024,'gzip_limit_bytes':8*1024*1024}
++ actual={str(p.relative_to(directory))for p in directory.rglob('*')if p.is_file()};assert actual==expected,{'extra':actual-expected,'missing':expected-actual}
++ for p in directory.rglob('*'):
++  if p.is_file():assert not re.search(rb'/workspace/(?:shared|scratch)|/home/agent',p.read_bytes()),p
++ return {'records':len(papers),'pages':len(parts),'raw_bytes':len(raw),'aggregate_bytes':total,'legacy_available':m['legacy']['available'],'manifest_sha256':mh}
++
++if __name__=='__main__':
++ import sys
++ root=Path(__file__).resolve().parents[1];runtime=root/(sys.argv[1]if len(sys.argv)>1 else'dist');print(json.dumps(verify_paged(root,runtime),sort_keys=True))
