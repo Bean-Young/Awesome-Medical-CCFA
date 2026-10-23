@@ -1,0 +1,13 @@
+# Five existing direct-medical profiles, staged only
+
+Prepared against saved v320, commit f62d92082920f10099b896d48e47edae36886bc3, with 2,008 papers, 962 core-ready profiles and 1,499 licensed original abstracts. This packet completes five old profiles and claims zero new papers or scientific reads. No active source, existing asset, GitHub, save or publication write was performed during this staged preparation. Deployment remains explicitly blocked.
+
+Each patch restores the exact full publisher HTML abstract, keeps a separately labelled Catalogue reuse notice, verifies printed author order and first-author first printed affiliation unit, and provides a natural contribution introduction in the visible summary field. Full original first pages and contribution-selected main figures/tables retain complete captions. Exact source/asset hashes and crop/render provenance bind all ten lossless WebP assets. Visible profile caveats preserve retrospective, simulated, synthetic and clinical distinctions.
+
+The unchanged production guard passes all five isolated profiles, and the actual unmodified detail()/abstractFootnotes() renderer passes all original abstract bodies, introductions, notices and caveats. Renderer tests use a minimal DOM harness and mock unrelated resource/credit helpers; permissions pass separately through the unchanged production guard. Isolated projected totals are 2,008 / 967 / 1,504, not integrated or published totals. Exact final independent review approved the frozen merged patch and ten assets at 2026-10-23T21:56:15Z. This approval does not authorize publication.
+
+Only the four JSON files and this README belong in a public audit directory. The separate asset bundle contains only the ten manifest-bound WebPs. Downloaded PDFs/HTML, extracted text, screenshots, scripts, logs and complete-record private preimages are excluded from public audit delivery. Canonical preimage hashes and the private preimage artifact hash are in the manifest.
+
+PMLR article rights are inferred through the official mandatory publication-agreement chain, not individual signed forms. Exact embedded components are separately inspected. Underlying datasets, patient records, code, externally owned components and held candidates are not cleared. See sanitized evidence for candidate-specific holds and limitations.
+
+Before authorized integration, verify all baseline/record/patch/asset hashes, apply only manifest field and asset allowlists, recompute with the unchanged guard including the previously validated mixed-component case, and verify counts plus visible fields. Do not deploy.
