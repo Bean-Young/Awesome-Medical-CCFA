@@ -1,0 +1,101 @@
+{
+  "independent_approved_at": "2026-10-24T00:39:25Z",
+  "reporting_cutoff": "2026-10-24T00:28:00Z",
+  "approved_before_cutoff": false,
+  "approval_scope": "Exact one frozen NeuJoRN profile and final union as unintegrated research evidence only. This does not authorize source integration, a saved Site version, publication or completion-count credit.",
+  "integration_status": "BLOCKED_BY_UNCHANGED_RAW_PAYLOAD_CAP",
+  "blocker": {
+    "target": "Existing saved v335 catalogue data payload",
+    "action_not_attempted": "Integrate reviewed profile or create a new saved Site version",
+    "reason": "Exact guard-inclusive projected raw bytes exceed the unchanged cap.",
+    "projected_raw_bytes": 33560900,
+    "raw_cap_bytes": 33554432,
+    "excess_bytes": 6468,
+    "outcome": "Known not executed. No active source, save, GitHub or deployment write was attempted by this worker.",
+    "evidence_reduced": false,
+    "cap_changed": false
+  },
+  "saved_baseline_counts": {
+    "papers": 2008,
+    "complete_profiles": 999,
+    "licensed_original_abstracts": 1521
+  },
+  "reviewed_files": {
+    "README.md": "7c571b4d082ed84bd96589a2057bf7bfbce3256be19d84adade25ca99c98825b",
+    "guard_validation.json": "5543c6ca2d4f553d28bdbd3f34bc556188c64df1fb388c8638a78e1e70aed52c",
+    "patch_manifest.json": "5f109d9d6831d07c052dbf60455191a1a7c3271f14f91988d5e053f4abb1873b",
+    "reviewed_migration_patches.json": "8391c249acfa7757d6e3c44e95ce7501e400a481113060d818bd64b3db15cb47",
+    "sanitized_evidence.json": "a1ef0b12492596e4abe5d6a6895ac8681a4cf3d7c3dab898e3629883ba214e65"
+  },
+  "subsets": [
+    {
+      "id": "2021.acl-long.219",
+      "approved_at": "2026-10-24T00:39:06Z",
+      "patch_sha256": "8391c249acfa7757d6e3c44e95ce7501e400a481113060d818bd64b3db15cb47",
+      "freeze_manifest_sha256": "be99399642ddea72d538904539748ee4e655948f310ff6d7b1309cc03f737269"
+    }
+  ],
+  "independent_checks": [
+    "Official source hashes, complete unchanged HTML abstract and PDF typography comparison",
+    "Printed author order, exact affiliation markers and first-author first unit",
+    "Actual complete first page and both Figure 1 panels/captions with scoped article/component rights",
+    "Exact encoded-byte and decoded-pixel rerenders",
+    "Full canonical preimage, exact frozen-subset set/unset equality and v1-to-v2 statistics-only delta",
+    "Official cached NCBI source counts/date and visible unresolved discrepancy",
+    "Per-field and asset allowlists, two hash bindings, old files/HOLDs preserved",
+    "Unchanged guard/core and actual merged detail renderer",
+    "Public private-path/email sanitation and frozen five-file wrapper byte identity"
+  ],
+  "payload_projection": {
+    "baseline_source_version": "v335",
+    "baseline_source_commit": "8e2016b4a600569919c3e25f23f9e0b06c81bd59",
+    "baseline_raw_bytes": 33525875,
+    "baseline_gzip9_mtime0_bytes": 5585480,
+    "projected_raw_bytes": 33560900,
+    "projected_gzip9_mtime0_bytes": 5592386,
+    "projected_papers_sha256": "af0874565b4c8d57263ad265453435d3751ad8728d130e2a1a0954cbdc5bb8ff",
+    "projected_gzip_sha256": "51f1ac87b66f370dbc7dffdbbf9ceed00c35bf44eae00095295035d07d6d8f4d",
+    "raw_byte_growth": 35025,
+    "raw_cap_bytes": 33554432,
+    "remaining_raw_headroom_bytes": -6468,
+    "integration_eligible_under_raw_cap": false,
+    "expected_counts": {
+      "papers": 2008,
+      "core_ready": 1000,
+      "licensed_original_abstracts": 1521
+    },
+    "new_source_derived_asset_files": 2,
+    "existing_files_newly_cleared": 0,
+    "licensed_abstract_increment": 0,
+    "serializer": "UTF-8 compact json.dumps ensure_ascii=False separators comma/colon plus final newline; unchanged guard recomputed for patched records only."
+  },
+  "delivery_archives": {
+    "public_audit.zip": {
+      "sha256": "bc2716c6eb85ec24d76fdaa7d94d792c1eff3e5d84977be89b72b375d4820061",
+      "bytes": 26144,
+      "file_count": 5
+    },
+    "asset_bundle.zip": {
+      "sha256": "d2204c7684791904e1e8b39aac103ac40d4c9b7cfd5189fd1a69baa768a7eeee",
+      "bytes": 235303,
+      "file_count": 2
+    }
+  },
+  "approved_wrapper_bytes_unchanged": true,
+  "recorded_separately_from_immutable_wrapper": true,
+  "source_written": false,
+  "github_written": false,
+  "saved_site_version_created": false,
+  "published": false,
+  "saved_complete_profile_increment": 0,
+  "new_paper_credit": 0,
+  "new_abstract_read_credit": 0,
+  "new_full_paper_read_credit": 0,
+  "licensed_original_abstract_increment": 0,
+  "existing_files_newly_cleared": 0,
+  "public_backup_note": "README and manifest have neutral public handoff wording in place of internal coordination wording. Original reviewed hashes above remain original artifact identities, not hashes of these two public derivatives.",
+  "public_derivative_sha256": {
+    "README.md": "355a35a81fceb55fdd7991bed4b6b70e652d396b7a28803e414ff9ba6decce49",
+    "patch_manifest.json": "958943c4576c0176f7042639621d7602deb19b2fddc68261c5ab4c9b72314708"
+  }
+}
