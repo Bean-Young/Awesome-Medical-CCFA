@@ -1,0 +1,444 @@
+[
+  {
+    "id": "2021.acl-long.219",
+    "expected_baseline_record_sha256": "0a01753ebbd5e31940cb6fa822f8b31d7b0c7b873c0902088558db9430aea2a5",
+    "set": {
+      "dataset_statistics_evidence": {
+        "paper_source_url": "https://aclanthology.org/2021.acl-long.219.pdf",
+        "paper_source_page": 5,
+        "paper_table": "Table 3",
+        "paper_counts": {
+          "documents": 792,
+          "mentions": 6881,
+          "concepts": 1049
+        },
+        "official_corpus_url": "https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/",
+        "official_corpus_html_sha256": "a1fdbc1df7c5356221122e213d218c6f1d73807f62431ba5bc3698ed8f2f37ed",
+        "official_corpus_capture_date": "2026-10-24",
+        "official_corpus_page_revision": "August 27, 2013",
+        "official_counts": {
+          "PubMed_abstracts": 793,
+          "disease_mentions": 6892,
+          "unique_disease_concepts": 790
+        },
+        "comparison": "Counts differ. The paper does not reconcile the discrepancy; no filtering, deduplication, version or counting-definition explanation is established, and concepts versus unique disease concepts are not assumed equivalent."
+      },
+      "authors": [
+        "Zongcheng Ji",
+        "Tian Xia",
+        "Mei Han",
+        "Jing Xiao"
+      ],
+      "authors_verified": true,
+      "authors_status": "verified_printed_pdf_and_official_html",
+      "authors_pdf": [
+        "Zongcheng Ji",
+        "Tian Xia",
+        "Mei Han",
+        "Jing Xiao"
+      ],
+      "authors_official_html": [
+        "Zongcheng Ji",
+        "Tian Xia",
+        "Mei Han",
+        "Jing Xiao"
+      ],
+      "authors_source": "https://aclanthology.org/2021.acl-long.219.pdf",
+      "authors_source_page": 1,
+      "authors_source_sha256": "574fa3c3921c30cfca89b0902bbc7a3e6ea71c5168dd4720fc5e89439d6e28f2",
+      "first_author": "Zongcheng Ji",
+      "first_institution": "PAII Inc.",
+      "first_institution_display": "PAII Inc.",
+      "first_institution_display_basis": "Exact organization explicitly printed in the first author’s numbered affiliation; complete location wording retained separately.",
+      "first_institution_raw": "PAII Inc., Palo Alto, CA, USA",
+      "first_institution_verified": true,
+      "first_institution_source": "https://aclanthology.org/2021.acl-long.219.pdf",
+      "first_institution_evidence": {
+        "author": "Zongcheng Ji",
+        "source_url": "https://aclanthology.org/2021.acl-long.219.pdf",
+        "source_page": 1,
+        "source_pdf_sha256": "574fa3c3921c30cfca89b0902bbc7a3e6ea71c5168dd4720fc5e89439d6e28f2",
+        "superscripts": [
+          "1"
+        ],
+        "selected_first_unit": "1",
+        "printed_first_affiliation": "PAII Inc., Palo Alto, CA, USA",
+        "normalized_organization": "PAII Inc.",
+        "method": "Direct visual mapping of Zongcheng Ji’s superscript 1 to complete printed unit 1; PAII Inc. is the normalized organization, and city/state/country remain in raw evidence."
+      },
+      "first_author_affiliation_as_printed": "PAII Inc., Palo Alto, CA, USA",
+      "affiliations": [
+        {
+          "author": "Zongcheng Ji",
+          "affiliations": [
+            "PAII Inc., Palo Alto, CA, USA"
+          ],
+          "source_page": 1,
+          "source_url": "https://aclanthology.org/2021.acl-long.219.pdf"
+        },
+        {
+          "author": "Tian Xia",
+          "affiliations": [
+            "PAII Inc., Palo Alto, CA, USA"
+          ],
+          "source_page": 1,
+          "source_url": "https://aclanthology.org/2021.acl-long.219.pdf"
+        },
+        {
+          "author": "Mei Han",
+          "affiliations": [
+            "PAII Inc., Palo Alto, CA, USA"
+          ],
+          "source_page": 1,
+          "source_url": "https://aclanthology.org/2021.acl-long.219.pdf"
+        },
+        {
+          "author": "Jing Xiao",
+          "affiliations": [
+            "Ping An Technology, Shenzhen, China"
+          ],
+          "source_page": 1,
+          "source_url": "https://aclanthology.org/2021.acl-long.219.pdf"
+        }
+      ],
+      "author_affiliations": [
+        {
+          "author": "Zongcheng Ji",
+          "affiliations": [
+            "PAII Inc., Palo Alto, CA, USA"
+          ],
+          "source_page": 1,
+          "source_url": "https://aclanthology.org/2021.acl-long.219.pdf"
+        },
+        {
+          "author": "Tian Xia",
+          "affiliations": [
+            "PAII Inc., Palo Alto, CA, USA"
+          ],
+          "source_page": 1,
+          "source_url": "https://aclanthology.org/2021.acl-long.219.pdf"
+        },
+        {
+          "author": "Mei Han",
+          "affiliations": [
+            "PAII Inc., Palo Alto, CA, USA"
+          ],
+          "source_page": 1,
+          "source_url": "https://aclanthology.org/2021.acl-long.219.pdf"
+        },
+        {
+          "author": "Jing Xiao",
+          "affiliations": [
+            "Ping An Technology, Shenzhen, China"
+          ],
+          "source_page": 1,
+          "source_url": "https://aclanthology.org/2021.acl-long.219.pdf"
+        }
+      ],
+      "affiliations_status": "verified_official_pdf",
+      "affiliations_source": "https://aclanthology.org/2021.acl-long.219.pdf",
+      "affiliations_evidence": {
+        "source_url": "https://aclanthology.org/2021.acl-long.219.pdf",
+        "source_page": 1,
+        "source_pdf_sha256": "574fa3c3921c30cfca89b0902bbc7a3e6ea71c5168dd4720fc5e89439d6e28f2",
+        "printed_units": {
+          "1": "PAII Inc., Palo Alto, CA, USA",
+          "2": "Ping An Technology, Shenzhen, China"
+        },
+        "author_markers": [
+          {
+            "author": "Zongcheng Ji",
+            "affiliation_markers": [
+              "1"
+            ],
+            "equal_contribution": false,
+            "corresponding": false
+          },
+          {
+            "author": "Tian Xia",
+            "affiliation_markers": [
+              "1"
+            ],
+            "equal_contribution": false,
+            "corresponding": false
+          },
+          {
+            "author": "Mei Han",
+            "affiliation_markers": [
+              "1"
+            ],
+            "equal_contribution": false,
+            "corresponding": false
+          },
+          {
+            "author": "Jing Xiao",
+            "affiliation_markers": [
+              "2"
+            ],
+            "equal_contribution": false,
+            "corresponding": false
+          }
+        ],
+        "marker_note": "Numeric 1/2 markers map affiliations only. No contribution or correspondence marker is printed."
+      },
+      "equal_contribution_authors": [],
+      "co_first_authors": [],
+      "corresponding_authors": [],
+      "authors_equal_contribution": {
+        "authors": [],
+        "finding": "No equal-contribution statement printed or inferred."
+      },
+      "senior_authorship_authors": [],
+      "author_order_evidence": {
+        "source_url": "https://aclanthology.org/2021.acl-long.219.pdf",
+        "source_page": 1,
+        "official_html_url": "https://aclanthology.org/2021.acl-long.219/",
+        "finding": "The printed PDF and official HTML agree on Zongcheng Ji, Tian Xia, Mei Han, Jing Xiao in that order. The first three carry marker 1, PAII Inc., Palo Alto, CA, USA; Jing Xiao carries marker 2, Ping An Technology, Shenzhen, China. No equal-contribution, co-first, corresponding-author or senior-author designation is printed. Contact addresses do not establish those roles."
+      },
+      "co_first_author_evidence": {
+        "source_url": "https://aclanthology.org/2021.acl-long.219.pdf",
+        "source_page": 1,
+        "finding": "Numbered affiliations and contact addresses are not co-first, correspondence or senior-author evidence."
+      },
+      "summary": "NeuJoRN 把疾病实体识别与标准化统一为动作序列预测：通过栈、缓冲区和动作历史，在同一搜索空间中决定实体边界并链接疾病概念。完整图 1 展示识别状态与标准化状态，后者结合候选概念引导的上下文注意力及提及—概念共注意力。模型使用 CNN、GloVe、ELMo 与循环网络，并从 MEDIC 中检索前 10 个候选概念。束宽为 4 时，在 NCBI 与 BC5CDR 上的识别 F1 为 88.57/88.19，标准化 F1 为 88.82/89.86；前者按提及、后者按摘要评测，不能混作逐提及链接准确率。证据限于 PubMed 文献基准，不代表临床诊断、患者结局或临床笔记上的有效性。",
+      "summary_zh": "NeuJoRN 把疾病实体识别与标准化统一为动作序列预测：通过栈、缓冲区和动作历史，在同一搜索空间中决定实体边界并链接疾病概念。完整图 1 展示识别状态与标准化状态，后者结合候选概念引导的上下文注意力及提及—概念共注意力。模型使用 CNN、GloVe、ELMo 与循环网络，并从 MEDIC 中检索前 10 个候选概念。束宽为 4 时，在 NCBI 与 BC5CDR 上的识别 F1 为 88.57/88.19，标准化 F1 为 88.82/89.86；前者按提及、后者按摘要评测，不能混作逐提及链接准确率。证据限于 PubMed 文献基准，不代表临床诊断、患者结局或临床笔记上的有效性。",
+      "summary_en": "NeuJoRN unifies disease recognition and normalization as transition-action prediction with shared neural representations and a single search space. Candidate-aware context attention and mention–concept CoAttention support linking. Complete Figure 1 shows both state representations. Evaluation is retrospective PubMed-text recognition/normalization, not clinical performance.",
+      "summary_language": "zh-CN",
+      "introduction_zh": "NeuJoRN 把疾病实体识别与标准化统一为动作序列预测：通过栈、缓冲区和动作历史，在同一搜索空间中决定实体边界并链接疾病概念。完整图 1 展示识别状态与标准化状态，后者结合候选概念引导的上下文注意力及提及—概念共注意力。模型使用 CNN、GloVe、ELMo 与循环网络，并从 MEDIC 中检索前 10 个候选概念。束宽为 4 时，在 NCBI 与 BC5CDR 上的识别 F1 为 88.57/88.19，标准化 F1 为 88.82/89.86；前者按提及、后者按摘要评测，不能混作逐提及链接准确率。证据限于 PubMed 文献基准，不代表临床诊断、患者结局或临床笔记上的有效性。",
+      "contribution_introduction_zh": "NeuJoRN 把疾病实体识别与标准化统一为动作序列预测：通过栈、缓冲区和动作历史，在同一搜索空间中决定实体边界并链接疾病概念。完整图 1 展示识别状态与标准化状态，后者结合候选概念引导的上下文注意力及提及—概念共注意力。模型使用 CNN、GloVe、ELMo 与循环网络，并从 MEDIC 中检索前 10 个候选概念。束宽为 4 时，在 NCBI 与 BC5CDR 上的识别 F1 为 88.57/88.19，标准化 F1 为 88.82/89.86；前者按提及、后者按摘要评测，不能混作逐提及链接准确率。证据限于 PubMed 文献基准，不代表临床诊断、患者结局或临床笔记上的有效性。",
+      "summary_source": "https://aclanthology.org/2021.acl-long.219.pdf",
+      "summary_zh_source": "https://aclanthology.org/2021.acl-long.219.pdf",
+      "summary_method": "Independent contribution paraphrase with exact protocol/results caveats; no new scientific-reading credit.",
+      "abstract": "Disease is one of the fundamental entities in biomedical research. Recognizing such entities from biomedical text and then normalizing them to a standardized disease vocabulary offer a tremendous opportunity for many downstream applications. Previous studies have demonstrated that joint modeling of the two sub-tasks has superior performance than the pipelined counterpart. Although the neural joint model based on multi-task learning framework has achieved state-of-the-art performance, it suffers from the boundary inconsistency problem due to the separate decoding procedures. Moreover, it ignores the rich information (e.g., the text surface form) of each candidate concept in the vocabulary, which is quite essential for entity normalization. In this work, we propose a neural transition-based joint model to alleviate these two issues. We transform the end-to-end disease recognition and normalization task as an action sequence prediction task, which not only jointly learns the model with shared representations of the input, but also jointly searches the output by state transitions in one search space. Moreover, we introduce attention mechanisms to take advantage of the text surface form of each candidate concept for better normalization performance. Experimental results conducted on two publicly available datasets show the effectiveness of the proposed method.",
+      "abstract_source": "https://aclanthology.org/2021.acl-long.219/",
+      "abstract_version": "publisher_final_html",
+      "abstract_display_type": "original_licensed",
+      "abstract_display_label": "Original abstract (CC BY 4.0)",
+      "abstract_license": "CC-BY-4.0",
+      "abstract_license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "abstract_permission_status": "cleared",
+      "abstract_permission_checked_at": "2026-10-24",
+      "abstract_attribution": "Zongcheng Ji, Tian Xia, Mei Han, Jing Xiao. A Neural Transition-based Joint Model for Disease Named Entity Recognition and Normalization. Proceedings of ACL-IJCNLP 2021, Volume 1: Long Papers, pages 2819–2827. ©2021 Association for Computational Linguistics. Original publication: https://aclanthology.org/2021.acl-long.219/. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+      "abstract_changes": "Complete existing official HTML abstract preserved byte-for-byte; typographic PDF differences disclosed separately.",
+      "abstract_permission_evidence": {
+        "source_url": "https://aclanthology.org/faq/copyright/",
+        "supporting_sources": [
+          "https://aclanthology.org/2021.acl-long.219/",
+          "https://aclanthology.org/2021.acl-long.219.pdf"
+        ],
+        "basis": "The official ACL Anthology copyright policy explicitly applies CC BY 4.0 to subsequent ACL materials as of 2016, including commercial use, excluding third-party materials. This exact ACL-IJCNLP 2021 Main article is linked by its official HTML to the bound final PDF, whose first page supplies author, proceedings and ACL copyright evidence. The intact text-only first page and complete authored Figure 1 schematic are assessed separately. This does not license underlying NCBI/BC5CDR corpora, MeSH/OMIM/MEDIC content, other external resources or unselected components.",
+        "policy_html_sha256": "75915e7752b73e8fc760f60bc11081c0bcb37fa6345d6037478eeecd2eba2454",
+        "publication_html_sha256": "170f6d986bbd9b5f62aa9146cf46a487a717f27487931fc8fbc914e8b73b2d53",
+        "source_pdf_sha256": "574fa3c3921c30cfca89b0902bbc7a3e6ea71c5168dd4720fc5e89439d6e28f2",
+        "official_html_has_abstract_body": true,
+        "abstract_matches_html_exactly": true
+      },
+      "abstract_sha256": "7ed7d2dc7554283354afdd9f4c8ef55bb8203070cb8c132ecb71cc6a42a87eee",
+      "abstract_source_pdf_sha256": "574fa3c3921c30cfca89b0902bbc7a3e6ea71c5168dd4720fc5e89439d6e28f2",
+      "abstract_verified_against_pdf": true,
+      "abstract_pdf_comparison": {
+        "same_after_typographic_normalization": true,
+        "substantive_wording_equal_after_disclosed_variant_normalization": true,
+        "baseline_body_byte_identical": true,
+        "exact_official_html_body_match": true,
+        "normalization": "NFKC expands ligatures; line-wrap hyphens are removed; whitespace is collapsed. Complete PDF abstract then equals the unchanged complete HTML body, including terminal period.",
+        "pdf_bbox_points": [
+          87,
+          245,
+          276,
+          616
+        ],
+        "comparison_note": "The already licensed original abstract is preserved byte-for-byte and exactly equals the complete official HTML abstract. The final PDF has the same wording and terminal period after disclosed line-wrap/ligature normalization, with no substantive variant or abstract footnote. Typographic normalization is used only for comparison, never to rewrite the stored original.",
+        "official_html_has_abstract_body": true,
+        "disclosed_variants": [
+          "PDF line wrapping and typographic ligatures differ from HTML; no substantive abstract wording or punctuation difference is established."
+        ]
+      },
+      "abstract_footnotes": [
+        {
+          "marker": "Catalogue reuse notice",
+          "text": "Catalogue-added notice, not part of the original abstract: Zongcheng Ji, Tian Xia, Mei Han, Jing Xiao. A Neural Transition-based Joint Model for Disease Named Entity Recognition and Normalization. Proceedings of ACL-IJCNLP 2021, Volume 1: Long Papers, pages 2819–2827. ©2021 Association for Computational Linguistics. Original publication: https://aclanthology.org/2021.acl-long.219/. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Complete official HTML abstract, baseline bytes unchanged. No endorsement implied.",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "source_url": "https://aclanthology.org/2021.acl-long.219/"
+        }
+      ],
+      "source_html_sha256": "170f6d986bbd9b5f62aa9146cf46a487a717f27487931fc8fbc914e8b73b2d53",
+      "source_pdf_sha256": "574fa3c3921c30cfca89b0902bbc7a3e6ea71c5168dd4720fc5e89439d6e28f2",
+      "source_checked_at": "2026-10-24",
+      "first_page": "assets/acl-reviewed-20261024-0031/2021.acl-long.219-firstpage.webp",
+      "first_page_source": "https://aclanthology.org/2021.acl-long.219.pdf",
+      "first_page_license": "CC-BY-4.0",
+      "first_page_license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "first_page_permission_status": "cleared",
+      "first_page_attribution": "Zongcheng Ji, Tian Xia, Mei Han, Jing Xiao. A Neural Transition-based Joint Model for Disease Named Entity Recognition and Normalization. Proceedings of ACL-IJCNLP 2021, Volume 1: Long Papers, pages 2819–2827. ©2021 Association for Computational Linguistics. Original publication: https://aclanthology.org/2021.acl-long.219/. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+      "first_page_changes": "Entire official PDF first page rasterized at 144 dpi to lossless WebP. Retains title, all four authors, both numbered affiliation units and contact block, complete abstract, introduction and proceedings/copyright footer. No content removed.",
+      "first_page_sha256": "3edca8004d0243522d6872daba334c3e209810023f10b6e06344fb7060d55038",
+      "first_page_dimensions": [
+        1191,
+        1684
+      ],
+      "main_figure": {
+        "path": "assets/acl-reviewed-20261024-0031/2021.acl-long.219-figure1.webp",
+        "label": "Figure 1",
+        "type": "figure",
+        "source_url": "https://aclanthology.org/2021.acl-long.219.pdf",
+        "publication_url": "https://aclanthology.org/2021.acl-long.219/",
+        "page": 5,
+        "version": "publisher_final_pdf",
+        "source_pdf_sha256": "574fa3c3921c30cfca89b0902bbc7a3e6ea71c5168dd4720fc5e89439d6e28f2",
+        "asset_sha256": "1290131ef3bf32ffaa1ac6f39b78aa8c40214bee8b82e762a7c269a91779ff8c",
+        "crop_rect_points": [
+          72,
+          64,
+          528,
+          282
+        ],
+        "selection_rationale": "Complete Figure 1 directly explains both architectural contributions: recognition actions using shared transition-state representations and normalization actions using candidate-aware local attention and mention–concept CoAttention. Both panels, formulas, action labels, illustrative tokens, panel descriptions and the full caption are retained. Table 1 defines transitions but omits the neural attention representation; Table 2 demonstrates one transition sequence; Tables 3–4 provide dataset/hyperparameter context; Tables 5–7 provide overall, search and attention comparisons. All alternatives were visually inspected. Figure 1 is selected for mechanism coverage, not to cherry-pick a result. Only this new exact crop and the intact first page are cleared, not any historical file or every unselected component.",
+        "caption": "Figure 1: State representations for predicting actions in different purposes (i.e., recognition and normalization).",
+        "display_caption": "Figure 1: State representations for predicting actions in different purposes (i.e., recognition and normalization).",
+        "caption_in_image": true,
+        "license": "CC-BY-4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "permission_status": "cleared",
+        "attribution": "Zongcheng Ji, Tian Xia, Mei Han, Jing Xiao. A Neural Transition-based Joint Model for Disease Named Entity Recognition and Normalization. Proceedings of ACL-IJCNLP 2021, Volume 1: Long Papers, pages 2819–2827. ©2021 Association for Computational Linguistics. Original publication: https://aclanthology.org/2021.acl-long.219/. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+        "changes": "Complete Figure 1, both panels, all formulas, labels, illustrative tokens, panel descriptions and full caption cropped from physical PDF page 5 and rasterized at 288 dpi to lossless WebP. Only unrelated surrounding material excluded.",
+        "visually_inspected": true
+      },
+      "main_figure_permission_status": "cleared",
+      "main_figure_status": "core_contribution_figure_visually_inspected",
+      "figure_selection_verified": true,
+      "media_rights_review": {
+        "first_page": {
+          "status": "cleared",
+          "asset_path": "assets/acl-reviewed-20261024-0031/2021.acl-long.219-firstpage.webp",
+          "asset_sha256": "3edca8004d0243522d6872daba334c3e209810023f10b6e06344fb7060d55038",
+          "source_url": "https://aclanthology.org/2021.acl-long.219.pdf",
+          "source_pdf_sha256": "574fa3c3921c30cfca89b0902bbc7a3e6ea71c5168dd4720fc5e89439d6e28f2",
+          "source_page": 1,
+          "publication_url": "https://aclanthology.org/2021.acl-long.219/",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "attribution": "Zongcheng Ji, Tian Xia, Mei Han, Jing Xiao. A Neural Transition-based Joint Model for Disease Named Entity Recognition and Normalization. Proceedings of ACL-IJCNLP 2021, Volume 1: Long Papers, pages 2819–2827. ©2021 Association for Computational Linguistics. Original publication: https://aclanthology.org/2021.acl-long.219/. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+          "changes": "Entire official PDF first page rasterized at 144 dpi to lossless WebP. Retains title, all four authors, both numbered affiliation units and contact block, complete abstract, introduction and proceedings/copyright footer. No content removed.",
+          "evidence_url": "https://aclanthology.org/faq/copyright/",
+          "scope": "exact_first_page",
+          "embedded_materials_review": "The genuine complete first-page raster was visually inspected. It contains the title, all four authors, both numbered affiliation units, original contact block, complete abstract, introduction, page 2819 and proceedings/copyright footer. It is a text-only scholarly page with no figure, table, patient narrative or clinical image. No externally credited illustration, reproduced third-party passage, individual clinical record or contrary component-specific notice is established. The full page remains intact; no text is sanitized or reconstructed. Its scholarly discussion of vocabularies and cited methods does not grant rights to those external resources.",
+          "reviewed_at": "2026-10-24",
+          "evidence_basis": "The official ACL Anthology copyright policy explicitly applies CC BY 4.0 to subsequent ACL materials as of 2016, including commercial use, excluding third-party materials. This exact ACL-IJCNLP 2021 Main article is linked by its official HTML to the bound final PDF, whose first page supplies author, proceedings and ACL copyright evidence. The intact text-only first page and complete authored Figure 1 schematic are assessed separately. This does not license underlying NCBI/BC5CDR corpora, MeSH/OMIM/MEDIC content, other external resources or unselected components.",
+          "evidence_urls": [
+            "https://aclanthology.org/2021.acl-long.219/",
+            "https://aclanthology.org/2021.acl-long.219.pdf",
+            "https://aclanthology.org/faq/copyright/",
+            "https://creativecommons.org/licenses/by/4.0/"
+          ]
+        },
+        "main_figure": {
+          "status": "cleared",
+          "asset_path": "assets/acl-reviewed-20261024-0031/2021.acl-long.219-figure1.webp",
+          "asset_sha256": "1290131ef3bf32ffaa1ac6f39b78aa8c40214bee8b82e762a7c269a91779ff8c",
+          "source_url": "https://aclanthology.org/2021.acl-long.219.pdf",
+          "source_pdf_sha256": "574fa3c3921c30cfca89b0902bbc7a3e6ea71c5168dd4720fc5e89439d6e28f2",
+          "source_page": 5,
+          "publication_url": "https://aclanthology.org/2021.acl-long.219/",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "attribution": "Zongcheng Ji, Tian Xia, Mei Han, Jing Xiao. A Neural Transition-based Joint Model for Disease Named Entity Recognition and Normalization. Proceedings of ACL-IJCNLP 2021, Volume 1: Long Papers, pages 2819–2827. ©2021 Association for Computational Linguistics. Original publication: https://aclanthology.org/2021.acl-long.219/. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+          "changes": "Complete Figure 1, both panels, all formulas, labels, illustrative tokens, panel descriptions and full caption cropped from physical PDF page 5 and rasterized at 288 dpi to lossless WebP. Only unrelated surrounding material excluded.",
+          "evidence_url": "https://aclanthology.org/faq/copyright/",
+          "scope": "exact_main_figure",
+          "embedded_materials_review": "Complete Figure 1 is the authors’ two-panel methodological schematic: recognition state with stack/buffer/action history, and normalization state with local-context attention, mention–concept CoAttention, pooling and linking. It includes isolated illustrative tokens Most/colon/cancers/arise/from, the concept label Colon Neoplasm, MeSH identifier D003110, and NIL. The text and identifier directly explain the model; the related full example is described in Table 2 without an external sentence attribution. No synthetic origin is asserted. No identifiable external artwork, reproduced narrative, database definition, patient record or contrary notice is established in this component. Article-grant coverage is specific to this complete authored analytical schematic, not an upstream sentence/corpus/MeSH grant or a general short-text exemption. Coverage is not premised on identifying a separate individual artist. The printed MaxPoding label and source formulas remain unchanged.",
+          "reviewed_at": "2026-10-24",
+          "evidence_basis": "The official ACL Anthology copyright policy explicitly applies CC BY 4.0 to subsequent ACL materials as of 2016, including commercial use, excluding third-party materials. This exact ACL-IJCNLP 2021 Main article is linked by its official HTML to the bound final PDF, whose first page supplies author, proceedings and ACL copyright evidence. The intact text-only first page and complete authored Figure 1 schematic are assessed separately. This does not license underlying NCBI/BC5CDR corpora, MeSH/OMIM/MEDIC content, other external resources or unselected components.",
+          "evidence_urls": [
+            "https://aclanthology.org/2021.acl-long.219/",
+            "https://aclanthology.org/2021.acl-long.219.pdf",
+            "https://aclanthology.org/faq/copyright/",
+            "https://creativecommons.org/licenses/by/4.0/"
+          ]
+        }
+      },
+      "historical_component_evidence": [
+        {
+          "id": "2021.acl-long.219",
+          "baseline_source_commit": "8e2016b4a600569919c3e25f23f9e0b06c81bd59",
+          "baseline_record_sha256": "0a01753ebbd5e31940cb6fa822f8b31d7b0c7b873c0902088558db9430aea2a5",
+          "prior_record_fields": {
+            "first_page": "assets/acl2021/2021.acl-long.219-firstpage.webp",
+            "main_figure": {
+              "source_url": "https://aclanthology.org/2021.acl-long.219.pdf",
+              "page": 5,
+              "status": "verified_official_pdf_crop_visually_inspected",
+              "label": "Figure 1",
+              "selection_rationale": "Shows the shared state representations and distinct recognition/normalization actions of the joint transition model.",
+              "display_caption": "Figure 1 (page 5).",
+              "path": "assets/acl2021/2021.acl-long.219-mainfigure.webp",
+              "license": "CC-BY-4.0",
+              "license_url": "https://creativecommons.org/licenses/by/4.0/",
+              "changes": "Cropped and resized from the original PDF."
+            },
+            "media_display_permissions": {
+              "first_page": {
+                "status": "hold",
+                "reason": "scoped_positive_review_missing",
+                "asset_path": "assets/acl2021/2021.acl-long.219-firstpage.webp",
+                "asset_sha256": "a1683e599df9f2ea9f2f463d23fc11d50af2c5eb1dabff12bc9bee5b6d2c27d4"
+              },
+              "main_figure": {
+                "status": "hold",
+                "reason": "source_or_attribution_missing",
+                "asset_path": "assets/acl2021/2021.acl-long.219-mainfigure.webp",
+                "asset_sha256": "467f40a407a03fa0efc9e1eb4366647b85bba9fa17fc7ab3ccaed5c820996d75"
+              }
+            },
+            "metadata_ready": false
+          },
+          "actual_baseline_guard_decisions": {
+            "first_page": {
+              "status": "hold",
+              "reason": "scoped_positive_review_missing",
+              "asset_path": "assets/acl2021/2021.acl-long.219-firstpage.webp",
+              "asset_sha256": "a1683e599df9f2ea9f2f463d23fc11d50af2c5eb1dabff12bc9bee5b6d2c27d4"
+            },
+            "main_figure": {
+              "status": "hold",
+              "reason": "source_or_attribution_missing",
+              "asset_path": "assets/acl2021/2021.acl-long.219-mainfigure.webp",
+              "asset_sha256": "467f40a407a03fa0efc9e1eb4366647b85bba9fa17fc7ab3ccaed5c820996d75"
+            }
+          },
+          "earlier_specific_finding": "Historical first-page scoped_positive_review_missing and old Figure 1 source_or_attribution_missing decisions are preserved verbatim; no contrary notice is invented.",
+          "current_unselected_component_finding": "Only the newly rendered full first page and new complete Figure 1 crop receive exact component assessment. Historical Figure 1 remains HOLD despite depicting the same named figure; bytes and paths differ. No other component or external resource receives blanket clearance.",
+          "preservation": "Both exact old files, hashes and decisions stay unchanged; the new first page and Figure 1 use distinct paths and bytes."
+        }
+      ],
+      "illustrated_profile": true,
+      "metadata_ready": true,
+      "core_complete": true,
+      "profile_status": "Complete unchanged original HTML abstract, genuine full first page, complete Figure 1, all printed authors and first numbered unit verified; historical files/HOLDs preserved.",
+      "profile_verified_at": "2026-10-24",
+      "metadata_blockers": [],
+      "profile_caveats": [
+        "This is an existing ACL-IJCNLP 2021 Main long-paper record focused on biomedical disease recognition and normalization. Eligibility fields are unchanged. No new-paper, scientific-reading or newly licensed abstract credit is claimed.",
+        "The printed PDF and official HTML agree on Zongcheng Ji, Tian Xia, Mei Han, Jing Xiao in that order. The first three carry marker 1, PAII Inc., Palo Alto, CA, USA; Jing Xiao carries marker 2, Ping An Technology, Shenzhen, China. No equal-contribution, co-first, corresponding-author or senior-author designation is printed. Contact addresses do not establish those roles.",
+        "The already licensed original abstract is preserved byte-for-byte and exactly equals the complete official HTML abstract. The final PDF has the same wording and terminal period after disclosed line-wrap/ligature normalization, with no substantive variant or abstract footnote. Typographic normalization is used only for comparison, never to rewrite the stored original.",
+        "NeuJoRN represents words using a character CNN, GloVe and ELMo, followed by BiLSTM; stack and action history use StackLSTM. OUT, SHIFT, REDUCE and SEGMENT-t support recognition, while LINKING-c supports normalization. Candidate-aware context attention and mention–concept CoAttention inform linking. BERT is explicitly left for future work, not an evaluated backbone.",
+        "Inputs are sentences plus a controlled vocabulary, though evaluation includes abstract-level normalization. NCBI is reported as 792 PubMed abstracts, with 692 combined training/development and 100 test; BC5CDR has 1,500 abstracts equally split across training/development/test. Table 3 reports 6,881/12,852 mentions and 1,049/5,818 concepts. These are source-reported corpus statistics, not independently re-counted unique concepts or patient cohorts.",
+        "The official NCBI Disease Corpus page, captured on 2026-10-24 and marked revised August 27, 2013, lists 793 PubMed abstracts, 6,892 disease mentions and 790 unique disease concepts. This paper instead reports 792 abstracts, 6,881 mentions and 1,049 concepts in Table 3. Both source statistics are retained. No filtering, deduplication, version or count-definition explanation is established, and the paper’s concepts column is not assumed equivalent to the official unique-concept count. Official source: https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/.",
+        "The study uses the July 6, 2012 MEDIC vocabulary: 7,827 MeSH identifiers and 4,004 OMIM identifiers grouped into 9,664 disease concepts. Spelling correction, Ab3p and Wikipedia-derived abbreviation expansion, and numeric-synonym normalization precede Lucene BM25 retrieval over concept names and training mentions. Only the top 10 concepts are candidate linking actions. Candidate-retrieval recall and open-world vocabulary coverage are not separately reported.",
+        "Recognition F1 is evaluated at the mention level; normalization F1 is evaluated at the abstract level using the cited BioCreative evaluation kit. These scores must not be described as per-mention entity-linking accuracy, calibrated clinical confidence or patient-level diagnosis. NIL is defined for unlinkable mentions, but no separate NIL/open-set benchmark is reported.",
+        "Table 5 reports NeuJoRN versus MTL-feedback on NCBI recognition/normalization 88.57/88.82 versus 87.43/88.23, and BC5CDR 88.19/89.86 versus 87.62/89.17. The absolute gains are 1.14/0.59 and 0.57/0.69 percentage points, not relative percentages. These are comparisons with the paper’s selected 2021-era baselines, not a current-state-of-the-art claim.",
+        "Table 6 evaluates greedy and beam search with beam sizes 1, 2 and 4 only. Beam 4 is best among these tested settings. Greedy uses local negative-log-likelihood training, while beam uses Beam-Search Optimization with LaSO and max-margin loss; the comparison does not isolate search width from objective/training changes. Greedy is below MTL-feedback on all four reported metrics. The stated larger-beam speed tradeoff has no measured runtime/latency table.",
+        "Table 7’s complete beam-4 baseline is 88.57/88.82 and 88.19/89.86 on NCBI and BC5CDR recognition/normalization. Removing local-context attention gives 88.27/88.68 and 88.03/89.64; removing CoAttention gives 86.73/87.79 and 87.29/88.53. CoAttention removal has the larger drops in this setting, but the paper gives no confidence intervals, variance, seed counts or identified statistical test; its word “significantly” is not proof of statistical significance.",
+        "The proposed joint decoding addresses separate-search boundary inconsistency, but the experiments do not separately quantify boundary-inconsistency error rates or prove all recognition/linking errors are eliminated. Candidate limitations, annotation assumptions and preprocessing remain material dependencies. No clinical efficacy, diagnostic, safety, fairness or prospective deployment study is presented; clinical notes, drug labels and tweets are explicitly future work.",
+        "The full first page is an intact text-only publication raster. Complete Figure 1 includes short illustrative input tokens and a concept label/identifier within the authors’ model explanation; neither synthetic provenance nor a corpus/MeSH license is inferred. Both exact new assets are independently assessed under the article grant, and both historical files and HOLD decisions remain unchanged. Unselected components, datasets, vocabularies, code and pretrained resources receive no new clearance."
+      ],
+      "new_paper_credit": 0,
+      "new_abstract_read_credit": 0,
+      "new_full_paper_read_credit": 0,
+      "newly_licensed_abstract_credit": 0
+    },
+    "unset": [
+      "media_display_permissions"
+    ]
+  }
+]
