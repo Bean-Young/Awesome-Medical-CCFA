@@ -1,0 +1,111 @@
+{
+  "independent_approved_at": "2026-10-24T00:51:48Z",
+  "approval_scope": "Exact AMR489 frozen subset and final wrapper approved as recovery evidence only. No source integration authority even if capacity changes. This is not a saved Site version, published profile or completion-count increment.",
+  "integration_authorized": false,
+  "integration_status": "REVIEWED_UNINTEGRATED_RECOVERY_ONLY",
+  "blocker": {
+    "target": "Existing saved v335 catalogue data payload",
+    "action_not_attempted": "Integrate this recovery-only profile or create a new saved Site version",
+    "reason": "Recovery-only authorization and exact guard-inclusive projected raw bytes exceeding the unchanged cap.",
+    "projected_raw_bytes": 33565424,
+    "raw_cap_bytes": 33554432,
+    "excess_bytes": 10992,
+    "outcome": "Known not executed. No source, save, GitHub or deployment write attempted by this worker.",
+    "evidence_reduced": false,
+    "cap_changed": false
+  },
+  "saved_baseline_counts": {
+    "papers": 2008,
+    "complete_profiles": 999,
+    "licensed_original_abstracts": 1521
+  },
+  "reviewed_files": {
+    "README.md": "b7b037a7d868d9c650081c937dab97da94b85aa743c332afbf20a4a48d12be53",
+    "guard_validation.json": "2b07ce92caf45ba05489e74dbbc77f3cb62705b5b6675ab7ba7d345564310896",
+    "patch_manifest.json": "af23f5dc8dc97fc37b2b875a51fc52c88dfe882b2961e4f790894e3649010a1d",
+    "reviewed_migration_patches.json": "f32eb2f2f0576a8ea35982247061f988fd86b88145b9a3067752817fd7c5bfd0",
+    "sanitized_evidence.json": "8554e29d84c96f8c18c9c65d301fbc328ecf1081d89e86a4c4aacb31b669f959"
+  },
+  "subsets": [
+    {
+      "id": "2021.acl-long.489",
+      "approved_at": "2026-10-24T00:51:22Z",
+      "patch_sha256": "f32eb2f2f0576a8ea35982247061f988fd86b88145b9a3067752817fd7c5bfd0",
+      "freeze_manifest_sha256": "a58457d6e71b5be7eab6b8cddf936089a79af5cec1bf3c390ded0dac8fff2864"
+    }
+  ],
+  "independent_checks": [
+    "Official PDF/HTML/policy hashes, unchanged full HTML abstract and disclosed PDF footnote",
+    "Printed six-author byline, Ahmed S. Elsayed versus HTML variant and first UIUC unit",
+    "Actual full first page with aggregate Table 1 and complete Figure 2 with scoped original-method context",
+    "Independent encoded-byte and decoded-pixel rerenders",
+    "Preserved prevalidation draft and exact single-caveat source-faithful Table3 correction",
+    "Source ontology counts, learning-rate contradictions and distinct evaluation settings",
+    "Canonical complete preimage, exact approved subset equality, field/asset allowlists",
+    "Two asset SHA bindings, historical files/HOLDs and unchanged guard/core",
+    "Actual merged detail renderer, five-file privacy/no-email scan and frozen byte identity"
+  ],
+  "recovery_reconciliation": {
+    "environment_restart_occurred_before_first_freeze": true,
+    "active_baseline_reverified_after_restart": true,
+    "post_restart_rerender_and_renderer_reexecuted": true,
+    "source_adjudication_at": "2026-10-24T00:48:53Z",
+    "prevalidation_delta_sha256": "4fe8ad44a9adca4c131c7b6a66899afb7dec41e280ed36dba88980992915371b",
+    "before_correction_patch_sha256": "da2b8e4b50fc41c22ce159f39d16edf8562875a932a304d577ac6e015eed0d37",
+    "corrected_field": "profile_caveats[7] and its duplicate evidence text",
+    "assets_rights_original_abstract_unchanged": true
+  },
+  "payload_projection": {
+    "baseline_source_version": "v335",
+    "baseline_source_commit": "8e2016b4a600569919c3e25f23f9e0b06c81bd59",
+    "baseline_raw_bytes": 33525875,
+    "baseline_gzip9_mtime0_bytes": 5585480,
+    "projected_raw_bytes": 33565424,
+    "projected_gzip9_mtime0_bytes": 5594373,
+    "projected_papers_sha256": "4e35de15c61654157706f8a9b61f1a47c3c650665d979d9eeaa2c3804e4d73d4",
+    "projected_gzip_sha256": "4c534a177b99b1ed9265ac1f2c898727742a6fba0a1fdf649e978cb3a535423e",
+    "raw_byte_growth": 39549,
+    "raw_cap_bytes": 33554432,
+    "remaining_raw_headroom_bytes": -10992,
+    "integration_eligible_under_raw_cap": false,
+    "expected_counts": {
+      "papers": 2008,
+      "core_ready": 1000,
+      "licensed_original_abstracts": 1521
+    },
+    "new_source_derived_asset_files": 2,
+    "existing_files_newly_cleared": 0,
+    "licensed_abstract_increment": 0,
+    "serializer": "UTF-8 compact json.dumps ensure_ascii=False separators comma/colon plus final newline; unchanged guard recomputed for patched records only."
+  },
+  "delivery_archives": {
+    "public_audit.zip": {
+      "sha256": "fdecb2b848cd64f8a0e1a0c8b7f6613eba3fda35f66896cffca664f4190c2ca6",
+      "bytes": 30156,
+      "file_count": 5
+    },
+    "asset_bundle.zip": {
+      "sha256": "e60df8d99abde44bda925b8325ec28a6329321f490f5bd8ed262d4c247a60210",
+      "bytes": 239947,
+      "file_count": 2
+    }
+  },
+  "approved_wrapper_bytes_unchanged": true,
+  "receipt_recorded_outside_wrapper": true,
+  "source_written": false,
+  "github_written": false,
+  "saved_site_version_created": false,
+  "published": false,
+  "saved_complete_profile_increment": 0,
+  "new_paper_credit": 0,
+  "new_abstract_read_credit": 0,
+  "new_full_paper_read_credit": 0,
+  "licensed_original_abstract_increment": 0,
+  "existing_files_newly_cleared": 0,
+  "further_batch_started": false,
+  "public_backup_note": "Neutral public handoff wording replaces internal coordination wording in README and manifest only. Original reviewed hashes remain original identities; public derivative hashes are separate.",
+  "public_derivative_sha256": {
+    "README.md": "c08fcbbda38dc20aed9b7e09004ed9e715400d8b90ed00d6426c54049aca870b",
+    "patch_manifest.json": "44de00f21b9c08e564608c445950ea37b09578aeb35066d15c21720ec81696d3"
+  }
+}
