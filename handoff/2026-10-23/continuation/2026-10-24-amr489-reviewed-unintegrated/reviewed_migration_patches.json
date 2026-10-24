@@ -1,0 +1,492 @@
+[
+  {
+    "id": "2021.acl-long.489",
+    "expected_baseline_record_sha256": "19e94ff6fce77b1041e085bae877454c818be6478a79312a0f51d580d4fbe317",
+    "set": {
+      "authors": [
+        "Zixuan Zhang",
+        "Nikolaus Parulian",
+        "Heng Ji",
+        "Ahmed S. Elsayed",
+        "Skatje Myers",
+        "Martha Palmer"
+      ],
+      "authors_verified": true,
+      "authors_status": "verified_printed_pdf_with_disclosed_official_html_variant",
+      "authors_pdf": [
+        "Zixuan Zhang",
+        "Nikolaus Parulian",
+        "Heng Ji",
+        "Ahmed S. Elsayed",
+        "Skatje Myers",
+        "Martha Palmer"
+      ],
+      "authors_official_html": [
+        "Zixuan Zhang",
+        "Nikolaus Parulian",
+        "Heng Ji",
+        "Ahmed Elsayed",
+        "Skatje Myers",
+        "Martha Palmer"
+      ],
+      "authors_source": "https://aclanthology.org/2021.acl-long.489.pdf",
+      "authors_source_page": 1,
+      "authors_source_sha256": "e3e0c0b90f422585c3c8ef1a115313f5adf1acbd3a88e0ba044b52080cf7eda6",
+      "first_author": "Zixuan Zhang",
+      "first_institution": "University of Illinois at Urbana-Champaign",
+      "first_institution_display": "University of Illinois at Urbana-Champaign",
+      "first_institution_display_basis": "Exact first university unit printed for the first author; normalization does not modernize or abbreviate the source name.",
+      "first_institution_raw": "University of Illinois at Urbana-Champaign",
+      "first_institution_verified": true,
+      "first_institution_source": "https://aclanthology.org/2021.acl-long.489.pdf",
+      "first_institution_evidence": {
+        "author": "Zixuan Zhang",
+        "source_url": "https://aclanthology.org/2021.acl-long.489.pdf",
+        "source_page": 1,
+        "source_pdf_sha256": "e3e0c0b90f422585c3c8ef1a115313f5adf1acbd3a88e0ba044b52080cf7eda6",
+        "superscripts": [
+          "1"
+        ],
+        "selected_first_unit": "1",
+        "printed_first_affiliation": "University of Illinois at Urbana-Champaign",
+        "normalized_organization": "University of Illinois at Urbana-Champaign",
+        "method": "Direct visual mapping of Zixuan Zhang’s superscript 1 to the complete first printed university unit; no department, organization or contribution role is inferred."
+      },
+      "first_author_affiliation_as_printed": "University of Illinois at Urbana-Champaign",
+      "affiliations": [
+        {
+          "author": "Zixuan Zhang",
+          "affiliations": [
+            "University of Illinois at Urbana-Champaign"
+          ],
+          "source_page": 1,
+          "source_url": "https://aclanthology.org/2021.acl-long.489.pdf"
+        },
+        {
+          "author": "Nikolaus Parulian",
+          "affiliations": [
+            "University of Illinois at Urbana-Champaign"
+          ],
+          "source_page": 1,
+          "source_url": "https://aclanthology.org/2021.acl-long.489.pdf"
+        },
+        {
+          "author": "Heng Ji",
+          "affiliations": [
+            "University of Illinois at Urbana-Champaign"
+          ],
+          "source_page": 1,
+          "source_url": "https://aclanthology.org/2021.acl-long.489.pdf"
+        },
+        {
+          "author": "Ahmed S. Elsayed",
+          "affiliations": [
+            "University of Colorado Boulder"
+          ],
+          "source_page": 1,
+          "source_url": "https://aclanthology.org/2021.acl-long.489.pdf"
+        },
+        {
+          "author": "Skatje Myers",
+          "affiliations": [
+            "University of Colorado Boulder"
+          ],
+          "source_page": 1,
+          "source_url": "https://aclanthology.org/2021.acl-long.489.pdf"
+        },
+        {
+          "author": "Martha Palmer",
+          "affiliations": [
+            "University of Colorado Boulder"
+          ],
+          "source_page": 1,
+          "source_url": "https://aclanthology.org/2021.acl-long.489.pdf"
+        }
+      ],
+      "author_affiliations": [
+        {
+          "author": "Zixuan Zhang",
+          "affiliations": [
+            "University of Illinois at Urbana-Champaign"
+          ],
+          "source_page": 1,
+          "source_url": "https://aclanthology.org/2021.acl-long.489.pdf"
+        },
+        {
+          "author": "Nikolaus Parulian",
+          "affiliations": [
+            "University of Illinois at Urbana-Champaign"
+          ],
+          "source_page": 1,
+          "source_url": "https://aclanthology.org/2021.acl-long.489.pdf"
+        },
+        {
+          "author": "Heng Ji",
+          "affiliations": [
+            "University of Illinois at Urbana-Champaign"
+          ],
+          "source_page": 1,
+          "source_url": "https://aclanthology.org/2021.acl-long.489.pdf"
+        },
+        {
+          "author": "Ahmed S. Elsayed",
+          "affiliations": [
+            "University of Colorado Boulder"
+          ],
+          "source_page": 1,
+          "source_url": "https://aclanthology.org/2021.acl-long.489.pdf"
+        },
+        {
+          "author": "Skatje Myers",
+          "affiliations": [
+            "University of Colorado Boulder"
+          ],
+          "source_page": 1,
+          "source_url": "https://aclanthology.org/2021.acl-long.489.pdf"
+        },
+        {
+          "author": "Martha Palmer",
+          "affiliations": [
+            "University of Colorado Boulder"
+          ],
+          "source_page": 1,
+          "source_url": "https://aclanthology.org/2021.acl-long.489.pdf"
+        }
+      ],
+      "affiliations_status": "verified_official_pdf",
+      "affiliations_source": "https://aclanthology.org/2021.acl-long.489.pdf",
+      "affiliations_evidence": {
+        "source_url": "https://aclanthology.org/2021.acl-long.489.pdf",
+        "source_page": 1,
+        "source_pdf_sha256": "e3e0c0b90f422585c3c8ef1a115313f5adf1acbd3a88e0ba044b52080cf7eda6",
+        "printed_units": {
+          "1": "University of Illinois at Urbana-Champaign",
+          "2": "University of Colorado Boulder"
+        },
+        "author_markers": [
+          {
+            "author": "Zixuan Zhang",
+            "affiliation_markers": [
+              "1"
+            ],
+            "equal_contribution": false,
+            "corresponding": false
+          },
+          {
+            "author": "Nikolaus Parulian",
+            "affiliation_markers": [
+              "1"
+            ],
+            "equal_contribution": false,
+            "corresponding": false
+          },
+          {
+            "author": "Heng Ji",
+            "affiliation_markers": [
+              "1"
+            ],
+            "equal_contribution": false,
+            "corresponding": false
+          },
+          {
+            "author": "Ahmed S. Elsayed",
+            "affiliation_markers": [
+              "2"
+            ],
+            "equal_contribution": false,
+            "corresponding": false
+          },
+          {
+            "author": "Skatje Myers",
+            "affiliation_markers": [
+              "2"
+            ],
+            "equal_contribution": false,
+            "corresponding": false
+          },
+          {
+            "author": "Martha Palmer",
+            "affiliation_markers": [
+              "2"
+            ],
+            "equal_contribution": false,
+            "corresponding": false
+          }
+        ],
+        "marker_note": "Numeric 1/2 markers map affiliations only. No contribution or correspondence marker is printed."
+      },
+      "equal_contribution_authors": [],
+      "co_first_authors": [],
+      "corresponding_authors": [],
+      "authors_equal_contribution": {
+        "authors": [],
+        "finding": "No equal-contribution statement printed or inferred."
+      },
+      "senior_authorship_authors": [],
+      "author_order_evidence": {
+        "source_url": "https://aclanthology.org/2021.acl-long.489.pdf",
+        "source_page": 1,
+        "official_html_url": "https://aclanthology.org/2021.acl-long.489/",
+        "finding": "The PDF prints Zixuan Zhang, Nikolaus Parulian, Heng Ji, Ahmed S. Elsayed, Skatje Myers, Martha Palmer in this order. Official HTML and baseline omit the middle initial in Ahmed Elsayed; the visible byline uses the exact printed PDF form and separately preserves the HTML variant. The first three authors carry affiliation marker 1, University of Illinois at Urbana-Champaign; the last three carry marker 2, University of Colorado Boulder. No equal-contribution, co-first, corresponding-author or senior-author designation is printed. Contact addresses do not establish those roles.",
+        "disclosed_author_variant": {
+          "printed_pdf": "Ahmed S. Elsayed",
+          "official_html_and_baseline": "Ahmed Elsayed"
+        }
+      },
+      "co_first_author_evidence": {
+        "source_url": "https://aclanthology.org/2021.acl-long.489.pdf",
+        "source_page": 1,
+        "finding": "Numbered affiliations and contact addresses are not co-first, correspondence or senior-author evidence."
+      },
+      "summary": "本文针对生物医学文献中长距离事件论元与领域知识缺口，将句子 AMR 语义图和来自 Comparative Toxicogenomics Database 的知识图融合，再用 BioBERT 表示与边条件图注意力网络抽取实体、触发词及事件论元。完整图 2 展示知识检索、图融合和信息传递的全流程。在 GENIA 2011 主测试比较中，BERT-Flat、BERT-AMR 与完整模型的 F1 分别为 58.25、60.09、63.04，即加入 AMR 和外部知识分别增加 1.84、2.95 个百分点；完整模型仅比 DeepEM 的 63.02 高 0.02 个百分点。另建的 COVID-19 文献集来自 186 篇文章、12,916 个句子，但该实验只评测实体和事件触发词，不包含论元角色。证据来自文献抽取基准，不证明临床诊疗收益。",
+      "summary_zh": "本文针对生物医学文献中长距离事件论元与领域知识缺口，将句子 AMR 语义图和来自 Comparative Toxicogenomics Database 的知识图融合，再用 BioBERT 表示与边条件图注意力网络抽取实体、触发词及事件论元。完整图 2 展示知识检索、图融合和信息传递的全流程。在 GENIA 2011 主测试比较中，BERT-Flat、BERT-AMR 与完整模型的 F1 分别为 58.25、60.09、63.04，即加入 AMR 和外部知识分别增加 1.84、2.95 个百分点；完整模型仅比 DeepEM 的 63.02 高 0.02 个百分点。另建的 COVID-19 文献集来自 186 篇文章、12,916 个句子，但该实验只评测实体和事件触发词，不包含论元角色。证据来自文献抽取基准，不证明临床诊疗收益。",
+      "summary_en": "The study fuses sentence AMR with an external biomedical knowledge graph and applies BioBERT representations plus edge-conditioned graph attention for biomedical entity, trigger and event-argument extraction. Complete Figure 2 explains the pipeline. GENIA main-test F1 improves from 58.25 to 60.09 to 63.04 across flat, AMR and enriched models; the separate COVID-19 experiment evaluates entities and triggers only, not complete events or clinical outcomes.",
+      "summary_language": "zh-CN",
+      "introduction_zh": "本文针对生物医学文献中长距离事件论元与领域知识缺口，将句子 AMR 语义图和来自 Comparative Toxicogenomics Database 的知识图融合，再用 BioBERT 表示与边条件图注意力网络抽取实体、触发词及事件论元。完整图 2 展示知识检索、图融合和信息传递的全流程。在 GENIA 2011 主测试比较中，BERT-Flat、BERT-AMR 与完整模型的 F1 分别为 58.25、60.09、63.04，即加入 AMR 和外部知识分别增加 1.84、2.95 个百分点；完整模型仅比 DeepEM 的 63.02 高 0.02 个百分点。另建的 COVID-19 文献集来自 186 篇文章、12,916 个句子，但该实验只评测实体和事件触发词，不包含论元角色。证据来自文献抽取基准，不证明临床诊疗收益。",
+      "contribution_introduction_zh": "本文针对生物医学文献中长距离事件论元与领域知识缺口，将句子 AMR 语义图和来自 Comparative Toxicogenomics Database 的知识图融合，再用 BioBERT 表示与边条件图注意力网络抽取实体、触发词及事件论元。完整图 2 展示知识检索、图融合和信息传递的全流程。在 GENIA 2011 主测试比较中，BERT-Flat、BERT-AMR 与完整模型的 F1 分别为 58.25、60.09、63.04，即加入 AMR 和外部知识分别增加 1.84、2.95 个百分点；完整模型仅比 DeepEM 的 63.02 高 0.02 个百分点。另建的 COVID-19 文献集来自 186 篇文章、12,916 个句子，但该实验只评测实体和事件触发词，不包含论元角色。证据来自文献抽取基准，不证明临床诊疗收益。",
+      "summary_source": "https://aclanthology.org/2021.acl-long.489.pdf",
+      "summary_zh_source": "https://aclanthology.org/2021.acl-long.489.pdf",
+      "summary_method": "Independent contribution paraphrase with source-specific protocol/results caveats; no new scientific-reading credit.",
+      "abstract": "Biomedical Information Extraction from scientific literature presents two unique and non-trivial challenges. First, compared with general natural language texts, sentences from scientific papers usually possess wider contexts between knowledge elements. Moreover, comprehending the fine-grained scientific entities and events urgently requires domain-specific background knowledge. In this paper, we propose a novel biomedical Information Extraction (IE) model to tackle these two challenges and extract scientific entities and events from English research papers. We perform Abstract Meaning Representation (AMR) to compress the wide context to uncover a clear semantic structure for each complex sentence. Besides, we construct the sentence-level knowledge graph from an external knowledge base and use it to enrich the AMR graph to improve the model’s understanding of complex scientific concepts. We use an edge-conditioned graph attention network to encode the knowledge-enriched AMR graph for biomedical IE tasks. Experiments on the GENIA 2011 dataset show that the AMR and external knowledge have contributed 1.8% and 3.0% absolute F-score gains respectively. In order to evaluate the impact of our approach on real-world problems that involve topic-specific fine-grained knowledge elements, we have also created a new ontology and annotated corpus for entity and event extraction for the COVID-19 scientific literature, which can serve as a new benchmark for the biomedical IE community.",
+      "abstract_source": "https://aclanthology.org/2021.acl-long.489/",
+      "abstract_version": "publisher_final_html",
+      "abstract_display_type": "original_licensed",
+      "abstract_display_label": "Original abstract (CC BY 4.0)",
+      "abstract_license": "CC-BY-4.0",
+      "abstract_license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "abstract_permission_status": "cleared",
+      "abstract_permission_checked_at": "2026-10-24",
+      "abstract_attribution": "Zixuan Zhang, Nikolaus Parulian, Heng Ji, Ahmed S. Elsayed, Skatje Myers, Martha Palmer. Fine-grained Information Extraction from Biomedical Literature based on Knowledge-enriched Abstract Meaning Representation. Proceedings of ACL-IJCNLP 2021, Volume 1: Long Papers, pages 6261–6270. ©2021 Association for Computational Linguistics. Original publication: https://aclanthology.org/2021.acl-long.489/. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+      "abstract_changes": "Complete existing official HTML abstract preserved byte-for-byte; PDF typography and separately printed footnote disclosed.",
+      "abstract_permission_evidence": {
+        "source_url": "https://aclanthology.org/faq/copyright/",
+        "supporting_sources": [
+          "https://aclanthology.org/2021.acl-long.489/",
+          "https://aclanthology.org/2021.acl-long.489.pdf"
+        ],
+        "basis": "The official ACL Anthology copyright policy explicitly applies CC BY 4.0 to subsequent ACL materials as of 2016, including commercial use, excluding third-party materials. This exact ACL-IJCNLP 2021 Main article is bound by its official HTML PDF link and final first-page author/proceedings/copyright evidence. The intact first page with authored aggregate Table 1 and complete Figure 2 methodological schematic are assessed separately. This does not license GENIA or ACE corpus texts, source scientific articles, CTD knowledge-base contents, Biomedical AMR data, BERT resources, software or unselected components.",
+        "policy_html_sha256": "75915e7752b73e8fc760f60bc11081c0bcb37fa6345d6037478eeecd2eba2454",
+        "publication_html_sha256": "393b75dc74a49689f475ca2646d6909648aafb92ab72a6d23aef6a0c94df554d",
+        "source_pdf_sha256": "e3e0c0b90f422585c3c8ef1a115313f5adf1acbd3a88e0ba044b52080cf7eda6",
+        "official_html_has_abstract_body": true,
+        "abstract_matches_html_exactly": true
+      },
+      "abstract_sha256": "b49c891f322afcad600808a776814a75c01fc0070c0bf887b420935b0677105d",
+      "abstract_source_pdf_sha256": "e3e0c0b90f422585c3c8ef1a115313f5adf1acbd3a88e0ba044b52080cf7eda6",
+      "abstract_verified_against_pdf": true,
+      "abstract_pdf_comparison": {
+        "same_after_typographic_normalization_and_footnote_separation": true,
+        "substantive_wording_equal_after_disclosed_variant_normalization": true,
+        "baseline_body_byte_identical": true,
+        "exact_official_html_body_match": true,
+        "normalization": "NFKC expands ligatures; line-wrap hyphens are removed except semantic non-trivial and knowledge-enriched hyphens; whitespace is collapsed; terminal footnote marker 1 is separated. The resulting complete PDF body equals unchanged HTML including terminal period.",
+        "pdf_bbox_points": [
+          87,
+          246,
+          276,
+          653
+        ],
+        "comparison_note": "The complete already licensed official HTML abstract remains byte-identical to the baseline. The final PDF body matches after NFKC ligature expansion, disclosed line-wrap normalization preserving the semantic hyphens in non-trivial and knowledge-enriched, and separation of terminal footnote marker 1. PDF footnote 1 links the authors’ public data/code repository and is retained separately; it is absent from the HTML body. No substantive abstract wording difference is established. Comparison normalization never rewrites the stored original.",
+        "official_html_has_abstract_body": true,
+        "disclosed_variants": [
+          "PDF line wrapping and typographic ligatures; no substantive abstract wording difference.",
+          "PDF ends with footnote marker 1 and data/code URL footnote absent from HTML body; source footnote preserved separately."
+        ]
+      },
+      "abstract_footnotes": [
+        {
+          "marker": "1",
+          "text": "Data and source code are publicly available at https://github.com/zhangzx-uiuc/Knowledge-AMR.",
+          "url": "https://github.com/zhangzx-uiuc/Knowledge-AMR",
+          "source_url": "https://aclanthology.org/2021.acl-long.489.pdf",
+          "source_page": 1,
+          "source_note": "Original PDF abstract footnote, not part of the unchanged official HTML abstract body. Repository link is reported as printed; code/data license not independently cleared."
+        },
+        {
+          "marker": "Catalogue reuse notice",
+          "text": "Catalogue-added notice, not part of the original abstract: Zixuan Zhang, Nikolaus Parulian, Heng Ji, Ahmed S. Elsayed, Skatje Myers, Martha Palmer. Fine-grained Information Extraction from Biomedical Literature based on Knowledge-enriched Abstract Meaning Representation. Proceedings of ACL-IJCNLP 2021, Volume 1: Long Papers, pages 6261–6270. ©2021 Association for Computational Linguistics. Original publication: https://aclanthology.org/2021.acl-long.489/. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Complete official HTML abstract, baseline bytes unchanged. No endorsement implied.",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "source_url": "https://aclanthology.org/2021.acl-long.489/"
+        }
+      ],
+      "source_html_sha256": "393b75dc74a49689f475ca2646d6909648aafb92ab72a6d23aef6a0c94df554d",
+      "source_pdf_sha256": "e3e0c0b90f422585c3c8ef1a115313f5adf1acbd3a88e0ba044b52080cf7eda6",
+      "source_checked_at": "2026-10-24",
+      "first_page": "assets/acl-reviewed-20261024-0040/2021.acl-long.489-firstpage.webp",
+      "first_page_source": "https://aclanthology.org/2021.acl-long.489.pdf",
+      "first_page_license": "CC-BY-4.0",
+      "first_page_license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "first_page_permission_status": "cleared",
+      "first_page_attribution": "Zixuan Zhang, Nikolaus Parulian, Heng Ji, Ahmed S. Elsayed, Skatje Myers, Martha Palmer. Fine-grained Information Extraction from Biomedical Literature based on Knowledge-enriched Abstract Meaning Representation. Proceedings of ACL-IJCNLP 2021, Volume 1: Long Papers, pages 6261–6270. ©2021 Association for Computational Linguistics. Original publication: https://aclanthology.org/2021.acl-long.489/. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+      "first_page_changes": "Entire official PDF first page rasterized at 144 dpi to lossless WebP. Retains all six authors, both numbered affiliation units, original contact block, complete abstract and footnote, introduction, complete aggregate Table 1 and caption, and proceedings/copyright footer. No content removed.",
+      "first_page_sha256": "b3310798d8de60063d7563c78ef2a51811c3ac27cfa72046204c0825b9c16142",
+      "first_page_dimensions": [
+        1191,
+        1684
+      ],
+      "main_figure": {
+        "path": "assets/acl-reviewed-20261024-0040/2021.acl-long.489-figure2.webp",
+        "label": "Figure 2",
+        "type": "figure",
+        "source_url": "https://aclanthology.org/2021.acl-long.489.pdf",
+        "publication_url": "https://aclanthology.org/2021.acl-long.489/",
+        "page": 4,
+        "version": "publisher_final_pdf",
+        "source_pdf_sha256": "e3e0c0b90f422585c3c8ef1a115313f5adf1acbd3a88e0ba044b52080cf7eda6",
+        "asset_sha256": "1962ae4545081e07fb58eb42deeca43cf1561ea80f584c81316b633c5d240f8f",
+        "crop_rect_points": [
+          71,
+          64,
+          528,
+          279
+        ],
+        "selection_rationale": "Complete Figure 2 most directly explains the joint mechanism: external biomedical KG construction and lookup, sentence AMR, knowledge enrichment, span identification, edge-conditioned message passing and final IE output. All pipeline modules, arrows, graphs, illustrative tokens and the full caption remain. Figure 1 is a partial graph for one GENIA example, not the complete pipeline. Table 3 is the strongest complementary quantitative comparison and retains the small 63.04 versus 63.02 F1 margin; choosing architecture does not replace or hide those results, which are reported visibly. Tables 1–2 provide motivation and corpus statistics; Table 4 isolates a different no-gold-entity development setting; Tables 5–6 describe the COVID-19 trigger/entity study and ontology; Table 7 provides two qualitative corpus examples; Table 8 records hyperparameters. All alternatives were visually inspected. Selection is based on contribution coverage, not solely licensing convenience. Only this new exact crop and intact first page are cleared; old assets/HOLDs remain unchanged.",
+        "caption": "Figure 2: Overview of our proposed framework for biomedical information extraction.",
+        "display_caption": "Figure 2: Overview of our proposed framework for biomedical information extraction.",
+        "caption_in_image": true,
+        "license": "CC-BY-4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "permission_status": "cleared",
+        "attribution": "Zixuan Zhang, Nikolaus Parulian, Heng Ji, Ahmed S. Elsayed, Skatje Myers, Martha Palmer. Fine-grained Information Extraction from Biomedical Literature based on Knowledge-enriched Abstract Meaning Representation. Proceedings of ACL-IJCNLP 2021, Volume 1: Long Papers, pages 6261–6270. ©2021 Association for Computational Linguistics. Original publication: https://aclanthology.org/2021.acl-long.489/. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+        "changes": "Complete Figure 2 with every pipeline module, graph, arrow, label, GENIA-derived illustrative token/fragment and full caption cropped from physical PDF page 4 and rasterized at 288 dpi to lossless WebP. Only unrelated surrounding material excluded.",
+        "visually_inspected": true
+      },
+      "main_figure_permission_status": "cleared",
+      "main_figure_status": "core_contribution_figure_visually_inspected",
+      "figure_selection_verified": true,
+      "media_rights_review": {
+        "first_page": {
+          "status": "cleared",
+          "asset_path": "assets/acl-reviewed-20261024-0040/2021.acl-long.489-firstpage.webp",
+          "asset_sha256": "b3310798d8de60063d7563c78ef2a51811c3ac27cfa72046204c0825b9c16142",
+          "source_url": "https://aclanthology.org/2021.acl-long.489.pdf",
+          "source_pdf_sha256": "e3e0c0b90f422585c3c8ef1a115313f5adf1acbd3a88e0ba044b52080cf7eda6",
+          "source_page": 1,
+          "publication_url": "https://aclanthology.org/2021.acl-long.489/",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "attribution": "Zixuan Zhang, Nikolaus Parulian, Heng Ji, Ahmed S. Elsayed, Skatje Myers, Martha Palmer. Fine-grained Information Extraction from Biomedical Literature based on Knowledge-enriched Abstract Meaning Representation. Proceedings of ACL-IJCNLP 2021, Volume 1: Long Papers, pages 6261–6270. ©2021 Association for Computational Linguistics. Original publication: https://aclanthology.org/2021.acl-long.489/. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+          "changes": "Entire official PDF first page rasterized at 144 dpi to lossless WebP. Retains all six authors, both numbered affiliation units, original contact block, complete abstract and footnote, introduction, complete aggregate Table 1 and caption, and proceedings/copyright footer. No content removed.",
+          "evidence_url": "https://aclanthology.org/faq/copyright/",
+          "scope": "exact_first_page",
+          "embedded_materials_review": "The genuine complete first-page raster was visually inspected. It contains the title, all six printed authors, both numbered affiliation units, original contact block, complete abstract with footnote 1, introduction, complete Table 1 with its caption, page 6261 and proceedings/copyright footer. It is NOT text-only: Table 1 is an authored aggregate comparison of event–argument distances for ACE05-E and GENIA-2011, reporting numerical results and dataset names without corpus sentences or clinical imagery. No externally credited art, individual clinical record, reproduced scientific passage or contrary component-specific notice is established on this page. The intact publication page is not sanitized, reconstructed or replaced. Article-grant assessment covers its authored composition and aggregate table, not underlying corpus text or data rights.",
+          "reviewed_at": "2026-10-24",
+          "evidence_basis": "The official ACL Anthology copyright policy explicitly applies CC BY 4.0 to subsequent ACL materials as of 2016, including commercial use, excluding third-party materials. This exact ACL-IJCNLP 2021 Main article is bound by its official HTML PDF link and final first-page author/proceedings/copyright evidence. The intact first page with authored aggregate Table 1 and complete Figure 2 methodological schematic are assessed separately. This does not license GENIA or ACE corpus texts, source scientific articles, CTD knowledge-base contents, Biomedical AMR data, BERT resources, software or unselected components.",
+          "evidence_urls": [
+            "https://aclanthology.org/2021.acl-long.489/",
+            "https://aclanthology.org/2021.acl-long.489.pdf",
+            "https://aclanthology.org/faq/copyright/",
+            "https://creativecommons.org/licenses/by/4.0/"
+          ]
+        },
+        "main_figure": {
+          "status": "cleared",
+          "asset_path": "assets/acl-reviewed-20261024-0040/2021.acl-long.489-figure2.webp",
+          "asset_sha256": "1962ae4545081e07fb58eb42deeca43cf1561ea80f584c81316b633c5d240f8f",
+          "source_url": "https://aclanthology.org/2021.acl-long.489.pdf",
+          "source_pdf_sha256": "e3e0c0b90f422585c3c8ef1a115313f5adf1acbd3a88e0ba044b52080cf7eda6",
+          "source_page": 4,
+          "publication_url": "https://aclanthology.org/2021.acl-long.489/",
+          "license": "CC-BY-4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "attribution": "Zixuan Zhang, Nikolaus Parulian, Heng Ji, Ahmed S. Elsayed, Skatje Myers, Martha Palmer. Fine-grained Information Extraction from Biomedical Literature based on Knowledge-enriched Abstract Meaning Representation. Proceedings of ACL-IJCNLP 2021, Volume 1: Long Papers, pages 6261–6270. ©2021 Association for Computational Linguistics. Original publication: https://aclanthology.org/2021.acl-long.489/. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).",
+          "changes": "Complete Figure 2 with every pipeline module, graph, arrow, label, GENIA-derived illustrative token/fragment and full caption cropped from physical PDF page 4 and rasterized at 288 dpi to lossless WebP. Only unrelated surrounding material excluded.",
+          "evidence_url": "https://aclanthology.org/faq/copyright/",
+          "scope": "exact_main_figure",
+          "embedded_materials_review": "Complete Figure 2 is the article-specific authored methodological pipeline: corpus and external KB, entity linking to global KG, sentence KG lookup, AMR parsing, graph fusion, BERT embeddings and node identification, message passing and IE results. Its isolated CTF, OTF-1 and OFT-2 labels and brief predicate fragments were/strongly/induced/no/significant/changes come from the GENIA example in Figure 1; synthetic origin is not asserted. In this integrated schematic they identify model inputs, nodes and outputs rather than reproduce the complete external scientific sentence. No externally credited artwork, patient record, database definition or contrary component notice is established. Scoped coverage is based on this authored analytical schematic and its article context, not a blanket short-quotation exemption, standalone-expression permission or an upstream GENIA/CTD/source-article grant. A separate individual artist identity is not required for the uncredited article-authored pipeline. Full Figure 1 and Table 7 corpus sentences remain outside this assessment. Printed OFT-2 spelling and every label are retained exactly.",
+          "reviewed_at": "2026-10-24",
+          "evidence_basis": "The official ACL Anthology copyright policy explicitly applies CC BY 4.0 to subsequent ACL materials as of 2016, including commercial use, excluding third-party materials. This exact ACL-IJCNLP 2021 Main article is bound by its official HTML PDF link and final first-page author/proceedings/copyright evidence. The intact first page with authored aggregate Table 1 and complete Figure 2 methodological schematic are assessed separately. This does not license GENIA or ACE corpus texts, source scientific articles, CTD knowledge-base contents, Biomedical AMR data, BERT resources, software or unselected components.",
+          "evidence_urls": [
+            "https://aclanthology.org/2021.acl-long.489/",
+            "https://aclanthology.org/2021.acl-long.489.pdf",
+            "https://aclanthology.org/faq/copyright/",
+            "https://creativecommons.org/licenses/by/4.0/"
+          ]
+        }
+      },
+      "historical_component_evidence": [
+        {
+          "id": "2021.acl-long.489",
+          "baseline_source_commit": "8e2016b4a600569919c3e25f23f9e0b06c81bd59",
+          "baseline_record_sha256": "19e94ff6fce77b1041e085bae877454c818be6478a79312a0f51d580d4fbe317",
+          "prior_record_fields": {
+            "first_page": "assets/acl2021/2021.acl-long.489-firstpage.webp",
+            "main_figure": {
+              "source_url": "https://aclanthology.org/2021.acl-long.489.pdf",
+              "page": 4,
+              "status": "verified_official_pdf_crop_visually_inspected",
+              "label": "Figure 2",
+              "selection_rationale": "Shows sentence-level knowledge graph and AMR fusion for biomedical entity and event extraction.",
+              "display_caption": "Figure 2 (page 4).",
+              "path": "assets/acl2021/2021.acl-long.489-mainfigure.webp",
+              "license": "CC-BY-4.0",
+              "license_url": "https://creativecommons.org/licenses/by/4.0/",
+              "changes": "Cropped and resized from the original PDF."
+            },
+            "media_display_permissions": {
+              "first_page": {
+                "status": "hold",
+                "reason": "scoped_positive_review_missing",
+                "asset_path": "assets/acl2021/2021.acl-long.489-firstpage.webp",
+                "asset_sha256": "9c1af97b626b0cbace3e716543be668680029660a93c58b88d0c85ca8330ea73"
+              },
+              "main_figure": {
+                "status": "hold",
+                "reason": "source_or_attribution_missing",
+                "asset_path": "assets/acl2021/2021.acl-long.489-mainfigure.webp",
+                "asset_sha256": "158addc8aedca36ea0752d639089fd7c088927d58ae343074a2ddbd2618287b5"
+              }
+            },
+            "metadata_ready": false
+          },
+          "actual_baseline_guard_decisions": {
+            "first_page": {
+              "status": "hold",
+              "reason": "scoped_positive_review_missing",
+              "asset_path": "assets/acl2021/2021.acl-long.489-firstpage.webp",
+              "asset_sha256": "9c1af97b626b0cbace3e716543be668680029660a93c58b88d0c85ca8330ea73"
+            },
+            "main_figure": {
+              "status": "hold",
+              "reason": "source_or_attribution_missing",
+              "asset_path": "assets/acl2021/2021.acl-long.489-mainfigure.webp",
+              "asset_sha256": "158addc8aedca36ea0752d639089fd7c088927d58ae343074a2ddbd2618287b5"
+            }
+          },
+          "earlier_specific_finding": "Historical first-page scoped_positive_review_missing and old Figure 2 source_or_attribution_missing decisions are preserved verbatim; no contrary notice is invented.",
+          "current_unselected_component_finding": "Only the newly rendered full first page and new complete Figure 2 crop receive exact component assessment. Historical Figure 2 remains HOLD despite depicting the same figure; bytes and paths differ. Figure 1 and Table 7 contain complete scientific corpus sentences and are outside the present clearance, without inventing a contrary notice.",
+          "preservation": "Both exact old files, hashes and decisions stay unchanged; new first page and Figure 2 use distinct paths and bytes."
+        }
+      ],
+      "illustrated_profile": true,
+      "metadata_ready": true,
+      "core_complete": true,
+      "profile_status": "Recovery-only complete source-bound original abstract, genuine full first page with Table 1, complete Figure 2, exact printed authors and numbered units; historical files/HOLDs preserved. Not integrated, saved or published.",
+      "profile_verified_at": "2026-10-24",
+      "metadata_blockers": [],
+      "profile_caveats": [
+        "本条为既有 ACL-IJCNLP 2021 Main 长文的恢复性资料补全。研究方法、GENIA 实验和新建 COVID-19 文献集均以生物医学信息抽取为核心，不是通用方法附带一个医学基准；不新增论文、摘要阅读、全文阅读或摘要授权计数。",
+        "作者与单位：The PDF prints Zixuan Zhang, Nikolaus Parulian, Heng Ji, Ahmed S. Elsayed, Skatje Myers, Martha Palmer in this order. Official HTML and baseline omit the middle initial in Ahmed Elsayed; the visible byline uses the exact printed PDF form and separately preserves the HTML variant. The first three authors carry affiliation marker 1, University of Illinois at Urbana-Champaign; the last three carry marker 2, University of Colorado Boulder. No equal-contribution, co-first, corresponding-author or senior-author designation is printed. Contact addresses do not establish those roles.",
+        "原文摘要：The complete already licensed official HTML abstract remains byte-identical to the baseline. The final PDF body matches after NFKC ligature expansion, disclosed line-wrap normalization preserving the semantic hyphens in non-trivial and knowledge-enriched, and separation of terminal footnote marker 1. PDF footnote 1 links the authors’ public data/code repository and is retained separately; it is absent from the HTML body. No substantive abstract wording difference is established. Comparison normalization never rewrites the stored original.",
+        "方法依赖：从 Comparative Toxicogenomics Database（论文简称 CTDB）构建含 39,436 个节点、590,235 条边的全局 KG；SciSpacy 识别并链接句中实体，Biomedical AMR 语料预训练的 transformer 解析器提供语义图。融合保留多重边，KG 使用 TransE 向量，实体/触发词表示来自 BioBERT，边条件 GAT 同时使用节点与边特征。这里不把基础数据库中的关系表述当作经过本研究验证的临床因果结论。",
+        "知识图与复现边界：论文称全局 KG 覆盖语料中的全部实体，但未明确报告按训练/开发/测试隔离的图构建方案、外部知识快照日期或实体链接误差评测；不能据此断言已发生数据泄漏，也不能宣称已验证无泄漏。最小连通子图的线性时间描述是论文主张，不是本资料对一般最小连接问题的算法证明。",
+        "GENIA 2011：表 2 的训练/开发/测试分别为 908/259/231 篇文档、8,620/2,846/3,348 个句子、11,625/4,690/5,301 个蛋白提及和 10,310/3,250/4,487 个事件。论文只处理 Protein、9 类核心事件、2 类论元，并保留同句内约 94% 的事件/论元；跨句事件和更新的 GENIA 2013 本体/训练数据不在该评测范围。文档数和标签数都不是患者样本量。",
+        "主要测试结果：表 3 的 BERT-Flat、BERT-AMR、BERT-AMR-KG F1 为 58.25、60.09、63.04。连续增益为 1.84、2.95 个百分点，总增益 4.79；摘要的 1.8%、3.0% 是绝对 F-score 增益的四舍五入，不是相对百分比。完整模型精确率/召回率为 72.74/55.62，DeepEM 为 71.71/56.20、F1 63.02；F1 优势仅 0.02 个百分点且召回率更低，不能表述成对所有强基线的大幅提升或当前最佳结果。",
+        "评测设置不得混用：表 3 给出官方 GENIA 在线测试评测；第 2.4 节描述使用金标准实体的诊断设置，但表 3 本身未直接标明其实体输入条件，不能把上下文推断当作明示事实。表 4 明确为无 gold-standard entities 的开发集评测，完整模型/BEESL 为 60.16/59.51 F1，相差 0.65 个百分点；它不是同设置的测试集无金标准实体结果。两表的划分与输入条件不得混用，主测试结果不能宣传为已验证的端到端无人工实体部署表现。",
+        "不确定性：表 3–5 未给出置信区间、随机种子重复实验方差或明确的显著性检验。正文使用 significantly 并不证明统计显著；尤其 0.02 F1 点的领先不能据此判定稳健优越。表 7 只有两例定性分析，不是总体错误率或因果机制验证。",
+        "COVID-19 文献集：186 篇 PubMed/PMC 全文、12,916 个句子由三名有经验的生物医学专家标注；两两 Cohen’s kappa 为 0.79、0.84、0.74。论文未列训练/开发/测试划分规模、文档级去重/隔离细节或标签级一致性。表 5 的实体/事件/整体 F1 为 83.60/72.37/78.05，但实验明确移除了两类论元角色分类器；这里的事件分数仅针对触发词标签，不等于完整嵌套事件抽取、COVID-19 诊断或患者疗效。该表没有基线或逐模块消融对照。",
+        "本体数量存在源内不一致：第 3 页贡献列表称 25 类实体、14 类事件；表 6 标题却称 24 类实体、15 类事件。实际可见表格有 25 行实体和 14 行事件，其中 BiologicalProcess 在事件列出现两次，所以事件列只有 13 个不同的可见标签字符串。全部版本均保留；未找到作者解释，不能自行合并重复标签、修正数量或假定版本差异。",
+        "实现参数存在源内不一致：正文和附录文字都给非 BERT 参数学习率 5e-3，附录表 8 却给 1e-3；BERT 学习率均为 1e-5。模型报告两层 GAT、600 维 KG 向量、节点/边维数 2048/256、80 个训练 epoch，按开发集最优 F1 选 checkpoint。未重跑代码来解决学习率冲突；最大实体/触发词跨度 K 的具体数值在该表未给出。",
+        "剩余局限：非动词触发词样本稀少、词前缀/分词诱导的错误、AMR 解析和实体链接误差，以及外部知识覆盖仍会影响结果。跨句共指、图表多模态信息和更丰富外部知识在结论中属于未来工作。没有前瞻临床验证、诊疗决策、安全性、公平性或患者结局研究。",
+        "图像与权利范围：真实完整首页含作者自制的聚合表 1，不能称为纯文字首页。完整图 2 的短标签/片段源于 GENIA 例句，不能称为合成文本；其许可评估限于整幅作者方法示意图，不授予 GENIA/ACE/CTD/AMR、原始科学文献或软件的权利，也不清除图 1、表 7 或旧文件的 HOLD。原始联系邮箱像素留在完整首页，公开文字证据不另转录。"
+      ],
+      "new_paper_credit": 0,
+      "new_abstract_read_credit": 0,
+      "new_full_paper_read_credit": 0,
+      "newly_licensed_abstract_credit": 0
+    },
+    "unset": [
+      "media_display_permissions"
+    ]
+  }
+]
