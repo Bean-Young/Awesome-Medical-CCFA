@@ -1,0 +1,77 @@
+[
+  {
+    "id": "2021.acl-long.489",
+    "expected_baseline_record_sha256": "19e94ff6fce77b1041e085bae877454c818be6478a79312a0f51d580d4fbe317",
+    "before": {
+      "first_page": {
+        "status": "hold",
+        "reason": "scoped_positive_review_missing",
+        "asset_path": "assets/acl2021/2021.acl-long.489-firstpage.webp",
+        "asset_sha256": "9c1af97b626b0cbace3e716543be668680029660a93c58b88d0c85ca8330ea73"
+      },
+      "main_figure": {
+        "status": "hold",
+        "reason": "source_or_attribution_missing",
+        "asset_path": "assets/acl2021/2021.acl-long.489-mainfigure.webp",
+        "asset_sha256": "158addc8aedca36ea0752d639089fd7c088927d58ae343074a2ddbd2618287b5"
+      }
+    },
+    "after": {
+      "first_page": {
+        "status": "cleared",
+        "reason": "exact_asset_review",
+        "asset_path": "assets/acl-reviewed-20261024-0040/2021.acl-long.489-firstpage.webp",
+        "asset_sha256": "b3310798d8de60063d7563c78ef2a51811c3ac27cfa72046204c0825b9c16142"
+      },
+      "main_figure": {
+        "status": "cleared",
+        "reason": "exact_asset_review",
+        "asset_path": "assets/acl-reviewed-20261024-0040/2021.acl-long.489-figure2.webp",
+        "asset_sha256": "1962ae4545081e07fb58eb42deeca43cf1561ea80f584c81316b633c5d240f8f"
+      }
+    },
+    "core_before": false,
+    "core_after": true,
+    "licensed_original_abstract_increment": 0,
+    "abstract_original_body_identical_to_baseline": true,
+    "original_abstract_authority": "official_html",
+    "official_html_abstract_available": true,
+    "abstract_pdf_comparison": {
+      "same_after_typographic_normalization_and_footnote_separation": true,
+      "substantive_wording_equal_after_disclosed_variant_normalization": true,
+      "baseline_body_byte_identical": true,
+      "exact_official_html_body_match": true,
+      "normalization": "NFKC expands ligatures; line-wrap hyphens are removed except semantic non-trivial and knowledge-enriched hyphens; whitespace is collapsed; terminal footnote marker 1 is separated. The resulting complete PDF body equals unchanged HTML including terminal period.",
+      "pdf_bbox_points": [
+        87,
+        246,
+        276,
+        653
+      ],
+      "comparison_note": "The complete already licensed official HTML abstract remains byte-identical to the baseline. The final PDF body matches after NFKC ligature expansion, disclosed line-wrap normalization preserving the semantic hyphens in non-trivial and knowledge-enriched, and separation of terminal footnote marker 1. PDF footnote 1 links the authors’ public data/code repository and is retained separately; it is absent from the HTML body. No substantive abstract wording difference is established. Comparison normalization never rewrites the stored original.",
+      "official_html_has_abstract_body": true,
+      "disclosed_variants": [
+        "PDF line wrapping and typographic ligatures; no substantive abstract wording difference.",
+        "PDF ends with footnote marker 1 and data/code URL footnote absent from HTML body; source footnote preserved separately."
+      ]
+    },
+    "abstract_sha256": "b49c891f322afcad600808a776814a75c01fc0070c0bf887b420935b0677105d",
+    "visible_introduction_field": "summary",
+    "visible_introduction": "本文针对生物医学文献中长距离事件论元与领域知识缺口，将句子 AMR 语义图和来自 Comparative Toxicogenomics Database 的知识图融合，再用 BioBERT 表示与边条件图注意力网络抽取实体、触发词及事件论元。完整图 2 展示知识检索、图融合和信息传递的全流程。在 GENIA 2011 主测试比较中，BERT-Flat、BERT-AMR 与完整模型的 F1 分别为 58.25、60.09、63.04，即加入 AMR 和外部知识分别增加 1.84、2.95 个百分点；完整模型仅比 DeepEM 的 63.02 高 0.02 个百分点。另建的 COVID-19 文献集来自 186 篇文章、12,916 个句子，但该实验只评测实体和事件触发词，不包含论元角色。证据来自文献抽取基准，不证明临床诊疗收益。",
+    "visible_abstract_notice_label": "Catalogue reuse notice",
+    "merged_patch_sha256": "f32eb2f2f0576a8ea35982247061f988fd86b88145b9a3067752817fd7c5bfd0",
+    "actual_detail_renderer_validation": {
+      "id": "2021.acl-long.489",
+      "actual_detail_function_executed": true,
+      "dom_dialog_opened": true,
+      "summary_rendered_exactly": true,
+      "complete_original_abstract_rendered_exactly": true,
+      "reuse_notice_rendered_separately": true,
+      "all_profile_caveats_rendered": true,
+      "source_bound_first_page_and_figure_paths_present": true,
+      "rendered_detail_sha256": "c9b660190f5656ccf105504d72e2efda302b2d4e450debf4c81494e1f61c86a6",
+      "test_scope": "Unmodified actual detail() and abstractFootnotes() functions executed with a minimal DOM harness; unrelated resource-link and media-credit helpers mocked. Media permissions validated separately by the unchanged production guard."
+    },
+    "app_js_sha256": "03d88239216891ec772362a2f17301d0e02f06311b4b853192834c953cc5f6a6"
+  }
+]
