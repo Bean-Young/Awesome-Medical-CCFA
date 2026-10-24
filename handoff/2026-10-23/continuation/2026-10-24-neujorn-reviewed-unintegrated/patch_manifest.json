@@ -1,0 +1,272 @@
+{
+  "prepared_at": "2026-10-24T00:38:46.312287+00:00",
+  "review_type": "One existing primary-biomedical ACL 2021 Main profile with newly rendered replacement assets",
+  "source_version": "v335",
+  "source_commit": "8e2016b4a600569919c3e25f23f9e0b06c81bd59",
+  "source_data_sha256": "1bd9fb502b617ee02fdc5ea06d1f1d6364571efad5fc3a5e9a22c242f23e77ed",
+  "source_record_count": 2008,
+  "unchanged_media_guard_sha256": "cc8c83fdee66c7e00059e7e22323e51ed3c13234bd7363649b9d1f19f21ce0b0",
+  "source_baseline_core_ready": 999,
+  "source_baseline_abstracts": 1521,
+  "patch_count": 1,
+  "patch_ids": [
+    "2021.acl-long.219"
+  ],
+  "new_source_derived_media_assets_prepared": 2,
+  "existing_asset_files_newly_cleared": 0,
+  "original_abstracts_restored_in_isolated_validation": 0,
+  "existing_profiles_newly_core_ready_in_isolated_validation": 1,
+  "independent_review_status": "Pending exact final union review in this immutable prepared wrapper. Final approval is recorded separately without changing reviewed bytes.",
+  "subset_bindings": {
+    "transition": "8391c249acfa7757d6e3c44e95ce7501e400a481113060d818bd64b3db15cb47"
+  },
+  "merged_patch_sha256": "8391c249acfa7757d6e3c44e95ce7501e400a481113060d818bd64b3db15cb47",
+  "canonical_record_hash_algorithm": "SHA256 of UTF-8 json.dumps(record, ensure_ascii=False, sort_keys=True, separators=(comma, colon)); complete baseline record.",
+  "canonical_preimage_count": 1,
+  "canonical_preimages_private_artifact_sha256": "466131a518f2bba905d9106c93debfa64416b371844601c5e399e251d78432c4",
+  "allowed_fields_by_record": {
+    "2021.acl-long.219": {
+      "set": [
+        "dataset_statistics_evidence",
+        "authors",
+        "authors_verified",
+        "authors_status",
+        "authors_pdf",
+        "authors_official_html",
+        "authors_source",
+        "authors_source_page",
+        "authors_source_sha256",
+        "first_author",
+        "first_institution",
+        "first_institution_display",
+        "first_institution_display_basis",
+        "first_institution_raw",
+        "first_institution_verified",
+        "first_institution_source",
+        "first_institution_evidence",
+        "first_author_affiliation_as_printed",
+        "affiliations",
+        "author_affiliations",
+        "affiliations_status",
+        "affiliations_source",
+        "affiliations_evidence",
+        "equal_contribution_authors",
+        "co_first_authors",
+        "corresponding_authors",
+        "authors_equal_contribution",
+        "senior_authorship_authors",
+        "author_order_evidence",
+        "co_first_author_evidence",
+        "summary",
+        "summary_zh",
+        "summary_en",
+        "summary_language",
+        "introduction_zh",
+        "contribution_introduction_zh",
+        "summary_source",
+        "summary_zh_source",
+        "summary_method",
+        "abstract",
+        "abstract_source",
+        "abstract_version",
+        "abstract_display_type",
+        "abstract_display_label",
+        "abstract_license",
+        "abstract_license_url",
+        "abstract_permission_status",
+        "abstract_permission_checked_at",
+        "abstract_attribution",
+        "abstract_changes",
+        "abstract_permission_evidence",
+        "abstract_sha256",
+        "abstract_source_pdf_sha256",
+        "abstract_verified_against_pdf",
+        "abstract_pdf_comparison",
+        "abstract_footnotes",
+        "source_html_sha256",
+        "source_pdf_sha256",
+        "source_checked_at",
+        "first_page",
+        "first_page_source",
+        "first_page_license",
+        "first_page_license_url",
+        "first_page_permission_status",
+        "first_page_attribution",
+        "first_page_changes",
+        "first_page_sha256",
+        "first_page_dimensions",
+        "main_figure",
+        "main_figure_permission_status",
+        "main_figure_status",
+        "figure_selection_verified",
+        "media_rights_review",
+        "historical_component_evidence",
+        "illustrated_profile",
+        "metadata_ready",
+        "core_complete",
+        "profile_status",
+        "profile_verified_at",
+        "metadata_blockers",
+        "profile_caveats",
+        "new_paper_credit",
+        "new_abstract_read_credit",
+        "new_full_paper_read_credit",
+        "newly_licensed_abstract_credit"
+      ],
+      "unset": [
+        "media_display_permissions"
+      ]
+    }
+  },
+  "allowed_assets_by_record": {
+    "2021.acl-long.219": [
+      {
+        "asset_path": "assets/acl-reviewed-20261024-0031/2021.acl-long.219-firstpage.webp",
+        "sha256": "3edca8004d0243522d6872daba334c3e209810023f10b6e06344fb7060d55038"
+      },
+      {
+        "asset_path": "assets/acl-reviewed-20261024-0031/2021.acl-long.219-figure1.webp",
+        "sha256": "1290131ef3bf32ffaa1ac6f39b78aa8c40214bee8b82e762a7c269a91779ff8c"
+      }
+    ]
+  },
+  "expected_isolated_catalogue_counts": {
+    "papers": 2008,
+    "core_ready": 1000,
+    "licensed_original_abstracts": 1521
+  },
+  "payload_projection": {
+    "baseline_source_version": "v335",
+    "baseline_source_commit": "8e2016b4a600569919c3e25f23f9e0b06c81bd59",
+    "baseline_raw_bytes": 33525875,
+    "baseline_gzip9_mtime0_bytes": 5585480,
+    "projected_raw_bytes": 33560900,
+    "projected_gzip9_mtime0_bytes": 5592386,
+    "projected_papers_sha256": "af0874565b4c8d57263ad265453435d3751ad8728d130e2a1a0954cbdc5bb8ff",
+    "projected_gzip_sha256": "51f1ac87b66f370dbc7dffdbbf9ceed00c35bf44eae00095295035d07d6d8f4d",
+    "raw_byte_growth": 35025,
+    "raw_cap_bytes": 33554432,
+    "remaining_raw_headroom_bytes": -6468,
+    "integration_eligible_under_raw_cap": false,
+    "expected_counts": {
+      "papers": 2008,
+      "core_ready": 1000,
+      "licensed_original_abstracts": 1521
+    },
+    "new_source_derived_asset_files": 2,
+    "existing_files_newly_cleared": 0,
+    "licensed_abstract_increment": 0,
+    "serializer": "UTF-8 compact json.dumps ensure_ascii=False separators comma/colon plus final newline; unchanged guard recomputed for patched records only."
+  },
+  "integration_status": "blocked_by_unchanged_raw_cap",
+  "saved_site_version_created": false,
+  "whole_catalogue_totals_claimed": false,
+  "source_written": false,
+  "source_data_sha256_after": "1bd9fb502b617ee02fdc5ea06d1f1d6364571efad5fc3a5e9a22c242f23e77ed",
+  "existing_assets_changed": false,
+  "github_written": false,
+  "published": false,
+  "publication_authorization": "Explicitly blocked; no deployment or alternate route permitted.",
+  "new_paper_credit": 0,
+  "new_abstract_read_credit": 0,
+  "new_full_paper_scientific_read_credit": 0,
+  "source_raw_files_in_public_audit": false,
+  "public_audit_allowlist": [
+    "reviewed_migration_patches.json",
+    "patch_manifest.json",
+    "sanitized_evidence.json",
+    "guard_validation.json",
+    "README.md"
+  ],
+  "asset_delivery_manifest": [
+    {
+      "id": "2021.acl-long.219",
+      "component": "first_page",
+      "asset_path": "assets/acl-reviewed-20261024-0031/2021.acl-long.219-firstpage.webp",
+      "sha256": "3edca8004d0243522d6872daba334c3e209810023f10b6e06344fb7060d55038",
+      "bytes": 156984,
+      "dimensions": [
+        1191,
+        1684
+      ],
+      "source_url": "https://aclanthology.org/2021.acl-long.219.pdf",
+      "source_pdf_sha256": "574fa3c3921c30cfca89b0902bbc7a3e6ea71c5168dd4720fc5e89439d6e28f2",
+      "source_page": 1,
+      "source_page_dimensions_points": [
+        595.2760009765625,
+        841.8900146484375
+      ],
+      "source_page_text_sha256": "c2e0677c86dc2762774a6cdb86024dfb660bfa3019e60c459cfcadb1a68251f2",
+      "crop_rect_points": [
+        0.0,
+        0.0,
+        595.2760009765625,
+        841.8900146484375
+      ],
+      "render_scale": 2,
+      "render_dpi": 144,
+      "renderer": "PyMuPDF 1.26.6",
+      "encoding": "RGB lossless WebP via Pillow 12.3.0, method 6",
+      "decoded_pixels_equal_to_source_render": true,
+      "decoded_pixel_sha256": "9fc8bd12adb818f272015b2bf1ee4b0b93b6a038379d6c84d9edc9997e405b91",
+      "visually_inspected": true,
+      "caption_included": true
+    },
+    {
+      "id": "2021.acl-long.219",
+      "component": "main_figure",
+      "asset_path": "assets/acl-reviewed-20261024-0031/2021.acl-long.219-figure1.webp",
+      "sha256": "1290131ef3bf32ffaa1ac6f39b78aa8c40214bee8b82e762a7c269a91779ff8c",
+      "bytes": 79762,
+      "dimensions": [
+        1824,
+        872
+      ],
+      "source_url": "https://aclanthology.org/2021.acl-long.219.pdf",
+      "source_pdf_sha256": "574fa3c3921c30cfca89b0902bbc7a3e6ea71c5168dd4720fc5e89439d6e28f2",
+      "source_page": 5,
+      "source_page_dimensions_points": [
+        595.2760009765625,
+        841.8900146484375
+      ],
+      "source_page_text_sha256": "1c7d4a6703c87655bebb6431e3b325d7e0a3f5ab8d8b8b463388e6e322033410",
+      "crop_rect_points": [
+        72,
+        64,
+        528,
+        282
+      ],
+      "render_scale": 4,
+      "render_dpi": 288,
+      "renderer": "PyMuPDF 1.26.6",
+      "encoding": "RGB lossless WebP via Pillow 12.3.0, method 6",
+      "decoded_pixels_equal_to_source_render": true,
+      "decoded_pixel_sha256": "0c5914fc1310afdd0cd8d1ed15fddc6e3648ab8f72c604f0cbec54d2b806ffe0",
+      "visually_inspected": true,
+      "caption_included": true
+    }
+  ],
+  "preserved_old_asset_decisions": [
+    {
+      "id": "2021.acl-long.219",
+      "component": "first_page",
+      "old_asset_path": "assets/acl2021/2021.acl-long.219-firstpage.webp",
+      "old_asset_sha256": "a1683e599df9f2ea9f2f463d23fc11d50af2c5eb1dabff12bc9bee5b6d2c27d4",
+      "status": "hold",
+      "reason": "scoped_positive_review_missing",
+      "old_file_unchanged": true,
+      "newly_cleared": false
+    },
+    {
+      "id": "2021.acl-long.219",
+      "component": "main_figure",
+      "old_asset_path": "assets/acl2021/2021.acl-long.219-mainfigure.webp",
+      "old_asset_sha256": "467f40a407a03fa0efc9e1eb4366647b85bba9fa17fc7ab3ccaed5c820996d75",
+      "status": "hold",
+      "reason": "source_or_attribution_missing",
+      "old_file_unchanged": true,
+      "newly_cleared": false
+    }
+  ],
+  "integration_instruction": "Do not integrate an over-cap packet. Preserve the complete reviewed wrapper and exact assets as unsaved recovery material for the project handoff. Do not reduce evidence or alter caps to reach a count. Any later integration requires a separately authorized capacity solution, current-baseline/preimage reconciliation and renewed exact review where bytes change. No deployment is permitted."
+}
