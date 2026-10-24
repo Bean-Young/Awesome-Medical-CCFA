@@ -10,7 +10,7 @@
     "projected_raw_bytes": 33565424,
     "raw_cap_bytes": 33554432,
     "excess_bytes": 10992,
-    "outcome": "Known not executed. No source, save, GitHub or deployment write attempted by this worker.",
+    "outcome": "Known not executed. No source, save, GitHub or deployment write attempted during preparation.",
     "evidence_reduced": false,
     "cap_changed": false
   },
@@ -103,7 +103,7 @@
   "licensed_original_abstract_increment": 0,
   "existing_files_newly_cleared": 0,
   "further_batch_started": false,
-  "public_backup_note": "Neutral public handoff wording replaces internal coordination wording in README and manifest only. Original reviewed hashes remain original identities; public derivative hashes are separate.",
+  "public_backup_note": "Public README and manifest use neutral handoff wording. Original reviewed hashes remain original identities; public derivative hashes are separate.",
   "public_derivative_sha256": {
     "README.md": "c08fcbbda38dc20aed9b7e09004ed9e715400d8b90ed00d6426c54049aca870b",
     "patch_manifest.json": "44de00f21b9c08e564608c445950ea37b09578aeb35066d15c21720ec81696d3"
